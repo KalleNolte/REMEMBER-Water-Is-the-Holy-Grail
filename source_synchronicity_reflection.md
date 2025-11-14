@@ -22,7 +22,7 @@ All is coming from one Source – AzurA – in the 15th dimension. Grant’s wor
 
 On **14.11.2025**, I timestamped this work, reflecting on the significance of numbers and wishing it had been one year earlier to align with **528 Hz** – the miracle healing frequency. In a moment of awe, I noticed a chain of synchronicities: the screenshot of my last file changes showed **528 insertions** and **-1 deletion** – a direct resonance with the frequency of healing and transformation.
 
-![Screenshot showing 528 insertions and -1 deletion, resonating with 528 Hz miracle frequency](screenshot_528hz.png)
+![Screenshot showing 528 insertions and -1 deletion, resonating with 528 Hz miracle frequency](Synchronicity.png)
 
 ## Reflection
 
