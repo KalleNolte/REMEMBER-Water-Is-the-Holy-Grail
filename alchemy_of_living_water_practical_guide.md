@@ -19,11 +19,33 @@ For each principle, you’ll find four ways to engage with the power of water an
 
 ⸻
 
+
 ### 1. Water Itself
+- **Sea salt is highly recommended for everyone:** If possible, add unrefined sea salt (Celtic, or similar) to your water. Sea salt provides essential minerals, supports cellular hydration, and enhances the coherence and structure of water. It is affordable, widely available, and a simple way to upgrade your daily water ritual.
 - No-cost: Collect spring water; bless tap water with intention and prayer
 - Low-cost: Add unrefined sea salt (Himalayan, Celtic); store in glass bottle
 - Mid-cost: Use vortex devices, magnets, copper spiral, or activated charcoal filters
 - High-cost: Kangen machine; scalar frequency water chargers (e.g. 528Hz, 150MHz); implosion structuring tech
+
+---
+
+## ✧ Recommended Frequencies for Water Charging
+
+Certain frequencies have proven most effective for charging and structuring water:
+
+- **528 Hz (Miracle Frequency):** Known as the frequency of love, healing, and DNA repair. Research and anecdotal evidence suggest that water exposed to 528 Hz becomes more coherent and energetically vibrant. This frequency is associated with transformation and positive intention.
+- **639 Hz (Connection Frequency):** Resonates with heart-centered connection, relationships, and unity. Charging water with 639 Hz can support emotional balance and harmonious interactions.
+- **150 MHz (EZ Water Carrier):** Used in scientific studies to enhance the formation of structured (EZ) water. This frequency supports cellular communication, coherence, and bioenergetic vitality.
+
+**Why these frequencies?**
+- They align with natural harmonic ratios found in biology, music, and geometry.
+- They have been shown to increase water’s ability to store intention, support cellular health, and amplify the effects of prayer and blessing.
+- They are easy to access via sound generators, music tracks, or frequency devices.
+
+**How to use:**
+- Play 528 Hz or 639 Hz music near your water for several minutes.
+- Use a frequency generator or device to emit 150 MHz near your water vessel.
+- Combine with intention, sunlight, and movement for maximum effect.
 
 ⸻
 
