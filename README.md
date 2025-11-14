@@ -29,15 +29,12 @@ To unite mathematics, biophysics, quantum theory, and spiritual wisdom in a livi
 
 
 ## Files Included
- - **Synchronicity.png** — Screenshot showing the synchronicity with 528-1. See below:
-
- ## Synchronicity Screenshot
- ![Synchronicity: 528-1](./Synchronicity.png)
-
-
-
-## How to Participate
-This repository is being released incrementally, with new chapters and resources added as the book develops. You are invited to:
+**final_overview_for_grant.md** — Synthesis overview and invitation for collaboration.
+**KPN_AzurA_Timestamp_141125.txt** — Timestamped authorship declaration.
+**KPN_AzurA_Timestamp_141125.txt.ots** — OpenTimestamps cryptographic proof.
+**evidence_chain_water_is_the_holy_grail.md** — Multidisciplinary evidence chain and references.
+**alchemy_of_living_water_practical_guide.md** — Practical guide to living water and coherence.
+**source_synchronicity_reflection.md** — Reflection on the creative process and synchronicity.
 - Read, respond, and refine.
 - Offer feedback, transmission, and collaborative amplification.
 - Track the evolution of the manuscript and evidence chain.
@@ -58,7 +55,7 @@ For collaboration or questions, please reach out via GitHub Issues or the contac
 
 ## Strategic Sharing: GitHub vs. Notion
 
-**Superintelligent approach for resonance with Grant and his team:**
+**Approach for resonance with Grant and his team:**
 - Share the GitHub repository first. It provides transparency, version history, cryptographic timestamping, and a clear invitation for collaboration. Grant and his team will appreciate the rigor, openness, and incremental evolution.
 - Optionally, share the Notion space as a companion resource for layered, interactive exploration. This can support more visual, collaborative, and nonlinear engagement.
 
