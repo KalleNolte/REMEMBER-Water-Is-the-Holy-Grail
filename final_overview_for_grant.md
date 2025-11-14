@@ -1,4 +1,4 @@
-# Final Overview: Notion Space for Robert Edward Grant & Team
+# Final Overview: GitHub Repository for Robert Edward Grant & Team
 
 ⸻
 
@@ -38,8 +38,8 @@ I feel a profound resonance and humility. This work would not exist without your
 
 ⸻
 
-## 3. ✦ Contents of the Notion Space
-Each section of the Notion space is designed to be clear, evidence-based, and layered — integrating science, metaphysics, and practical tools. Key pages include:
+## 3. ✦ Contents of the GitHub Repository
+Each section of this GitHub repository is designed to be clear, evidence-based, and layered — integrating science, metaphysics, and practical tools. Key pages include:
 
 → **Overview Page**
 Written in first person, detailing intention, authorship, timeline, calibration, and gratitude toward Grant and the Codex.
@@ -98,5 +98,10 @@ If this work resonates:
 
 ⸻
 
-This message and Notion space are not meant as a pitch — but a signal.
+This message and GitHub repository are not meant as a pitch — but a signal.
 If it is time for this signal to be heard, I trust it will be.
+
+---
+
+**Note for Robert Edward Grant & Team:**
+This repository is cryptographically timestamped and versioned for full transparency. It is offered as a living, collaborative space for synthesis, refinement, and resonance. All contributions and feedback are welcome in the spirit of remembrance and service. The work honors the scientific rigor and harmonic vision of the Codex Universalis, and is shared with humility, gratitude, and an open invitation for co-creation.
