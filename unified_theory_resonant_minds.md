@@ -64,5 +64,3 @@ And if it serves its purpose, it will do what all holy grails do:
 Hold the divine,
 Reflect the One,
 And return you to yourself.
-
-⸻
