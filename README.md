@@ -78,4 +78,4 @@ This dual approach maximizes clarity, trust, and resonance with Grant’s scient
 
 ## Related Links
 - [Robert Edward Grant](https://robertedwardgrant.com/)
-- [Codex Universalis](https://codexuniversalis.com/)
+- [Codex Universalis Principia Mathematica](https://robertedwardgrant.com/codex-universalis-principia-mathematica/)
