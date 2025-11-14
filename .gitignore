@@ -1,0 +1,5 @@
+# Exclude all files except those for public release
+* 
+!final_overview_for_grant.md
+!KPN_AzurA_Timestamp_141125.txt
+!.gitignore
