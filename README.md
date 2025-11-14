@@ -35,6 +35,11 @@ To unite mathematics, biophysics, quantum theory, and spiritual wisdom in a livi
 **evidence_chain_water_is_the_holy_grail.md** — Multidisciplinary evidence chain and references.
 **alchemy_of_living_water_practical_guide.md** — Practical guide to living water and coherence.
 **source_synchronicity_reflection.md** — Reflection on the creative process and synchronicity.
+**language-calibration.md** — Language calibration and intention.
+**water_dimensional_bridge.md** — Water as the Dimensional Bridge: Harmonic Synthesis.
+**implications_for_modern_science.md** — Implications for modern science and paradigm shift.
+**why_me_personal_note.md** — Personal note on resonance, self, and the science of water.
+**chapter1_journey_spiritual_science.md** — Chapter 1: My Journey & the Spiritual Science of the Self.
 - Read, respond, and refine.
 - Offer feedback, transmission, and collaborative amplification.
 - Track the evolution of the manuscript and evidence chain.
