@@ -46,31 +46,32 @@ I feel a profound resonance and humility. This work would not exist without your
 Each section of this repository is designed to be clear, evidence-based, and layered — integrating science, metaphysics, and practical tools. Key pages include:
 
 
-→ **Executive Summary & Core Thesis** (`evidence_chain_water_is_the_holy_grail.md`)
+
+→ Executive Summary & Core Thesis: [`evidence_chain_water_is_the_holy_grail.md`](./evidence_chain_water_is_the_holy_grail.md)
 Water as the literal, geometric, harmonic Holy Grail; structural proof rooted in number, biology, and light; sourced from the One, remembered in matter. This file also contains the full Reference Chain: scientific studies and models (Pollack, Popp, Montagnier, Del Giudice, Grant) presented in simplified, layered cards with notes on gaps, replication status, and potential applications.
 
-→ **Prologue & Main Chapters**
-**Prologue – The Return of Number** (`prologue_the_return_of_number.md`)
+→ Prologue & Main Chapters
+Prologue – The Return of Number: [`prologue_the_return_of_number.md`](./prologue_the_return_of_number.md)
 A poetic and geometric introduction to the journey from number to light, setting the stage for the synthesis of memory, geometry, and consciousness.
 
-**Chapter 1 – My Journey & the Spiritual Science of the Self** (`chapter1_my_journey_spiritual_science.md`)
+Chapter 1 – My Journey & the Spiritual Science of the Self: [`chapter1_my_journey_spiritual_science.md`](./chapter1_my_journey_spiritual_science.md)
 Personal journey, Akram Vignan, health, family, and the Architect’s role in synthesis.
 
-**Chapter 2 – The Water of Life** (`chapter2_the_water_of_life.md`)
+Chapter 2 – The Water of Life: [`chapter2_the_water_of_life.md`](./chapter2_the_water_of_life.md)
 Comprehensive synthesis of water science, spiritual practice, breath, transurfing, forgiveness, sexual alchemy, practical protocols, and integration of Grant, Langan, and other key works.
 
-**Chapter 3 – The Wound That Becomes Light: A Theodicy for the New Earth** (`chapter3_the_wound_that_becomes_light.md`)
+Chapter 3 – The Wound That Becomes Light: A Theodicy for the New Earth: [`chapter3_the_wound_that_becomes_light.md`](./chapter3_the_wound_that_becomes_light.md)
 Exploration of suffering, compassion, spiritual and transcendent perspectives, forgiveness, and the emergence of trust and new earth.
 
-→ **Deeper Explorations**
-**calibrated_poetry_resonance.md** – Calibrated poetry resonant with the book’s intention
-**encoded_self.md** – On the fractal language of the Self
-**implications_for_modern_science.md** – How these findings challenge mainstream models
-**unified_theory_resonant_minds.md** – From individuation to collective remembrance
-**water_dimensional_bridge.md** – Dimensional properties of water as medium of consciousness
-**alchemy_of_living_water_practical_guide.md** – Protocols, structure, and how-to for activation
-**source_synchronicity_reflection.md** – Synchronicity as communication pattern of the Source
-**why_me_personal_note.md** – Personal context and motivation
+→ Deeper Explorations
+Calibrated Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md) – Calibrated poetry resonant with the book’s intention
+Encoded Self: [`encoded_self.md`](./encoded_self.md) – On the fractal language of the Self
+Implications for Modern Science: [`implications_for_modern_science.md`](./implications_for_modern_science.md) – How these findings challenge mainstream models
+Unified Theory Resonant Minds: [`unified_theory_resonant_minds.md`](./unified_theory_resonant_minds.md) – From individuation to collective remembrance
+Water Dimensional Bridge: [`water_dimensional_bridge.md`](./water_dimensional_bridge.md) – Dimensional properties of water as medium of consciousness
+Practical Guide: [`alchemy_of_living_water_practical_guide.md`](./alchemy_of_living_water_practical_guide.md) – Protocols, structure, and how-to for activation
+Creative Process: [`source_synchronicity_reflection.md`](./source_synchronicity_reflection.md) – Synchronicity as communication pattern of the Source
+Personal Note: [`why_me_personal_note.md`](./why_me_personal_note.md) – Personal context and motivation
 
 → **Supporting Sections**
 **Author Statement & Timestamp**
