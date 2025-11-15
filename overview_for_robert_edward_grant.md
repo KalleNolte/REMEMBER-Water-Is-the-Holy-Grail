@@ -49,7 +49,10 @@ Each section of this repository is designed to be clear, evidence-based, and lay
 → **Executive Summary & Core Thesis** (`evidence_chain_water_is_the_holy_grail.md`)
 Water as the literal, geometric, harmonic Holy Grail; structural proof rooted in number, biology, and light; sourced from the One, remembered in matter. This file also contains the full Reference Chain: scientific studies and models (Pollack, Popp, Montagnier, Del Giudice, Grant) presented in simplified, layered cards with notes on gaps, replication status, and potential applications.
 
-→ **Main Chapters**
+→ **Prologue & Main Chapters**
+**Prologue – The Return of Number** (`prologue_the_return_of_number.md`)
+A poetic and geometric introduction to the journey from number to light, setting the stage for the synthesis of memory, geometry, and consciousness.
+
 **Chapter 1 – My Journey & the Spiritual Science of the Self** (`chapter1_my_journey_spiritual_science.md`)
 Personal journey, Akram Vignan, health, family, and the Architect’s role in synthesis.
 
@@ -60,6 +63,7 @@ Comprehensive synthesis of water science, spiritual practice, breath, transurfin
 Exploration of suffering, compassion, spiritual and transcendent perspectives, forgiveness, and the emergence of trust and new earth.
 
 → **Deeper Explorations**
+**calibrated_poetry_resonance.md** – Calibrated poetry resonant with the book’s intention
 **encoded_self.md** – On the fractal language of the Self
 **implications_for_modern_science.md** – How these findings challenge mainstream models
 **unified_theory_resonant_minds.md** – From individuation to collective remembrance
