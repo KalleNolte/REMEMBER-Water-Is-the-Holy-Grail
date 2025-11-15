@@ -1,9 +1,5 @@
 
-# 01_Repository Overview for Robert Edward Grant & Team
-
-To navigate this repository, start here → Executive Summary. Then explore the three main chapters, followed by deeper modules and scientific references.
-
-⸻
+# Repository Overview for Robert Edward Grant & Team
 
 **Title of the Work:**
 Water Is the Holy Grail — A Unified Theory of Memory, Light, Geometry and Consciousness  
