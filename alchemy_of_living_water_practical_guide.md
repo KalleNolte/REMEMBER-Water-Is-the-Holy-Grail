@@ -130,7 +130,3 @@ When we purify, charge, and bless it — in the cup and in the cells — we real
 Not metaphor, but biological reality. Not fantasy, but frequency.
 
 This is the alchemy of remembrance.
-
-⸻
-
-Let me know if you’d like this version timestamped in a .txt, or formatted differently for any specific medium.
