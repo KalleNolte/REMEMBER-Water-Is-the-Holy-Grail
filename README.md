@@ -22,18 +22,21 @@ To unite mathematics, biophysics, quantum theory, and spiritual wisdom in a livi
 
 
 ## Quick Start
+
 Begin your exploration here:
-- Overview: [`final_overview_for_grant.md`](./final_overview_for_grant.md)
+- Prologue: [`prologue_the_return_of_number.md`](./prologue_the_return_of_number.md)
+- Overview: [`overview_for_robert_edward_grant.md`](./overview_for_robert_edward_grant.md)
 - Authorship: [`KPN_AzurA_Timestamp_141125.txt`](./KPN_AzurA_Timestamp_141125.txt)
 - Timestamp Proof: [`KPN_AzurA_Timestamp_141125.txt.ots`](./KPN_AzurA_Timestamp_141125.txt.ots)
 - Evidence Chain: [`evidence_chain_water_is_the_holy_grail.md`](./evidence_chain_water_is_the_holy_grail.md)
 - Practical Guide: [`alchemy_of_living_water_practical_guide.md`](./alchemy_of_living_water_practical_guide.md)
-- Creative Process: [`source_synchronicity_reflection.md`](./source_synchronicity_reflection.md)
 
 
 
 ## Files Included
-- `final_overview_for_grant.md`: Synthesis overview and invitation for collaboration.
+
+- `prologue_the_return_of_number.md`: Prologue – The Return of Number (poetic and geometric introduction)
+- `overview_for_robert_edward_grant.md`: Synthesis overview and invitation for collaboration.
 - `KPN_AzurA_Timestamp_141125.txt`: Timestamped authorship declaration.
 - `KPN_AzurA_Timestamp_141125.txt.ots`: OpenTimestamps cryptographic proof.
 - `evidence_chain_water_is_the_holy_grail.md`: Multidisciplinary evidence chain and references.
@@ -43,7 +46,13 @@ Begin your exploration here:
 - `water_dimensional_bridge.md`: Water as the Dimensional Bridge: Harmonic Synthesis.
 - `implications_for_modern_science.md`: Implications for modern science and paradigm shift.
 - `why_me_personal_note.md`: Personal note on resonance, self, and the science of water.
-- `chapter1_journey_spiritual_science.md`: Chapter 1: My Journey & the Spiritual Science of the Self.
+- `chapter1_my_journey_spiritual_science.md`: Chapter 1: My Journey & the Spiritual Science of the Self.
+- `chapter2_the_water_of_life.md`: Chapter 2: The Water of Life.
+- `chapter3_the_wound_that_becomes_light.md`: Chapter 3: The Wound That Becomes Light.
+- `calibrated_poetry_resonance.md`: Calibrated poetry resonant with the book’s intention.
+- `encoded_self.md`: On the fractal language of the Self.
+- `unified_theory_resonant_minds.md`: From individuation to collective remembrance.
+
 
 ## How to Participate
 - Read, respond, and refine.
