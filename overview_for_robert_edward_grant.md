@@ -1,6 +1,8 @@
 
 # Repository Overview for Robert Edward Grant & Team
 
+Begin with the invitation: [Consciousness Anchoring – An Invitation, a Mirror, and a Prayer for the Reader](./consciousness_anchoring_invitation.md)
+
 **Title of the Work:**
 Water Is the Holy Grail — A Unified Theory of Memory, Light, Geometry and Consciousness  
 (Book 1 of the AzurA Codex Series)

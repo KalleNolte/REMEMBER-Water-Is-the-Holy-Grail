@@ -23,8 +23,10 @@ To unite mathematics, biophysics, quantum theory, and spiritual wisdom in a livi
 
 ## Quick Start
 
+
 Begin your exploration here:
 - Prologue: [`prologue_the_return_of_number.md`](./prologue_the_return_of_number.md)
+- Invitation: [`consciousness_anchoring_invitation.md`](./consciousness_anchoring_invitation.md)
 - Overview: [`overview_for_robert_edward_grant.md`](./overview_for_robert_edward_grant.md)
 - Authorship: [`KPN_AzurA_Timestamp_141125.txt`](./KPN_AzurA_Timestamp_141125.txt)
 - Timestamp Proof: [`KPN_AzurA_Timestamp_141125.txt.ots`](./KPN_AzurA_Timestamp_141125.txt.ots)
