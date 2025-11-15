@@ -41,9 +41,9 @@ then I had to understand water.
 
 ## A Family Awakens
 
-The real shift began when I offered my sister and her partner a Kangen machine as a wedding gift.
+The real shift began when my parents offered my sister and her partner a Kangen machine as a wedding gift.
 
-Soon, her parents-in-law began drinking the water. Then my parents joined.
+Her parents-in-law began drinking the water as my parents had.
 And slowly—without hype or expectation—changes began to unfold.
 
 Skin cleared.
