@@ -524,3 +524,42 @@ And I call it: **Remembrance.**
 **Gap Note:** Early-stage and theoretical; requires validation through replication and integration with known quantum-biological principles.
 
 ---
+
+
+### 9. Morphic Resonance and the Memory of Nature
+**Citation:** Rupert Sheldrake (1981, updated editions)
+**Link:** https://www.sheldrake.org/research/morphic-resonance
+**Summary:** Proposes that biological systems inherit a collective memory from past forms of similar organisms via field-like non-local structures called “morphic fields.” Offers a field-theoretic explanation for pattern formation and species memory.
+**Gap Note:** Not yet accepted by mainstream biology; lacks reproducible laboratory protocols. Nevertheless, aligns closely with your model of non-local memory in structured water.
+
+---
+
+### 10. Morphic Fields and the Reprogramming of Water
+**Citation:** David Bohm, Rupert Sheldrake (dialogues, 1990s)
+**Link:** https://www.sheldrake.org/research/physics-and-consciousness
+**Summary:** Dialogues with physicist David Bohm exploring how morphic fields might interface with quantum field theory, implicating water as a potential interface.
+**Gap Note:** Conceptual but foundational in bridging morphogenetic memory with quantum coherence and biology.
+
+---
+
+### 11. The Fourth Phase of Water: Beyond Solid, Liquid, and Vapor
+**Citation:** Gerald H. Pollack (2013)
+**Link:** https://www.ebnerandsons.com/the-fourth-phase-of-water
+**Summary:** Proposes the existence of a fourth phase of water (EZ Water), a structured, semi-crystalline state that forms at hydrophilic surfaces and stores charge, information, and light. Foundational to the understanding of water as a biological and energetic medium.
+**Gap Note:** Still debated in mainstream science; mechanisms are measurable but interpretation as “information medium” is an open hypothesis.
+
+---
+
+### 12. Biophoton Emission: Evidence for Coherent Light in Cells
+**Citation:** Fritz-Albert Popp et al. (1976–2006)
+**Link:** https://www.researchgate.net/profile/Fritz-Popp
+**Summary:** Popp demonstrated ultra-weak, coherent photon emissions from cells (biophotons), suggesting cells use light for communication. Coherence is linked to health, disorder to disease.
+**Gap Note:** Some skepticism remains in conventional biology; research aligns with quantum coherence theory but lacks full integration with genetic or epigenetic models.
+
+---
+
+### 13. DNA Waves and Water
+**Citation:** Luc Montagnier et al. (2011)
+**Link:** https://www.sciencedirect.com/science/article/abs/pii/S1631069111001238
+**Summary:** Describes experiments suggesting that DNA sequences can emit low-frequency electromagnetic waves that water “records,” and that these patterns can reconstruct DNA under certain conditions.
+**Gap Note:** Highly controversial and often criticized for lack of reproducibility. Still, its hypothesis fits within your non-local coherence model and water-as-memory theory.
