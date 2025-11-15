@@ -1,4 +1,6 @@
----
+# Calibrated Poetry – Resonant with the Book’s Intention
+
+⸻
 
 ## ✧ Hymn of Return – The Wave Recognizes Itself in the Ocean (Calibrated English Version)
 
@@ -64,9 +66,6 @@ then within them will resound:
 "I too am not what passes away.
 I am what loves –
 never lost."
-# Calibrated Poetry – Resonant with the Book’s Intention
-
-⸻
 
 ## ✧ The Return
 

@@ -67,12 +67,12 @@ Numbers as the language of the divine spirit, geometry, sound and form as expres
     
 3. *The Harmony of Form*
     
-    Sacred geometry, Vesica Piscis, Pentamandala, Codex Universalis, the triad Φ, π, e, the seal “Φ π e 1” as universal mandala, mathematics as the poetry of the divine.
+    Sacred geometry, Vesica Piscis, Codex Universalis, the triad Φ, π, e, the seal “Φ π e 1” as universal mandala, mathematics as the poetry of the divine.
     
 
 ---
 
-***Part V – The Human as Temple**
+**Part V – The Human as Temple**
 
 1. *Breath, Nutrition, Movement*
 

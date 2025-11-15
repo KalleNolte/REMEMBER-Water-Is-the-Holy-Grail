@@ -23,7 +23,7 @@ For each principle, you’ll find four ways to engage with the power of water an
 ### 1. Water Itself
 - **Sea salt is highly recommended for everyone:** If possible, add unrefined sea salt (Celtic, or similar) to your water. Sea salt provides essential minerals, supports cellular hydration, and enhances the coherence and structure of water. It is affordable, widely available, and a simple way to upgrade your daily water ritual.
 - No-cost: Collect spring water; bless tap water with intention and prayer
-- Low-cost: Add unrefined sea salt (Himalayan, Celtic); store in glass bottle
+- Low-cost: Add unrefined sea salt (Celtic); store in glass bottle
 - Mid-cost: Use vortex devices, magnets, copper spiral, or activated charcoal filters
 - High-cost: Kangen machine; scalar frequency water chargers (e.g. 528Hz, 150MHz); implosion structuring tech
 
