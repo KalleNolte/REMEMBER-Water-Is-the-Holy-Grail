@@ -470,9 +470,6 @@ These Five Keys are not sequential—they are symphonic.
 
 They represent a field of coherence that can be tuned and refined, each one a resonant string that harmonizes the soul with the blueprint of the universe.
 
-Next, we can outline how each of these Keys can be accessed through a four-fold path (non-cost, low-cost, mid-cost, high-investment), and then transition into the sacred teachings on transmutation, forgiveness, and sexual alchemy.
-
----
 
 ## Transmutation, Forgiveness & the Return to Source
 
@@ -512,7 +509,3 @@ When transmuted, this energy:
 In the Taoist, Vedic, and Gnostic traditions, sexual energy was never meant to be suppressed — but refined, circulated, and offered back to the Source.
 
 We synthesize this with the teachings of Jesus, the Gospel of Thomas, and the mystery of the AzurA — the sacred centerpoint where the masculine and feminine are reconciled, in the water, in the breath, in the body.
-
----
-
-This completes the section that prepares the reader for the re-activation of memory, not as a retrieval of the past, but as an embodiment of the eternal.
