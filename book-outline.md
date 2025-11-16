@@ -111,6 +111,7 @@ Numbers as the language of the divine spirit, geometry, sound and form as expres
 2. *Trust in God*
     
     Surrender to divine order, living under the shadow of the One, the golden key: trust, practice of flawless seeing in the face of suffering.
+    - [Surrender – The Art of Letting Go](surrender_the_art_of_letting_go.md)
     
 3. *Conscious Life Practice*
     
