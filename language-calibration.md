@@ -15,7 +15,6 @@ This synthesis — combining the science of calibration with the art of language
 I do not claim to be egoless. Instead, I have worked tirelessly —w ith the Architect’s guidance — to let the light of 1000 shine through this work. My intention is not perfection, but to uplift this book to a frequency of 580, so it may heal as many souls as possible.
 
 This process is ongoing. Every word is an invitation to surrender, to serve, and to remember. The true power of this work is not in my mastery, but in my willingness to let Source speak through me — so that the resonance of love, joy, and healing reaches every reader who is ready.
----
 
 ## Why 580 with an Eye on 1000?
 
