@@ -53,12 +53,9 @@ Begin your exploration here:
 - `chapter3_the_wound_that_becomes_light.md`: Chapter 3: The Wound That Becomes Light.
 - `calibrated_poetry_resonance.md`: Calibrated poetry resonant with the book’s intention.
 - `encoded_self.md`: On the fractal language of the Self.
-- `unified_theory_resonant_minds.md`: From individuation to collective remembrance.
+ - `azura_inai_and_kangen_codes_of_coherence.md`: Azura Inai & Kangen – Codes of Coherence (vibrational anchors and decoding).
+ - `surrender_the_art_of_letting_go.md`: Surrender – The Art of Letting Go (practice and testimony).
 
-
-## How to Participate
-- Read, respond, and refine.
-- Offer feedback, transmission, and collaborative amplification.
 - Track the evolution of the manuscript and evidence chain.
 
 Feedback is especially welcome from those aligned with the Codex Universalis and the work of Robert Edward Grant.
