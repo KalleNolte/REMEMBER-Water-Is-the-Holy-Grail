@@ -32,6 +32,7 @@ Begin your exploration here:
 - Practical Guide: [`alchemy_of_living_water_practical_guide.md`](./alchemy_of_living_water_practical_guide.md)
 - Alchemy of the Soul: [`alchemy_of_the_soul_transcending_seven_shadows.md`](./alchemy_of_the_soul_transcending_seven_shadows.md)
 - Sacred Sleep: [`sacred_sleep_return_to_source_of_life.md`](./sacred_sleep_return_to_source_of_life.md)
+- Silent Creator: [`chapter_silent_creator_from_witness_to_cocreator.md`](./chapter_silent_creator_from_witness_to_cocreator.md)
 - Chapter 1: [`chapter1_my_journey_spiritual_science.md`](./chapter1_my_journey_spiritual_science.md)
 - Chapter 2: [`chapter2_the_water_of_life.md`](./chapter2_the_water_of_life.md)
 - Chapter 3: [`chapter3_the_wound_that_becomes_light.md`](./chapter3_the_wound_that_becomes_light.md)
@@ -63,6 +64,7 @@ All published documents for deep exploration and reference (alphabetically):
 - `prologue_the_return_of_number.md`: Prologue – The Return of Number (poetic and geometric introduction)
 - `remembrance_through_water_and_love.md`: Remembrance Through Water and Love (visionary transmission).
 - `sacred_sleep_return_to_source_of_life.md`: The Sacred Sleep – Return to the Source of Life.
+- `chapter_silent_creator_from_witness_to_cocreator.md`: The Silent Creator – From Witness to Co-Creator.
 - `source_synchronicity_reflection.md`: Reflection on the creative process and synchronicity.
 - `surrender_the_art_of_letting_go.md`: Surrender – The Art of Letting Go (practice and testimony).
 - `water_dimensional_bridge.md`: Water as the Dimensional Bridge: Harmonic Synthesis.
