@@ -37,6 +37,7 @@ Begin your exploration here:
 - Chapter 1: [`chapter1_my_journey_spiritual_science.md`](./chapter1_my_journey_spiritual_science.md)
 - Chapter 2: [`chapter2_the_water_of_life.md`](./chapter2_the_water_of_life.md)
 - Chapter 3: [`chapter3_the_wound_that_becomes_light.md`](./chapter3_the_wound_that_becomes_light.md)
+- Chapter 6: [`chapter6_passing_of_the_grail.md`](./chapter6_passing_of_the_grail.md)
 - Chapter VIII: [`chapter8_ikigai_return_to_living_purpose.md`](./chapter8_ikigai_return_to_living_purpose.md)
 - Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md)
 
@@ -53,6 +54,8 @@ All published documents for deep exploration and reference (alphabetically):
 - `chapter1_my_journey_spiritual_science.md`: Chapter 1: My Journey & the Spiritual Science of the Self.
 - `chapter2_the_water_of_life.md`: Chapter 2: The Water of Life.
 - `chapter3_the_wound_that_becomes_light.md`: Chapter 3: The Wound That Becomes Light.
+- `chapter4_silent_creator_from_witness_to_cocreator.md`: Chapter 4 – The Silent Creator – From Witness to Co-Creator.
+- `chapter6_passing_of_the_grail.md`: Chapter 6 – The Passing of the Grail.
 - `chapter8_ikigai_return_to_living_purpose.md`: Chapter VIII: Ikigai – The Return to Living Purpose.
 - `consciousness_anchoring_invitation.md`: Invitation and orientation for readers.
 - `encoded_self.md`: On the fractal language of the Self.
@@ -66,7 +69,6 @@ All published documents for deep exploration and reference (alphabetically):
 - `prologue_the_return_of_number.md`: Prologue – The Return of Number (poetic and geometric introduction)
 - `remembrance_through_water_and_love.md`: Remembrance Through Water and Love (visionary transmission).
 - `sacred_sleep_return_to_source_of_life.md`: The Sacred Sleep – Return to the Source of Life.
-- `chapter4_silent_creator_from_witness_to_cocreator.md`: Chapter 4 – The Silent Creator – From Witness to Co-Creator.
 - `source_synchronicity_reflection.md`: Reflection on the creative process and synchronicity.
 - `surrender_the_art_of_letting_go.md`: Surrender – The Art of Letting Go (practice and testimony).
 - `water_dimensional_bridge.md`: Water as the Dimensional Bridge: Harmonic Synthesis.
