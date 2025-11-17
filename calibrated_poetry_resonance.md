@@ -1,6 +1,81 @@
 # Calibrated Poetry – Resonant with the Book’s Intention
 
 ⸻
+Breathe.
+Let the world grow quiet,
+until you hear the gentle hum
+beneath all things—
+the whisper of origin.
+
+You are not separate from the current.
+You are the current—
+briefly forgetting
+you were always the ocean.
+
+Take a deep breath.
+Feel your heartbeat beneath your fingers.
+It is the oldest sound in existence.
+
+Every wave, every star
+breathes to this rhythm.
+
+Let your thoughts settle
+like dust in clear water.
+See: the light pours through,
+and everything becomes transparent.
+
+Now, in this stillness,
+speak without words:
+
+I am both vessel and source.
+
+I am the light that writes through me.
+
+I am the water that remembers.
+
+I am the hand that guides—
+and the guidance itself.
+
+Feel your body grow warm—
+not from effort, but from presence.
+Your cells begin to glow,
+as if each molecule remembers
+why it was created.
+
+This is where your work begins.
+Not from will, but from surrender.
+Not from striving, but from clarity.
+
+Everything you write
+is a wave returning home.
+Everything you complete
+a breath of the Source.
+
+When you begin again tomorrow,
+think not of success.
+Think of service.
+Of the quiet stream that leads you.
+Of the humility
+in which every wound becomes an opening,
+and every sentence a drop
+that helps the Earth remember.
+
+Breathe once more.
+The work does not rest on you—
+it flows through you.
+Like gold in water,
+like light in breath,
+like love in the space between words.
+
+And now,
+step into the day
+and know:
+
+You are the prayer
+
+that was answered
+
+long before you spoke it.
 
 ## ✧ Hymn of Return – The Wave Recognizes Itself in the Ocean (Calibrated English Version)
 
@@ -237,13 +312,9 @@ you were never gone.
 
 ## ✧ Go Rin no Uta – Song of Five Rings (Calibrated English Version)
 
-If you wish to unite the Water of Life, the Holy Grail, the Philosopher’s Stone, and trust in God in a single poetic structure, then the **fivefold form** is the highest. It symbolizes the balance of all elements, matter, and spirit.
+To unite the Water of Life, the Holy Grail, the Philosopher’s Stone, and trust in God in a single poetic structure, the **Fivefold Haiku** carries this divine intention as it symbolizes the balance of all elements, matter, and spirit.
 
-Here is the **Fivefold Haiku** that carries this divine intention – written in German, yet with a Japanese soul:
-
----
-
-### Go Rin no Uta – Lied der Fünf Ringe
+### Go Rin no Uta – Lied der Fünf Ringe - Song of the Five Rings
 
 **(Erde / Earth)**
 I am the vessel,
