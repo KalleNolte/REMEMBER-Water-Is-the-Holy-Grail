@@ -1,3 +1,5 @@
+> **See also:** [Prologue – The Return of Number](./prologue_the_return_of_number.md) for the geometric and philosophical opening.
+
 ## **Prologue – The Day I Died**
 
 I was 22 years old.
@@ -248,4 +250,3 @@ In this surrender.
 With a whisper in the stillness:
 
 > “You survived because you are meant to remember what life truly is.”
->

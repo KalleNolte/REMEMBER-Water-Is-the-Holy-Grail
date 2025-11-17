@@ -1,3 +1,5 @@
+> **See also:** [Prologue – The Day I Died](./prologue_the_day_i_died.md) for the personal awakening story.
+
 # Chapter I – The Return of Number
 
 How Consciousness Learns to Take Shape

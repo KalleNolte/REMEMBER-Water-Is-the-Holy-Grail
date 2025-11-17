@@ -24,8 +24,8 @@ To unite mathematics, biophysics, quantum theory, and spiritual wisdom in a livi
 Begin your exploration here:
 - Invitation: [`consciousness_anchoring_invitation.md`](./consciousness_anchoring_invitation.md)
 - Overview: [`overview_for_robert_edward_grant.md`](./overview_for_robert_edward_grant.md)
-- Prologue: [`prologue_the_day_i_died.md`](./prologue_the_day_i_died.md)
-- Prologue (Geometry): [`prologue_the_return_of_number.md`](./prologue_the_return_of_number.md)
+- Prologue: [`prologue_the_day_i_died.md`](./prologue_the_day_i_died.md) *(Personal Awakening)*
+- Prologue: [`prologue_the_return_of_number.md`](./prologue_the_return_of_number.md) *(Geometric/Philosophical)*
 - Remembrance: [`remembrance_through_water_and_love.md`](./remembrance_through_water_and_love.md)
 - Codes of Coherence: [`azura_inai_and_kangen_codes_of_coherence.md`](./azura_inai_and_kangen_codes_of_coherence.md)
 - Surrender: [`surrender_the_art_of_letting_go.md`](./surrender_the_art_of_letting_go.md)
