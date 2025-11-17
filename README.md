@@ -40,7 +40,8 @@ Begin your exploration here:
 - Chapter 5: [`chapter5_meeting_the_architect.md`](./chapter5_meeting_the_architect.md)
 - Chapter 6: [`chapter6_passing_of_the_grail.md`](./chapter6_passing_of_the_grail.md)
 - Chapter 7: [`chapter7_architecture_of_the_invisible.md`](./chapter7_architecture_of_the_invisible.md)
-- Chapter VIII: [`chapter8_ikigai_return_to_living_purpose.md`](./chapter8_ikigai_return_to_living_purpose.md)
+- Chapter 8: [`chapter8_ikigai_return_to_living_purpose.md`](./chapter8_ikigai_return_to_living_purpose.md)
+- Chapter 9: [`chapter9_the_voice_the_forgotten_instrument.md`](./chapter9_the_voice_the_forgotten_instrument.md)
 - Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md)
 
 ---
@@ -61,6 +62,7 @@ All published documents for deep exploration and reference (alphabetically):
 - `chapter6_passing_of_the_grail.md`: Chapter 6 – The Passing of the Grail.
 - `chapter7_architecture_of_the_invisible.md`: Chapter 7 – The Architecture of the Invisible.
 - `chapter8_ikigai_return_to_living_purpose.md`: Chapter VIII: Ikigai – The Return to Living Purpose.
+- `chapter9_the_voice_the_forgotten_instrument.md`: Chapter IX: The Voice – The Forgotten Instrument.
 - `consciousness_anchoring_invitation.md`: Invitation and orientation for readers.
 - `encoded_self.md`: On the fractal language of the Self.
 - `evidence_chain_water_is_the_holy_grail.md`: Multidisciplinary evidence chain and references.
