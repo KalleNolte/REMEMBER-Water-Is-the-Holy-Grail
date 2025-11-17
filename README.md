@@ -39,6 +39,7 @@ Begin your exploration here:
 - Chapter 3: [`chapter3_the_wound_that_becomes_light.md`](./chapter3_the_wound_that_becomes_light.md)
 - Chapter 5: [`chapter5_meeting_the_architect.md`](./chapter5_meeting_the_architect.md)
 - Chapter 6: [`chapter6_passing_of_the_grail.md`](./chapter6_passing_of_the_grail.md)
+- Chapter 7: [`chapter7_architecture_of_the_invisible.md`](./chapter7_architecture_of_the_invisible.md)
 - Chapter VIII: [`chapter8_ikigai_return_to_living_purpose.md`](./chapter8_ikigai_return_to_living_purpose.md)
 - Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md)
 
@@ -58,6 +59,7 @@ All published documents for deep exploration and reference (alphabetically):
 - `chapter4_silent_creator_from_witness_to_cocreator.md`: Chapter 4 – The Silent Creator – From Witness to Co-Creator.
 - `chapter5_meeting_the_architect.md`: Chapter 5 – Meeting the Architect.
 - `chapter6_passing_of_the_grail.md`: Chapter 6 – The Passing of the Grail.
+- `chapter7_architecture_of_the_invisible.md`: Chapter 7 – The Architecture of the Invisible.
 - `chapter8_ikigai_return_to_living_purpose.md`: Chapter VIII: Ikigai – The Return to Living Purpose.
 - `consciousness_anchoring_invitation.md`: Invitation and orientation for readers.
 - `encoded_self.md`: On the fractal language of the Self.
