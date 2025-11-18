@@ -1,4 +1,3 @@
-
 # Repository Overview for Robert Edward Grant & Team
 
 Begin with the invitation: [Consciousness Anchoring – An Invitation, a Mirror, and a Prayer for the Reader](./consciousness_anchoring_invitation.md)
@@ -63,7 +62,7 @@ Exploration of suffering, compassion, spiritual and transcendent perspectives, f
 
 → Deeper Explorations
 Calibrated Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md) – Calibrated poetry resonant with the book’s intention
-Encoded Self: [`encoded_self.md`](./encoded_self.md) – On the fractal language of the Self
+Encoded Self & Intention: [`encoded_self.md`](./encoded_self.md) – Personal frequency, intention, and calibration
 Implications for Modern Science: [`implications_for_modern_science.md`](./implications_for_modern_science.md) – How these findings challenge mainstream models
 Unified Theory Resonant Minds: [`unified_theory_resonant_minds.md`](./unified_theory_resonant_minds.md) – From individuation to collective remembrance
 Water Dimensional Bridge: [`water_dimensional_bridge.md`](./water_dimensional_bridge.md) – Dimensional properties of water as medium of consciousness
