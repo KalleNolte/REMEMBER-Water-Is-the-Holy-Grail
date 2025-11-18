@@ -186,19 +186,19 @@ This practice leads to observable changes:
 ⸻
 
 ## 6. Fourfold Haiku – The Seal
-	1.  
+
 Breath carries the Light,
 Water sings in all my blood,
 Source rests deep within.
-	2.  
+
 Silence heals the word,
 In crystals God takes a breath,
 Heart becomes the sky.
-	3.  
+
 No self, only Being,
 Ever falling, ever whole,
 Love without a shore.
-	4.  
+
 Azure light within,
 Reflects heaven in my skin,
 Wave returns to sea.
@@ -360,19 +360,19 @@ I am flow. I am life.
 ⸻
 
 ## 7. Fourfold Haiku – The Seal of Letting Go
-	1.  
+
 I release the hand,
 And find support in falling—
 Wind carries my trust.
-	2.  
+
 Silence drinks my name,
 In breath, the border dissolves—
 Water turns to light.
-	3.  
+
 What I tried to grasp
 Was always at home in me—
 Love allows my being.
-	4.  
+ 
 Empty is my chest,
 Yet full with the divine tone—
 Peace beyond all aim.
