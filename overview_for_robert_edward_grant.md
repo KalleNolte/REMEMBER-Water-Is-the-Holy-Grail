@@ -63,6 +63,7 @@ Exploration of suffering, compassion, spiritual and transcendent perspectives, f
 → Deeper Explorations
 Calibrated Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md) – Calibrated poetry resonant with the book’s intention
 Encoded Self & Intention: [`encoded_self.md`](./encoded_self.md) – Personal frequency, intention, and calibration
+The Healer: [`the_healer.md`](./the_healer.md) – Healing sequence and letting go ritual
 Implications for Modern Science: [`implications_for_modern_science.md`](./implications_for_modern_science.md) – How these findings challenge mainstream models
 Unified Theory Resonant Minds: [`unified_theory_resonant_minds.md`](./unified_theory_resonant_minds.md) – From individuation to collective remembrance
 Water Dimensional Bridge: [`water_dimensional_bridge.md`](./water_dimensional_bridge.md) – Dimensional properties of water as medium of consciousness
