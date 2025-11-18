@@ -341,7 +341,10 @@ No I, no you remain.
 Only the flow of the One.
 Eternal morning.
 
----
+
+## Related Works
+
+- [Trust: The Golden Core of the Fire](trust_the_golden_core_of_the_fire.md)
 
 This “Go Rin no Uta” is the perfected Japanese fivefold harmony, the highest form of the Haiku path.
 
