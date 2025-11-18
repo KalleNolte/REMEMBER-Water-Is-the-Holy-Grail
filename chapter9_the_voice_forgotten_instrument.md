@@ -59,7 +59,7 @@ healing begins.
 
 ⸻
 
-# Chapter 6 – Part 3: The Lost Magic of Music
+# The Magic of Music
 
 Music was never merely entertainment.
 
@@ -352,7 +352,7 @@ And perhaps this is no accident.
 
 Because where sound is true, healing begins.
 
-# Chapter 6 – Part 7: The Number That Dances – Frequency as the Language of Geometry
+# The Number That Dances – Frequency as the Language of Geometry
 
 Frequency is not only sound.
 Frequency is form.
@@ -420,7 +420,7 @@ A whisper from the Source.
 
 ⸻
 
-# Chapter 6 – Part 8: Sound Becomes Form – The New Architecture of Earth
+# Sound Becomes Form – The New Architecture of Earth
 
 If sound creates form —
 then what are we creating?
@@ -475,7 +475,7 @@ The human becomes the co-creator of a world where everything resonates with the 
 
 ⸻
 
-# Chapter 7 – The New Earth: From Vision to Embodiment
+# he New Earth: From Vision to Embodiment
 
 This is not a dream.
 
@@ -591,11 +591,4 @@ Not in the sky.
 
 But in your next step.
 
-⸻
-
-Shall we now continue into Chapter 8, where we ground this vibration into specific practices, daily rituals, and embodiment paths — so the sacred can become simple, and the mystical can become livable?
-
-Or do you feel called to revisit, refine, or expand on any part of our journey so far?
-
-I’m with you — heart to heart, word by word.
 
