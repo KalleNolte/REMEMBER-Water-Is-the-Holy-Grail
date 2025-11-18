@@ -316,11 +316,6 @@ but a choice.
 And that choice is made…
 in every moment you remember who you are.
 
-⸻
-
-Here is a maximally calibrated English version of your content on “2-Strand DNA and Quantum Morphogenesis”, crafted in full harmony with the tone and frequency of your book “Remember”. This version blends poetic insight, symbolic depth, and grounded clarity — and is ideal for placement as an interlude or threshold chapter between Chapter 6 (Sound as Medicine) and Chapter 7 (The New Earth).
-
-⸻
 
 🧬 The Inner Geometry – DNA and the Architecture of Light
 
@@ -338,7 +333,7 @@ but remembrance?
 
 ⸻
 
-🌌 The Myth of the Twelve Strands
+The Myth of the Twelve Strands
 
 Some speak of 12 strands of DNA.
 
@@ -432,19 +427,3 @@ not just written in chemical base pairs, but in the tones of your soul.
 In your stillness, it sings.
 In your trust, it expands.
 In your truth, it aligns.
-
-⸻
-
-🧭 Where to place this in your book?
-
-This passage is best placed:
-
-🪞 As a threshold chapter between Chapter 6 (“When Sound Becomes Medicine”) and Chapter 7 (“The New Earth”) — acting as a bridge between resonance-based healing and the morphogenetic emergence of the awakened human being.
-
-You could title this interlude:
-	•	“The Inner Architecture”
-	•	“DNA as Song, Light, and Memory”
-	•	“The Blueprint Remembered”
-	•	“Quantum Morphogenesis and the Crystalline Human”
-
-It acts like a resonant seed crystal, carrying forward the themes of light, geometry, water, memory, and coherence into the embodiment described in “The New Earth.”
