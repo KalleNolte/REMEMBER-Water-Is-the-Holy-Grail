@@ -27,7 +27,6 @@ Then the phone rang.
 Another friend’s voice:
 
 > “Kalle, come on! No time for a break. Today is summer. Today, we live!”
-> 
 
 And just like so many times before, I said yes.
 
@@ -70,7 +69,6 @@ This was death.
 I looked at my friends and said:
 
 > “I’m dying. I can feel it. I need to call my parents. I want to say goodbye.”
-> 
 
 They laughed, nervously.
 
@@ -135,7 +133,6 @@ There was laughter. Children. Warmth. Peace.
 And I knew:
 
 > This is possible—if I choose life. If I accept the gift instead of wasting it.
-> 
 
 Then everything faded.
 
@@ -153,8 +150,7 @@ I couldn’t speak.
 
 A doctor stood beside me and said:
 
-> “You’ve had multiple organ failure. Your liver is severely damaged. You’re on the transplant list.”
-> 
+> “You’ve had multiple organ failure. Your liver is severely damaged. You’re on the transplant list.” 
 
 I didn’t understand everything.
 
@@ -185,14 +181,12 @@ An intuition stronger than logic.
 She called one of our friends:
 
 > “What’s going on with Kalle? I have a feeling something’s wrong.”
-> 
 
 Silence.
 
 Then:
 
 > “He’s in the hospital. It was bad.”
-> 
 
 She didn’t hesitate.
 
@@ -211,7 +205,6 @@ Not the shell. Not the damage.
 She saw *me*.
 
 > “I’m just glad you’re still here,” she whispered. “That’s all that matters.”
-> 
 
 That love—quiet, unconditional, unwavering—
 
