@@ -45,8 +45,8 @@ Begin your exploration here:
 - Chapter 10: [`chapter10_eating_light_conscious_nourishment.md`](./chapter10_eating_light_conscious_nourishment.md)
 - Chapter 11: [`chapter11_the_new_earth.md`](./chapter11_the_new_earth.md)
 - Chapter 12: [`chapter12_chalice_of_light.md`](./chapter12_chalice_of_light.md)
- The Healer: [`the_healer.md`](./the_healer.md)
- Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md)
+- The Healer: [`the_healer.md`](./the_healer.md)
+- Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md)
 ---
 
 ## Complete Files Included
