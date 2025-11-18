@@ -42,13 +42,17 @@ Begin your exploration here:
 - Chapter 7: [`chapter7_architecture_of_the_invisible.md`](./chapter7_architecture_of_the_invisible.md)
 - Chapter 8: [`chapter8_ikigai_return_to_living_purpose.md`](./chapter8_ikigai_return_to_living_purpose.md)
 - Chapter 9: [`chapter9_the_voice_the_forgotten_instrument.md`](./chapter9_the_voice_the_forgotten_instrument.md)
-- Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md)
-
+ Chapter 10: [`chapter10_eating_light_conscious_nourishment.md`](./chapter10_eating_light_conscious_nourishment.md)
+ Chapter 11: [`chapter11_the_new_earth.md`](./chapter11_the_new_earth.md)
+ Chapter 12: [`chapter12_chalice_of_light.md`](./chapter12_chalice_of_light.md)
+ Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md)
 ---
 
 ## Complete Files Included
 
-All published documents for deep exploration and reference (alphabetically):
+ - `chapter10_eating_light_conscious_nourishment.md`: Chapter X: Eating Light – Conscious Nourishment as Prayer.
+ - `chapter11_the_new_earth.md`: Chapter XI: The New Earth – A Prayer That Lives Within Us.
+ - `chapter12_chalice_of_light.md`: Chapter XII: The Chalice of Light – The Holy Grail and the Philosopher’s Stone.
 
 - `alchemy_of_living_water_practical_guide.md`: Practical guide to living water and coherence.
 - `alchemy_of_the_soul_transcending_seven_shadows.md`: The Alchemy of the Soul: Transcending the Seven Shadows.
