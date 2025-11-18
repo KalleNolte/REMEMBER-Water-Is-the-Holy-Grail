@@ -45,6 +45,7 @@ Begin your exploration here:
  Chapter 10: [`chapter10_eating_light_conscious_nourishment.md`](./chapter10_eating_light_conscious_nourishment.md)
  Chapter 11: [`chapter11_the_new_earth.md`](./chapter11_the_new_earth.md)
  Chapter 12: [`chapter12_chalice_of_light.md`](./chapter12_chalice_of_light.md)
+ The Healer: [`the_healer.md`](./the_healer.md)
  Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md)
 ---
 
@@ -81,6 +82,7 @@ Begin your exploration here:
 - `sacred_sleep_return_to_source_of_life.md`: The Sacred Sleep – Return to the Source of Life.
 - `source_synchronicity_reflection.md`: Reflection on the creative process and synchronicity.
 - `surrender_the_art_of_letting_go.md`: Surrender – The Art of Letting Go (practice and testimony).
+- `the_healer.md`: The Healer – Healing Sequence and Letting Go Ritual.
 - `water_dimensional_bridge.md`: Water as the Dimensional Bridge: Harmonic Synthesis.
 - `why_me_personal_note.md`: Personal note on resonance, self, and the science of water.
 
