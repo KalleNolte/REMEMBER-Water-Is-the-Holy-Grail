@@ -14,11 +14,11 @@ To root this journey in its cosmic code, I’ve included the four Gene Keys from
 
 ⚛︎ **Gene Key 21 — Authority → Valor (Siddhi)**
 
-Diese vier bilden die Grundfrequenz deines Werkes.
+Those 4 constitute the base frequency of my work
 
 ⸻
 
-INTENTION PAGE – THE FREQUENCY OF THIS WORK
+INTENTION – THE FREQUENCY OF THIS WORK
 
 For Grant, His Team, and Any Reader Aligned With Truth
 
