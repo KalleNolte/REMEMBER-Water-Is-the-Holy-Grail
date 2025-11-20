@@ -24,6 +24,8 @@ To unite mathematics, biophysics, quantum theory, and spiritual wisdom in a livi
 Begin your exploration here:
 - Acknowledgments: [`acknowledgements_prayer_of_gratitutde.md`](./acknowledgements_prayer_of_gratitutde.md)
 - Book Outline: [`book-outline-published.md`](./book-outline-published.md)
+- Book Outline (Current): [`outline_published_current.md`](./outline_published_current.md)
+- Book Outline (Published): [`book-outline-published.md`](./book-outline-published.md)
 - Invitation: [`consciousness_anchoring_invitation.md`](./consciousness_anchoring_invitation.md)
 - Overview: [`overview_for_robert_edward_grant.md`](./overview_for_robert_edward_grant.md)
 - Encoded Self & Intention: [`encoded_self.md`](./encoded_self.md)
