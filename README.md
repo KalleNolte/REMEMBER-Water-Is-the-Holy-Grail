@@ -22,21 +22,7 @@ To unite mathematics, biophysics, quantum theory, and spiritual wisdom in a livi
 ## Quick Start / Essential Guide
 
 Begin your exploration here:
-- Acknowledgments: [`acknowledgements_prayer_of_gratitutde.md`](./acknowledgements_prayer_of_gratitutde.md)
-- Book Outline: [`book-outline-published.md`](./book-outline-published.md)
-- Invitation: [`consciousness_anchoring_invitation.md`](./consciousness_anchoring_invitation.md)
-- Overview: [`overview_for_robert_edward_grant.md`](./overview_for_robert_edward_grant.md)
-- Encoded Self & Intention: [`encoded_self.md`](./encoded_self.md)
-- Prologue: [`prologue_the_day_i_died.md`](./prologue_the_day_i_died.md) *(Personal Awakening)*
-- Prologue: [`prologue_the_return_of_number.md`](./prologue_the_return_of_number.md) *(Geometric/Philosophical)*
-- Remembrance: [`remembrance_through_water_and_love.md`](./remembrance_through_water_and_love.md)
-- Codes of Coherence: [`azura_inai_and_kangen_codes_of_coherence.md`](./azura_inai_and_kangen_codes_of_coherence.md)
-- Surrender: [`surrender_the_art_of_letting_go.md`](./surrender_the_art_of_letting_go.md)
-- Evidence Chain: [`evidence_chain_water_is_the_holy_grail.md`](./evidence_chain_water_is_the_holy_grail.md)
-- Practical Guide: [`alchemy_of_living_water_practical_guide.md`](./alchemy_of_living_water_practical_guide.md)
-- Alchemy of the Soul: [`alchemy_of_the_soul_transcending_seven_shadows.md`](./alchemy_of_the_soul_transcending_seven_shadows.md)
-- Sacred Sleep: [`sacred_sleep_return_to_source_of_life.md`](./sacred_sleep_return_to_source_of_life.md)
-- Silent Creator: [`chapter4_silent_creator_from_witness_to_cocreator.md`](./chapter4_silent_creator_from_witness_to_cocreator.md)
+The Great Synthesis: [`the_great_synthesis.md`](./the_great_synthesis.md) *(Includes: The Architecture of Consciousness — Soul, Oversoul, Monad)*
 - Chapter 1: [`chapter1_my_journey_spiritual_science.md`](./chapter1_my_journey_spiritual_science.md)
 - Chapter 2: [`chapter2_the_water_of_life.md`](./chapter2_the_water_of_life.md)
 - Chapter 3: [`chapter3_the_wound_that_becomes_light.md`](./chapter3_the_wound_that_becomes_light.md)
@@ -57,10 +43,7 @@ Begin your exploration here:
 
 ## Complete Files Included
 
-- `alchemy_of_living_water_practical_guide.md`: Practical guide to living water and coherence.
-- `acknowledgements_prayer_of_gratitutde.md`: Prayer of Gratitude, Love, and Remembrance.
-- `alchemy_of_the_soul_transcending_seven_shadows.md`: The Alchemy of the Soul: Transcending the Seven Shadows.
-- `azura_inai_and_kangen_codes_of_coherence.md`: Azura Inai & Kangen – Codes of Coherence (vibrational anchors and decoding).
+ `the_great_synthesis.md`: The Great Synthesis — How Mathematics, Consciousness, Dimensions and Living Water Weave into a Single Song of Creation. Includes the subchapter: The Architecture of Consciousness — Soul, Oversoul, Monad.
 - `calibrated_poetry_resonance.md`: Calibrated poetry resonant with the book’s intention.
 - `chapter1_my_journey_spiritual_science.md`: Chapter 1: My Journey & the Spiritual Science of the Self.
 - `chapter2_the_water_of_life.md`: Chapter 2: The Water of Life.
