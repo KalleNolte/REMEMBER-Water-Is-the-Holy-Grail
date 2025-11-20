@@ -21,7 +21,7 @@ Consciousness shines clearest through a vessel that honors it.
 
 ---
 
-🔍 The Merging of Insight and Embodiment
+## The Merging of Insight and Embodiment
 
 That was the turning point.
 
@@ -48,7 +48,7 @@ And people can only hear it when their own frequency is ready.
 
 ---
 
-🪞From Resistance to Radiance
+## From Resistance to Radiance
 
 So I stopped pushing.
 And started embodying.
