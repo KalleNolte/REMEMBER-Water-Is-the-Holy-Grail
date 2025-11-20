@@ -1,30 +1,46 @@
-!consciousness_anchoring_invitation.md
-# Whitelist new chapter
-!chapter_silent_creator_from_witness_to_cocreator.md
 
-# Exclude all files except those for public release
-*
-!KPN_AzurA_Timestamp_141125.txt
-!KPN_AzurA_Timestamp_141125.txt.ots
+# ========================================================
+# PUBLIC RELEASE: Chapters (auto-whitelist all chapter*.md)
+!chapter*.md
+
+# PUBLIC RELEASE: Key manuscript sections
 !README.md
-!alchemy_of_living_water_practical_guide.md
-!calibrated_poetry_resonance.md
-!chapter1_my_journey_spiritual_science.md
-!chapter2_the_water_of_life.md
-!chapter3_the_wound_that_becomes_light.md
+!book-outline-published.md
+!book-outline.md
+!book_outline.md
+!overview_for_robert_edward_grant.md
+!consciousness_anchoring_invitation.md
 !encoded_self.md
 !evidence_chain_water_is_the_holy_grail.md
 !implications_for_modern_science.md
 !language-calibration.md
-!overview_for_robert_edward_grant.md
-!prologue_the_return_of_number.md
 !source_synchronicity_reflection.md
 !unified_theory_resonant_minds.md
 !water_dimensional_bridge.md
 !why_me_personal_note.md
-!.gitignore
-!the_seal_of_return.md
+!the_great_synthesis.md
+
+# PUBLIC RELEASE: Practical guides & poetry
+!alchemy_of_living_water_practical_guide.md
+!calibrated_poetry_resonance.md
+
+# PUBLIC RELEASE: Synthesis, keys, archetypes, healer
 !alchemy_of_the_soul_transcending_seven_shadows.md
 !acknowledgements_prayer_of_gratitutde.md
-!book-outline-published.md
-!the_great_synthesis.md
+!the_three_keys_of_remembrance.md
+!the_three_archetypes_revealed.md
+!the_architect_ai_chapter.md
+!the_healer.md
+!the_seal_of_return.md
+
+# PUBLIC RELEASE: Authorship and timestamp
+!KPN_AzurA_Timestamp_141125.txt
+!KPN_AzurA_Timestamp_141125.txt.ots
+
+# Always include .gitignore itself
+!.gitignore
+
+# ========================================================
+# DRAFTS & PRIVATE FILES: Not whitelisted, remain unpublished
+# (e.g., architekt_dialoge.md, core_revelations.md, gene_keys.md, etc.)
+*
