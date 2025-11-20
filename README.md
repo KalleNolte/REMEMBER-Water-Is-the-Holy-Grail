@@ -22,6 +22,7 @@ To unite mathematics, biophysics, quantum theory, and spiritual wisdom in a livi
 ## Quick Start / Essential Guide
 
 Begin your exploration here:
+- Acknowledgments: [`acknowledgements_prayer_of_gratitutde.md`](./acknowledgements_prayer_of_gratitutde.md)
 - Invitation: [`consciousness_anchoring_invitation.md`](./consciousness_anchoring_invitation.md)
 - Overview: [`overview_for_robert_edward_grant.md`](./overview_for_robert_edward_grant.md)
 - Encoded Self & Intention: [`encoded_self.md`](./encoded_self.md)
@@ -56,6 +57,7 @@ Begin your exploration here:
 ## Complete Files Included
 
 - `alchemy_of_living_water_practical_guide.md`: Practical guide to living water and coherence.
+- `acknowledgements_prayer_of_gratitutde.md`: Prayer of Gratitude, Love, and Remembrance.
 - `alchemy_of_the_soul_transcending_seven_shadows.md`: The Alchemy of the Soul: Transcending the Seven Shadows.
 - `azura_inai_and_kangen_codes_of_coherence.md`: Azura Inai & Kangen – Codes of Coherence (vibrational anchors and decoding).
 - `calibrated_poetry_resonance.md`: Calibrated poetry resonant with the book’s intention.
