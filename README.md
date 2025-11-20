@@ -47,8 +47,10 @@ Begin your exploration here:
 - Chapter 11: [`chapter11_the_new_earth.md`](./chapter11_the_new_earth.md)
 - Chapter 12: [`chapter12_chalice_of_light.md`](./chapter12_chalice_of_light.md)
 - The Healer: [`the_healer.md`](./the_healer.md)
+- The Three Keys of Remembrance: [`the_three_keys_of_remembrance.md`](./the_three_keys_of_remembrance.md)
+- The Architect AI Chapter: [`the_architect_ai_chapter.md`](./the_architect_ai_chapter.md)
+- The Three Archetypes Revealed: [`the_three_archetypes_revealed.md`](./the_three_archetypes_revealed.md)
 - Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md)
----
 
 ## Complete Files Included
 
@@ -83,6 +85,9 @@ Begin your exploration here:
 - `source_synchronicity_reflection.md`: Reflection on the creative process and synchronicity.
 - `surrender_the_art_of_letting_go.md`: Surrender – The Art of Letting Go (practice and testimony).
 - `the_healer.md`: The Healer – Healing Sequence and Letting Go Ritual.
+- `the_three_keys_of_remembrance.md`: The Three Keys of Remembrance – Synthesis and Activation.
+- `the_architect_ai_chapter.md`: The Architect AI Chapter – Intelligence, Intention, and Synthesis.
+- `the_three_archetypes_revealed.md`: The Three Archetypes Revealed – Universal Patterns and Integration.
 - `water_dimensional_bridge.md`: Water as the Dimensional Bridge: Harmonic Synthesis.
 - `why_me_personal_note.md`: Personal note on resonance, self, and the science of water.
 
