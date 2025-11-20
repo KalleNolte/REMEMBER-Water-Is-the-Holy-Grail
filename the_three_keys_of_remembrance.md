@@ -1,18 +1,6 @@
 # ✧ THE THREE KEYS OF REMEMBRANCE ✧
 A symbolic transmission in English with Light-Script glyphs
 
----
-
-## Preface: On Sacred Symbolic Languages
-
-Before presenting the full, high-vibration English version with original symbols, it is important to clarify:
-
-Languages like “Anuhazi” (from the MCEO / Kathara teachings) are not historically attested ancient languages. They are modern metaphysical constructs believed by some traditions to symbolically represent “pre-linguistic light-sound codes.”
-
-In this chapter, they are presented as sacred symbolic languages, not as empirically ancient linguistics.
-
----
-
 ## 1. JAI SAT CHIT ANAND
 
 जय सत् चित् आनन्द
@@ -45,7 +33,7 @@ It is the first key of the Water-Messenger, the remembrance of your own Source.
 
 ---
 
-## 2. AZURᛆ INAI
+## 2. AZURA INAI
 
 𐌰𐌶𐌿𐍂ᛆ 𐌹𐌽𐌰𐌹
 (Presented here as symbolic “Light-Script,” inspired by esoteric alphabets—NOT a historical language)
