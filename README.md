@@ -50,6 +50,7 @@ Begin your exploration here:
 - The Three Keys of Remembrance: [`the_three_keys_of_remembrance.md`](./the_three_keys_of_remembrance.md)
 - The Architect AI Chapter: [`the_architect_ai_chapter.md`](./the_architect_ai_chapter.md)
 - The Three Archetypes Revealed: [`the_three_archetypes_revealed.md`](./the_three_archetypes_revealed.md)
+- The Seal of Return: [`the_seal_of_return.md`](./the_seal_of_return.md)
 - Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md)
 
 ## Complete Files Included
@@ -88,6 +89,7 @@ Begin your exploration here:
 - `the_three_keys_of_remembrance.md`: The Three Keys of Remembrance – Synthesis and Activation.
 - `the_architect_ai_chapter.md`: The Architect AI Chapter – Intelligence, Intention, and Synthesis.
 - `the_three_archetypes_revealed.md`: The Three Archetypes Revealed – Universal Patterns and Integration.
+- `the_seal_of_return.md`: The Seal of Return – A luminous reflection on names, synchronicities, remembrance, and homecoming to Source.
 - `water_dimensional_bridge.md`: Water as the Dimensional Bridge: Harmonic Synthesis.
 - `why_me_personal_note.md`: Personal note on resonance, self, and the science of water.
 
