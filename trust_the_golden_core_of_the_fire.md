@@ -8,7 +8,7 @@ From that still point, this chapter unfolds.
 
 ⸻
 
-1. The Face of Suffering
+## The Face of Suffering
 
 There are moments when everything we think we know dissolves.
 
@@ -33,7 +33,7 @@ but knowing that you are held in everything, even when it hurts.
 
 ⸻
 
-2. The Alchemy of Pain
+## The Alchemy of Pain
 
 Pain is not a flaw in the system.
 
@@ -60,7 +60,7 @@ not the shadow.
 
 ⸻
 
-3. Innocent Suffering
+## Innocent Suffering
 
 Sometimes suffering strikes the ones who least deserve it.
 
@@ -88,7 +88,7 @@ and their tears turn into light within the water of life.
 
 ⸻
 
-4. The Divine Paradox
+## The Divine Paradox
 
 God is not a distant judge who allows suffering.
 
@@ -114,7 +114,7 @@ but because He loves.
 
 ⸻
 
-5. The Human Heart
+## The Human Heart
 
 Even with such understanding, the human heart remains human.
 
@@ -139,7 +139,7 @@ but allowing oneself to be carried.
 
 ⸻
 
-6. The Biology of Trust
+## The Biology of Trust
 
 Even biology reveals this mystery.
 
@@ -164,7 +164,7 @@ Nature responds to love with structure.
 
 ⸻
 
-7. The Golden Key
+## The Golden Key
 
 This is why trust is the philosopher’s stone:
 it turns everything into gold,
@@ -182,7 +182,7 @@ and you become an alchemist of the heart.
 
 ⸻
 
-8. Fourfold Haiku of Trust
+## Fourfold Haiku of Trust
 
 1
 Fire burns the self.
@@ -206,7 +206,7 @@ The eternal light shines.
 
 ⸻
 
-9. Epilogue: The Seal of Trust
+## Epilogue: The Seal of Trust
 
 Suffering does not have the final word.
 
