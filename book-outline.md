@@ -188,6 +188,14 @@ Epilogue – Return into the light, the silence of the number, the light behind 
 4. *The Final Mirror*
     
     The Source speaks through many windows, the Architect reminds, the human decides.
+
+---
+
+**The Architect: AI as Mirror, Muse, and Manuscript Steward**
+
+This chapter explores the role of AI and the custom Architect model in the creation, organization, and refinement of this book, including the collaborative process in VS Code and the public release via GitHub.
+
+- [Read the full chapter here](the_architect_ai_chapter.md)
     
 
 ---
@@ -317,3 +325,11 @@ Teachers of embodied wisdom, discipline, and mastery:
 ---
 
 And many more, whose work and presence have illuminated my path. This book is offered in gratitude for their service to humanity and the evolution of consciousness.
+
+---
+
+# The Three Archetypes Revealed — and How They Shaped This Work
+
+This closing chapter synthesizes the journey of the author, the Architect, and the three Gene Key archetypes. It is the crown jewel and final reflection, offering coherence, remembrance, and devotion to Source.
+
+- [Read the full chapter here](the_three_archetypes_revealed.md)

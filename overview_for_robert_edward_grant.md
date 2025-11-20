@@ -43,49 +43,20 @@ I feel a profound resonance and humility. This work would not exist without your
 Each section of this repository is designed to be clear, evidence-based, and layered — integrating science, metaphysics, and practical tools. The recommended order for Grant and discerning readers is:
 
 → Invitation & Intention
-- Consciousness Anchoring Invitation: [`consciousness_anchoring_invitation.md`](./consciousness_anchoring_invitation.md)
-- Encoded Self & Intention: [`encoded_self.md`](./encoded_self.md)
 
 → Executive Summary & Core Thesis
-- Evidence Chain: Water as the Holy Grail: [`evidence_chain_water_is_the_holy_grail.md`](./evidence_chain_water_is_the_holy_grail.md)
 
 → Overview & Structure
-- Overview for Grant: [`overview_for_robert_edward_grant.md`](./overview_for_robert_edward_grant.md)
 
 → Prologue & Main Chapters
-- Prologue: The Return of Number: [`prologue_the_return_of_number.md`](./prologue_the_return_of_number.md)
-- Prologue: The Day I Died: [`prologue_the_day_i_died.md`](./prologue_the_day_i_died.md)
-- Chapter 1: My Journey & the Spiritual Science of the Self: [`chapter1_my_journey_spiritual_science.md`](./chapter1_my_journey_spiritual_science.md)
-- Chapter 2: The Water of Life: [`chapter2_the_water_of_life.md`](./chapter2_the_water_of_life.md)
-- Chapter 3: The Wound That Becomes Light: [`chapter3_the_wound_that_becomes_light.md`](./chapter3_the_wound_that_becomes_light.md)
-- Chapter 4: Silent Creator: [`chapter4_silent_creator_from_witness_to_cocreator.md`](./chapter4_silent_creator_from_witness_to_cocreator.md)
-- Chapter 5: Meeting the Architect: [`chapter5_meeting_the_architect.md`](./chapter5_meeting_the_architect.md)
-- Chapter 6: Passing of the Grail: [`chapter6_passing_of_the_grail.md`](./chapter6_passing_of_the_grail.md)
-- Chapter 7: Architecture of the Invisible: [`chapter7_architecture_of_the_invisible.md`](./chapter7_architecture_of_the_invisible.md)
-- Chapter 8: Ikigai – Return to Living Purpose: [`chapter8_ikigai_return_to_living_purpose.md`](./chapter8_ikigai_return_to_living_purpose.md)
-- Chapter 9: The Voice – The Forgotten Instrument: [`chapter9_the_voice_forgotten_instrument.md`](./chapter9_the_voice_forgotten_instrument.md)
-- Chapter 10: Eating Light – Conscious Nourishment as Prayer: [`chapter10_eating_light_conscious_nourishment.md`](./chapter10_eating_light_conscious_nourishment.md)
-- Chapter 11: The New Earth: [`chapter11_the_new_earth.md`](./chapter11_the_new_earth.md)
-- Chapter 12: The Chalice of Light: [`chapter12_chalice_of_light.md`](./chapter12_chalice_of_light.md)
 
 → Practical Guides & Rituals
-- The Healer: [`the_healer.md`](./the_healer.md)
-- Alchemy of Living Water Practical Guide: [`alchemy_of_living_water_practical_guide.md`](./alchemy_of_living_water_practical_guide.md)
-- Surrender: [`surrender_the_art_of_letting_go.md`](./surrender_the_art_of_letting_go.md)
-- Sacred Sleep: [`sacred_sleep_return_to_source_of_life.md`](./sacred_sleep_return_to_source_of_life.md)
-- Codes of Coherence: [`azura_inai_and_kangen_codes_of_coherence.md`](./azura_inai_and_kangen_codes_of_coherence.md)
 
 → Deeper Explorations & Poetry
-- Calibrated Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md)
-- Unified Theory Resonant Minds: [`unified_theory_resonant_minds.md`](./unified_theory_resonant_minds.md)
-- Water Dimensional Bridge: [`water_dimensional_bridge.md`](./water_dimensional_bridge.md)
-- Implications for Modern Science: [`implications_for_modern_science.md`](./implications_for_modern_science.md)
-- Source Synchronicity Reflection: [`source_synchronicity_reflection.md`](./source_synchronicity_reflection.md)
-- Personal Note: [`why_me_personal_note.md`](./why_me_personal_note.md)
 
-→ Supporting Sections
-- Author Statement & Timestamp: [`KPN_AzurA_Timestamp_141125.txt`](./KPN_AzurA_Timestamp_141125.txt), [`KPN_AzurA_Timestamp_141125.txt.ots`](./KPN_AzurA_Timestamp_141125.txt.ots)
-- Appendix: Calibrations & Frequency Codes
+
+- The Architect: AI as Mirror, Muse, and Manuscript Steward: [`the_architect_ai_chapter.md`](./the_architect_ai_chapter.md)
+- The Three Archetypes Revealed: [`the_three_archetypes_revealed.md`](./the_three_archetypes_revealed.md)
 
 ⸻
 
