@@ -65,7 +65,7 @@ the stillpoint from which all intuition, insight, and alignment arise.
 
 It is the key of inner orientation:
 → Where am I centered?
-→ From welchem Feld spreche ich?
+→ From what field do I speak?
 → Is my awareness aligned with Source or with fear?
 
 This is the second key of the Water-Messenger.
