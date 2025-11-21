@@ -11,6 +11,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 ---
 
 ### 0. Seal & Intention – The Threshold of the Temple
+0. `acknowledgements_prayer_of_gratitutde.md`  
+   Prayer of gratitude, love, and remembrance. Opens the field with blessing and thanks.
 1. `the_seal_of_return.md`  
    Opens the heart, remembrance, and devotion. Activates the field.
 2. `consciousness_anchoring_invitation.md`  
@@ -86,9 +88,22 @@ Each file is listed with its energetic function. The order follows the temple pa
 
 ---
 
+### Synthesis — The Bridge Between Worlds
+`the_great_synthesis_expanded.md`  
+   The maximally complete, Schauberger-integrated synthesis of mathematics, consciousness, water, vortex intelligence, and remembrance. Serves as a capstone to the spiritual architecture and a bridge to purpose.
+
+
+### Poetic Pillar — The Universal Journey
+`chapter_divine_comedy_and_the_heroic_path_of_water.md`  
+    The Divine Comedy, the Hero’s Journey, and the Elixir of Living Water—an initiatic, poetic synthesis of Dante, Campbell, and the soul’s ascension arc. A bridge between myth, science, and awakening.
+
 ### VI. Calling & Human Purpose
 27. `chapter8_ikigai_return_to_living_purpose.md`  
    Life purpose, direction, meaning.
+`the_path_of_the_middle.md`  
+   The Middle Path—balance, joy, purpose, service, and water. A poetic, high-vibration chapter on living in coherence.
+`work_as_love_made_visible.md`  
+   Work as Love Made Visible—a prophetic, poetic chapter on sacred work, joy, and the Middle Way, inspired by Gibran.
 28. `chapter11_the_new_earth.md`  
    Vision. Ethics. Human evolution.
 29. `chapter12_chalice_of_light.md`  

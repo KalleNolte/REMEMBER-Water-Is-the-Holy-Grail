@@ -25,9 +25,13 @@ Begin your exploration here:
 The Great Synthesis — Expanded: [`the_great_synthesis_expanded.md`](./the_great_synthesis_expanded.md) *(Schauberger-integrated, maximally complete version)*
  Work as Love Made Visible: [`work_as_love_made_visible.md`](./work_as_love_made_visible.md) *(A prophetic, poetic chapter on sacred work and the Middle Way)*
 
+The Divine Comedy & Heroic Path of Water: [`chapter_divine_comedy_and_the_heroic_path_of_water.md`](./chapter_divine_comedy_and_the_heroic_path_of_water.md) *(A poetic synthesis of Dante, Campbell, and the soul’s ascension arc—myth, science, and awakening united.)*
+
 ## Complete Files Included
 
 The Great Synthesis — Expanded: [`the_great_synthesis_expanded.md`](./the_great_synthesis_expanded.md) *(Schauberger-integrated, maximally complete version)*
+
+The Divine Comedy & Heroic Path of Water: [`chapter_divine_comedy_and_the_heroic_path_of_water.md`](./chapter_divine_comedy_and_the_heroic_path_of_water.md) *(Dante, Campbell, and the Elixir of Living Water—an initiatic, poetic bridge.)*
 ---
 
 Track the evolution of the manuscript and evidence chain.
