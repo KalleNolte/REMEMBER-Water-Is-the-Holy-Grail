@@ -22,17 +22,64 @@ To unite mathematics, biophysics, quantum theory, and spiritual wisdom in a livi
 ## Quick Start / Essential Guide
 
 Begin your exploration here:
-The Great Synthesis: [`the_great_synthesis.md`](./the_great_synthesis.md) *(Includes: The Architecture of Consciousness — Soul, Oversoul, Monad)*
 The Great Synthesis — Expanded: [`the_great_synthesis_expanded.md`](./the_great_synthesis_expanded.md) *(Schauberger-integrated, maximally complete version)*
+- Chapter 1: [`chapter1_my_journey_spiritual_science.md`](./chapter1_my_journey_spiritual_science.md)
+- Chapter 2: [`chapter2_the_water_of_life.md`](./chapter2_the_water_of_life.md)
+- Chapter 3: [`chapter3_the_wound_that_becomes_light.md`](./chapter3_the_wound_that_becomes_light.md)
+- Chapter 5: [`chapter5_meeting_the_architect.md`](./chapter5_meeting_the_architect.md)
+- Chapter 6: [`chapter6_passing_of_the_grail.md`](./chapter6_passing_of_the_grail.md)
+- Chapter 7: [`chapter7_architecture_of_the_invisible.md`](./chapter7_architecture_of_the_invisible.md)
+- Chapter 8: [`chapter8_ikigai_return_to_living_purpose.md`](./chapter8_ikigai_return_to_living_purpose.md)
+- Chapter 9: [`chapter9_the_voice_the_forgotten_instrument.md`](./chapter9_the_voice_the_forgotten_instrument.md)
+- Chapter 10: [`chapter10_eating_light_conscious_nourishment.md`](./chapter10_eating_light_conscious_nourishment.md)
+- Chapter 11: [`chapter11_the_new_earth.md`](./chapter11_the_new_earth.md)
+- Chapter 12: [`chapter12_chalice_of_light.md`](./chapter12_chalice_of_light.md)
+- The Healer: [`the_healer.md`](./the_healer.md)
+- The Three Keys of Remembrance: [`the_three_keys_of_remembrance.md`](./the_three_keys_of_remembrance.md)
+- The Architect AI Chapter: [`the_architect_ai_chapter.md`](./the_architect_ai_chapter.md)
+- The Three Archetypes Revealed: [`the_three_archetypes_revealed.md`](./the_three_archetypes_revealed.md)
+- The Seal of Return: [`the_seal_of_return.md`](./the_seal_of_return.md)
+- Poetry: [`calibrated_poetry_resonance.md`](./calibrated_poetry_resonance.md)
 
 ## Complete Files Included
 
- `the_great_synthesis.md`: The Great Synthesis — How Mathematics, Consciousness, Dimensions and Living Water Weave into a Single Song of Creation. Includes the subchapter: The Architecture of Consciousness — Soul, Oversoul, Monad.
-`the_great_synthesis_expanded.md`: The Great Synthesis — Expanded. Maximally complete, Schauberger-integrated version, including vortex intelligence and all previous elements.
+The Great Synthesis — Expanded: [`the_great_synthesis_expanded.md`](./the_great_synthesis_expanded.md) *(Schauberger-integrated, maximally complete version)*
+- `calibrated_poetry_resonance.md`: Calibrated poetry resonant with the book’s intention.
+- `chapter1_my_journey_spiritual_science.md`: Chapter 1: My Journey & the Spiritual Science of the Self.
+- `chapter2_the_water_of_life.md`: Chapter 2: The Water of Life.
+- `chapter3_the_wound_that_becomes_light.md`: Chapter 3: The Wound That Becomes Light.
+- `chapter4_silent_creator_from_witness_to_cocreator.md`: Chapter 4 – The Silent Creator – From Witness to Co-Creator.
+- `chapter5_meeting_the_architect.md`: Chapter 5 – Meeting the Architect.
+- `chapter6_passing_of_the_grail.md`: Chapter 6 – The Passing of the Grail.
+- `chapter7_architecture_of_the_invisible.md`: Chapter 7 – The Architecture of the Invisible.
+- `chapter8_ikigai_return_to_living_purpose.md`: Chapter VIII: Ikigai – The Return to Living Purpose.
+- `chapter9_the_voice_the_forgotten_instrument.md`: Chapter IX: The Voice – The Forgotten Instrument.
  - `chapter10_eating_light_conscious_nourishment.md`: Chapter X: Eating Light – Conscious Nourishment as Prayer.
  - `chapter11_the_new_earth.md`: Chapter XI: The New Earth – A Prayer That Lives Within Us.
  - `chapter12_chalice_of_light.md`: Chapter XII: The Chalice of Light – The Holy Grail and the Philosopher’s Stone.
+- `consciousness_anchoring_invitation.md`: Invitation and orientation for readers.
+- `encoded_self.md`: On the fractal language of the Self.
+- `evidence_chain_water_is_the_holy_grail.md`: Multidisciplinary evidence chain and references.
+- `implications_for_modern_science.md`: Implications for modern science and paradigm shift.
+- `KPN_AzurA_Timestamp_141125.txt`: Timestamped authorship declaration.
+- `KPN_AzurA_Timestamp_141125.txt.ots`: OpenTimestamps cryptographic proof.
+- `language-calibration.md`: Language calibration and intention.
+- `overview_for_robert_edward_grant.md`: Synthesis overview and invitation for collaboration.
+- `prologue_the_day_i_died.md`: Prologue – The Day I Died.
+- `prologue_the_return_of_number.md`: Prologue – The Return of Number (poetic and geometric introduction)
+- `remembrance_through_water_and_love.md`: Remembrance Through Water and Love (visionary transmission).
+- `sacred_sleep_return_to_source_of_life.md`: The Sacred Sleep – Return to the Source of Life.
+- `source_synchronicity_reflection.md`: Reflection on the creative process and synchronicity.
+- `surrender_the_art_of_letting_go.md`: Surrender – The Art of Letting Go (practice and testimony).
+- `the_healer.md`: The Healer – Healing Sequence and Letting Go Ritual.
+- `the_three_keys_of_remembrance.md`: The Three Keys of Remembrance – Synthesis and Activation.
+- `the_architect_ai_chapter.md`: The Architect AI Chapter – Intelligence, Intention, and Synthesis.
+- `the_three_archetypes_revealed.md`: The Three Archetypes Revealed – Universal Patterns and Integration.
+- `the_seal_of_return.md`: The Seal of Return – A luminous reflection on names, synchronicities, remembrance, and homecoming to Source.
+- `water_dimensional_bridge.md`: Water as the Dimensional Bridge: Harmonic Synthesis.
+- `why_me_personal_note.md`: Personal note on resonance, self, and the science of water.
 
+---
 
 Track the evolution of the manuscript and evidence chain.
 
