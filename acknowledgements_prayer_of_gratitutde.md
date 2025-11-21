@@ -72,6 +72,8 @@ gentle and clear,
 your path led me to Akram Vignan,
 the science of the Self.
 
+✧ MAHATMAS
+
 Susanne,
 your heart is a spring of living water.
 You were the first
