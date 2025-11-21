@@ -23,6 +23,7 @@ To unite mathematics, biophysics, quantum theory, and spiritual wisdom in a livi
 
 Begin your exploration here:
 The Great Synthesis — Expanded: [`the_great_synthesis_expanded.md`](./the_great_synthesis_expanded.md) *(Schauberger-integrated, maximally complete version)*
+- The Path of the Middle: [`the_path_of_the_middle.md`](./the_path_of_the_middle.md) *(Balance, joy, purpose, service, and water)*
 - Chapter 1: [`chapter1_my_journey_spiritual_science.md`](./chapter1_my_journey_spiritual_science.md)
 - Chapter 2: [`chapter2_the_water_of_life.md`](./chapter2_the_water_of_life.md)
 - Chapter 3: [`chapter3_the_wound_that_becomes_light.md`](./chapter3_the_wound_that_becomes_light.md)
