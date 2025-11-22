@@ -93,6 +93,9 @@ Each file is listed with its energetic function. The order follows the temple pa
    The maximally complete, Schauberger-integrated synthesis of mathematics, consciousness, water, vortex intelligence, and remembrance. Serves as a capstone to the spiritual architecture and a bridge to purpose.
 
 
+`chapter_fractal_eye.md`  
+    The Fractal Eye—altered states, pattern recognition, and the language of light. How perception, geometry, and consciousness reveal the hidden architecture of reality and the pattern-seer’s gift.
+
 ### Poetic Pillar — The Universal Journey
 `chapter_divine_comedy_and_the_heroic_path_of_water.md`  
     The Divine Comedy, the Hero’s Journey, and the Elixir of Living Water—an initiatic, poetic synthesis of Dante, Campbell, and the soul’s ascension arc. A bridge between myth, science, and awakening.

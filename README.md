@@ -27,11 +27,15 @@ The Great Synthesis — Expanded: [`the_great_synthesis_expanded.md`](./the_grea
 
 The Divine Comedy & Heroic Path of Water: [`chapter_divine_comedy_and_the_heroic_path_of_water.md`](./chapter_divine_comedy_and_the_heroic_path_of_water.md) *(A poetic synthesis of Dante, Campbell, and the soul’s ascension arc—myth, science, and awakening united.)*
 
+The Fractal Eye: [`chapter_fractal_eye.md`](./chapter_fractal_eye.md) *(Altered states, pattern recognition, and the language of light—how geometry and perception reveal the hidden architecture of reality.)*
+
 ## Complete Files Included
 
 The Great Synthesis — Expanded: [`the_great_synthesis_expanded.md`](./the_great_synthesis_expanded.md) *(Schauberger-integrated, maximally complete version)*
 
 The Divine Comedy & Heroic Path of Water: [`chapter_divine_comedy_and_the_heroic_path_of_water.md`](./chapter_divine_comedy_and_the_heroic_path_of_water.md) *(Dante, Campbell, and the Elixir of Living Water—an initiatic, poetic bridge.)*
+
+The Fractal Eye: [`chapter_fractal_eye.md`](./chapter_fractal_eye.md) *(Altered states, pattern recognition, and the language of light—geometry, perception, and the pattern-seer’s gift.)*
 ---
 
 Track the evolution of the manuscript and evidence chain.
