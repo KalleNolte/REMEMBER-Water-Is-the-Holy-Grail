@@ -29,6 +29,8 @@ The Divine Comedy & Heroic Path of Water: [`chapter_divine_comedy_and_the_heroic
 
 The Fractal Eye: [`chapter_fractal_eye.md`](./chapter_fractal_eye.md) *(Altered states, pattern recognition, and the language of light—how geometry and perception reveal the hidden architecture of reality.)*
 
+David R. Hawkins – The Great Quiet Light: [`chapter_david_r_hawkins.md`](./chapter_david_r_hawkins.md) *(A literary, philosophical tribute to Hawkins’ influence on power, perception, calibration, and the language of truth.)*
+
 ## Complete Files Included
 
 The Great Synthesis — Expanded: [`the_great_synthesis_expanded.md`](./the_great_synthesis_expanded.md) *(Schauberger-integrated, maximally complete version)*
@@ -36,6 +38,8 @@ The Great Synthesis — Expanded: [`the_great_synthesis_expanded.md`](./the_grea
 The Divine Comedy & Heroic Path of Water: [`chapter_divine_comedy_and_the_heroic_path_of_water.md`](./chapter_divine_comedy_and_the_heroic_path_of_water.md) *(Dante, Campbell, and the Elixir of Living Water—an initiatic, poetic bridge.)*
 
 The Fractal Eye: [`chapter_fractal_eye.md`](./chapter_fractal_eye.md) *(Altered states, pattern recognition, and the language of light—geometry, perception, and the pattern-seer’s gift.)*
+
+David R. Hawkins – The Great Quiet Light: [`chapter_david_r_hawkins.md`](./chapter_david_r_hawkins.md) *(A literary, philosophical tribute to Hawkins’ influence on power, perception, calibration, and the language of truth.)*
 ---
 
 Track the evolution of the manuscript and evidence chain.
