@@ -102,6 +102,9 @@ Each file is listed with its energetic function. The order follows the temple pa
 `chapter_miyamoto_musashi.md`  
    Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind. A tribute to Musashi’s teachings on discipline, emptiness, perception, and mastery—integrating Eastern wisdom with the book’s synthesis of coherence and consciousness.
 
+`chapter_origins_of_japanese_water_science.md`  
+   The Origins of the Water Science — A tribute to Japan’s living water lineage, the pioneers of Kangen, and a scientifically precise explanation of ionization. Clean truth, poetic resonance, and the bridge between science and meaning.
+
 ### Poetic Pillar — The Universal Journey
 `chapter_divine_comedy_and_the_heroic_path_of_water.md`  
     The Divine Comedy, the Hero’s Journey, and the Elixir of Living Water—an initiatic, poetic synthesis of Dante, Campbell, and the soul’s ascension arc. A bridge between myth, science, and awakening.

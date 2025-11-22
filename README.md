@@ -33,6 +33,8 @@ David R. Hawkins – The Great Quiet Light: [`chapter_david_r_hawkins.md`](./cha
 
 Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind: [`chapter_miyamoto_musashi.md`](./chapter_miyamoto_musashi.md) *(A tribute to Musashi’s teachings on discipline, emptiness, perception, and mastery—integrating Eastern wisdom with the book’s synthesis of coherence and consciousness.)*
 
+The Origins of the Water Science: [`chapter_origins_of_japanese_water_science.md`](./chapter_origins_of_japanese_water_science.md) *(A tribute to Japan’s living water lineage, the pioneers of Kangen, and a scientifically precise explanation of ionization. Clean truth, poetic resonance, and the bridge between science and meaning.)*
+
 ## Complete Files Included
 
 The Great Synthesis — Expanded: [`the_great_synthesis_expanded.md`](./the_great_synthesis_expanded.md) *(Schauberger-integrated, maximally complete version)*
@@ -44,6 +46,8 @@ The Fractal Eye: [`chapter_fractal_eye.md`](./chapter_fractal_eye.md) *(Altered 
 David R. Hawkins – The Great Quiet Light: [`chapter_david_r_hawkins.md`](./chapter_david_r_hawkins.md) *(A literary, philosophical tribute to Hawkins’ influence on power, perception, calibration, and the language of truth.)*
 
 Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind: [`chapter_miyamoto_musashi.md`](./chapter_miyamoto_musashi.md) *(A tribute to Musashi’s teachings on discipline, emptiness, perception, and mastery—integrating Eastern wisdom with the book’s synthesis of coherence and consciousness.)*
+
+The Origins of the Water Science: [`chapter_origins_of_japanese_water_science.md`](./chapter_origins_of_japanese_water_science.md) *(A tribute to Japan’s living water lineage, the pioneers of Kangen, and a scientifically precise explanation of ionization. Clean truth, poetic resonance, and the bridge between science and meaning.)*
 ---
 
 Track the evolution of the manuscript and evidence chain.
