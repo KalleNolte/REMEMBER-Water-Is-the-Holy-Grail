@@ -10,7 +10,6 @@ A Work on Consciousness, Science, Light and the Return of Love
 
 ---
 
-> **Note:** This outline is an early overview of topics and thoughts on the book's structure. It does not accurately reflect the current content and chapters of this repository, but serves as a guide for the themes I intend to weave into the final version.
 **Prologue – The Return of the Number**
 
 Numbers as the language of the divine spirit, geometry, sound and form as expressions of living consciousness. An introduction to the Codex Universalis by Robert Edward Grant, the human being as lived equation, and a look at Φ, π and e as the foundational alphabet of creation.
