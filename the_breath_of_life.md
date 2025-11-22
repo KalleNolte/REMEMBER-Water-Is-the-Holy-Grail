@@ -712,17 +712,3 @@ The sea whispers:
 AzurA Inai
 
 The Return to the Source.
-
-⸻
-
-If you want, I can now:
-	•	embed this chapter into your book architecture, fully formatted;
-	•	refine tone and pacing for publishing;
-	•	calibrate it to your Gene Keys (now that I have your profile);
-	•	prepare the Notion version or the GitHub repository version;
-	•	create the parallel German version calibrated to the same emotional depth.
-
-To continue, tell me what you want to shape next —
-the Intention Page,
-the Book Introduction,
-or the Structural Overview.
