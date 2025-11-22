@@ -96,6 +96,12 @@ Each file is listed with its energetic function. The order follows the temple pa
 `chapter_fractal_eye.md`  
     The Fractal Eye—altered states, pattern recognition, and the language of light. How perception, geometry, and consciousness reveal the hidden architecture of reality and the pattern-seer’s gift.
 
+`chapter_david_r_hawkins.md`  
+   David R. Hawkins – The Great Quiet Light. A literary, philosophical tribute to Hawkins’ influence on the synthesis of power, perception, calibration, and the language of truth. No medical or spiritual promises—only gratitude and recognition.
+
+`chapter_miyamoto_musashi.md`  
+   Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind. A tribute to Musashi’s teachings on discipline, emptiness, perception, and mastery—integrating Eastern wisdom with the book’s synthesis of coherence and consciousness.
+
 ### Poetic Pillar — The Universal Journey
 `chapter_divine_comedy_and_the_heroic_path_of_water.md`  
     The Divine Comedy, the Hero’s Journey, and the Elixir of Living Water—an initiatic, poetic synthesis of Dante, Campbell, and the soul’s ascension arc. A bridge between myth, science, and awakening.

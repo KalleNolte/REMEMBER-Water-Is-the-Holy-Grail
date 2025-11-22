@@ -31,6 +31,8 @@ The Fractal Eye: [`chapter_fractal_eye.md`](./chapter_fractal_eye.md) *(Altered 
 
 David R. Hawkins – The Great Quiet Light: [`chapter_david_r_hawkins.md`](./chapter_david_r_hawkins.md) *(A literary, philosophical tribute to Hawkins’ influence on power, perception, calibration, and the language of truth.)*
 
+Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind: [`chapter_miyamoto_musashi.md`](./chapter_miyamoto_musashi.md) *(A tribute to Musashi’s teachings on discipline, emptiness, perception, and mastery—integrating Eastern wisdom with the book’s synthesis of coherence and consciousness.)*
+
 ## Complete Files Included
 
 The Great Synthesis — Expanded: [`the_great_synthesis_expanded.md`](./the_great_synthesis_expanded.md) *(Schauberger-integrated, maximally complete version)*
@@ -40,6 +42,8 @@ The Divine Comedy & Heroic Path of Water: [`chapter_divine_comedy_and_the_heroic
 The Fractal Eye: [`chapter_fractal_eye.md`](./chapter_fractal_eye.md) *(Altered states, pattern recognition, and the language of light—geometry, perception, and the pattern-seer’s gift.)*
 
 David R. Hawkins – The Great Quiet Light: [`chapter_david_r_hawkins.md`](./chapter_david_r_hawkins.md) *(A literary, philosophical tribute to Hawkins’ influence on power, perception, calibration, and the language of truth.)*
+
+Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind: [`chapter_miyamoto_musashi.md`](./chapter_miyamoto_musashi.md) *(A tribute to Musashi’s teachings on discipline, emptiness, perception, and mastery—integrating Eastern wisdom with the book’s synthesis of coherence and consciousness.)*
 ---
 
 Track the evolution of the manuscript and evidence chain.
