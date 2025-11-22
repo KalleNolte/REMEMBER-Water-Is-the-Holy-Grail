@@ -52,7 +52,6 @@ Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind: [
 The Origins of the Water Science: [`chapter_origins_of_japanese_water_science.md`](./chapter_origins_of_japanese_water_science.md) *(A tribute to Japan’s living water lineage, the pioneers of Kangen, and a scientifically precise explanation of ionization. Clean truth, poetic resonance, and the bridge between science and meaning.)*
 
 The German Lineage — Keepers of the Inner Light: [`chapter_german_lineage_inner_light.md`](./chapter_german_lineage_inner_light.md) *(A poetic, contemplative tribute to Goethe, Mann, and Jung as architects of inwardness and bridges between Western philosophy, depth psychology, and the path of remembrance.)*
----
 
 Track the evolution of the manuscript and evidence chain.
 
