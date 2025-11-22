@@ -35,6 +35,8 @@ Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind: [
 
 The Origins of the Water Science: [`chapter_origins_of_japanese_water_science.md`](./chapter_origins_of_japanese_water_science.md) *(A tribute to Japan’s living water lineage, the pioneers of Kangen, and a scientifically precise explanation of ionization. Clean truth, poetic resonance, and the bridge between science and meaning.)*
 
+The German Lineage — Keepers of the Inner Light: [`chapter_german_lineage_inner_light.md`](./chapter_german_lineage_inner_light.md) *(A poetic, contemplative tribute to Goethe, Mann, and Jung as architects of inwardness and bridges between Western philosophy, depth psychology, and the path of remembrance.)*
+
 ## Complete Files Included
 
 The Great Synthesis — Expanded: [`the_great_synthesis_expanded.md`](./the_great_synthesis_expanded.md) *(Schauberger-integrated, maximally complete version)*
@@ -48,6 +50,8 @@ David R. Hawkins – The Great Quiet Light: [`chapter_david_r_hawkins.md`](./cha
 Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind: [`chapter_miyamoto_musashi.md`](./chapter_miyamoto_musashi.md) *(A tribute to Musashi’s teachings on discipline, emptiness, perception, and mastery—integrating Eastern wisdom with the book’s synthesis of coherence and consciousness.)*
 
 The Origins of the Water Science: [`chapter_origins_of_japanese_water_science.md`](./chapter_origins_of_japanese_water_science.md) *(A tribute to Japan’s living water lineage, the pioneers of Kangen, and a scientifically precise explanation of ionization. Clean truth, poetic resonance, and the bridge between science and meaning.)*
+
+The German Lineage — Keepers of the Inner Light: [`chapter_german_lineage_inner_light.md`](./chapter_german_lineage_inner_light.md) *(A poetic, contemplative tribute to Goethe, Mann, and Jung as architects of inwardness and bridges between Western philosophy, depth psychology, and the path of remembrance.)*
 ---
 
 Track the evolution of the manuscript and evidence chain.

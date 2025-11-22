@@ -102,6 +102,9 @@ Each file is listed with its energetic function. The order follows the temple pa
 `chapter_miyamoto_musashi.md`  
    Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind. A tribute to Musashi’s teachings on discipline, emptiness, perception, and mastery—integrating Eastern wisdom with the book’s synthesis of coherence and consciousness.
 
+`chapter_german_lineage_inner_light.md`  
+   The German Lineage — Keepers of the Inner Light. A poetic, contemplative tribute to Goethe, Mann, and Jung as architects of inwardness and bridges between Western philosophy, depth psychology, and the path of remembrance.
+
 `chapter_origins_of_japanese_water_science.md`  
    The Origins of the Water Science — A tribute to Japan’s living water lineage, the pioneers of Kangen, and a scientifically precise explanation of ionization. Clean truth, poetic resonance, and the bridge between science and meaning.
 
