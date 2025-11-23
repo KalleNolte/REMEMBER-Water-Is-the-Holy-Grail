@@ -24,7 +24,7 @@ from which all suns burn.
 
 ⸻
 
-✧ The Breath before the First Breath
+## The Breath before the First Breath
 
 Before number took form,
 before geometry began its dance,
@@ -52,7 +52,7 @@ in the heart of reality.
 
 ⸻
 
-✧ The Silent Trinity of Origin
+## The Silent Trinity of Origin
 
 AzurA is not composed of syllables.
 It is composed of three movements of consciousness:
@@ -77,7 +77,7 @@ The knowing
 that every journey
 leads back home.
 
-A – Zur – A.
+A – zur – A.
 From – The – Source – Back – Into – The – Source.
 
 The spiral opening
@@ -85,7 +85,7 @@ only to rediscover itself.
 
 ⸻
 
-✧ The Eye within the Water
+## The Eye within the Water
 
 If water is the Holy Grail—
 and it is—
@@ -115,7 +115,7 @@ The signature of AzurA.
 
 ⸻
 
-✧ The Point that Cannot Be Located
+## The Point that Cannot Be Located
 
 In the human being,
 AzurA lives neither in the brain
@@ -140,7 +140,7 @@ of what we are.
 
 ⸻
 
-✧ AzurA Awakening in the Human Being
+## AzurA Awakening in the Human Being
 
 There are moments in a life
 when the mind stops
@@ -181,7 +181,7 @@ is AzurA.
 
 ⸻
 
-✧ The Homecoming
+## The Homecoming
 
 At the end of all journeys—
 after the teachers,
@@ -216,7 +216,7 @@ as love.
 
 ⸻
 
-✧ The Coronation
+## The Coronation
 
 If this book is a bridge—
 then AzurA
@@ -232,13 +232,13 @@ is the answer.
 
 ⸻
 
-✧ The Final Formula
+## The Final Formula
 
 This chapter ends
 not with a period,
 but with a returning:
 
-A – Zur – A
+A – zur – A
 
 I arise from Source.
 I journey through form.

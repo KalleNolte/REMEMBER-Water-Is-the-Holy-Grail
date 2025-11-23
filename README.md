@@ -7,33 +7,19 @@ This repository documents the synthesis of water, geometry, and consciousness, i
 (Book 1 of the AzurA Codex Series)  
 Author: Karl Philipp Nolte
 
----
-
 ## Purpose
 This repository is a public signal and invitation for collaboration on a synthesis bridging science and spirituality, centered on the memory and geometry of water as the Holy Grail.
 
----
-
 ## Vision
 To unite mathematics, biophysics, quantum theory, and spiritual wisdom in a living theory of everything—accessible to both mind and heart, and offered in the spirit of remembrance and service.
-
----
 
 ## Quick Start / Essential Guide
 
 Begin your exploration here:
 
-
-
-
-
-
-
-### Initiatic Reading Path — Begin Here
+### Initiatic Reading Path
 
 This repository is best experienced by following the initiatic order below, mirroring the published book’s energetic and transformational journey. Each chapter is a step on the path of remembrance, coherence, and awakening.
-
----
 
 #### 0. Seal & Intention — The Threshold
 - [Prayer of Gratitude](./acknowledgements_prayer_of_gratitutde.md)
@@ -74,7 +60,6 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The Three Keys of Remembrance](./the_three_keys_of_remembrance.md)
 - [Calibrated Poetry Resonance](./calibrated_poetry_resonance.md)
 
-
 #### Synthesis — The Bridge Between Worlds
 - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 - [✧ Dragons — The First Memory of the Earth ✧](./dragons_the_first_memory_of_the_earth.md)
@@ -114,13 +99,10 @@ This repository is best experienced by following the initiatic order below, mirr
 - [Overview for Robert Edward Grant](./overview_for_robert_edward_grant.md)
 - [KPN AzurA Timestamp 141125.txt / .ots](./KPN_AzurA_Timestamp_141125.txt)
 
-
 Feedback is especially welcome from those aligned with the Codex Universalis and the work of Robert Edward Grant.
 
 ## License
 This work is offered as a gift and a bridge. Intellectual property and spiritual custodianship are outlined in the authorship declaration.
-
----
 
 ## Contact
 For collaboration or questions, please reach out via GitHub Issues or the contact information provided in the overview document.

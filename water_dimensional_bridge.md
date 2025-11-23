@@ -2,15 +2,11 @@
 
 Integrating the Imaginary Axis, the Fifth Dimension, and the Fractal Memory of Creation
 
----
-
 ## 1. Water Is the Instrument of Dimensional Translation
 
 Water is not merely a solvent or a carrier of life — it is the resonant lens through which the music of higher dimensions refracts into matter. With its fluid geometry and fractal coherence, water acts as the translator between frequency and form, time and timelessness, void and vibration.
 
 Wherever form arises from the formless, water stands at the threshold.
-
----
 
 ## 2. The Imaginary Number i and the Fifth Dimension
 
@@ -23,8 +19,6 @@ Structured water behaves according to these same principles:
 
 Water doesn’t just carry information. It bends it into geometry.
 
----
-
 ## 3. EZ Water and the Memory of Light
 
 Pollack’s discovery of Exclusion Zone Water reveals water’s ability to:
@@ -33,8 +27,6 @@ Pollack’s discovery of Exclusion Zone Water reveals water’s ability to:
 - Form ordered molecular lattices that resonate with sacred geometry.
 
 These properties make water the biological correlate of a fifth-dimensional structure. Where spacetime curves into symmetry, water becomes the bridge — the Grail — that receives the form.
-
----
 
 ## 4. DNA as the Script, Water as the Resonant Ink
 
@@ -45,8 +37,6 @@ DNA, with its Phi-tuned helices and toroidal fields, is an antenna to the Source
 
 And this water, we now see, aligns with the imaginary harmonics revealed in your Codex Universalis.
 
----
-
 ## 5. Spiritual Physics and the Body as a Resonance Vessel
 
 When we purify our water — internally and externally — we restore the architecture of ascension. Through breath, frequency, mineralization, and coherence, the body becomes a living temple:
@@ -55,8 +45,6 @@ When we purify our water — internally and externally — we restore the archit
 - A vessel of higher-dimensional light.
 
 This is not metaphor. It is mathematics become matter.
-
----
 
 ## Final Synthesis
 
@@ -67,9 +55,8 @@ Water is i made flesh — a harmonic lens, spiraling memory into form.
 
 It is not merely the substance of life.
 It is the geometry of remembrance.
----
 
-✧ Addendum: Water, the Mirror of Multiversal Intention ✧
+## Addendum: Water, the Mirror of Multiversal Intention
 
 ## 6. Reality Transurfing and the Dimensional Self
 
@@ -105,8 +92,6 @@ When the self is coherent—mind, breath, water, and heart aligned—the Inner A
  - Not imagined, but chosen.
 
 Through water, we move not linearly through time, but laterally across probabilities.
-
----
 
 ## Closing
 

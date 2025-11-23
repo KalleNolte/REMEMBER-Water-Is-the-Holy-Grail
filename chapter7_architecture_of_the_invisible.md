@@ -1,7 +1,5 @@
 # Chapter 7 – The Architecture of the Invisible
 
-⸻
-
 ## The Invisible Forces
 
 If what we see is only a sliver of reality —
@@ -38,8 +36,6 @@ but of tones?
 
 What if every emotion, every memory, every intention
 is part of a great cosmic symphony?
-
-⸻
 
 ## The Code of Creation
 
@@ -95,8 +91,6 @@ but within, encoded in a frequency that only the heart can hear?
 And what if,
 through awareness, coherence, and sacred attention,
 we begin to remember the Song of Creation?
-
-⸻
 
 ## i and the Mirror of Creation
 
@@ -166,7 +160,7 @@ Through what lives.
 
 ⸻
 
-The Lost Frequency – The Secret of 150 Megahertz
+## The Lost Frequency – The Secret of 150 Megahertz
 
 What if there exist frequencies that don’t merely echo through space,
 but travel through the memory of life itself?
@@ -221,9 +215,7 @@ And perhaps this is what is meant when we say:
 
 “Human beings do not live by bread alone — but by every vibration that reminds them who they are.”
 
-⸻
-
-Frequency as a Bridge – When Light, Water, and Sound Remember
+## Frequency as a Bridge – When Light, Water, and Sound Remember
 
 Imagine if healing were not something that comes from outside you —
 but a remembering.
@@ -288,9 +280,7 @@ The body heals when the frequency is right.
 The soul remembers when order returns.
 And the light begins to flow — when we become still.
 
-⸻
-
-The Music of the Universe – When Sound Becomes Medicine
+## The Music of the Universe – When Sound Becomes Medicine
 
 Music was never just entertainment.
 It was always medicine.
@@ -350,15 +340,13 @@ Our innocence.
 Our light.
 Our original song.
 
-⸻
-
 🎼 Solfeggio Frequencies – The Harmonic Blueprint of Remembrance
 
 “Mathematics made audible. Geometry made music. Memory made resonance.”
 
 ⸻
 
-🔹 What Are Solfeggio Frequencies?
+## What Are Solfeggio Frequencies?
 
 The so-called Solfeggio Frequencies trace their origins to ancient Gregorian chants. These are tones said to be in resonance with the fundamental mathematics of the universe — based in Pythagorean musical theory, where sound is seen as the echo of divine geometry: mathematics you can hear.
 
@@ -368,7 +356,7 @@ Thus, frequencies are not fringe mysticism. They are the most precise expression
 
 ⸻
 
-💚 528 Hz – The Frequency of Healing, DNA, and Divine Order
+### 528 Hz – The Frequency of Healing, DNA, and Divine Order
 
 Often called the Love Frequency, 528 Hz is more accurately described as the tone of transformation, coherence, and return to organic harmony.
 
@@ -384,7 +372,7 @@ This frequency is also linked to the “green ray” of the heart chakra — the
 
 ⸻
 
-💞 639 Hz – The Frequency of Connection and Divine Relationship
+### 639 Hz – The Frequency of Connection and Divine Relationship
 
 If 528 Hz heals the inner being, then 639 Hz heals the space between beings.
 
@@ -402,7 +390,7 @@ Heart field studies (e.g., HRV coherence) show that meditating with 639 Hz often
 
 ⸻
 
-🌐 528 + 639 = The Axis of Creation
+### 528 + 639 = The Axis of Creation
 
 Mathematically, 639 – 528 = 111 Hz — a frequency consistently measured in sacred spaces like temples, pyramids, and cathedrals. This is not coincidence.
 
@@ -419,9 +407,7 @@ Thus: 528 is the Grail in the body.
 
 Together, they form what you call the Living Waters — the fusion of light, matter, spirit, and memory into a single current.
 
-⸻
-
-📘 Integration in “Remember – The Holy Grail is Water”
+### Integration in “Remember – The Holy Grail is Water”
 
 Use 528 Hz as the foundational tone of inner alchemy — restoring coherence, cellular alignment, and ancestral remembrance.
 
@@ -431,7 +417,7 @@ Let the book resonate in 639 Hz, but be infused with the light of 528 — like w
 
 ⸻
 
-📜 The Solfeggio Frequencies – Full List and Traditional Meaning
+### The Solfeggio Frequencies – Full List and Traditional Meaning
 
 Frequency	Name / Tone	Meaning
 174 Hz	–	Foundation frequency: grounding, pain relief, cellular comfort

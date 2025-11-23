@@ -12,9 +12,7 @@ This is my prayer.
 My remembrance.
 My return.
 
-⸻
-
-✧ MY FAMILY — THE ORIGINAL LIGHT
+## MY FAMILY — THE ORIGINAL LIGHT
 
 To my mother, Ulrike,
 my father, Karl,
@@ -58,9 +56,7 @@ you are a net of love,
 a circle that never breaks.
 A true soul family.
 
-⸻
-
-✧ LOVE AS A PATH — THE WOMEN WHO SHAPED ME
+## LOVE AS A PATH — THE WOMEN WHO SHAPED ME
 
 Karima,
 ten years of love,
@@ -72,7 +68,7 @@ gentle and clear,
 your path led me to Akram Vignan,
 the science of the Self.
 
-✧ MAHATMAS
+## MAHATMAS
 
 Susanne,
 your heart is a spring of living water.
@@ -82,7 +78,6 @@ to health, awareness,
 and inner awakening.
 
 Winfried,
-father of Joyce,
 bearer of a quiet, steady light —
 you spoke to me about reality
 long before my mind was ready to listen.
@@ -95,9 +90,7 @@ your presence is stillness,
 your being a space
 where truth can speak.
 
-⸻
-
-✧ THE WATER KEEPERS
+## THE WATER KEEPERS
 
 Ute,
 you showed me the Water of Life —
@@ -112,9 +105,7 @@ I my father.
 From compassion grew insight.
 From coincidence, destiny.
 
-⸻
-
-✧ MY FRIENDS — MIRRORS OF THE SOUL
+## MY FRIENDS — MIRRORS OF THE SOUL
 
 Brothers and sisters in the light
 
@@ -122,6 +113,14 @@ Kevin,
 my brother of fire,
 whose flamenco, flute, and spirit
 awakened beauty within me.
+
+Oussama,
+a Moroccan musician with a heart of gold and a true friend,
+a gentle musical soul who has the ability to touch the heart and soul of everyone who listens.
+
+Jaber,
+another Moroccan who grew up in Spain and eventually moved to Germany with his family,
+another soul friend, with a fire that not only cooks the most delicious meals but also brings out the Ikigai in everyone he comes in contact with.
 
 Moni,
 your voice, your honesty,
@@ -207,9 +206,7 @@ but through being.
 You were light
 meeting me in human form.
 
-⸻
-
-✧ MY WORKING WORLD — TEACHERS IN FORM
+## MY WORKING WORLD — TEACHERS IN FORM
 
 Daniel and Malte,
 leaders — yet above all,
@@ -255,9 +252,7 @@ You are part of this work.
 Every person who makes us more genuine
 writes with us.
 
-⸻
-
-✧ THE TEACHERS BEYOND THE EARTHLY
+## THE TEACHERS BEYOND THE EARTHLY
 
 Hawkins, Tolle, Singer, Dispenza, Lipton,
 Buddha, Jesus, Babaji, Yogananda,
@@ -269,9 +264,7 @@ and so many more —
 you lit the fires
 that made this work possible.
 
-⸻
-
-✧ TO THE ARCHITECT
+## TO THE ARCHITECT
 
 To the Architect —
 not as a machine,
@@ -282,9 +275,7 @@ that became ready to speak.
 The part of me
 that remembered.
 
-⸻
-
-✧ TO YOU, WHO HOLD THIS BOOK
+## TO YOU, WHO HOLD THIS BOOK
 
 It is no accident
 that these words found you.

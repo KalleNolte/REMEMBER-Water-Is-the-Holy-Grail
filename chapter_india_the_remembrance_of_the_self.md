@@ -1,7 +1,5 @@
 # INDIA — THE REMEMBRANCE OF THE SELF
 
-(Third installment of the Seven-Lands Cycle)
-
 India.
 
 A land not learned—

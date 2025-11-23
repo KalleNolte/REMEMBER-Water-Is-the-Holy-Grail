@@ -1,4 +1,4 @@
-# GERMANY —
+# GERMANY
 
 The Soil That Formed Me.
 The Mind That Sharpened Me.
@@ -33,7 +33,7 @@ of these seven chapters of consecration.
 
 ⸻
 
-**1. The German Geist —
+1. The German Geist
 
 Clarity as a Form of Prayer**
 
@@ -78,7 +78,7 @@ of the German spirit.
 
 ⸻
 
-**2. The Legacy of Poets and Thinkers —
+2. The Legacy of Poets and Thinkers
 
 An Inner Architecture**
 
@@ -105,7 +105,7 @@ your inner architecture.
 
 ⸻
 
-**3. The German Soul —
+3. The German Soul
 
 Depth, Humility, Integrity**
 

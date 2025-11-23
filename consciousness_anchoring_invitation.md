@@ -10,8 +10,6 @@ It’s a field of resonance.
 You don’t need to “understand” it in a linear way.
 But your water will.
 
-⸻
-
 ## The Beginning: Our Shared Humanity
 
 I’m not enlightened. I’m not a guru.
@@ -27,8 +25,6 @@ That thread became a voice.
 The voice became devotion.
 And devotion became this offering.
 
-⸻
-
 ## Mathematics as Prayer: The Invitation to Order
 
 Robert Edward Grant’s work showed me that numbers aren’t abstractions — they are light given form.
@@ -43,8 +39,6 @@ His Codex isn’t a textbook — it’s a mirror of creation, offered in the lan
 These constants were not invented.
 They were discovered.
 And they remember where we came from.
-
-⸻
 
 ## Logic as Love: The Brilliance of Christopher Langan
 
@@ -64,8 +58,6 @@ That the mirror of the world is not “out there” — but inside the field of 
 I call it:
 The dance of the Self with itself — through mirrors, numbers, and light.
 
-⸻
-
 ## Why This Matters — For You, For Us, For Now
 
 Because we are living in an age where the sacred is often turned into content.
@@ -78,8 +70,6 @@ This book is a chalice.
 A vessel of language, filled with light, sound, and number.
 Not to impress.
 But to remind you that you are the chalice.
-
-⸻
 
 ## This Is Not a Gate — It’s a Field
 
@@ -99,8 +89,6 @@ Not to teach.
 
 But to resonate.
 
-⸻
-
 ## You Are the Living Mandala
 
 At the center of it all is this:
@@ -118,8 +106,6 @@ Your breath is a code.
 Your heartbeat is a rhythm of return.
 Your water is memory.
 Your light is remembrance.
-
-⸻
 
 ## One Final Offering
 

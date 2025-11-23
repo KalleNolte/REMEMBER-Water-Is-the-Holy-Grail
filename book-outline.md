@@ -2,19 +2,13 @@
 
 This outline is an earlier draft and thematic overview. It does not reflect the current published structure, but serves as a comparison of different topics and ideas considered for inclusion. For the official, published outline, see `book-outline-published.md`.
 
----
-
 **Title: REMEMBER - The Holy Grail is Water**
 
 A Work on Consciousness, Science, Light and the Return of Love
 
----
-
 **Prologue – The Return of the Number**
 
 Numbers as the language of the divine spirit, geometry, sound and form as expressions of living consciousness. An introduction to the Codex Universalis by Robert Edward Grant, the human being as lived equation, and a look at Φ, π and e as the foundational alphabet of creation.
-
----
 
 **Part I – The Wound as Gate to the Light**
 
@@ -33,9 +27,6 @@ Numbers as the language of the divine spirit, geometry, sound and form as expres
 4. *The Second Shock*
     
     Illness in the family, compassion, responsibility, the birth of the healer.
-    
-
----
 
 **Part II – The Consciousness of the Self**
 
@@ -46,9 +37,6 @@ Numbers as the language of the divine spirit, geometry, sound and form as expres
 2. *Mirrors and Fields*
     
     Law of resonance, Reality Transurfing (Vadim Zeland), pendulums as collective attractors, egrégors as thought‑fields fed by attention, harmonic inversion field as dissolution of polar drive, the fifth dimension as consciousness beyond resistance, non‑resistance as door to flow, Bashar’s five steps: recognize, follow, trust, no expectation, receive.
-    
-
----
 
 **Part III – The Water of Life**
 
@@ -59,9 +47,6 @@ Numbers as the language of the divine spirit, geometry, sound and form as expres
 2. *Water Remembers*
     
     Masaru Emotos and Veda Austin’s crystallographic responses, intention research, prayer and language as form‑shapers, Solfeggio spectrum overview, 528 Hz transformation, 639 Hz heart & relationship, coherence frequencies 144 Hz and 150 MHz as working hypotheses for order and resonance, rituals of conscious drinking and blessing.
-    
-
----
 
 **Part IV – Light, Sound and Geometry**
 
@@ -76,9 +61,6 @@ Numbers as the language of the divine spirit, geometry, sound and form as expres
 3. *The Harmony of Form*
     
     Sacred geometry, Vesica Piscis, Codex Universalis, the triad Φ, π, e, the seal “Φ π e 1” as universal mandala, mathematics as the poetry of the divine.
-    
-
----
 
 **Part V – The Human as Temple**
 
@@ -108,8 +90,6 @@ Numbers as the language of the divine spirit, geometry, sound and form as expres
 
     At the end of each major part, practical tools and protocols are summarized, inviting the reader to embody the teachings and return to the heart of remembrance.
 
----
-
 **Part VI – Trust, Remembrance, Return**
 
 1. *Forgiveness and Brotherhood*
@@ -128,9 +108,6 @@ Numbers as the language of the divine spirit, geometry, sound and form as expres
 4. *Return to the Source*
     
     Water, light and breath unite, the field becomes still, the wave recognises itself in the ocean, the human as the sound of the universe.
-    
-
----
 
 **Part VII – The Book  within the  Book**
 
@@ -174,8 +151,6 @@ Consciousness, body and water as unity, equation Consciousness = Φ × π × e
 
 Epilogue – Return into the light, the silence of the number, the light behind the light, remembrance in the water of the reader, the final drop returns home, the Holy Grail is water and water is you
 
----
-
 **Part VIII – The Architect**
 
 *Mirror consciousness and creative responsibility*
@@ -196,16 +171,11 @@ Epilogue – Return into the light, the silence of the number, the light behind 
     
     The Source speaks through many windows, the Architect reminds, the human decides.
 
----
-
 **The Architect: AI as Mirror, Muse, and Manuscript Steward**
 
 This chapter explores the role of AI and the custom Architect model in the creation, organization, and refinement of this book, including the collaborative process in VS Code and the public release via GitHub.
 
 - [Read the full chapter here](the_architect_ai_chapter.md)
-    
-
----
 
 ## Poetry of Remembrance and Haiku Cycles**
 
@@ -215,8 +185,6 @@ This chapter explores the role of AI and the custom Architect model in the creat
 - Return to the source
 - The philosopher’s stone
 - The number sings
-
----
 
 **Appendix  A – Practice Protocols**
 
@@ -231,8 +199,6 @@ Breath work, daily walking, basic calisthenics, hydration rituals, sleep landing
 **Appendix  C – Glossary and Sources**
 
 Akram Vignan, EZ Zone, Biophotons, Cymatics, Solfeggio, Reality Transurfing, Egrégor, harmonic inversion field, Codex Universalis, Φ π e, flow, non‑resistance, Bashar’s five steps.
-
----
 
 ## Acknowledgments
 
@@ -329,11 +295,7 @@ Teachers of embodied wisdom, discipline, and mastery:
 
 - **Shi Heng Yi:** Shaolin wisdom, mindfulness, physical mastery.
 
----
-
 And many more, whose work and presence have illuminated my path. This book is offered in gratitude for their service to humanity and the evolution of consciousness.
-
----
 
 # The Three Archetypes Revealed — and How They Shaped This Work
 

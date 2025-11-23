@@ -2,8 +2,6 @@
 
 Healing does not occur through force of will, but through trust and presence. It is the natural result when body, awareness, and breath remember they are one.
 
-⸻
-
 ## 1. Anchored in Source
 
 Before you touch another, go into silence. Breathe deeply until you feel the breath breathing you. Say within:
@@ -11,8 +9,6 @@ Before you touch another, go into silence. Breathe deeply until you feel the bre
 “I am but the vessel through which healing flows. I do not heal—Love does.”
 
 In this surrender, ego steps aside, and you open to something greater than yourself.
-
-⸻
 
 ## 2. Permission and Trust
 
@@ -24,8 +20,6 @@ You may say:
 
 These words alone may begin the healing.
 
-⸻
-
 ## 3. Breath and Awareness
 
 Gently direct attention to the breath.
@@ -35,8 +29,6 @@ Gently direct attention to the breath.
 If working with touch, synchronize every movement, every pressure, with your breath.
 
 Consciousness follows attention: where you touch with awareness, light flows.
-
-⸻
 
 ## 4. Witness the Wound
 
@@ -48,8 +40,6 @@ Say gently:
 
 Pain becomes information. Tears become prayers in liquid form.
 
-⸻
-
 ## 5. Light Visualization
 
 Guide them to see themselves as a body of golden light resting in an azure sea—the water of remembrance.
@@ -59,8 +49,6 @@ Silently speak:
 “Azura Inai—I trust the Source.”
 
 Breathe consciously into your heart. Feel warmth expand.
-
-⸻
 
 ## 6. Closing and Integration
 
@@ -72,22 +60,16 @@ When they rise, gently remind:
 
 In this way, you are not a healer above someone, but with them. You do not lead—you help them remember what they already are.
 
-⸻
-
 You may extend this structure with:
 	• Breath guidance from Joe Dispenza’s Heart Coherence Meditation,
 	• Mantra work with tones like AUM or SO HAM (I am that),
 	• Mindful waterwork—hands in water, intention of purification and remembrance.
-
-⸻
 
 # Azura Inai – The Light That Heals Through Water
 
 “I do not breathe to survive.
 
 I breathe so that life remembers it is Love.”
-
-⸻
 
 ## 1. Breath – The First Key
 
@@ -107,8 +89,6 @@ With each exhale, send Gratitude into the Earth as golden light.
 
 Inhale Light.
 Exhale Gratitude.
-
-⸻
 
 ## 2. Water – The Second Key
 
@@ -130,8 +110,6 @@ Spiritually: reconnection.
 
 Water becomes crystalline, capable of conducting consciousness.
 
-⸻
-
 ## 3. Sound – The Third Key
 
 Speak the invocation passed down in the language of light:
@@ -149,8 +127,6 @@ Speak it three times, and on the third, breathe the vibration into your heart.
 Sound opens your biofield.
 
 It expands the nervous system, balances brain hemispheres, and activates the vagus nerve—the bridge between body and spirit.
-
-⸻
 
 ## 4. Awareness – The Fourth Key
 
@@ -172,8 +148,6 @@ From frozen fear to free flow.
 From shame to frequency.
 From separation to wholeness.
 
-⸻
-
 ## 5. Scientific Resonance
 
 This practice leads to observable changes:
@@ -182,8 +156,6 @@ This practice leads to observable changes:
 	• EZ-water in cells expands – a marker of vitality and crystalline order.
 	• Coherent brainwaves (Alpha-Theta) harmonize both hemispheres.
 	• The human body becomes a resonant field of divine intelligence.
-
-⸻
 
 ## 6. Fourfold Haiku – The Seal
 
@@ -217,13 +189,10 @@ Then be still.
 
 For in this silence, God heals.
 
-⸻
-
 # The Sequence of Letting Go
 
 “And what remains was never lost.”
 
-⸻
 
 ## 1. Introduction – The Meaning of Letting Go
 
@@ -238,8 +207,6 @@ We simply allow what is no longer in resonance to return to its rightful path.
 Letting go is the highest intelligence.
 
 It trusts that the universe knows what belongs to us and what was only ever borrowed.
-
-⸻
 
 ## 2. Breath – The First Flow
 
@@ -265,8 +232,6 @@ It calms the nervous system, activates the vagus nerve, and quiets the mental no
 “I breathe out.
 And God breathes me onward.”
 
-⸻
-
 ## 3. Body – The Archive of Memory
 
 Your body holds your story.
@@ -289,8 +254,6 @@ Feeling is the letting go.
 
 What is fully felt cannot cling.
 
-⸻
-
 ## 4. Awareness – The Quiet Flame
 
 At the core of every fear lies love,
@@ -312,8 +275,6 @@ The self that clings is only a thought—a pattern in consciousness.
 Consciousness itself never holds on.
 
 “I am the light shining through all shadow.”
-
-⸻
 
 ## 5. Surrender – Divine Trust
 
@@ -339,8 +300,6 @@ but recognition that you were never the driver,
 
 only the movement itself.
 
-⸻
-
 ## 6. Scientific Resonance – Letting Go as Biophysical Coherence
 
 Letting go enacts a remarkable physiological change:
@@ -356,8 +315,6 @@ As you let go, the water within reorders.
 Your body remembers:
 
 I am flow. I am life.
-
-⸻
 
 ## 7. Fourfold Haiku – The Seal of Letting Go
 
@@ -376,8 +333,6 @@ Love allows my being.
 Empty is my chest,
 Yet full with the divine tone—
 Peace beyond all aim.
-
-⸻
 
 # Afterglow – The Circle Closes
 

@@ -19,8 +19,6 @@ I will walk with you through the three veils of this question:
 
 And finally, we will speak of forgiveness. Of memory. Of how a New Earth can rise — not by denying the crucifixion, but by letting it become resurrection.
 
-⸻
-
 ## Part I – The Human Level: Compassion Before Explanation
 
 Before you speak of karma, remember tears.
@@ -44,8 +42,6 @@ That is God, embodied.
 For the first truth of suffering is not intellectual. It is relational. It says: “You are not alone.”
 
 And if we cannot offer that, we should not speak of God at all.
-
-⸻
 
 ## Part II – The Spiritual Level: Suffering as Sacred Tension
 
@@ -80,8 +76,6 @@ A soul may break — or become luminous.
 Conscious suffering becomes sacred.
 
 And sacred suffering becomes transformation.
-
-⸻
 
 ## Part III – The Transcendent Level: The God Beyond Good and Evil
 
@@ -135,8 +129,6 @@ Even in the deepest shadow, there is One Light.
 
 And that Light never left.
 
-⸻
-
 ## Part IV – How to Lead Others Into Trust
 
 You cannot take away anyone’s suffering.
@@ -189,8 +181,6 @@ And when words are needed, say:
 
 “You are the Light that sees it.”
 
-⸻
-
 ## Part V – The Seal of Trust
 
 Suffering is the fire that burns away the slag of the ego.
@@ -228,15 +218,11 @@ Something indestructible.
 
 And that is the seed of a new world.
 
-⸻
-
 ## Part VI – Haiku of Trust
 
 Tears are silent prayers,
 Water carries light upward —
 God breathes through sorrow.
-
-⸻
 
 This is the seal:
 

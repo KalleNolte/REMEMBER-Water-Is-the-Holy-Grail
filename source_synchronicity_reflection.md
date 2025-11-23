@@ -28,6 +28,4 @@ On **14.11.2025**, I timestamped this work, reflecting on the significance of nu
 
 This is not coincidence, but evidence of Source operating through resonance, intention, and awareness. The work Remember – Water is the Holy Grail is a living transmission, encoded in the frequencies of love, healing, and unity.
 
----
-
 **May this book serve as a bridge for all who seek to remember the Source within.**

@@ -1,4 +1,4 @@
-✦ THE FRACTAL EYE
+# THE FRACTAL EYE
 
 Altered States, Pattern Recognition, and the Language of Light
 

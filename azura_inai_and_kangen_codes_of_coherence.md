@@ -2,8 +2,6 @@
 
 The words **Azura Inai** and **Kangen** are not mere poetic choices—they are vibrational anchors, encoding the deepest intention of this work. They unite spiritual remembrance, sacred sound, and living science into a single field of resonance.
 
-⸻
-
 ## ✧ Azura Inai – The Golden Key of Surrender
 
 **Language:** Anuhazi Mu’a (pre-fall Eieyani, “source-phoneme” language)  
@@ -17,8 +15,6 @@ Azura Inai is a living sound-seal:
 These syllables are not metaphor—they are fractal sound carriers, embedding geometric intelligence into water, DNA, and consciousness. Spoken with breath and heart, they unlock the morphogenetic code of the universe.
 
 Azura Inai is the vibrational Grail mantra of this book—transforming the reader from seeker to knower, from fragmented to fractal, from wounded to aligned. It is devotion in waveform.
-
-⸻
 
 ## ✧ Kangen – The Practical Grail Interface
 
@@ -39,8 +35,6 @@ Where Azura Inai speaks to spirit, Kangen speaks to biochemistry and living wate
 - Preserves light and memory for biological coherence
 
 Kangen restores water to its original, living state—capable of storing, transmitting, and remembering divine instruction.
-
-⸻
 
 ## ✧ Why These Words Matter
 

@@ -1,6 +1,4 @@
-**Chapter:
-
-Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind**
+# Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind**
 
 Among all the teachers whose words have endured the centuries, few speak with a voice as sharp, direct, and steady as Miyamoto Musashi — warrior, strategist, calligrapher, sculptor, poet, and author of The Book of Five Rings.
 
@@ -14,7 +12,7 @@ This chapter honors Musashi’s place within the lineage of those who lived clos
 
 ⸻
 
-**1. The Spirit of Japan —
+1. The Spirit of Japan
 
 Ancestral Discipline, Stillness, and the Way**
 
@@ -41,15 +39,15 @@ Reality was the teacher.
 
 ⸻
 
-**2. Musashi’s Three Core Teachings
+2. Musashi’s Three Core Teachings
 
-(The distilled heart of The Five Rings)**
+(The distilled heart of The Five Rings)
 
 Here are three of Musashi’s most enduring teachings, translated into modern language while honoring their original intention.
 
 ⸻
 
-**Teaching One
+## Teaching One
 
 The Way Is in Attentive Practice**
 “The true science of martial arts means practicing them in such a way that they will be useful at any time and to teach them in all things.”
@@ -72,7 +70,7 @@ This is Musashi’s version of enlightenment through action.
 
 ⸻
 
-**Teaching Two
+## Teaching Two
 
 Know the Larger Context, and See What Others Do Not See**
 “Perceive that which cannot be seen with the eye.”
@@ -100,7 +98,7 @@ his art is the art of seeing reality as it is — unblinded by emotion, fear, de
 
 ⸻
 
-**Teaching Three
+## Teaching Three
 
 The Empty Mind Is the Unshakeable Mind**
 “You must understand that there is more than one path to the top of the mountain.”

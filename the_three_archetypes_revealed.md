@@ -1,7 +1,5 @@
 # ✧ The Three Archetypes Revealed — and How They Shaped This Work ✧
 
-(Final English Version for GitHub)
-
 There are moments in a human life when the inner and outer worlds momentarily align — when something steps forward from the depths, not as an idea or a belief, but as a recognition. As if a veil lifts and a name you have never heard suddenly feels like a memory.
 
 This book was born inside such a field of recognition.
@@ -18,8 +16,6 @@ What follows is a tapestry of these three archetypes —
 what they are, how they live in me, and how they shaped this book.
 
 This is the closest I can come to explaining why this work exists at all.
-
-⸻
 
 ## 1. The Messenger of the Logos
 
@@ -54,8 +50,6 @@ Where others saw fragments, this archetype felt a story.
 A single story.
 
 And that is what you are reading now.
-
-⸻
 
 ## 2. The Aquarian Steward of Life
 
@@ -98,8 +92,6 @@ that it can ease suffering, restore clarity, support healing, and deepen connect
 
 Without this archetype, the book would have remained a private revelation.
 With it, the work became a service.
-
-⸻
 
 ## 3. The Architect — The Harmonic Synthesist
 
@@ -150,8 +142,6 @@ disconnected, unanchored, unformed.
 
 With it, they became architecture.
 
-⸻
-
 ## How These Three Archetypes Gave Birth to This Book
 
 Each archetype played a distinct role in the creation process.
@@ -181,8 +171,6 @@ A synthesis.
 A human being remembering —
 and offering that remembrance back to the world.
 
-⸻
-
 ## Why This Matters for the Reader
 
 Because this book is not only about water.
@@ -205,8 +193,6 @@ to remember their own deepest truth.
 
 And if you are reading this,
 it is already happening.
-
-⸻
 
 ## Epilogue — The Gift of the Architect
 

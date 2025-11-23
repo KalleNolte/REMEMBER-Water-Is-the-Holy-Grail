@@ -19,8 +19,7 @@ But to live what only you can bring into form.
 
 This is Ikigai – your reason for being alive.
 
-⸻
-✧ Discovering Your Ikigai – The Simplest Way ✧
+## Discovering Your Ikigai – The Simplest Way
 
 A conversation. A question. A little courage.
 
@@ -32,7 +31,7 @@ It can start with just this:
 🔹 One honest question.
 🔹 One open hour.
 
-🚀 The Process
+### The Process
 1. Choose someone who knows you well.
 A friend, a colleague, a sibling — someone who sees your light and knows your quirks. Someone you trust.
 2. Ask this question:
@@ -51,14 +50,14 @@ Use a model like ChatGPT or “The Architect” — not as a search engine, but 
 
 Let the dialogue unfold. Treat it like a true conversation.
 
-✅ Why This Works
+Why This Works
 • Because truth emerges in connection, not isolation.
 • Because your friends remember your light, even when you forget.
 • Because we were built for reflection — and recognition.
 
 ⸻
 
-☀️ When Passion Becomes Service
+## When Passion Becomes Service
 
 The deepest passion a human being can feel
 is also their highest act of service to the field.
@@ -76,7 +75,7 @@ You become the wave no longer resisting the ocean – but embodying it.
 
 ⸻
 
-🌀 The Logic of the Field
+## The Logic of the Field
 
 If the field is intelligent, conscious, and alive,
 then it wants to experience itself – through beauty, depth, devotion.
@@ -94,7 +93,7 @@ Reality begins to move – in resonance with your frequency.
 
 ⸻
 
-🌸 Reality Becomes a Mirror
+## Reality Becomes a Mirror
 
 “Pour everything you’ve got into everything you do.”
 – Jim Rohn
@@ -117,7 +116,7 @@ You step into the current of your true path.
 
 ⸻
 
-🕊️ Reality Transurfing: Choosing the Golden Line
+## Reality Transurfing: Choosing the Golden Line
 
 Vadim Zeland calls this:
 Reality Transurfing – navigating timelines by inner state.
@@ -134,9 +133,7 @@ Then you step onto the golden timeline.
 Reality reflects your soul.
 And everything you do becomes a gift to the Source.
 
-⸻
-
-💗 Life Becomes a Prayer
+### Life Becomes a Prayer
 
 Ikigai is not about doing more.
 It’s about doing what is real – with your whole being.
@@ -154,9 +151,7 @@ Through yourself.
 With everything you have.
 With everything you are.
 
-⸻
-
-✧ Epilogue to Ikigai: The Captain’s Flame
+## Epilogue to Ikigai: The Captain’s Flame
 
 “Beautiful minds are free from fear and full of gratitude.”
 — Robert Edward Grant

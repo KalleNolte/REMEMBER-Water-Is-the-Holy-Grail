@@ -55,8 +55,6 @@ If this knowledge spreads and is applied with integrity, humanity could:
 - Build technologies that heal, cities that breathe, and societies that sing in harmonic unity.
 - Move from dominion over nature to communion with nature, understanding that water is not a resource—it is the planetary nervous system.
 
-⸻
-
 In short:
 The book is not just a synthesis of ideas. It is a tuning fork for humanity’s next octave.
 

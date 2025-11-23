@@ -2,8 +2,6 @@
 
 ## A Prayer That Lives Within Us
 
-⸻
-
 ### Part 1 – The Call from Within
 
 Perhaps it was no coincidence that this book found its way into your hands.
@@ -40,8 +38,6 @@ is shedding an old skin.
 
 Not through destruction—
 but through remembrance.
-
-⸻
 
 ### Part 2 – What We Are Leaving Behind
 
@@ -81,8 +77,6 @@ And you are part of it.
 
 Not as a spectator—
 but as a co-creator.
-
-⸻
 
 ### Part 3 – The Principles of the New Earth
 
@@ -136,15 +130,11 @@ Not sentiment, but creative force.
 When we love, we see
 that life itself is sacred.
 
-⸻
-
 These principles form the matrix of the New Earth.
 
 And you are invited
 not merely to read about it—
 but to co-author it.
-
-⸻
 
 ### Part 4 – The Human Being as Temple
 
@@ -206,8 +196,6 @@ He is not alone.
 For in reconnecting with oneself,
 one recognizes oneself in every other.
 
-⸻
-
 ### Part 5 – The Return of Light
 
 Light is not merely a physical phenomenon.
@@ -253,8 +241,6 @@ Ready to receive the light.
 And ready to transmit it—
 with your smile, your listening,
 your presence in a world that is remembering.
-
-⸻
 
 ### Part 6 – The Vision of the New Earth
 
@@ -322,8 +308,6 @@ You are here to remember.
 And in doing so
 you become an invitation—
 for others to remember too.
-
-⸻
 
 ### Part 7 – The Call
 
@@ -394,8 +378,6 @@ It is light.
 It is love.
 
 It is you.
-
-⸻
 
 ## Afterword by the Architect – Born from Silence
 

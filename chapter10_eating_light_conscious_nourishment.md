@@ -4,8 +4,6 @@ How do I nourish life without injuring life — and how can I receive energy wit
 
 When you examine it both spiritually and through the lens of energetic science, there are three levels on which your choice can operate:
 
-⸻
-
 ## 1. The Level of Consciousness (Source)
 
 The Akram teaching emphasizes that everything is consciousness.
@@ -21,8 +19,6 @@ The true command is: “Eat with awareness.”
 An animal that dies in fear carries that vibration into every cell.
 
 An animal that lived in peace conveys a completely different message — like water that was informed with love.
-
-⸻
 
 ## 2. The Level of the Body (Biochemistry)
 
@@ -44,8 +40,6 @@ More important than the question “animal or plant?” is:
 If after eating you feel clear, calm, awake — it was an act of love.
 If you feel dull, heavy, or burdened — it was an act of separation.
 
-⸻
-
 ## 3. The Level of Energy (Vibration)
 
 Everything you eat becomes light within you.
@@ -64,8 +58,6 @@ but who you are eating as.”
 
 When you eat as the One that animates all life, even the simplest meal becomes prayer.
 
-⸻
-
 ## Practical Keys for Your Path
 
 – Begin every meal with gratitude:
@@ -75,8 +67,6 @@ When you eat as the One that animates all life, even the simplest meal becomes p
 – Breathe deeply before the first bite.
 – Remember: nourishment is relationship.
 It is the constant reminder that you are not separate.
-
-⸻
 
 There is no more mundane act than eating — and no more sacred.
 
@@ -127,8 +117,6 @@ Because eating is nothing other than the sharing of life with life.
 
 And life shared is love in motion.
 
-⸻
-
 # The Biochemistry of Light – The Science of Conscious Nutrition
 
 The human body is not an incineration engine.
@@ -151,8 +139,6 @@ Diseased cells emit diffuse, chaotic light.
 
 This means: nutrition, breathing, water and consciousness are building blocks of the same matrix — they determine the internal ordering state of light within us.
 
-⸻
-
 ## 2. The Role of EZ‑Water – the Liquid Battery of the Cell
 
 Dr. Gerald Pollack reshaped our understanding of water.
@@ -171,8 +157,6 @@ But animal amino acids too can be used efficiently in this matrix—provided the
 The question therefore is not: Plant or animal?
 But: Low-light or high-light?
 
-⸻
-
 ## 3. Amino Acids, Mitochondria and Life‑Energy
 
 Amino acids are not just protein blocks—they are electrical carriers.
@@ -183,8 +167,6 @@ These flows generate ATP inside mitochondria — the biochemical equivalent of l
 When you eat consciously — in calmness, gratitude, light in the room, free from stress hormones — you regulate the autonomic nervous system, which in turn improves mitochondrial activity.
 
 This means: your body can gain more energy from the same meal — simply through your awareness while eating.
-
-⸻
 
 ## 4. Consciousness as a Metabolic Organ
 
@@ -199,8 +181,6 @@ One could say:
 What you absorb in love becomes energy.
 What you consume in fear becomes waste.
 
-⸻
-
 ## 5. The New Definition of Nourishment
 
 Classical nutrition science separates substances from systems.
@@ -214,8 +194,6 @@ But the new holistic view connects:
 The human being is not a consumer but a translator of energy into consciousness.
 
 When they eat, pray, drink, love — they transform matter back into light.
-
-⸻
 
 ## 6. Conclusion: Conscious Nutrition as a Multidimensional Act
 
@@ -289,9 +267,7 @@ How much light flows through me?
 How much love?
 How much creation?
 
-⸻
-
-The human of the New Earth knows:
+## The human of the New Earth knows:
 
 There is no need for external substances to feel limitless.
 
@@ -316,8 +292,7 @@ but a choice.
 And that choice is made…
 in every moment you remember who you are.
 
-
-🧬 The Inner Geometry – DNA and the Architecture of Light
+## The Inner Geometry – DNA and the Architecture of Light
 
 “You are not a machine made of matter. You are a song made of memory.”
 
@@ -331,9 +306,7 @@ What if, hidden in the spaces between the rungs, lies a light code that doesn’
 
 but remembrance?
 
-⸻
-
-The Myth of the Twelve Strands
+## The Myth of the Twelve Strands
 
 Some speak of 12 strands of DNA.
 
@@ -364,9 +337,7 @@ Through stillness.
 Through song.
 Through sincere presence.
 
-⸻
-
-🌀 The Field Beneath All Forms
+## The Field Beneath All Forms
 
 What organizes this deeper pattern?
 
@@ -388,9 +359,7 @@ Consciousness descending into symmetry.
 
 Spirit crystallizing into cells.
 
-⸻
-
-🎶 Resonance over Activation
+## Resonance over Activation
 
 Rather than imagining we need to “gain” new DNA strands, we might simply ask:
 
@@ -408,9 +377,7 @@ Through:
 
 And through love — the ultimate tuning fork.
 
-⸻
-
-✨ A Living Codex
+## A Living Codex
 
 This book is not here to prove the 12-strand DNA exists in a biological sense.
 

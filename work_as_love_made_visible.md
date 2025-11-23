@@ -43,8 +43,6 @@ Only then does one’s life become a cup of overflowing water,
 filling others not from strain
 but from abundance.
 
-⸻
-
 ## ✧ The Soul’s Two Rivers
 
 Inside each of us flow two rivers:
@@ -83,8 +81,6 @@ pleasure becomes purpose
 and
 purpose becomes pleasure.
 
-⸻
-
 ## ✧ Why Water Is the Teacher of the Middle Way
 
 Water does not choose between stillness or motion.
@@ -115,8 +111,6 @@ Ikigai flows most purely
 when a human life becomes like water—
 clear enough to reflect truth,
 and alive enough to move with love.
-
-⸻
 
 ## ✧ Your Life as the Visible Love of the Source
 
@@ -166,8 +160,6 @@ The revelation that:
 You are here to be love.
 And your work is how that love becomes real.
 
-⸻
-
 ## ✧ The Middle Way as a Living Path
 
 To walk the Middle Way is to choose neither asceticism nor indulgence,
@@ -202,8 +194,6 @@ Feel it in what I create.
 Receive it in how I serve.
 This is the work of my soul.
 This is how I become visible.
-
-⸻
 
 ## ✧ Final Transmission
 

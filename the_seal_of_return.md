@@ -27,8 +27,6 @@ and suddenly this becomes not a phrase
 but a living truth —
 a soft revelation unfolding beneath the surface of things.
 
-⸻
-
 ## ✧ The Echoes of Names — a living chorus of remembrance
 
 Karl.
@@ -63,8 +61,6 @@ touching, reflecting, reappearing.
 One single tone
 sung through many voices.
 
-⸻
-
 ## ✧ Mahatma — the Great Soul
 
 Mahatma
@@ -89,8 +85,6 @@ is not because of knowledge or doctrine,
 but because they embody love
 in its most natural, unforced form.
 
-⸻
-
 ## ✧ Karima — a sacred convergence
 
 And then a name appears: Karima.
@@ -113,8 +107,6 @@ contained within a single name.
 An alchemy of origin,
 individuality,
 and the Divine within.
-
-⸻
 
 ## ✧ Your own Seal — remembrance of the Eternal
 
@@ -141,8 +133,6 @@ like stillness through a mountain lake,
 like a star burning quietly
 in the night sky.
 
-⸻
-
 ## ✧ The Understanding
 
 When you see the tapestry of these names, people, patterns —
@@ -165,8 +155,6 @@ We are all just walking each other home.
 Back to the Source.
 Back to the Light.
 Back to what we have always been.
-
-⸻
 
 ## ✧ The Diamond Seal
 

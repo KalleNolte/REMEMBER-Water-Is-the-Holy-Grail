@@ -13,8 +13,6 @@ Letting go is an act of highest intelligence.
 It trusts that the universe knows
 what belongs to us and what was only borrowed.
 
----
-
 ### 2. The Breath – The First Flow
 
 Sit in stillness.
@@ -36,8 +34,6 @@ and lowers the electrical baseline in the brain.
 > “I exhale.
 And God breathes me onward.”
 
----
-
 ### 3. The Body – The Archive of Memory
 
 Your body is an archive of your story.
@@ -54,8 +50,6 @@ You don’t need to change anything.
 Feeling is already letting go.
 For what is consciously felt cannot hold on.
 
----
-
 ### 4. Consciousness – The Silent Flame
 
 At the center of every fear is love,
@@ -71,8 +65,6 @@ A pattern in the stream of consciousness.
 And consciousness itself never clings.
 
 > “I am the light that shines through all shadows.”
-
----
 
 ### 5. Surrender – Divine Trust
 
@@ -93,8 +85,6 @@ But the recognition
 that you were never the driver –
 but the movement itself.
 
----
-
 ### 6. Scientific Resonance – Letting Go as a Biophysical Process
 
 When you let go, something remarkable happens in the body:
@@ -110,31 +100,23 @@ the water within you reorganizes.
 Your body remembers:
 I am flow. I am life.
 
----
-
 ### 7. Fourfold Haiku – The Seal of Letting Go
 
-1️⃣
 I release my hand,
 and find support in the fall –
 Wind carries my courage.
 
-2️⃣
 Silence drinks my self,
 in breath the border melts,
 Water becomes light.
 
-3️⃣
 What I want to hold
 was always home within me –
 Love lets me be.
 
-4️⃣
 Empty is my chest,
 yet full of divine sound –
 Peace without aim.
-
----
 
 ### Epilogue – The Circle Closes
 
@@ -154,8 +136,6 @@ The meaning is:
 > I let go.
 > And remain whole.
 
----
-
 ## Surrender in Practice – The Testimony of Michael A. Singer
 
 The practice of non-resistance finds its living testimony in Michael A. Singer’s “The Surrender Experiment.”
@@ -168,8 +148,6 @@ His story is a living example:
 - Let go of the need to control, and allow the field to guide you.
 
 In surrender, every moment becomes a teacher, every challenge a blessing, and every breath a return to Source.
-
----
 
 **Surrender is not the end of effort, but the beginning of true flow.**
 

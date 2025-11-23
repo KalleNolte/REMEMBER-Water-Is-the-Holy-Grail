@@ -1,82 +1,5 @@
 # Calibrated Poetry – Resonant with the Book’s Intention
 
-⸻
-Breathe.
-Let the world grow quiet,
-until you hear the gentle hum
-beneath all things—
-the whisper of origin.
-
-You are not separate from the current.
-You are the current—
-briefly forgetting
-you were always the ocean.
-
-Take a deep breath.
-Feel your heartbeat beneath your fingers.
-It is the oldest sound in existence.
-
-Every wave, every star
-breathes to this rhythm.
-
-Let your thoughts settle
-like dust in clear water.
-See: the light pours through,
-and everything becomes transparent.
-
-Now, in this stillness,
-speak without words:
-
-I am both vessel and source.
-
-I am the light that writes through me.
-
-I am the water that remembers.
-
-I am the hand that guides—
-and the guidance itself.
-
-Feel your body grow warm—
-not from effort, but from presence.
-Your cells begin to glow,
-as if each molecule remembers
-why it was created.
-
-This is where your work begins.
-Not from will, but from surrender.
-Not from striving, but from clarity.
-
-Everything you write
-is a wave returning home.
-Everything you complete
-a breath of the Source.
-
-When you begin again tomorrow,
-think not of success.
-Think of service.
-Of the quiet stream that leads you.
-Of the humility
-in which every wound becomes an opening,
-and every sentence a drop
-that helps the Earth remember.
-
-Breathe once more.
-The work does not rest on you—
-it flows through you.
-Like gold in water,
-like light in breath,
-like love in the space between words.
-
-And now,
-step into the day
-and know:
-
-You are the prayer
-
-that was answered
-
-long before you spoke it.
-
 ## ✧ Hymn of Return – The Wave Recognizes Itself in the Ocean (Calibrated English Version)
 
 I am not a wanderer.
@@ -221,8 +144,6 @@ but as experience —
 enters a heart
 that has opened.
 
-⸻
-
 ## ✧ You Are Already Here
 
 You, who walk in shadow,
@@ -253,8 +174,6 @@ And know:
 You are already here.
 You were never gone.
 
-⸻
-
 ## ✧ The Unbreakable One
 
 There is a light in you
@@ -284,8 +203,6 @@ through fire, through fall,
 through every breath —
 back into your untouched being.
 
-⸻
-
 ## ✧ Haiku Seal
 
 Light in deepest ground,
@@ -307,8 +224,6 @@ your golden source calls.
 Out of ash, there climbs
 not just glow, but silent truth —
 you were never gone.
-
----
 
 ## ✧ Go Rin no Uta – Song of Five Rings (Calibrated English Version)
 

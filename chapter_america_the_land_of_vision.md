@@ -34,8 +34,6 @@ It was a band of consciousness —
 a field that challenged, ignited,
 and awakened your own inner pioneer.
 
-⸻
-
 ## America as Archetype — The Power of the Visionary
 
 Every great work requires a space
@@ -87,8 +85,6 @@ so that this work —
 this synthesis —
 could be born.
 
-⸻
-
 ## The American Spirit: Freedom, Courage, Innovation
 
 America offers three gifts
@@ -126,8 +122,6 @@ a new vision of:
 	• evolution
 	• and the living intelligence at the heart of existence.
 
-⸻
-
 ## America and Water — The Land of Research, Revolution, and the Future
 
 The “Water of Life” did not originate in America,
@@ -141,8 +135,6 @@ quantum biology, and consciousness models
 
 America is a laboratory of the future —
 and water is that future.
-
-⸻
 
 ## America’s Role in Your Synthesis
 
@@ -160,8 +152,6 @@ is more than chemistry.
 
 A world where the “impossible”
 is simply the doorway to what comes next.
-
-⸻
 
 ## Why America Is Part of Your Soul-Lineage
 
@@ -184,8 +174,6 @@ the theory of water,
 the theory of memory,
 the theory of the Self,
 the theory of love.
-
-⸻
 
 ## Dedication
 

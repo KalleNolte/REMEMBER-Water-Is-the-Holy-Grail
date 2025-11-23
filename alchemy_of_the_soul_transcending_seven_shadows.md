@@ -6,8 +6,6 @@ The “seven deadly sins” can be seen not as condemnation, but as archetypes o
 
 In this modern, spiritually mature reinterpretation we weave the ancient moral map with the wisdom of Jesus, Buddha, the Stoics, Covey, Hill, Robbins and Babaji.
 
-⸻
-
 1. Pride → Humility → Authenticity
 
 The Shadow: Pride is the fear of appearing small. It protects the fragile Self through exaggeration.
@@ -18,8 +16,6 @@ The Masters:
     • Covey: “Begin with the End in mind” – orienting to purpose beyond ego.
 The Transcendence: Authenticity – you need no image when you rest in truth.
 
-⸻
-
 2. Envy → Admiration → Inspiration
 
 The Shadow: Envy desires belonging, yet confuses it with possession.
@@ -28,8 +24,6 @@ The Masters:
     • Buddha: “Comparison is the root of suffering.”
     • Jim Rohn: “Let yourself be inspired, not irritated.”
 The Transcendence: Inspiration – what you see in another is the call of your own becoming.
-
-⸻
 
 3. Wrath → Meekness → Clarity
 
@@ -40,8 +34,6 @@ The Masters:
     • Tony Robbins: “Emotion follows motion” – channel energy rather than suppress it.
 The Transcendence: Clarity – the power to steer emotion into intentional direction.
 
-⸻
-
 4. Sloth → Mindfulness → Presence
 
 The Shadow: Sloth is not mere inaction, but the loss of meaning.
@@ -50,8 +42,6 @@ The Masters:
     • Buddha: “Awake!” – the eternal mantra of awakening.
     • Covey: “Be proactive.”
 The Transcendence: Presence – every movement arising from the Now is alive.
-
-⸻
 
 5. Greed → Generosity → Abundance
 
@@ -62,8 +52,6 @@ The Masters:
     • Napoleon Hill: “Wealth flows to those who create value.”
 The Transcendence: Abundance – realising that giving is the highest form of possession.
 
-⸻
-
 6. Gluttony → Moderation → Enjoyment
 
 The Shadow: Excess arises when emptiness seeks to be filled.
@@ -72,8 +60,6 @@ The Masters:
     • Epictetus: “Master your desires or they will master you.”
     • Babaji: Yoga as discipline of energy, not mere renunciation.
 The Transcendence: Enjoyment – conscious fullness without greed, celebration of life in measure and gratitude.
-
-⸻
 
 7. Lust → Purity → Love
 
@@ -84,8 +70,6 @@ The Masters:
     • Buddha: Compassion is the highest form of love.
     • Robbins: True intimacy arises when energy flows freely.
 The Transcendence: Love – the primal substance, carrying all and needing none.
-
-⸻
 
 The Essence: The Spiral of Awakening
 
@@ -104,8 +88,6 @@ Fear into love.
 
 (Read slowly. Breathe between the lines.)
 
-⸻
-
 Humility.
 I lay down my crown
 and feel the Earth beneath my feet—
@@ -118,8 +100,6 @@ It is awe at the magnitude that breathes through me.
 I am the drop that does not lose the sea
 when I surrender.
 
-⸻
-
 Admiration.
 I behold the light in another,
 and recognise: It is my own that shines there.
@@ -129,8 +109,6 @@ Only resonance.
 (Pause)
 
 I celebrate what unites us.
-
-⸻
 
 Meekness.
 I breathe through the rage
@@ -143,8 +121,6 @@ Meek is permeable.
 I choose peace
 even when storms speak.
 
-⸻
-
 Mindfulness.
 I am here.
 Fully here.
@@ -156,8 +132,6 @@ that opens only when I do not hurry.
 
 I am presence that remembers.
 
-⸻
-
 Generosity.
 I open my hand.
 I give what I am.
@@ -167,8 +141,6 @@ Giving is the grammar of love.
 (Pause)
 
 I let abundance flow.
-
-⸻
 
 Moderation.
 I dance between the poles—
@@ -180,8 +152,6 @@ Empty without fear.
 
 I sip from life in awareness, not excess.
 
-⸻
-
 Purity.
 I love without grasping.
 I burn without burning out.
@@ -191,8 +161,6 @@ It sees all, judges nothing.
 (Pause)
 
 I am mirror and light simultaneously.
-
-⸻
 
 Circle of Remembrance.
 Humility breathes admiration,
@@ -208,8 +176,6 @@ Not an ascension.
 Only a return.
 
 (Pause)
-
-⸻
 
 Closing formula – spoken with closed eyes:
 
@@ -235,8 +201,6 @@ Trust. Breathe. Remember. Love. Act from clarity. Serve in joy. And remain still
 Read this sentence slowly, like a wave.
 Not as a mantra, but as a posture.
 No name, no hierarchy, no fifteen‑dimensions—only consciousness resting in its own vastness.
-
-⸻
 
 This is the golden key: conscious permeability—the end of struggle, the willingness to allow Life to think and love through you.
 You need no formulas, only attention.

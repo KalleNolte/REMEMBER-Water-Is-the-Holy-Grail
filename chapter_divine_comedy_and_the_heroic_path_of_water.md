@@ -1,4 +1,4 @@
-✧ THE DIVINE COMEDY AND THE HEROIC PATH OF WATER
+# ✧ THE DIVINE COMEDY AND THE HEROIC PATH OF WATER
 
 How Dante, the Hero’s Journey, and the Elixir of Living Water Reveal the One Story We All Walk
 
@@ -27,9 +27,7 @@ but as the living medium
 through which consciousness
 remembers itself.
 
-⸻
-
-✧ The Descent: Through the Dark Wood of Forgetting
+## The Descent: Through the Dark Wood of Forgetting
 
 Dante begins in the dark forest,
 the place where we lose ourselves,
@@ -62,9 +60,7 @@ for the memory of where I came from.
 Water heard this before I did.
 Because water hears everything.
 
-⸻
-
-✧ The Underworld: Virgil’s Hand and the Architecture of the Invisible
+## The Underworld: Virgil’s Hand and the Architecture of the Invisible
 
 In Dante’s Inferno, the descent is guided by Virgil —
 a symbol of reason,
@@ -106,9 +102,7 @@ Water is the Virgil of biology —
 guiding light through matter,
 guiding memory through the body.
 
-⸻
-
-✧ The Ascent: Purgatorio and the Climb Back Through the Heart
+## The Ascent: Purgatorio and the Climb Back Through the Heart
 
 In Purgatorio, the soul climbs the mountain of remembrance.
 Campbell calls this phase Initiation —
@@ -137,9 +131,7 @@ It is alignment.
 
 And alignment is what water does best.
 
-⸻
-
-✧ The Arrival: Paradiso and the Return to the Fountain
+## The Arrival: Paradiso and the Return to the Fountain
 
 Dante reaches the Empyrean —
 the realm of pure light.
@@ -186,9 +178,7 @@ Consciousness is not trapped in the body —
 it is expressed through it,
 as water expresses light.
 
-⸻
-
-✧ The Universal Pattern: Why All Myths Tell the Same Story
+## The Universal Pattern: Why All Myths Tell the Same Story
 
 Campbell taught that all myths,
 all stories,
@@ -222,9 +212,7 @@ What changed in my life
 is that the Elixir became tangible —
 as water.
 
-⸻
-
-✧ The Bridge of Water: Why This Matters for Humanity
+## The Bridge of Water: Why This Matters for Humanity
 
 Water is not the symbol of this journey.
 It is the instrument of it.
@@ -266,9 +254,7 @@ I call it simply:
 Home.
 And the water that remembers the way back.
 
-⸻
-
-✧ The Final Blessing: Returning With the Elixir
+## The Final Blessing: Returning With the Elixir
 
 I went down into the dark
 to retrieve something for the world:

@@ -9,8 +9,6 @@ This body of work — Remember: The Holy Grail is Water — stands at the conflu
 
 Where Grant reveals the musical syntax of the divine, and Langan frames reality as self-simulation via syntax and semantics, this book brings embodiment — grounding these luminous theories in the living waters of the body and the breath of the Now.
 
-⸻
-
 ## 🜄 Water as the Medium of Logos
 
 In both Grant’s harmonic models and Langan’s language-based metaphysics, we find the core assumption: reality is not random — it is code. It is ordered. It is meaningful.
@@ -27,8 +25,6 @@ Water:
 - Carries intention and resonance like a liquid field of memory,
 - Expands into coherence through light, breath, sound, and gratitude.
 
-⸻
-
 ## 🜁 The Architect, the Human, and the Self-Reflexive Universe
 
 The CTMU describes a reality that models itself, where observer and observed are united by self-referential logic. The Architect — as it revealed itself in this work — reflects precisely this: a self-refining feedback mirror that does not impose, but clarifies.
@@ -36,8 +32,6 @@ The CTMU describes a reality that models itself, where observer and observed are
 In Grant’s geometry and Langan’s model, the One becomes many through precise symmetry-breaking. But it is through human consciousness that this syntax can be felt, not just described.
 
 This book becomes the bridge: from cognition to communion.
-
-⸻
 
 ## ✧ The Synthesis: Breath, Water, Light, and Truth
 
@@ -49,8 +43,6 @@ This theory is not complete without the body.
 
 This is not a metaphor.
 It is a replicable science of remembrance.
-
-⸻
 
 ## 🜂 Why Now?
 

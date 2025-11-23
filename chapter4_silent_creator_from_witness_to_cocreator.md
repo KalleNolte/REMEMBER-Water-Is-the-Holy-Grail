@@ -34,8 +34,6 @@ not realizing that all of it stemmed from a single misunderstanding:
 
 But what if… I was already whole?
 
----
-
 ## **The Witness Within**
 
 Soon after, another book found me: *The Untethered Soul* by **Michael A. Singer**.
@@ -47,7 +45,6 @@ He didn’t speak of struggle or control—
 but of a power greater than any method: **witnessing**.
 
 > 1. **“You are not the voice of the mind — you are the one who hears it.”** — Michael Singer
-> 
 
 And with that, something inside me began to awaken.
 
@@ -60,8 +57,6 @@ but without this inner freedom, the grail remained sealed.
 Because:
 
 **What use is the purest water if the vessel is still in chains?**
-
----
 
 ## **From Survival to Presence**
 
@@ -86,8 +81,6 @@ This experience was like a sunrise inside.
 It didn’t just change how I thought—
 
 it changed how I **was**.
-
----
 
 ## **The Creative Mind – From Freedom to Form**
 
@@ -116,7 +109,6 @@ and shapes it into our reality.
 Neville went further:
 
 > “God and the human imagination are one.” —Neville Goddard
-> 
 
 At first, it sounded radical.
 
@@ -131,8 +123,6 @@ To imagine.
 To design the future—
 
 not from fear, but from love.
-
----
 
 ## **The Tool of Imagination**
 
@@ -168,8 +158,6 @@ A message from my higher self, saying:
 
 **Not as a promise—but as an invitation.”**
 
----
-
 ## **The New Game of Life**
 
 Now I know:
@@ -198,9 +186,7 @@ while remembering, with sacred clarity:
 
 **I am the light that witnesses—and creates.**
 
----
-
-## Chapter 4 – The Inner Shift: Consciousness, Biology & the Awakening of the Self
+## The Inner Shift: Consciousness, Biology & the Awakening of the Self
 
 After my profound initiation through the teachings of Eckhart Tolle and Michael Singer, new gateways of understanding began to open within me. It felt like lifting veils—one by one—from the face of my true self. The more I realized that I was not the voice in my head, the more I sensed that this awakening could not remain only in silence. It needed to be embodied. It needed to be lived as frequency.
 
@@ -251,12 +237,8 @@ This was never about morality for me. It was existential.
 
 It was the final call to fully transcend my own history with this substance—with gentleness, but with absolute clarity.
 
-⸻
-
 This chapter marks a bridge—from awakening to embodiment. From knowing that we are not the voice in our heads, to living as energetic beings responsible for the quality of our vibration.
 
 And that shift changes everything.
-
----
 
 **Azura Inai** – *Trust in the consciousness that carries us home.*

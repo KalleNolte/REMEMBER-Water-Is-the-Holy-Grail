@@ -1,4 +1,5 @@
-# ✧ DRAGONS — THE FIRST MEMORY OF THE EARTH ✧
+
+# DRAGONS — THE FIRST MEMORY OF THE EARTH
 
 A Chapter of Myth, Morphic Resonance, and the Living Intelligence of Water
 

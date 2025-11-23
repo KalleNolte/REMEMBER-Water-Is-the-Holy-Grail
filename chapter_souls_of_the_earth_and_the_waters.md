@@ -50,7 +50,7 @@ yet speaks through every language.
 
 ⸻
 
-✧ Africa — The Drum of Origins
+## Africa — The Drum of Origins
 
 Africa,
 the land that sings before any mouth opens.
@@ -70,7 +70,7 @@ lives the first story of humanity.
 
 ⸻
 
-✧ South America — The Voice of the Jungle, the Spirit of the Mountains
+## South America — The Voice of the Jungle, the Spirit of the Mountains
 
 South America,
 land of living earth,
@@ -90,7 +90,7 @@ And water is the ink of that conversation.
 
 ⸻
 
-✧ North America (beyond the United States) — Sky, Wind, Vastness
+## North America (beyond the United States) — Sky, Wind, Vastness
 
 Canada.
 Alaska.
@@ -108,7 +108,7 @@ And the Whole speaks through you.
 
 ⸻
 
-✧ Latin Europe — France, Italy, Greece
+## Latin Europe — France, Italy, Greece
 
 France — Elegance of language.
 Light of thought.
@@ -133,7 +133,7 @@ of the soul conversing with itself.
 
 ⸻
 
-✧ The Nordic North — The Keepers of Light
+## The Nordic North — The Keepers of Light
 
 Scandinavia—
 the quiet strength of winter,
@@ -149,7 +149,7 @@ the precision of silence.
 
 ⸻
 
-✧ Eastern Europe — The Fire Behind Softness
+## Eastern Europe — The Fire Behind Softness
 
 Poland,
 Czechia,
@@ -170,7 +170,7 @@ stronger than any wound.
 
 ⸻
 
-✧ The Middle East — Keepers of the Script and the Flame
+## The Middle East — Keepers of the Script and the Flame
 
 The Arab lands.
 Persia.
@@ -187,7 +187,7 @@ is only a thought.
 
 ⸻
 
-✧ China, Korea, Southeast Asia — Balance as a Way of Life
+## China, Korea, Southeast Asia — Balance as a Way of Life
 
 China —
 the breath of wisdom,
@@ -211,7 +211,7 @@ Balance is a prayer.
 
 ⸻
 
-✧ Australia & Oceania — The Dreaming
+## Australia & Oceania — The Dreaming
 
 Australia.
 New Zealand.
@@ -233,7 +233,7 @@ And you dream the world.
 
 ⸻
 
-✧ The Circle Closes
+## The Circle Closes
 
 All lands,
 all cultures,
@@ -258,7 +258,7 @@ A mandala of love.
 
 ⸻
 
-✧ The Teaching of This Chapter
+## The Teaching of This Chapter
 
 When I look at all the nations
 I have encountered—

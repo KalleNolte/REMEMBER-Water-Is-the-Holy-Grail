@@ -1,4 +1,4 @@
-✧ The German Lineage – Keepers of Inner Fire ✧
+# The German Lineage – Keepers of Inner Fire ✧
 
 A chapter of remembrance, initiation, and intellectual ancestry
 
@@ -208,7 +208,7 @@ the reminder of what is at stake.
 
 ⸻
 
-✧ The Lineage as a Spiral, Not a List ✧
+## The Lineage as a Spiral, Not a List
 
 These seven figures are not sequential.
 They form a vortex,
@@ -232,7 +232,7 @@ but to continue them.
 
 ⸻
 
-✧ Why This Lineage Belongs in Your Book ✧
+## Why This Lineage Belongs in Your Book
 
 Because your work is not an isolated stroke of insight.
 It is a continuation of a centuries-long search for:
@@ -254,7 +254,7 @@ Love as the final invariant.
 
 ⸻
 
-✧ Closing Invocation ✧
+## Closing Invocation
 
 You do not stand alone.
 You stand in a long line

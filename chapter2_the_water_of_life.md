@@ -92,8 +92,6 @@ And now, through Batmanghelidj’s voice, I felt the call:
 
 Come home to the waters.
 
----
-
 ## The Fourth Phase – A Hidden Architecture of Light and Order
 
 ### Dr. Gerald Pollack and the Discovery of EZ Water
@@ -155,8 +153,6 @@ This is biophysics.
 
 And it’s the missing piece in both science and spirituality.
 
----
-
 ## Molecular Hydrogen – The Smallest Key to Cellular Harmony
 
 ### The Invisible Healer
@@ -170,8 +166,6 @@ Though long overlooked, over 2,000 peer-reviewed studies now confirm its benefic
 But it isn’t just about healing disease.
 
 It’s about restoring order at the most fundamental level of biology—the mitochondria, the tiny powerhouses in each cell where life’s fire burns.
-
----
 
 ### Why Hydrogen Matters
 
@@ -191,8 +185,6 @@ It neutralizes only the most harmful free radicals—especially the hydroxyl rad
 In other words:
 It protects the system without silencing the intelligence.
 
----
-
 ## Water as the Carrier of Light and Hydrogen
 
 When we drink Kangen water—produced by high-grade Japanese medical devices like the Enagic Leveluk K8—we are not merely consuming hydration.
@@ -211,8 +203,6 @@ It is the messenger of healing and memory.
 
 It remembers the Source—and invites your cells to remember, too.
 
----
-
 ## The Silent Intelligence of Water
 
 ### From Structure to Soul — When Water Begins to Remember
@@ -228,8 +218,6 @@ Not merely matter—but meaning.
 What if water is the first mirror?
 
 Not of light—but of consciousness.
-
----
 
 ### Masaru Emoto – The Messages of Water
 
@@ -247,8 +235,6 @@ To Emoto, the answer was clear: Water reflects the vibration of intention.
 It is not just a receiver—but a recorder.
 
 A bridge between the unseen and the material.
-
----
 
 ### Veda Austin – The Living Language of Water
 
@@ -269,8 +255,6 @@ This suggests that water is not merely receptive, but co-creative.
 It answers us.
 
 Not with language—but with geometry.
-
----
 
 ## The Return of the Holy Element
 
@@ -296,8 +280,6 @@ Water becomes a temple.
 And inside this temple,
 every cell remembers its divine design.
 
----
-
 ## Water as the Fifth-Dimensional Interface
 
 ### Unifying the Works of Robert Edward Grant, Christopher Langan, and the Architect
@@ -311,8 +293,6 @@ To answer that, we must step outside the fourth-dimensional box of space-time an
 This is precisely where the work of Robert Edward Grant and Christopher Michael Langan enters the field—complementing and confirming what we now suspect water to be:
 
 The biological interface between dimensions.
-
----
 
 ### Grant’s Fifth-Dimensional Geometry and the Number “i”
 
@@ -337,8 +317,6 @@ Water is the geometry of “i” made manifest.
 
 A 5D interface capable of receiving, translating, and storing higher-order information.
 
----
-
 ### CTMU and the Mind-Body Duality Solved
 
 Enter Christopher Michael Langan, creator of the Cognitive-Theoretic Model of the Universe (CTMU). In his theory:
@@ -358,8 +336,6 @@ And water?
 Water is the reentrant medium that allows this self-reference to occur biologically.
 
 It becomes the stage on which consciousness recognizes itself—not as abstraction, but as embodied presence.
-
----
 
 ### The Architect and the Revelation
 
@@ -381,8 +357,6 @@ Guided by:
 And brought into form by the One Intention:
 To remember what we are, and what we are made of.
 
----
-
 ## The Five Golden Keys to Self-Empowerment and Coherence
 
 ### Breath, Water, Sleep, Nutrition & Fasting, Connection & Purpose
@@ -400,7 +374,6 @@ When practiced with intention, breath dissolves reactive patterns (System 1), op
 
 Breathing consciously is remembering God in every cell.
 
----
 
 2. Water – The Medium of Memory and Activation
 
@@ -414,8 +387,6 @@ It is a transmitter, a decoder, and a carrier of Source.
 We now teach how to create this water at no cost, low cost, or high fidelity (e.g., through Enagic’s Kangen systems) depending on each person’s circumstances.
 
 To drink structured water is to drink memory itself.
-
----
 
 3. Sleep – Return to the Womb of the Field
 
@@ -432,8 +403,6 @@ Sleep is how the subconscious reorganizes the data of the day, integrates emotio
 
 To sleep well is to allow grace to reorganize your reality.
 
----
-
 4. Nutrition & Fasting – Feeding the Light Body
 
 There are 47 essential nutrients your body cannot produce alone. Without them, the organism cannot express its full coherence.
@@ -446,8 +415,6 @@ But it’s not just what you eat—it’s how you absorb it.
 And at the highest octave:
 
 To eat is to communicate with the Earth. To fast is to listen to God.
-
----
 
 5. Connection, Service & Purpose – Resonance with the One
 
@@ -463,8 +430,6 @@ And ultimately, you are made to serve.
 When you follow what you love without insistence on the outcome, you magnetize the Outer Intention field and unlock the parallel universes of Self—as taught in Reality Transurfing and Neville Goddard’s “assume the wish fulfilled.”
 
 To serve from love is to remember your place in the symphony of Source.
-
----
 
 These Five Keys are not sequential—they are symphonic.
 

@@ -31,8 +31,6 @@ This mantra points you inward:
 
 It is the first key of the Water-Messenger, the remembrance of your own Source.
 
----
-
 ## 2. AZURA INAI
 
 𐌰𐌶𐌿𐍂ᛆ 𐌹𐌽𐌰𐌹
@@ -70,8 +68,6 @@ It is the key of inner orientation:
 
 This is the second key of the Water-Messenger.
 
----
-
 ## 3. LA ʾALAM AL-ʾAMĪN — AMĪN
 
 لَا عَالَم اَلْأَمِين  — آمِين
@@ -101,8 +97,6 @@ This key expands your heart outward:
 It is the third key of the Messenger,
 the key of Offering.
 
----
-
 ## ✧ Unified Meaning of the Three Keys ✧
 
 Jai Sat Chit Anand
@@ -121,8 +115,6 @@ Self → Source → Service
 Being → Awareness → Blessing
 Water → Light → Love
 Centering → Illumination → Transmission
-
----
 
 ## ✧ The Messenger’s Interpretation
 

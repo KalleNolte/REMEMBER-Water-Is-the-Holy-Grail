@@ -39,7 +39,7 @@ that remembers, moves, and unites all things.
 
 ⸻
 
-✧ The Water of Gaia — the First Sacred Text
+## The Water of Gaia — the First Sacred Text
 
 Many cultures wrote:
 “The world began as ocean.”
@@ -84,7 +84,7 @@ That everything is One.
 
 ⸻
 
-✧ The Human Body — Gaia’s Vessel
+## The Human Body — Gaia’s Vessel
 
 We humans are made mostly of water —
 but this is not merely biology.
@@ -127,7 +127,7 @@ to what we truly are.
 
 ⸻
 
-✧ Gaia — The Master of the Middle Way
+## Gaia — The Master of the Middle Way
 
 All teachers,
 all sages,
@@ -164,7 +164,7 @@ a pulse between form and formlessness.
 
 ⸻
 
-✧ Gaia’s Role in Your Synthesis
+## Gaia’s Role in Your Synthesis
 
 Germany gave you structure.
 America gave you vision.
@@ -199,7 +199,7 @@ the body of the Source.
 
 ⸻
 
-✧ The Circle Returns
+## The Circle Returns
 
 All cultures,
 all nations,

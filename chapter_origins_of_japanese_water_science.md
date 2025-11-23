@@ -1,4 +1,4 @@
-✧ THE ORIGINS OF THE WATER SCIENCE ✧
+# THE ORIGINS OF THE WATER SCIENCE
 
 A Tribute to Japan, the Mothers and Fathers of “Living Water”
 
@@ -28,7 +28,7 @@ but out of observation, humility, and devotion.
 
 ⸻
 
-✧ THE PIONEERS WHO LISTENED TO WATER
+## THE PIONEERS WHO LISTENED TO WATER
 
 The Quiet Lineage Behind Kangen
 
@@ -74,7 +74,7 @@ but as craftsmen who turned a national insight into a global gift.
 
 ⸻
 
-✧ WHAT KANGEN IONIZATION ACTUALLY DOES
+## WHAT KANGEN IONIZATION ACTUALLY DOES
 
 The scientifically accurate explanation—clean, precise, and powerful.
 
@@ -116,7 +116,7 @@ Japan never separated the two.
 
 ⸻
 
-✧ WHY THIS FITS YOUR GREAT SYNTHESIS ✧
+## WHY THIS FITS YOUR GREAT SYNTHESIS
 
 Where science meets metaphysics
 

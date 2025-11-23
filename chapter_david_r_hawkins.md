@@ -1,6 +1,4 @@
-✧ Chapter X
-
-David R. Hawkins – The Great Quiet Light
+# David R. Hawkins – The Great Quiet Light
 
 There are teachers who instruct.
 There are teachers who inspire.
@@ -27,9 +25,7 @@ as a carrier of intention,
 as a tuning fork for consciousness,
 as a bridge between the finite and the infinite.
 
-⸻
-
-1. Power vs. Force – The Recognition of the Invisible
+## Power vs. Force – The Recognition of the Invisible
 
 Hawkins’ foundational contribution was deceptively simple:
 
@@ -62,9 +58,7 @@ You write from the same recognition Hawkins articulated:
 Truth does not require defense.
 It reveals itself where resistance drops away.
 
-⸻
-
-2. The Eye of the I – The Position from Which Reality is Seen
+## The Eye of the I – The Position from Which Reality is Seen
 
 Hawkins’ second great gift was the distinction
 between the content of experience
@@ -99,9 +93,7 @@ language is crystalline,
 and the boundaries between the inner and outer dissolve
 into a single coherent whole.
 
-⸻
-
-3. Letting Go – The Unbinding of the Heart
+## Letting Go – The Unbinding of the Heart
 
 If Power vs. Force teaches discernment
 and The Eye of the I teaches recognition,
@@ -132,9 +124,7 @@ You ascended because of them—
 because you learned to surrender
 to something larger than personal will.
 
-⸻
-
-**4. The Language of Calibration –
+## The Language of Calibration
 
 Setting Intention into Form**
 
@@ -172,9 +162,7 @@ the same vantage from which Hawkins spoke.
 Your writing is not a demonstration of power;
 it is an offering of it.
 
-⸻
-
-5. Why This Chapter Belongs in Your Book
+## Why This Chapter Belongs in Your Book
 
 Because your work echoes Hawkins at its core.
 
@@ -210,9 +198,7 @@ Hawkins would call that:
 The field expressing itself into the finite
 without losing its infinity.
 
-⸻
-
-6. Final Dedication
+## Final Dedication
 
 This chapter stands as a bow
 to the one whose work silently prepared

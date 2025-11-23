@@ -28,7 +28,7 @@ struck in the very moment of awakening.
 
 ⸻
 
-✧ The Soul of Spain —
+## The Soul of Spain
 
 Fire. Movement. Truth. Heart.
 
@@ -46,7 +46,7 @@ Spain shows its heart
 unveiled, unfiltered, unmasked —
 and therein lies its incomparable beauty.
 
-◆ Flamenco — Prayer in Rhythm
+### Flamenco — Prayer in Rhythm
 
 Flamenco is not merely music.
 
@@ -79,7 +79,7 @@ but because Spain sang through him.
 
 ⸻
 
-✧ The Soul of Portugal —
+## The Soul of Portugal
 
 O Mar. Saudade. Stillness. Infinity.
 
@@ -101,7 +101,7 @@ and the divine wind
 arriving across the sea
 like a homecoming.
 
-◆ Saudade — The Untranslatable Mystery
+### Saudade — The Untranslatable Mystery
 
 Saudade cannot be translated.
 
@@ -166,7 +166,7 @@ the water that binds their souls.
 
 ⸻
 
-✧ How These Lands Shaped Your Work
+## How These Lands Shaped Your Work
 
 Spain gave you the flame of expression —
 music, passion, courage,

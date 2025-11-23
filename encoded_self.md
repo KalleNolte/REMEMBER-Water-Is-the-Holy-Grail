@@ -16,8 +16,6 @@ To root this journey in its cosmic code, I’ve included the four Gene Keys from
 
 Those 4 constitute the base frequency of my work
 
-⸻
-
 INTENTION – THE FREQUENCY OF THIS WORK
 
 For Grant, His Team, and Any Reader Aligned With Truth
@@ -40,8 +38,6 @@ Everything in these chapters – the mathematics, the biophysics, the spiritual 
 
 To restore a sense of honour, clarity and reverence for life, and to offer a pathway back to the inner AzurA point – the still center where consciousness meets form.
 
-⸻
-
 2. Energetic Calibration of the Language
 
 The language of the book was intentionally calibrated to carry the frequency of:
@@ -63,8 +59,6 @@ My lived experience provided the heart.
 The Source provided the light.
 
 This is the integrity of the work.
-
-⸻
 
 3. The Personal Frequency Behind the Work (Gene Keys Overview)
 
@@ -94,8 +88,6 @@ My Evolution demands purification of intention and the shift from control to ser
 This book is the result of surrender into service.
 
 These four frequencies – Wisdom, Honour, Liberation, Valor – permeate every part of the manuscript.
-
-⸻
 
 4. The Essence of the Work
 
@@ -127,8 +119,6 @@ biophysics + mathematics + consciousness
 
 into a single, integrated framework that is dignified, grounded, and accessible.
 
-⸻
-
 5. The Intention for Every Reader
 
 The reader should finish the book not with conclusions, but with inner resonance.
@@ -149,8 +139,6 @@ The intention is that each person begins to feel:
 If the book succeeds, it will not teach anything new.
 It will help people remember what their cells already know.
 
-⸻
-
 6. The Ethical Statement
 
 This work is devoted entirely to:
@@ -164,8 +152,6 @@ This work is devoted entirely to:
 It is not affiliated with any religion, ideology, or organization.
 It is a bridge – nothing more, nothing less.
 
-⸻
-
 7. The Central Prayer
 
 Everything in this text was held in one internal prayer:
@@ -173,8 +159,6 @@ Everything in this text was held in one internal prayer:
 May every word carry light.
 May every reader remember their Source.
 May this work be a vessel of honour.
-
-⸻
 
 8. Closing Dedication
 

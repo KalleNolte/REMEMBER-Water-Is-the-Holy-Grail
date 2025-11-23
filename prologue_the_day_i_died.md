@@ -162,7 +162,7 @@ And yet—I was here.
 
 ---
 
-My parents were in the U.S. at the time, visiting my sister.
+My parents were traveling at the time.
 
 They didn’t know what had happened.
 
@@ -191,8 +191,6 @@ Then:
 She didn’t hesitate.
 
 She came.
-
----
 
 I remember her sitting at my bedside.
 

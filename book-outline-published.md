@@ -2,13 +2,9 @@
 
 This outline presents the currently published chapters in their energetically optimized, initiatic order. It is the official, published version and serves as a navigation guide for readers and collaborators.
 
----
-
 ## An Initiatic Journey through Water, Remembrance, and Consciousness
 
 Each file is listed with its energetic function. The order follows the temple path, curated for resonance and transformation.
-
----
 
 ### 0. Seal & Intention – The Threshold of the Temple
 0. `acknowledgements_prayer_of_gratitutde.md`  
@@ -22,8 +18,6 @@ Each file is listed with its energetic function. The order follows the temple pa
 4. `language-calibration.md`  
    Tunes frequency, tone, and resonance – calibrates the channel.
 
----
-
 ### I. Origin – The Author’s Awakening
 5. `why_me_personal_note.md`  
    Why you. Why now. Opens the personal channel.
@@ -31,8 +25,6 @@ Each file is listed with its energetic function. The order follows the temple pa
    Death of the old self – birth of the witness.
 7. `prologue_the_return_of_number.md`  
    Number as the language of light – philosophical, poetic.
-
----
 
 ### II. Foundation – Science, Water, Remembrance
 8. `chapter1_my_journey_spiritual_science.md`  
@@ -48,8 +40,6 @@ Each file is listed with its energetic function. The order follows the temple pa
 13. `azura_inai_and_kangen_codes_of_coherence.md`  
    Energetic key. Frequencies. AzurA-point.
 
----
-
 ### III. The Human – Healing, Remembrance, Transformation
 14. `chapter3_the_wound_that_becomes_light.md`  
    The wound as gateway.
@@ -60,8 +50,6 @@ Each file is listed with its energetic function. The order follows the temple pa
 17. `surrender_the_art_of_letting_go.md`  
    Surrender as portal.
 
----
-
 ### IV. Practical Mastery – Body, Water, Light
 18. `alchemy_of_living_water_practical_guide.md`  
    Concrete application. Embodiment.
@@ -71,8 +59,6 @@ Each file is listed with its energetic function. The order follows the temple pa
    Voice as instrument of coherence.
 21. `chapter10_eating_light_conscious_nourishment.md`  
    Living on light in daily life.
-
----
 
 ### V. Spiritual Architecture – Understanding the Invisible
 22. `chapter4_silent_creator_from_witness_to_cocreator.md`  
@@ -86,12 +72,9 @@ Each file is listed with its energetic function. The order follows the temple pa
 26. `calibrated_poetry_resonance.md`  
    Frequency poetry. Anchored in the heart field.
 
----
-
 ### Synthesis — The Bridge Between Worlds
 `the_great_synthesis_expanded.md`  
    The maximally complete, Schauberger-integrated synthesis of mathematics, consciousness, water, vortex intelligence, and remembrance. Serves as a capstone to the spiritual architecture and a bridge to purpose.
-
 
 `chapter_fractal_eye.md`  
     The Fractal Eye—altered states, pattern recognition, and the language of light. How perception, geometry, and consciousness reveal the hidden architecture of reality and the pattern-seer’s gift.
@@ -124,8 +107,6 @@ Each file is listed with its energetic function. The order follows the temple pa
 29. `chapter12_chalice_of_light.md`  
    The human as grail. Light in form.
 
----
-
 ### VII. Transmission – Archetypes, Remembrance, Grail
 30. `the_three_archetypes_revealed.md`  
    Your archetypes. Your mission.
@@ -136,14 +117,10 @@ Each file is listed with its energetic function. The order follows the temple pa
 33. `remembrance_through_water_and_love.md`  
    Transmission. The heart of the book.
 
----
-
 ### VIII. Protection, Authorship, Sources
 34. `overview_for_robert_edward_grant.md`  
    Meta-viewer – optional at the end.
 35. `KPN_AzurA_Timestamp_141125.txt` / `.ots`  
    Authorship protection & logbook. Perfect conclusion.
-
----
 
 *This outline is the current, published structure of the work. It can be updated as new chapters are released.*

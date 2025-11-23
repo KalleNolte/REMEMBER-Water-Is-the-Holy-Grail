@@ -30,8 +30,6 @@ it is remembrance.
 And water becomes
 the teacher.
 
-⸻
-
 ## ✧ The Middle as a Living Frequency
 
 When a river flows unimpeded,
@@ -61,8 +59,6 @@ the unified field Langan points to in mind,
 and the balanced center the ancient mystics called
 the living heart of the soul.
 
-⸻
-
 ## ✧ Ikigai: The Four Rivers Meeting at the Center
 
 Your Ikigai is not a career,
@@ -91,8 +87,6 @@ It is something that reveals itself
 when your inner waters become clear,
 when turbulence settles,
 and when the self returns to coherence.
-
-⸻
 
 ## ✧ Water and the Middle Path
 
@@ -125,8 +119,6 @@ Water holds the Middle Path
 not by choosing between extremes
 but by honoring the truth of its nature.
 
-⸻
-
 ## ✧ Pleasure and Service as Two Wings of the Same Bird
 
 There is a misconception
@@ -156,8 +148,6 @@ you let it become an instrument
 through which the world remembers
 its own forgotten beauty.
 
-⸻
-
 ## ✧ How This Merges With Your Great Synthesis
 
 • Grant shows that the universe is built on harmony.
@@ -178,8 +168,6 @@ It becomes holy
 by being what it is.
 
 So do you.
-
-⸻
 
 ## ✧ The Heart of the Chapter
 

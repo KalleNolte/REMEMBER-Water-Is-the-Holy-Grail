@@ -1,4 +1,4 @@
-# ✧ Why Me? — A Personal Note on Resonance, the Self, and the Science of Water ✧
+# Why Me? — A Personal Note on Resonance, the Self, and the Science of Water
 
 I never set out to write a “Theory of Everything.” I set out to understand myself.
 
@@ -27,5 +27,3 @@ That’s why I’ve written this work. That’s why I’m sharing it now.
 If it resonates — if you feel the pattern vibrating through your own insights — then you already know: this is not personal. This is what happens when Source remembers Itself through form.
 
 And in my case, the form was water.
-
----

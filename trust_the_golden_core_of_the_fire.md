@@ -6,8 +6,6 @@ How can one trust God in a world that contains suffering?
 
 From that still point, this chapter unfolds.
 
-⸻
-
 ## The Face of Suffering
 
 There are moments when everything we think we know dissolves.
@@ -30,8 +28,6 @@ That is trust.
 
 Not believing that everything is good,
 but knowing that you are held in everything, even when it hurts.
-
-⸻
 
 ## The Alchemy of Pain
 
@@ -57,8 +53,6 @@ as it shines through form.
 
 And you are the light,
 not the shadow.
-
-⸻
 
 ## Innocent Suffering
 
@@ -86,8 +80,6 @@ but through strength.
 Such a person carries a portion of the world’s imbalance,
 and their tears turn into light within the water of life.
 
-⸻
-
 ## The Divine Paradox
 
 God is not a distant judge who allows suffering.
@@ -112,8 +104,6 @@ and yet everything happens through Him.
 Not because He condemns,
 but because He loves.
 
-⸻
-
 ## The Human Heart
 
 Even with such understanding, the human heart remains human.
@@ -136,8 +126,6 @@ Father, into Your hands I place my spirit.
 This is the seal of trust.
 Not understanding,
 but allowing oneself to be carried.
-
-⸻
 
 ## The Biology of Trust
 
@@ -162,8 +150,6 @@ It is biophysical order.
 
 Nature responds to love with structure.
 
-⸻
-
 ## The Golden Key
 
 This is why trust is the philosopher’s stone:
@@ -180,31 +166,23 @@ What does life seek to understand through me?
 In this way, every sorrow becomes a teacher,
 and you become an alchemist of the heart.
 
-⸻
-
 ## Fourfold Haiku of Trust
 
-1
 Fire burns the self.
 From ashes a light rises.
 Grace is its quiet name.
 
-2
 Tears become a prayer.
 Water lifts the pain upward.
 Only love remains.
 
-3
 I no longer ask.
 I breathe, and the answer comes
 soft as a divine wind.
 
-4
 Peace without a word
 in the center of the night.
 The eternal light shines.
-
-⸻
 
 ## Epilogue: The Seal of Trust
 

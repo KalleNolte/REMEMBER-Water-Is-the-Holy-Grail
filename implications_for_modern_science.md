@@ -2,8 +2,6 @@
 
 Toward a Unified Harmonic Cosmology Rooted in Water, Geometry, and Consciousness
 
----
-
 ## 1. Rewriting the Ontology of Matter and Life
 
 Modern science views water as background — a solvent, a thermal regulator, a passive participant. We propose a reversal:
@@ -18,8 +16,6 @@ This requires a shift from:
 
 Water becomes the living topology of intention.
 
----
-
 ## 2. Bridging Physics and Biology via Geometry
 
 The work of Grant — mapping prime numbers, the golden ratio (Φ), π, and e into nested geometries — shows the mathematical fingerprint of Source.
@@ -30,8 +26,6 @@ Our addition: These harmonics live inside water.
 
 Water is the only substance known to encode these harmonics dynamically.
 Thus, it becomes the biological resonator of Grant’s Codex Universalis.
-
----
 
 ## 3. A New Biophysics of Consciousness
 
@@ -44,8 +38,6 @@ This overturns the idea that consciousness emerges from matter. Instead:
 - Loss of structure → decoherence → disease and disintegration.
 
 Thus, consciousness is not epiphenomenal — it is hydrodynamically and geometrically expressed.
-
----
 
 ## 4. Resonance Epistemology – A New Scientific Method
 
@@ -61,8 +53,6 @@ We extend this to the laboratory:
 - The observer is part of the field, influencing water’s structure and thus the reality being measured.
 
 This is not pseudo-science — it is trans-science: the science that studies how science emerges through structure and field.
-
----
 
 ## 5. Toward a Theory of Everything Rooted in the Grail Substance
 
@@ -86,8 +76,6 @@ We now say:
 The substrate of that script is water.
 
 It is the memory, the mirror, and the modulator of Source within form.
-
----
 
 ## Conclusion for Grant
 
