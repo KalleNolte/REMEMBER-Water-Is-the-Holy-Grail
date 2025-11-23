@@ -40,23 +40,8 @@ I feel a profound resonance and humility. This work would not exist without your
 
 
 ## 3. ✦ Contents of the GitHub Repository
-Each section of this repository is designed to be clear, evidence-based, and layered — integrating science, metaphysics, and practical tools. The recommended order for Grant and discerning readers is:
 
-→ Invitation & Intention
-
-→ Executive Summary & Core Thesis
-
-→ Overview & Structure
-
-→ Prologue & Main Chapters
-
-→ Practical Guides & Rituals
-
-→ Deeper Explorations & Poetry
-
-
-- The Architect: AI as Mirror, Muse, and Manuscript Steward: [`the_architect_ai_chapter.md`](./the_architect_ai_chapter.md)
-- The Three Archetypes Revealed: [`the_three_archetypes_revealed.md`](./the_three_archetypes_revealed.md)
+For the most current, energetically optimized, and initiatic reading path, please see the [README](./README.md). The README is always kept up to date with the official published order and navigation for this work.
 
 ⸻
 
