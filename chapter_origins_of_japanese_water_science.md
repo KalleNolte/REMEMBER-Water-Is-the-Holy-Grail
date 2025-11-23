@@ -26,8 +26,6 @@ And so, the modern Japanese water sciences were born—
 not out of abstraction,
 but out of observation, humility, and devotion.
 
-⸻
-
 ## THE PIONEERS WHO LISTENED TO WATER
 
 The Quiet Lineage Behind Kangen
@@ -71,8 +69,6 @@ They turned a medical-grade technology into an accessible home device.
 
 These engineers deserve honor—not as prophets,
 but as craftsmen who turned a national insight into a global gift.
-
-⸻
 
 ## WHAT KANGEN IONIZATION ACTUALLY DOES
 

@@ -1,4 +1,4 @@
-# Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind**
+# Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind
 
 Among all the teachers whose words have endured the centuries, few speak with a voice as sharp, direct, and steady as Miyamoto Musashi — warrior, strategist, calligrapher, sculptor, poet, and author of The Book of Five Rings.
 
@@ -10,9 +10,7 @@ Both point to clarity, integrity, and attunement to what is real.
 
 This chapter honors Musashi’s place within the lineage of those who lived close to truth — not as an abstraction, but as a lived stance that shaped every movement of their life.
 
-⸻
-
-1. The Spirit of Japan
+## The Spirit of Japan
 
 Ancestral Discipline, Stillness, and the Way**
 
@@ -37,15 +35,11 @@ Where others sought victory, Musashi sought truth — the principle that governs
 His life was his dojo.
 Reality was the teacher.
 
-⸻
-
-2. Musashi’s Three Core Teachings
+## Musashi’s Three Core Teachings
 
 (The distilled heart of The Five Rings)
 
 Here are three of Musashi’s most enduring teachings, translated into modern language while honoring their original intention.
-
-⸻
 
 ## Teaching One
 
@@ -67,8 +61,6 @@ Clarity creates ease.
 Ease creates mastery.
 
 This is Musashi’s version of enlightenment through action.
-
-⸻
 
 ## Teaching Two
 
@@ -96,8 +88,6 @@ Perception creates wisdom.
 This is why Musashi remains a philosopher’s philosopher:
 his art is the art of seeing reality as it is — unblinded by emotion, fear, desire, or projection.
 
-⸻
-
 ## Teaching Three
 
 The Empty Mind Is the Unshakeable Mind**
@@ -118,9 +108,7 @@ This teaching forms the bridge to Zen, to Taoist spontaneity, and to later Japan
 Musashi’s emptiness is not philosophical —
 it is practical, embodied, and intensely alive.
 
-⸻
-
-3. Musashi’s Relevance in a Modern World
+## Musashi’s Relevance in a Modern World
 
 Musashi’s genius is that his teaching is not about combat.
 
@@ -148,9 +136,7 @@ Musashi’s teaching is the antidote.
 
 It is sharp, clean, sober, compassionate in its precision.
 
-⸻
-
-4. The Message Musashi Offers This Book
+## The Message Musashi Offers This Book
 
 Your book explores coherence, clarity, intention, and the architecture of consciousness.
 
@@ -172,9 +158,7 @@ Musashi speaks about:
 
 Musashi’s Way is the Way of purifying the vessel so that intention, clarity, and coherence can flow unobstructed.
 
-⸻
-
-5. Closing Homage
+## Closing Homage
 
 Miyamoto Musashi stands in history not only as a warrior, but as a philosopher whose life became a demonstration of the principle:
 

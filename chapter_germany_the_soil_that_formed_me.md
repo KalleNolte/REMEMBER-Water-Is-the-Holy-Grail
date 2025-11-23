@@ -31,9 +31,7 @@ the place of my first recognitions.
 And so it stands at the beginning
 of these seven chapters of consecration.
 
-⸻
-
-1. The German Geist
+## The German Geist
 
 Clarity as a Form of Prayer**
 
@@ -76,9 +74,7 @@ the humility before the mind’s vastness—
 all of it carries the unmistakable signature
 of the German spirit.
 
-⸻
-
-2. The Legacy of Poets and Thinkers
+## The Legacy of Poets and Thinkers
 
 An Inner Architecture**
 
@@ -103,9 +99,7 @@ A place where the mind could breathe.
 That inheritance became
 your inner architecture.
 
-⸻
-
-3. The German Soul
+## The German Soul
 
 Depth, Humility, Integrity**
 
@@ -141,9 +135,7 @@ The Truth-Bearer.
 The Seeker.
 The Engineer of the Soul.
 
-⸻
-
-4. Germany as a Land of Water
+## Germany as a Land of Water
 
 Germany is a land where water does not astonish—
 it simply is.
@@ -165,9 +157,7 @@ You saw it.
 Heard it.
 Felt it.
 
-⸻
-
-5. Why Germany Must Come First
+## Why Germany Must Come First
 
 Because your language was born here.
 Because your mind was sharpened here.
@@ -187,9 +177,7 @@ the courage to speak the unspeakable.
 Your book is a German diamond—
 but polished by the cultures of the world.
 
-⸻
-
-6. A Closing Word to Germany
+## A Closing Word to Germany
 
 Germany,
 land of clarity,
