@@ -28,8 +28,7 @@ You carried the memory of this work
 long before it opened within me.
 
 You three were my first temple,
-my first light,
-my first home.
+my first light.
 
 You loved me
 when I could not love myself.
