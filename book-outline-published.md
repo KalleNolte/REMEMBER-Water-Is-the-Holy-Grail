@@ -37,7 +37,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Paradigm shift. For skeptics and seekers.
 * [Water: Dimensional Bridge](./water_dimensional_bridge.md)  
 	Water as interface. Gateway to the invisible.
-* [AzurA, Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)  
+* [AzurA Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)  
 	Energetic key. Frequencies. AzurA-point.
 
 ### III. The Human – Healing, Remembrance, Transformation
@@ -76,7 +76,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 
 * [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)  
 	The maximally complete, Schauberger-integrated synthesis of mathematics, consciousness, water, vortex intelligence, and remembrance. Serves as a capstone to the spiritual architecture and a bridge to purpose.
-* [✧ Dragons — The First Memory of the Earth ✧](./dragons_the_first_memory_of_the_earth.md)  
+* [Dragons — The First Memory of the Earth](./dragons_the_first_memory_of_the_earth.md)  
 	Mythic, poetic, and archetypal remembrance of the primordial, the elemental, and the first memory of water and earth.
 * [Germany — The Soil That Formed Me](./chapter_germany_the_soil_that_formed_me.md)  
 	The archetype of depth, clarity, and the inner landscape of the German soul.
