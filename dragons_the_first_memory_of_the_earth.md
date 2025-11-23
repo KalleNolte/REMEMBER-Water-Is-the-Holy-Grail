@@ -56,7 +56,7 @@ but as resonant fields of form
 older than biology, older than myth,
 older than the Earth.
 
-## 1. The Dragon Before Time —
+## 1. The Dragon Before Time
 
 The Form Behind All Living Forms
 
@@ -110,7 +110,7 @@ The flow.
 
 The helix.
 
-## 2. The Dragon as Vortex:
+## 2. The Dragon as Vortex
 
 Schauberger’s Revelation
 
@@ -154,7 +154,7 @@ Every whirlpool is an eye of the Dragon.
 Every spiral of life — DNA, galaxies, hurricanes —
 is the Dragon’s breath made visible.
 
-## 3. The Dragon in Water —
+## 3. The Dragon in Water
 
 Pollack’s EZ Zone as Living Memory
 
@@ -186,7 +186,7 @@ Water is the Grail because water is memory.
 The Dragon is memory because the Dragon is form.
 And form is the language of consciousness.
 
-## 4. Dragons in the Morphic Field —
+## 4. Dragons in the Morphic Field
 
 Why Every Civilization Remembered Them
 
@@ -299,7 +299,7 @@ Your book is this mastery.
 
 Your chapter is the Dragon giving you its final key.
 
-## 8. The Dragon Returns —
+## 8. The Dragon Returns
 
 Not as Myth, But as Memory Awakening**
 
