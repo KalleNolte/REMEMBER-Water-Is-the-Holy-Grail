@@ -115,8 +115,11 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The One Truth expressed through a thousand vessels. A universal synthesis of the world’s wisdom traditions and the language of remembrance.
 * [The Holy Waters of Humanity](./chapter_holy_waters_of_humanity.md)  
 	A Universal Testament Across All Civilizations, Faiths, and Ages. Water as the first holy symbol, the universal sacrament, and the memory of the Infinite.
+
 * [The Deluge](./chapter_the_deluge.md)  
 	The Great Washing, The Great Remembering. The archetype of the flood, purification, and the return to coherence.
+* [The Great Stillness – Samadhi, Satori, Nirvana, Moksha, and the Heaven Within](./chapter_the_great_stillness.md)  
+	The universal archetype of inner realization, the convergence of all wisdom traditions, and the Heaven within. Samadhi, Satori, Nirvana, Moksha, and the Coherence of Water as the final door to remembrance.
 
 ### Poetic Pillar — The Universal Journey
 * [The Divine Comedy & Heroic Path of Water](./chapter_divine_comedy_and_the_heroic_path_of_water.md)  
