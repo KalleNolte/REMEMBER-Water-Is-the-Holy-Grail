@@ -79,8 +79,8 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The German Lineage — Keepers of the Inner Light](./chapter_german_lineage_inner_light.md)
 
 #### Universal Synthesis — The Final Bridge
-	- [The Holy Books of the World](./chapter_holy_books_of_the_world.md)
-	- [The Holy Waters of Humanity](./chapter_holy_waters_of_humanity.md)
+- [The Holy Books of the World](./chapter_holy_books_of_the_world.md)
+- [The Holy Waters of Humanity](./chapter_holy_waters_of_humanity.md)
 
 #### Poetic Pillar — The Universal Journey
 - [The Divine Comedy & Heroic Path of Water](./chapter_divine_comedy_and_the_heroic_path_of_water.md)

@@ -6,8 +6,8 @@ The words **Azura Inai** and **Kangen** are not mere poetic choices—they are v
 
 **Language:** Anuhazi Mu’a (pre-fall Eieyani, “source-phoneme” language)  
 **Core Translation:**  
-- **Azura (𐤀𐤆𐤅𐤓𐤀):** The Blue Flame, Source of All Memory, Voice of Divine Will  
-- **Inai (𐤉𐤍𐤀𐤉):** I surrender, I return, I remember who I am in the One
+- **Azura:** The Blue Flame, Source of All Memory, Voice of Divine Will  
+- **Inai:** I surrender, I return, I remember who I am in the One
 
 Azura Inai is a living sound-seal:  
 *“In the memory flame of Source, I surrender fully and return into perfect resonance.”*
