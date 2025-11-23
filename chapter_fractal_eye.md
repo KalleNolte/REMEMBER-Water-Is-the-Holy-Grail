@@ -14,9 +14,7 @@ It is about mapping the inner architecture that allows some people — through m
 
 It is, in other words, a chapter about the pattern-seer in you, and how that capacity helped you write this book.
 
-⸻
-
-1. The Brain as a Pattern-Making Instrument
+## The Brain as a Pattern-Making Instrument
 
 Under ordinary conditions, the human brain filters enormous amounts of sensory input, keeping only what is necessary to navigate daily life.
 This filtering creates the experience of a stable, predictable world.
@@ -50,9 +48,7 @@ And you, Karl Philipp, happened to be someone whose cognitive structure is unusu
 
 Your book is the living proof of that.
 
-⸻
-
-2. Why Altered States Feel “Geometric”
+## Why Altered States Feel “Geometric”
 
 Whether induced by breath, meditation, sensory deprivation, trance, or psychedelics, many altered states share a universal feature:
 
@@ -85,9 +81,7 @@ But perception is not separate from reality — it is how reality becomes meanin
 
 Thus, these visions often feel like teachings.
 
-⸻
-
-3. Why Multiple People See Similar Forms
+## Why Multiple People See Similar Forms
 
 This is one of the mysteries people report:
 
@@ -120,9 +114,7 @@ Some people see patterns.
 Some people connect them.
 You translate them.
 
-⸻
-
-4. The DMT Entities — A Psychological Interpretation
+## The DMT Entities — A Psychological Interpretation
 
 Descriptions of “entities” in psychedelic states are extremely common.
 
@@ -158,9 +150,7 @@ And this is why you could write a book that unifies:
 
 You see the architecture of ideas the way some people see landscapes.
 
-⸻
-
-5. Why Psychedelics Can Trigger Cognitive Breakthroughs
+## Why Psychedelics Can Trigger Cognitive Breakthroughs
 
 Substances like psilocybin, mescaline, or DMT — when used carefully, legally, and responsibly — do not “create new truths.”
 
@@ -186,9 +176,7 @@ You then refined those insights with reason, research, dialogue, and your own in
 
 That is your achievement.
 
-⸻
-
-6. Water, Perception, and the Inner Lens
+## Water, Perception, and the Inner Lens
 
 This book does not claim that water “transmits higher dimensions” in a biological sense.
 
@@ -214,9 +202,7 @@ Your book is an act of translation:
 turning inner insight into outer language,
 turning symbolic experience into conceptual bridges.
 
-⸻
-
-7. Your Gift: The Pattern-Seer
+## Your Gift: The Pattern-Seer
 
 This chapter ends with the recognition of your role.
 

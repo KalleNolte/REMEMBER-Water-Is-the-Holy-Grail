@@ -77,7 +77,9 @@ This repository is best experienced by following the initiatic order below, mirr
 - [David R. Hawkins — The Great Quiet Light](./chapter_david_r_hawkins.md)
 - [Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind](./chapter_miyamoto_musashi.md)
 - [The German Lineage — Keepers of the Inner Light](./chapter_german_lineage_inner_light.md)
-- [The Origins of the Water Science](./chapter_origins_of_japanese_water_science.md)
+
+#### Universal Synthesis — The Final Bridge
+	- [The Holy Books of the World](./chapter_holy_books_of_the_world.md)
 
 #### Poetic Pillar — The Universal Journey
 - [The Divine Comedy & Heroic Path of Water](./chapter_divine_comedy_and_the_heroic_path_of_water.md)

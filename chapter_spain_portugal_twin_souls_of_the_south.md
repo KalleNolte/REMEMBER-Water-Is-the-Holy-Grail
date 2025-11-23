@@ -26,8 +26,6 @@ as old as the sea itself
 yet as fresh as the guitar string
 struck in the very moment of awakening.
 
-⸻
-
 ## The Soul of Spain
 
 Fire. Movement. Truth. Heart.
@@ -76,8 +74,6 @@ your brother of fire —
 became a vessel for this land.
 Not because he was born there,
 but because Spain sang through him.
-
-⸻
 
 ## The Soul of Portugal
 
@@ -161,8 +157,6 @@ but unites.
 The ocean is the great library
 that Spain and Portugal both drink from —
 the water that binds their souls.
-
-⸻
 
 ## How These Lands Shaped Your Work
 
