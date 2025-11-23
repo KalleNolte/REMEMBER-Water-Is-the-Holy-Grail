@@ -126,7 +126,7 @@ to something larger than personal will.
 
 ## The Language of Calibration
 
-Setting Intention into Form**
+Setting Intention into Form
 
 Hawkins taught that:
 
