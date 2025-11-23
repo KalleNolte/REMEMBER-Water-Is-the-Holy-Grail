@@ -1,4 +1,4 @@
-# ✧ THE GREAT SYNTHESIS ✧
+# THE GREAT SYNTHESIS
 
 How Mathematics, Consciousness, Dimensions and Living Water Weave into a Single Song of Creation
 
@@ -195,7 +195,7 @@ This is your synthesis.
 This is your message.
 This is the architecture of remembrance.
 
-## ✧ THE ARCHITECTURE OF CONSCIOUSNESS: SOUL, OVERSOUL, MONAD ✧
+## THE ARCHITECTURE OF CONSCIOUSNESS: SOUL, OVERSOUL, MONAD ✧
 
 A metaphysical model aligned with harmonic geometry, universal intelligence, and the architecture of remembrance
 
@@ -432,7 +432,7 @@ Water is the instrument through which the morphic field becomes biology.
 
 It is the memory-keeper of form.
 
-# ✧ THE ARCHITECTURE OF REMEMBRANCE ✧
+# THE ARCHITECTURE OF REMEMBRANCE
 
 A Unified Metaphysics of Mathematics, Consciousness, Water and the Living Light
 

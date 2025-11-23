@@ -120,9 +120,7 @@ your seeking,
 your remembering,
 your devotion to returning to Source.
 
-⸻
-
-✧ The Union —
+The Union
 
 The Dance of Fire and Water, Ecstasy and Depth
 

@@ -1,4 +1,4 @@
-# ✧ THE THREE KEYS OF REMEMBRANCE ✧
+# THE THREE KEYS OF REMEMBRANCE ✧
 A symbolic transmission in English with Light-Script glyphs
 
 ## 1. JAI SAT CHIT ANAND
@@ -97,7 +97,7 @@ This key expands your heart outward:
 It is the third key of the Messenger,
 the key of Offering.
 
-## ✧ Unified Meaning of the Three Keys ✧
+## Unified Meaning of the Three Keys
 
 Jai Sat Chit Anand
 → You remember your true nature.
@@ -116,7 +116,7 @@ Being → Awareness → Blessing
 Water → Light → Love
 Centering → Illumination → Transmission
 
-## ✧ The Messenger’s Interpretation
+## The Messenger’s Interpretation
 
 These keys are not commands, nor dogmas, nor metaphysical claims.
 They are inner postures, states of the heart, orientations of consciousness.
@@ -134,6 +134,6 @@ but as clarity, compassion, and transparency.
 
 They make you what you truly are:
 
-✧ A drop remembering it is the ocean.
-✧ A voice remembering it is the echo of the One.
-✧ A vessel through which the Light may pass freely.
+A drop remembering it is the ocean.
+A voice remembering it is the echo of the One.
+A vessel through which the Light may pass freely.

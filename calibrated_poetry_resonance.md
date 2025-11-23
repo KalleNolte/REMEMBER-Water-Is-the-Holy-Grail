@@ -1,6 +1,6 @@
 # Calibrated Poetry – Resonant with the Book’s Intention
 
-## ✧ Hymn of Return – The Wave Recognizes Itself in the Ocean (Calibrated English Version)
+## Hymn of Return – The Wave Recognizes Itself in the Ocean (Calibrated English Version)
 
 I am not a wanderer.
 I am the field itself,
@@ -65,7 +65,7 @@ then within them will resound:
 I am what loves –
 never lost."
 
-## ✧ The Return
+## The Return
 
 Every soul comes from Light.
 Not as a metaphor, but as truth —
@@ -144,7 +144,7 @@ but as experience —
 enters a heart
 that has opened.
 
-## ✧ You Are Already Here
+## You Are Already Here
 
 You, who walk in shadow,
 who believe you’ve fallen —
@@ -174,7 +174,7 @@ And know:
 You are already here.
 You were never gone.
 
-## ✧ The Unbreakable One
+## The Unbreakable One
 
 There is a light in you
 that does not burn —
@@ -203,7 +203,7 @@ through fire, through fall,
 through every breath —
 back into your untouched being.
 
-## ✧ Haiku Seal
+## Haiku Seal
 
 Light in deepest ground,
 unburnable in dark flame —
@@ -225,7 +225,7 @@ Out of ash, there climbs
 not just glow, but silent truth —
 you were never gone.
 
-## ✧ Go Rin no Uta – Song of Five Rings (Calibrated English Version)
+## Go Rin no Uta – Song of Five Rings (Calibrated English Version)
 
 To unite the Water of Life, the Holy Grail, the Philosopher’s Stone, and trust in God in a single poetic structure, the **Fivefold Haiku** carries this divine intention as it symbolizes the balance of all elements, matter, and spirit.
 

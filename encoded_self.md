@@ -1,4 +1,4 @@
-# ✧ Encoded Self – The Vessel of Remembrance ✧
+# Encoded Self – The Vessel of Remembrance
 
 My name is Karl Philipp Nolte. I was born on October 2nd, 1992 at 20:30 in Essen, Germany, under the sun sign Libra and ascendant Gemini. In the Chinese system, I was born in the year of the Water Monkey — a symbolic mirror to this book’s very essence: water, intelligence, fluidity, adaptability, and play in service of deeper truth.
 

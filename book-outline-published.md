@@ -1,4 +1,4 @@
-# ✧ OFFICIAL PUBLISHED OUTLINE (ENGLISH) ✧
+# OFFICIAL PUBLISHED OUTLINE (ENGLISH)
 
 This outline presents the currently published chapters in their energetically optimized, initiatic order. It is the official, published version and serves as a navigation guide for readers and collaborators.
 

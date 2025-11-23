@@ -1,4 +1,4 @@
-# ✧ THE PATH OF THE MIDDLE ✧
+# THE PATH OF THE MIDDLE ✧
 
 Where Joy Becomes Devotion, and Purpose Becomes a River
 
@@ -30,7 +30,7 @@ it is remembrance.
 And water becomes
 the teacher.
 
-## ✧ The Middle as a Living Frequency
+## The Middle as a Living Frequency
 
 When a river flows unimpeded,
 it does not rush toward the ocean in fear
@@ -59,7 +59,7 @@ the unified field Langan points to in mind,
 and the balanced center the ancient mystics called
 the living heart of the soul.
 
-## ✧ Ikigai: The Four Rivers Meeting at the Center
+## Ikigai: The Four Rivers Meeting at the Center
 
 Your Ikigai is not a career,
 not a passion,
@@ -88,7 +88,7 @@ when your inner waters become clear,
 when turbulence settles,
 and when the self returns to coherence.
 
-## ✧ Water and the Middle Path
+## Water and the Middle Path
 
 Water has no struggle.
 It does not “try” to be itself.
@@ -119,7 +119,7 @@ Water holds the Middle Path
 not by choosing between extremes
 but by honoring the truth of its nature.
 
-## ✧ Pleasure and Service as Two Wings of the Same Bird
+## Pleasure and Service as Two Wings of the Same Bird
 
 There is a misconception
 that joy leads us away from purpose,
@@ -148,7 +148,7 @@ you let it become an instrument
 through which the world remembers
 its own forgotten beauty.
 
-## ✧ How This Merges With Your Great Synthesis
+## How This Merges With Your Great Synthesis
 
 • Grant shows that the universe is built on harmony.
 • Pollack reveals that water organizes itself through coherence.
@@ -169,7 +169,7 @@ by being what it is.
 
 So do you.
 
-## ✧ The Heart of the Chapter
+## The Heart of the Chapter
 
 You are not here to choose between pleasure and service.
 You are here to become the place

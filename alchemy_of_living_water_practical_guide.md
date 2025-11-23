@@ -2,11 +2,11 @@
 by Karl Philipp Nolte  
 Version 1.0 – 14 Nov 2025
 
-## ✧ Introduction: Why Water? Why Now?
+## Introduction: Why Water? Why Now?
 Through personal practice, scientific research, and spiritual insight, I have come to understand that water is not a passive element — it is a living, coherent, intelligent interface. It stores memory, transmits intention, and serves as the mirror of consciousness in physical form.
 This guide synthesizes the simplest and most potent ways to awaken the alchemical power of water — within and without.
 
-## ✧ The Four-Fold Path of Empowerment
+## The Four-Fold Path of Empowerment
 For each principle, you’ll find four ways to engage with the power of water and coherence-building:
 1. No-cost: Practices accessible to everyone
 2. Low-cost: <10–50€: affordable additions
@@ -20,7 +20,7 @@ For each principle, you’ll find four ways to engage with the power of water an
 - Mid-cost: Use vortex devices, magnets, copper spiral, or activated charcoal filters
 - High-cost: Kangen machine; scalar frequency water chargers (e.g. 528Hz, 150MHz); implosion structuring tech
 
-## ✧ Recommended Frequencies for Water Charging
+## Recommended Frequencies for Water Charging
 
 Certain frequencies have proven most effective for charging and structuring water:
 
@@ -86,14 +86,14 @@ Certain frequencies have proven most effective for charging and structuring wate
 - Mid-cost: Group ceremonies, sound healing
 - High-cost: Sacred travel; global gatherings of resonance
 
-## ✧ How to Charge Your Water
+## How to Charge Your Water
 - Place in glass vessel in sunlight or IR light
 - Speak your intention into the water (“Thank you,” “Heal,” “Coherence”)
 - Add salt & structure with movement (stirring clockwise)
 - Listen to 528Hz or 150MHz frequency near water
 - Drink in silence, with reverence
 
-## ✧ Closing
+## Closing
 You are 70% water. And this water listens.
 
 When we purify, charge, and bless it — in the cup and in the cells — we realign with the original blueprint.

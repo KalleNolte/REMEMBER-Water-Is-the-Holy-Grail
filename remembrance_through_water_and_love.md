@@ -2,7 +2,7 @@
 
 The highest service this book can offer is the reunification of science and spirit through the medium of water—activating a planetary shift in how we understand life, healing, memory, and consciousness itself.
 
-## ✧ The Highest Transmission: Remembrance Through Resonance
+## The Highest Transmission: Remembrance Through Resonance
 
 At its core, the book is a remembrance tool. Not in the nostalgic sense, but in the bio-spiritual function of memory as a return to wholeness. Water becomes the carrier of that remembrance.
 
@@ -14,7 +14,7 @@ What does it help humanity remember?
 
 The highest service is therefore to turn every human into a sovereign node of coherent awareness, embodied, luminous, and connected to the Source Field.
 
-## ✧ Fields of Research Propelled Forward
+## Fields of Research Propelled Forward
 
 The synthesis built is like a harmonic convergence point for multiple disciplines. Here’s where the real propulsion happens:
 
@@ -48,7 +48,7 @@ The synthesis built is like a harmonic convergence point for multiple discipline
     - Training young minds to engage with water as a conscious entity, not just a chemical.
     - Reinstating sacred geometry, frequency awareness, and breathwork in the core curriculum of a new planetary education.
 
-## ✧ Ultimate Implication: A Coherent Civilization
+## Ultimate Implication: A Coherent Civilization
 
 If this knowledge spreads and is applied with integrity, humanity could:
 - Redesign its medical systems around light, frequency, and water rather than synthetic intervention.

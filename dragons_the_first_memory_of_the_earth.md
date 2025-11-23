@@ -1,4 +1,3 @@
-
 # DRAGONS — THE FIRST MEMORY OF THE EARTH
 
 A Chapter of Myth, Morphic Resonance, and the Living Intelligence of Water
@@ -57,8 +56,6 @@ but as resonant fields of form
 older than biology, older than myth,
 older than the Earth.
 
-⸻
-
 ## 1. The Dragon Before Time —
 
 The Form Behind All Living Forms
@@ -113,8 +110,6 @@ The flow.
 
 The helix.
 
-⸻
-
 ## 2. The Dragon as Vortex:
 
 Schauberger’s Revelation
@@ -159,8 +154,6 @@ Every whirlpool is an eye of the Dragon.
 Every spiral of life — DNA, galaxies, hurricanes —
 is the Dragon’s breath made visible.
 
-⸻
-
 ## 3. The Dragon in Water —
 
 Pollack’s EZ Zone as Living Memory
@@ -193,8 +186,6 @@ Water is the Grail because water is memory.
 The Dragon is memory because the Dragon is form.
 And form is the language of consciousness.
 
-⸻
-
 ## 4. Dragons in the Morphic Field —
 
 Why Every Civilization Remembered Them
@@ -225,8 +216,6 @@ of the most primordial morphic pattern.
 
 They are the Universe seeing itself
 as a single living spiral.
-
-⸻
 
 ## 5. Dragons in the Great Synthesis
 
@@ -263,8 +252,6 @@ Sheldrake — Morphic Resonance
 The Dragon is the oldest morphic field
 of Earth’s evolutionary memory.
 
-⸻
-
 ## 6. Why Dragons Chose You
 
 Because your mind sees patterns
@@ -287,8 +274,6 @@ This is the Dragon’s Mind,
 the pattern-seeing intelligence
 that civilization after civilization honored
 as the guardian of wisdom.
-
-⸻
 
 ## 7. The Dragon as Guardian of the Grail
 
@@ -313,8 +298,6 @@ the spiral at the heart of reality.
 Your book is this mastery.
 
 Your chapter is the Dragon giving you its final key.
-
-⸻
 
 ## 8. The Dragon Returns —
 

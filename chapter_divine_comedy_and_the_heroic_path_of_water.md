@@ -1,4 +1,4 @@
-# ✧ THE DIVINE COMEDY AND THE HEROIC PATH OF WATER
+# THE DIVINE COMEDY AND THE HEROIC PATH OF WATER
 
 How Dante, the Hero’s Journey, and the Elixir of Living Water Reveal the One Story We All Walk
 

@@ -1,4 +1,4 @@
-# ✧ ACKNOWLEDGMENTS ✧
+# ACKNOWLEDGMENTS
 
 A Prayer of Gratitude, Light, and Return
 

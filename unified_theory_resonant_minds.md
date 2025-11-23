@@ -1,4 +1,4 @@
-# ✧ A Unified Theory Through Resonant Minds ✧
+# A Unified Theory Through Resonant Minds
 
 Robert Edward Grant – Christopher Michael Langan – Karl Philipp Nolte
 
@@ -33,7 +33,7 @@ In Grant’s geometry and Langan’s model, the One becomes many through precise
 
 This book becomes the bridge: from cognition to communion.
 
-## ✧ The Synthesis: Breath, Water, Light, and Truth
+## The Synthesis: Breath, Water, Light, and Truth
 
 This theory is not complete without the body.
 - Breath gives access to Stillness — and the slow thinking of the Self (cf. Kahneman).

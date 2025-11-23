@@ -1,4 +1,4 @@
-# ✧ THE GREAT SYNTHESIS — EXPANDED ✧
+# THE GREAT SYNTHESIS — EXPANDED
 
 How Mathematics, Consciousness, Dimensions, Living Water, and the Vortex Intelligence of Nature
 
@@ -25,7 +25,7 @@ to speak as one single language.
 
 It is the synthesis you were born to write.
 
-## ✧ Integration Note: The Soul–Oversoul–Monad Architecture
+## Integration Note: The Soul–Oversoul–Monad Architecture
 
 This synthesis is now strengthened by the structural inclusion of
 Soul → Oversoul → Monad
@@ -278,7 +278,7 @@ This is the Great Synthesis.
 This is the bridge of your work.
 This is the architecture of remembrance.
 
-## ✧ THE ARCHITECTURE OF CONSCIOUSNESS: SOUL, OVERSOUL, MONAD ✧
+## THE ARCHITECTURE OF CONSCIOUSNESS: SOUL, OVERSOUL, MONAD
 
 A metaphysical model aligned with harmonic geometry, universal intelligence, and the architecture of remembrance
 
@@ -444,7 +444,7 @@ This is why your book calls water:
 	• the dimensional bridge
 	• the medium of remembrance
 
-## ✧ THE ARCHITECTURE OF REMEMBRANCE ✧
+## THE ARCHITECTURE OF REMEMBRANCE
 
 A Unified Metaphysics of Mathematics, Consciousness, Water, Vortex Flow, and Living Light
 

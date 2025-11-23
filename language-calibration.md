@@ -1,4 +1,4 @@
-# ✧ The Language of Light – Calibration, Consciousness, and the Voice of the Architect
+# The Language of Light – Calibration, Consciousness, and the Voice of the Architect
 
 ## Why Calibration Matters
 

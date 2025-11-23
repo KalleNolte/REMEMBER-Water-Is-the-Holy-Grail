@@ -1,4 +1,4 @@
-# ✧ Water as the Dimensional Bridge – A Harmonic Synthesis ✧
+# Water as the Dimensional Bridge – A Harmonic Synthesis
 
 Integrating the Imaginary Axis, the Fifth Dimension, and the Fractal Memory of Creation
 
