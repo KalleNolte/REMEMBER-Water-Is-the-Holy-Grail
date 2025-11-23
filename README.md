@@ -79,6 +79,8 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 - [✧ Dragons — The First Memory of the Earth ✧](./dragons_the_first_memory_of_the_earth.md)
 - [Germany — The Soil That Formed Me](./chapter_germany_the_soil_that_formed_me.md)
+- [USA / America — The Land of Vision, Courage, and Renewal](./chapter_america_the_land_of_vision.md)
+- [India — The Remembrance of the Self](./chapter_india_the_remembrance_of_the_self.md)
 - [The Fractal Eye](./chapter_fractal_eye.md)
 - [David R. Hawkins — The Great Quiet Light](./chapter_david_r_hawkins.md)
 - [Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind](./chapter_miyamoto_musashi.md)
