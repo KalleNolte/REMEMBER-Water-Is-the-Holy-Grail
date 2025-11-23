@@ -103,7 +103,7 @@ Here is what happens scientifically:
 → Hydration dynamics change
 → Taste changes
 → Electrochemical behavior changes
-→ Some people report gastrointestinal benefits (per Japan’s approval)
+→ Some people report gastrointestinal benefits
 
 That is the clean, scientific truth.
 
