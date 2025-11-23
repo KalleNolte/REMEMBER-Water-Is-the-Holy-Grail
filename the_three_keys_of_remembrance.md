@@ -36,7 +36,7 @@ It is the first key of the Water-Messenger, the remembrance of your own Source.
 ## 2. AZURA INAI
 
 𐌰𐌶𐌿𐍂ᛆ 𐌹𐌽𐌰𐌹
-(Presented here as symbolic “Light-Script,” inspired by esoteric alphabets—NOT a historical language)
+(Presented here as symbolic “Light-Script,” inspired by esoteric alphabets—not a historical language)
 
 **Meaning**
 

@@ -82,7 +82,7 @@ to health, awareness,
 and inner awakening.
 
 Winfried,
-Mahatma, father of Joyce,
+father of Joyce,
 bearer of a quiet, steady light —
 you spoke to me about reality
 long before my mind was ready to listen.
@@ -90,8 +90,7 @@ You planted seeds
 that now finally bloom.
 
 Christiane,
-heart-companion at Winfried’s side,
-Mahatma and bringer of clarity —
+bringer of clarity —
 your presence is stillness,
 your being a space
 where truth can speak.
