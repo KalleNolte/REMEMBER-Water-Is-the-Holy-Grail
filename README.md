@@ -80,7 +80,8 @@ This repository is best experienced by following the initiatic order below, mirr
 
 #### Universal Synthesis — The Final Bridge
 - [The Holy Books of the World](./chapter_holy_books_of_the_world.md)
-- [The Holy Waters of Humanity](./chapter_holy_waters_of_humanity.md)
+	- [The Holy Waters of Humanity](./chapter_holy_waters_of_humanity.md)
+	- [The Deluge](./chapter_the_deluge.md)
 
 #### Poetic Pillar — The Universal Journey
 - [The Divine Comedy & Heroic Path of Water](./chapter_divine_comedy_and_the_heroic_path_of_water.md)
