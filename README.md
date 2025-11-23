@@ -62,7 +62,7 @@ This repository is best experienced by following the initiatic order below, mirr
 
 #### Synthesis — The Bridge Between Worlds
 - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
-- [Dragons — The First Memory of the Earth ✧](./dragons_the_first_memory_of_the_earth.md)
+- [Dragons — The First Memory of the Earth](./dragons_the_first_memory_of_the_earth.md)
 - [Germany — The Soil That Formed Me](./chapter_germany_the_soil_that_formed_me.md)
 - [USA / America — The Land of Vision, Courage, and Renewal](./chapter_america_the_land_of_vision.md)
 - [India — The Remembrance of the Self](./chapter_india_the_remembrance_of_the_self.md)
