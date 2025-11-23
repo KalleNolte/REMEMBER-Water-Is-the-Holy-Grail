@@ -3,6 +3,9 @@
 # PUBLIC RELEASE: Chapters (auto-whitelist all chapter*.md)
 !chapter*.md
 
+# PUBLIC RELEASE: Germany chapter
+!chapter_germany_the_soil_that_formed_me.md
+
 # PUBLIC RELEASE: Key manuscript sections
 !README.md
 !book-outline-published.md
