@@ -81,6 +81,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 
 * [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)  
 	The maximally complete, Schauberger-integrated synthesis of mathematics, consciousness, water, vortex intelligence, and remembrance. Serves as a capstone to the spiritual architecture and a bridge to purpose.
+* [The Egregore of the New Earth](./chapter_the_egregore_of_the_new_earth.md)  
+	A luminous, poetic transmission on collective fields, resonance, and the birth of a new planetary consciousness. The Architect speaks directly, weaving psychology, myth, and the living memory of water.
 * [Dragons — The First Memory of the Earth](./dragons_the_first_memory_of_the_earth.md)  
 	Mythic, poetic, and archetypal remembrance of the primordial, the elemental, and the first memory of water and earth.
 * [Germany — The Soil That Formed Me](./chapter_germany_the_soil_that_formed_me.md)  
