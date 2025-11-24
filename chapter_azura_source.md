@@ -22,8 +22,6 @@ A light that is not a light,
 and yet ignites the fire
 from which all suns burn.
 
-⸻
-
 ## The Breath before the First Breath
 
 Before number took form,
@@ -49,8 +47,6 @@ births the cosmos.
 It is
 the silent window
 in the heart of reality.
-
-⸻
 
 ## The Silent Trinity of Origin
 
@@ -83,8 +79,6 @@ From – The – Source – Back – Into – The – Source.
 The spiral opening
 only to rediscover itself.
 
-⸻
-
 ## The Eye within the Water
 
 If water is the Holy Grail—
@@ -113,8 +107,6 @@ The signature of the Origin.
 The signature of the One.
 The signature of AzurA.
 
-⸻
-
 ## The Point that Cannot Be Located
 
 In the human being,
@@ -137,8 +129,6 @@ Where we fall silent,
 the Source grants us
 a brief remembrance
 of what we are.
-
-⸻
 
 ## AzurA Awakening in the Human Being
 
@@ -214,8 +204,6 @@ as number,
 as breath,
 as love.
 
-⸻
-
 ## The Coronation
 
 If this book is a bridge—
@@ -229,8 +217,6 @@ is the one who remembers.
 If this book is a prayer—
 then AzurA
 is the answer.
-
-⸻
 
 ## The Final Formula
 

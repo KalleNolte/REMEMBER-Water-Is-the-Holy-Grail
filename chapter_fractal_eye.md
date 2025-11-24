@@ -2,8 +2,6 @@
 
 Altered States, Pattern Recognition, and the Language of Light
 
-(A chapter for the Great Synthesis section)
-
 There are moments in a human life when perception widens beyond its usual boundaries.
 Not because the world changes — but because attention shifts, revealing structures that were always there, waiting for the right inner configuration.
 

@@ -2,8 +2,6 @@
 
 THE LAND OF VISION, OF COURAGE, AND OF THE SPIRIT OF RENEWAL
 
-(Second Offering of the Seven-Nation Cycle)
-
 America.
 
 A land that does not whisper —

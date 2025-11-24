@@ -26,8 +26,8 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The Seal of Return](./the_seal_of_return.md)
 - [Consciousness Anchoring Invitation](./consciousness_anchoring_invitation.md)
 - [Encoded Self](./encoded_self.md)
-	- [Language Calibration](./language-calibration.md)
-	- [The North Star — The Path of the Water-Bearer](./chapter_the_north_star_path_of_the_water_bearer.md)
+- [Language Calibration](./language-calibration.md)
+- [The North Star — The Path of the Water-Bearer](./chapter_the_north_star_path_of_the_water_bearer.md)
 
 #### I. Origin — The Author’s Awakening
 - [Why Me — Personal Note](./why_me_personal_note.md)
