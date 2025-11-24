@@ -48,8 +48,9 @@ This repository is best experienced by following the initiatic order below, mirr
 - [Alchemy of the Soul: Transcending Seven Shadows](./alchemy_of_the_soul_transcending_seven_shadows.md)
 - [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)
 
-#### IV. Practical Mastery — Body, Water, Light
+-#### IV. Practical Mastery — Body, Water, Light
 - [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)
+- [The Four Riders and the Waters of Life](./chapter_the_four_riders_and_the_waters_of_life.md)
 - [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
 - [The Voice: The Forgotten Instrument](./chapter9_the_voice_the_forgotten_instrument.md)
 - [Eating Light: Conscious Nourishment](./chapter10_eating_light_conscious_nourishment.md)

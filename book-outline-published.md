@@ -54,6 +54,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 
 ### IV. Practical Mastery – Body, Water, Light
 * [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)  
+* [The Four Riders and the Waters of Life](./chapter_the_four_riders_and_the_waters_of_life.md)  
 	Concrete application. Embodiment.
 * [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)  
 	Regeneration. Nightly unfolding of the field.
