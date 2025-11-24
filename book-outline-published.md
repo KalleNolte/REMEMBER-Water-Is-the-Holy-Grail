@@ -17,6 +17,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The reader is part of the code, not a spectator.
 * [Language Calibration](./language-calibration.md)  
 	Tunes frequency, tone, and resonance – calibrates the channel.
+* [The North Star — The Path of the Water-Bearer](./chapter_the_north_star_path_of_the_water_bearer.md)  
+	Declaration of purpose, presence, and pure intention. The guiding compass and Ikigai for the work, bridging intention and origin.
 
 ### I. Origin – The Author’s Awakening
 * [Why Me — Personal Note](./why_me_personal_note.md)  
