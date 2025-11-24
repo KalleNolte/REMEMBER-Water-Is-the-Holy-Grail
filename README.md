@@ -46,6 +46,7 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The Wound That Becomes Light](./chapter3_the_wound_that_becomes_light.md)
 - [The Healer](./the_healer.md)
 - [Alchemy of the Soul: Transcending Seven Shadows](./alchemy_of_the_soul_transcending_seven_shadows.md)
+- [Shadow Work – The Gateway to Wholeness](./chapter_shadow_work_the_gateway_to_wholeness.md)
 - [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)
 
 -#### IV. Practical Mastery — Body, Water, Light

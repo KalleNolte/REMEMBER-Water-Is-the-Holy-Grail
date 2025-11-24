@@ -49,6 +49,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Release. Forgiveness. Inner alchemy.
 * [Alchemy of the Soul: Transcending Seven Shadows](./alchemy_of_the_soul_transcending_seven_shadows.md)  
 	Deep soul transformation.
+* [Shadow Work – The Gateway to Wholeness](./chapter_shadow_work_the_gateway_to_wholeness.md)  
+	Integration, transparency, and the return to wholeness.
 * [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)  
 	Surrender as portal.
 
