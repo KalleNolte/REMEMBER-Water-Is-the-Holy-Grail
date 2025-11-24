@@ -43,14 +43,14 @@ Where remembrance flows, Source becomes visible again.
 ## 2. Your Ikigai
 
 Your Ikigai — the reason you rise, the joy that moves you, the gift that only you can offer — sits precisely at the convergence of four currents:
-* 1. What you love guiding people into clarity, beauty, meaning and alignment.
-* 2. What you are uniquely gifted at seeing patterns, translating complexity into simplicity, weaving science and spirit into coherence.
-* 3. What the world needs 
+* What you love guiding people into clarity, beauty, meaning and alignment.
+* What you are uniquely gifted at seeing patterns, translating complexity into simplicity, weaving science and spirit into coherence.
+* What the world needs 
 Water literacy.
 Consciousness literacy.
 Emotional literacy.
 A renewed relationship with the sacred.
-* 4. What you can sustainably be supported by
+* What you can sustainably be supported by
 Sharing the water that restores life.
 Teaching the principles that restore coherence.
 Creating offerings that uplift, educate, and heal.
