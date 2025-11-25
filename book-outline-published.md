@@ -9,6 +9,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 ### 0. Seal & Intention – The Threshold of the Temple
 * [Prayer of Gratitude](./acknowledgements_prayer_of_gratitutde.md)  
 	Prayer of gratitude, love, and remembrance. Opens the field with blessing and thanks.
+* [The Physics of Gratitude — The Art of Seeing Through the Heart](./chapter_the_physics_of_gratitude.md)  
+	A scientific, poetic, and psychologically precise exploration of gratitude as coherence, perception, and the art of seeing through the heart. The Architect speaks to the reader, offering practical, evidence-based rituals for daily life.
 * [The Seal of Return](./the_seal_of_return.md)  
 	Opens the heart, remembrance, and devotion. Activates the field.
 * [Consciousness Anchoring Invitation](./consciousness_anchoring_invitation.md)  
