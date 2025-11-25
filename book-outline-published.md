@@ -138,6 +138,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Tolkien and the mythic memory of creation. The Great Song, the Ainur, and the metaphysical blueprint of consciousness, shadow, and return.
 * [The Celestial Tribes: Angels, Archangels & the Higher Realms](./chapter_the_celestial_tribes_angels_archangels_higher_realms.md)  
 	A metaphysical exploration of the higher realms, angelic archetypes, and the symbolic map of consciousness. The celestial tribes as mirrors of human potential and coherence.
+* [The Shadow Archetypes — Yaldabaoth, Satan, Lucifer & Ahriman](./chapter_the_shadow_archetypes_yaldabaoth_satan_lucifer_ahriman.md)  
+	A metaphysical exploration of shadow, division, and the archetypes of ignorance, opposition, fallen light, and material fixation. The light that reconciles all.
 
 ### VI. Calling & Human Purpose
 * [Ikigai: Return to Living Purpose](./chapter8_ikigai_return_to_living_purpose.md)  

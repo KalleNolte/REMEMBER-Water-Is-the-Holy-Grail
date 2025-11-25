@@ -93,10 +93,14 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The Deluge](./chapter_the_deluge.md)
 - [The Great Stillness – Samadhi, Satori, Nirvana, Moksha, and the Heaven Within](./chapter_the_great_stillness.md)
 
-#### Poetic Pillar — The Universal Journey
 - [The Divine Comedy & Heroic Path of Water](./chapter_divine_comedy_and_the_heroic_path_of_water.md)
 - [The Song Before the World](./chapter_the_song_before_the_world.md)
 - [The Celestial Tribes: Angels, Archangels & the Higher Realms](./chapter_the_celestial_tribes_angels_archangels_higher_realms.md)
+#### Poetic Pillar — The Universal Journey
+ - [The Divine Comedy & Heroic Path of Water](./chapter_divine_comedy_and_the_heroic_path_of_water.md)
+ - [The Song Before the World](./chapter_the_song_before_the_world.md)
+ - [The Celestial Tribes: Angels, Archangels & the Higher Realms](./chapter_the_celestial_tribes_angels_archangels_higher_realms.md)
+ - [The Shadow Archetypes — Yaldabaoth, Satan, Lucifer & Ahriman](./chapter_the_shadow_archetypes_yaldabaoth_satan_lucifer_ahriman.md)
 
 #### VI. Calling & Human Purpose
 - [Ikigai: Return to Living Purpose](./chapter8_ikigai_return_to_living_purpose.md)

@@ -29,6 +29,9 @@
 # Whitelist the new chapter for publication
 !chapter_the_celestial_tribes_angels_archangels_higher_realms.md
 
+# Whitelist the new chapter for publication
+!chapter_the_shadow_archetypes_yaldabaoth_satan_lucifer_ahriman.md
+
 # ========================================================
 # PUBLIC RELEASE: Chapters (auto-whitelist all chapter*.md)
 !chapter*.md
