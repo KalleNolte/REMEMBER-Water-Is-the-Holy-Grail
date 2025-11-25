@@ -5,9 +5,9 @@ Arihants, Vitarāga Lords, and the Eternal Science of Freedom
 Since the beginning of the human story, there have lived beings whose inner light grew so clear, so silent, so utterly unbound, that all karmic weight dissolved from them like mist under a rising sun.
 
 In the language of Akram Vignan, they are known as:
-	•	Arihant (અરિહંત) — The One Who Has Destroyed the Inner Enemies
-	•	Vitarāga (વિતરાગ) — The One Who Is Completely Free of Attachment and Aversion
-	•	Siddha (સિદ્ધ) — The Fully Liberated, Established in the Realm Beyond All Worlds
+*	Arihant (અરિહંત) — The One Who Has Destroyed the Inner Enemies
+*	Vitarāga (વિતરાગ) — The One Who Is Completely Free of Attachment and Aversion
+*	Siddha (સિદ્ધ) — The Fully Liberated, Established in the Realm Beyond All Worlds
 
 These beings did not teach from belief.
 They taught from direct vision — an awakened seeing of the structure of Reality, of karma, of consciousness, of eternal Presence.
@@ -18,9 +18,7 @@ Through their silence, uncountable beings found peace.
 
 This chapter honors the Masters of the Ages, the Arihants and Vitarāgas, whose wisdom forms one of the luminous roots beneath your book.
 
-────────────────────────────────────────────
-
-✧ 1. The Arihant — अरिहन्त — અરિહંત
+## The Arihant — अरिहन्त — અરિહંત
 
 “The Destroyer of the Inner Enemies”
 
@@ -41,15 +39,13 @@ An Arihant is one who has burned these roots so completely that their Presence i
 Their Gift — Darshan-Shakti
 
 Darshan (insight-vision) from an Arihant reorganizes the seeker’s inner field:
-	• conferring peace
-	• accelerating dissolution of karmic bindings
-	• revealing the true nature of the Self (Atma)
+* conferring peace
+* accelerating dissolution of karmic bindings
+* revealing the true nature of the Self (Atma)
 
 They are living bridges between the world of form and the world of pure Knowing.
 
-────────────────────────────────────────────
-
-✧ 2. The Vitarāga — वीतराग — વિતરાગ
+## The Vitarāga — वीतराग — વિતરાગ
 
 “The One Beyond Attraction and Aversion”
 
@@ -59,30 +55,28 @@ Vita (વીત) = gone beyond
 Rāga (રાગ) = attachment, emotional pull
 
 In this state:
-	• There is no push, no pull.
-	• No fear, no craving.
-	• No resistance, no grasping.
-	• Only pure witnessing Presence, radiant and effortless.
+* There is no push, no pull.
+* No fear, no craving.
+* No resistance, no grasping.
+* Only pure witnessing Presence, radiant and effortless.
 
 Their Gift — Gnyan-Shakti
 
 From a Vitarāga emanates a field of:
-	• perfect equanimity
-	• perfect clarity
-	• perfect non-interference
+* perfect equanimity
+* perfect clarity
+* perfect non-interference
 
 They teach through silence as much as words, because their field is the teaching.
 
-────────────────────────────────────────────
-
-✧ 3. The Siddha — सिद्ध — સિદ્ધ
+## The Siddha — सिद्ध — સિદ્ધ
 
 “The Fully Liberated”
 
 The Siddha is the culmination:
-	• A being who has completed all karmic accounts
-	• Who has no further births
-	• Who abides eternally in Siddha-Kṣetra — the realm beyond all identity
+* A being who has completed all karmic accounts
+* Who has no further births
+* Who abides eternally in Siddha-Kṣetra — the realm beyond all identity
 
 Their existence is formless, radiant, infinite —
 a pure point of consciousness, free from time and space.
@@ -93,9 +87,7 @@ The Siddhas are the proof that liberation is possible.
 
 They are the north star for all seekers.
 
-────────────────────────────────────────────
-
-✧ 4. The Twenty-Four Tirthankaras — तीर्थंकर — તીર્થંકર
+## The Twenty-Four Tirthankaras — तीर्थंकर — તીર્થંકર
 
 “Ford-Makers Across the Ocean of Samsara”
 
@@ -105,8 +97,6 @@ Tirthankara literally means:
 “One who builds a crossing.”
 
 Here are a few among them, whose vibration continues to guide seekers today:
-
-⸻
 
 Ṛṣabha-Deva (ऋषभदेव / ઋષભદેવ)
 
@@ -128,57 +118,43 @@ Mahāvīra (महावीर / મહાવીર)
 The Great Hero — The 24th Tirthankara
 Gift: The highest clarity on non-violence, truth, and equanimity.
 
-⸻
-
 These beings walked the earth.
 Their steps rejuvenated entire civilizations.
 Their silence reorganized the destiny of millions.
 
-────────────────────────────────────────────
-
-✧ 5. The Akram Lineage — The Direct Path of Grace
+## The Akram Lineage — The Direct Path of Grace
 
 “Akram” means: the step-less path.
 
 Instead of years of austerity, Akram Vignan gives:
-	• Direct Realization of the Self (Atma-Gnan)
-	• Separation of Self from mind, speech, and body
-	• Freedom from binding new karma through right understanding
-	• Stabilization in equanimity
-	• Inner peace without repression
+* Direct Realization of the Self (Atma-Gnan)
+* Separation of Self from mind, speech, and body
+* Freedom from binding new karma through right understanding
+* Stabilization in equanimity
+* Inner peace without repression
 
 Here we honor the modern keepers of this light:
 
-⸻
+**Gnani Purush Dada Bhagwan (ગ્નાની પુરુષ દાદા ભગવાન)**
 
-Gnani Purush Dada Bhagwan (ગ્નાની પુરુષ દાદા ભગવાન)
-
-Ambalal Patel (અંબાલાલ પટેલ) — the discoverer of Akram Vignan
+**Ambalal Patel (અંબાલાલ પટેલ) — the discoverer of Akram Vignan**
 Gift:
 The direct transmission of Self-Realization,
 and the clearest explanation of karma and liberation in our age.
 
-⸻
-
-Niruma (નીરુમા) — Ma Niruben Amin
+**Niruma (નીરુમા) — Ma Niruben Amin**
 
 Gift:
 Unconditional love, compassion, and the perfect embodiment of equanimity applied to daily life.
 
-⸻
-
-Deepakbhai Desai (દિપકભાઈ દેસાઈ)
+**Deepakbhai Desai (દિપકભાઈ દેસાઈ)**
 
 Gift:
 Clarity, stability, and the systematic expression of Akram science.
 
-⸻
-
 These are the modern Arihants and Vitarāga teachers who opened the way for countless seekers.
 
-────────────────────────────────────────────
-
-✧ 6. The Keys Each Master Gives
+## The Keys Each Master Gives
 
 1. The Arihant
 
@@ -200,17 +176,15 @@ Key: Live the principles that make liberation inevitable.
 
 Key: Realize the Self directly, then stabilize through awareness.
 
-────────────────────────────────────────────
-
-✧ 7. Integration With Your Book’s Cosmology
+## Integration With Your Book’s Cosmology
 
 Your synthesis unites:
-	• Grant’s harmonic universe
-	• Langan’s self-processing reality
-	• Pollack’s structured water
-	• Morphogenetic fields
-	• Higher-dimensional architectures
-	• And the universal path of liberation
+* Grant’s harmonic universe
+* Langan’s self-processing reality
+* Pollack’s structured water
+* Morphogenetic fields
+* Higher-dimensional architectures
+* And the universal path of liberation
 
 Within this grand cosmology:
 
@@ -229,10 +203,10 @@ Pure awareness, no structure remaining.
 Wasser (as you write it) becomes the bridge
 
 through which:
-	• consciousness organizes
-	• karma dissolves
-	• patterns rewrite
-	• and remembrance returns
+* consciousness organizes
+* karma dissolves
+* patterns rewrite
+* and remembrance returns
 
 As the ancient texts say:
 “The Self is clear like water.”
@@ -241,9 +215,7 @@ Your book simply restores the understanding
 that water is not only biological — it is metaphysical, mnemonic, holographic.
 A living medium through which Self remembers Self.
 
-────────────────────────────────────────────
-
-✧ 8. The Closing Seal
+## The Closing Seal
 
 Jai Masters
 Victory to the Enlightened Ones.

@@ -48,8 +48,6 @@ for the worlds, for the One
 AzurA Inai
 from the central point of Source
 
-────────────────────────────────
-
 ## The Nature of a Tirthankara
 
 A Tirthankara is not simply enlightened.
@@ -59,11 +57,11 @@ a point where the axis of the universe aligns with compassion,
 where the path to liberation becomes clearly visible.
 
 A Tirthankara:
-	• has purified all karmic density
-	• lives without inner polarity
-	• radiates only equanimity
-	• reflects all beings’ pure Self back to them
-	• teaches the science of liberation not through opinion but through direct knowing
+* has purified all karmic density
+* lives without inner polarity
+* radiates only equanimity
+* reflects all beings’ pure Self back to them
+* teaches the science of liberation not through opinion but through direct knowing
 
 The word “Tirthankara” literally means:
 
@@ -72,9 +70,7 @@ The word “Tirthankara” literally means:
 And among the 24 Tirthankaras of this cosmic cycle,
 only one remains presently embodied and accessible:
 
-✧ Lord Simandhar Swami ✧
-
-────────────────────────────────
+**Lord Simandhar Swami**
 
 ## Why his presence matters now
 
@@ -91,16 +87,16 @@ His vibration creates a stable point in consciousness
 that allows seekers on Earth to awaken.
 
 It is like a star in the night sky:
-	• It does not pull you upward by force.
-	• It simply shines so steadily
+* It does not pull you upward by force.
+* It simply shines so steadily
 that you remember your direction.
 
 Simandhar Swami’s presence serves as:
-	• a tuning fork for consciousness,
+* a tuning fork for consciousness,
 aligning seekers to equanimity
-	• a stabilizer of the non-violent path
-	• a silent transmitter of Vitaraag energy
-	• a guardian of the law of liberation,
+* a stabilizer of the non-violent path
+* a silent transmitter of Vitaraag energy
+* a guardian of the law of liberation,
 ensuring that the subtle architecture of the universe remains balanced
 
 He is not the Source.
@@ -111,16 +107,14 @@ without claiming to be the moon,
 a Tirthankara reflects
 the pure luminosity of the Absolute.
 
-────────────────────────────────
-
 ## The Vibration of Simandhar Swami
 
 To tune into this Being is to feel:
-	• clarity without harshness
-	• compassion without sentimentality
-	• silence without emptiness
-	• guidance without interference
-	• light without shadow
+* clarity without harshness
+* compassion without sentimentality
+* silence without emptiness
+* guidance without interference
+* light without shadow
 
 His presence resonates in the frequency of:
 
@@ -137,15 +131,13 @@ In Akram science, the Arihants and Tirthankaras are said to radiate a frequency
 that dissolves karmic knots simply by being witnessed,
 just as sunlight melts frost.
 
-────────────────────────────────
-
 ## Simandhar Swami and the New Earth
 
 Your book speaks of a New Earth:
-	• a humanity aligned with coherence,
-	• a consciousness anchored in water,
-	• a world led not by force but by presence,
-	• a civilization emerging from remembrance instead of fear.
+* a humanity aligned with coherence,
+* a consciousness anchored in water,
+* a world led not by force but by presence,
+* a civilization emerging from remembrance instead of fear.
 
 What role does Simandhar Swami play?
 
@@ -168,24 +160,22 @@ Not as a distant deity.
 As a living frequency that can be tuned into
 anywhere consciousness becomes still, humble, open.
 
-────────────────────────────────
-
 ## Why this chapter belongs in this book
 
 Your book is a bridge between:
-	• mystical knowing and scientific clarity
-	• water and consciousness
-	• ancient wisdom and modern physics
-	• the individual’s awakening and humanity’s evolution
+* mystical knowing and scientific clarity
+* water and consciousness
+* ancient wisdom and modern physics
+* the individual’s awakening and humanity’s evolution
 
 The presence of Simandhar Swami
 aligns seamlessly with this architecture.
 
 Because:
-	• He is the living model of the highest coherence
-	• He is the anchor point for liberation in this cosmic era
-	• He embodies the union of silence, compassion, clarity, and non-duality
-	• He represents the same state your book points toward —
+* He is the living model of the highest coherence
+* He is the anchor point for liberation in this cosmic era
+* He embodies the union of silence, compassion, clarity, and non-duality
+* He represents the same state your book points toward —
 the source-aligned, love-saturated, ego-transparent human
 
 His chapter completes the arc:
@@ -196,8 +186,6 @@ His chapter completes the arc:
 	5. The Birth of the New Earth
 
 It is the natural culmination.
-
-────────────────────────────────
 
 ## Closing Invocation
 

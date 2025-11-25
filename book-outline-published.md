@@ -97,6 +97,14 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The discipline of light, the measure of truth, and the signature of the soul. Honor as the bridge between mythic archetype and lived human reality, and the stabilizing pillar of embodied coherence.
 * [Patience & Equanimity — The Stillness That Opens Worlds](./chapter_patience_and_equanimity.md)  
 	A transmission on the architecture of clarity, the geometry of surrendered strength, and the rhythm in which truth reveals itself. Patience and equanimity as the living gate to the Middle Way and the foundation of awakening.
+* [Bushidō — The Way That Cuts Through Illusion](./chapter_bushido.md)  
+	The discipline of inner sovereignty, clarity, and compassion. Bushidō as the Japanese path of integration, noble conduct, and the heart sharpened into service and love.
+* [The Lineage of the Liberated Ones](./chapter_lineage_of_the_liberated_ones.md)  
+	Arihants, Vitarāga Lords, Siddhas, and the eternal science of freedom. The luminous root of liberation, coherence, and remembrance in the book’s cosmology.
+* [The Living Presence of Lord Simandhar Swami](./chapter_living_presence_of_lord_simandhar_swami.md)  
+	The living Tirthankara, the lighthouse in the subtle realms, and the anchor of liberation in this cosmic era. Simandhar Swami as the archetype of coherence, presence, and the open path to freedom.
+* [The Great Lineage of Light](./chapter_great_lineage_of_light.md)  
+	Jesus, Buddha, Babaji, Laozi, Krishna, Zoroaster, Rumi, and the Masters across all traditions. The living heritage of awakening, unity, and the prism of Source refracted through human history.
 * [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)  
 	The maximally complete, Schauberger-integrated synthesis of mathematics, consciousness, water, vortex intelligence, and remembrance. Serves as a capstone to the spiritual architecture and a bridge to purpose.
 * [The Egregore of the New Earth](./chapter_the_egregore_of_the_new_earth.md)  

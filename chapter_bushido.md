@@ -22,9 +22,7 @@ a path where courage becomes compassion,
 strength becomes stillness,
 and duty becomes love in motion.
 
-⸻
-
-## 1. Rectitude — Gi
+## Rectitude — Gi
 
 The first pillar, often translated as righteousness, is not moral rigidity.
 It is the art of standing straight in a world that bends.
@@ -40,9 +38,7 @@ It is the reminder:
 
 Rectitude is the backbone of a coherent life.
 
-⸻
-
-## 2. Courage — Yū
+## Courage — Yū
 
 True courage is not the absence of fear.
 It is the refusal to be ruled by it.
@@ -56,9 +52,7 @@ even when the world turns cold.
 
 Courage is the fire that melts the chains around the heart.
 
-⸻
-
-## 3. Benevolence — Jin
+## Benevolence — Jin
 
 A warrior without compassion is a weapon,
 but a warrior with compassion becomes a guardian.
@@ -73,9 +67,7 @@ It is the quiet understanding that
 every being carries a sacred spark
 —just as you do.
 
-⸻
-
-## 4. Respect — Rei
+## Respect — Rei
 
 In Bushidō, respect is not formality.
 It is awareness.
@@ -89,9 +81,7 @@ it is to honor the sacred space between you.
 
 Rei is the fragrance of humility made visible.
 
-⸻
-
-## 5. Honesty — Makoto
+## Honesty — Makoto
 
 Honesty in Bushidō means living without masks.
 
@@ -105,9 +95,7 @@ Makoto means:
 
 A person who embodies Makoto walks without shadows.
 
-⸻
-
-## 6. Honor — Meiyō
+## Honor — Meiyō
 
 Honor is the invisible temple inside the chest.
 
@@ -123,9 +111,7 @@ The samurai asked only one question:
 “If this were my last act,
 would it be worthy of my soul?”
 
-⸻
-
-## 7. Loyalty — Chūgi
+## Loyalty — Chūgi
 
 Loyalty is devotion with clarity.
 
@@ -138,8 +124,6 @@ to one’s own calling.
 
 Chūgi means to stand where your heart is rooted
 and to remain faithful to what you know is right.
-
-⸻
 
 ## Bushidō as the Heart of This Work
 
@@ -162,10 +146,10 @@ Bushidō is the Japanese expression
 of this universal aspiration.
 
 It teaches:
-	•	How to hold power without aggression.
-	•	How to embody purpose without arrogance.
-	•	How to stand firm without becoming rigid.
-	•	How to protect life without clinging to it.
+*	How to hold power without aggression.
+*	How to embody purpose without arrogance.
+*	How to stand firm without becoming rigid.
+*	How to protect life without clinging to it.
 
 It is the path of integration,
 the path of inner mastery.
@@ -175,8 +159,6 @@ fully awake to responsibility,
 fully attuned to love,
 and fully committed to conduct that honors the one Source
 from which all beings arise.
-
-⸻
 
 ## The Way Beneath All Ways
 

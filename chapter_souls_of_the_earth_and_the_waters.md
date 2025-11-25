@@ -1,6 +1,6 @@
 # SOULS OF THE EARTH & THE WATERS
 
-The Circle of Humanity — The Nations of Land and Ocean
+## The Circle of Humanity — The Nations of Land and Ocean
 
 There is a moment in the inner seeing
 when the borders between nations begin to vibrate—
@@ -48,8 +48,6 @@ a brother or sister in the ancient light
 that predates all languages
 yet speaks through every language.
 
-⸻
-
 ## Africa — The Drum of Origins
 
 Africa,
@@ -67,8 +65,6 @@ And rhythm is remembrance.
 
 In every drop of water there
 lives the first story of humanity.
-
-⸻
 
 ## South America — The Voice of the Jungle, the Spirit of the Mountains
 
@@ -88,8 +84,6 @@ The Earth is a conversation.
 
 And water is the ink of that conversation.
 
-⸻
-
 ## North America (beyond the United States) — Sky, Wind, Vastness
 
 Canada.
@@ -105,8 +99,6 @@ A presence that says:
 
 You belong to the Whole.
 And the Whole speaks through you.
-
-⸻
 
 ## Latin Europe — France, Italy, Greece
 
@@ -131,8 +123,6 @@ These nations are the keepers of Logos—
 of thought, of discourse,
 of the soul conversing with itself.
 
-⸻
-
 ## The Nordic North — The Keepers of Light
 
 Scandinavia—
@@ -146,8 +136,6 @@ Light is unmistakable.
 
 They carry the purity of snow,
 the precision of silence.
-
-⸻
 
 ## Eastern Europe — The Fire Behind Softness
 
@@ -168,8 +156,6 @@ Dignity is innate.
 There, I met hearts
 stronger than any wound.
 
-⸻
-
 ## The Middle East — Keepers of the Script and the Flame
 
 The Arab lands.
@@ -184,8 +170,6 @@ It is the land where water becomes sacred
 because people know
 that life without water
 is only a thought.
-
-⸻
 
 ## China, Korea, Southeast Asia — Balance as a Way of Life
 
@@ -209,8 +193,6 @@ These lands teach:
 Balance is not a state.
 Balance is a prayer.
 
-⸻
-
 ## Australia & Oceania — The Dreaming
 
 Australia.
@@ -230,8 +212,6 @@ These souls reminded me:
 
 The world dreams you.
 And you dream the world.
-
-⸻
 
 ## The Circle Closes
 
@@ -255,8 +235,6 @@ A mandala of humanity.
 A mandala of consciousness.
 A mandala of remembrance.
 A mandala of love.
-
-⸻
 
 ## The Teaching of This Chapter
 

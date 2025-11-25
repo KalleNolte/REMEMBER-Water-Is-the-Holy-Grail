@@ -42,9 +42,7 @@ Not to compare them.
 Not to rank them.
 But to honor how each one expresses a distinct resonance of the Infinite.
 
-⸻
-
-✧ 1. JESUS ✧
+## JESUS
 
 Ἰησοῦς (Iesous) • יֵשׁוּעַ (Yeshua)
 
@@ -76,9 +74,7 @@ the field that turns inner water into light.
 He embodies the teaching that
 every being is already one with Source.
 
-⸻
-
-✧ 2. BUDDHA ✧
+## BUDDHA
 
 बुद्ध (Buddha) • “The Awakened One”
 
@@ -111,9 +107,7 @@ In your book’s metaphysics:
 	• Buddha = the AzurA in its void aspect
 	• Buddha = the clarity through which water becomes a mirror of Source
 
-⸻
-
-✧ 3. MAHAVATAR BABAJI ✧
+## MAHAVATAR BABAJI
 
 महावतार बाबाजी (Mahāvatāra Bābājī)
 
@@ -149,9 +143,7 @@ He is the archetype of:
 
 He represents the infinite teacher within.
 
-⸻
-
-✧ 4. LAOZI ✧
+## LAOZI
 
 老子 (Lǎozi) — “The Old Master”
 
@@ -178,9 +170,7 @@ the one who teaches flow, humility, and the power of yielding.
 He shows how water and consciousness are the same principle:
 that which takes the lowest place becomes the highest.
 
-⸻
-
-✧ 5. KRISHNA ✧
+## KRISHNA
 
 कृष्ण (Kṛṣṇa) — “The Dark, Infinite One,” “The All-Attractive”
 
@@ -205,9 +195,7 @@ The frequency of bliss (ānanda) that animates all existence.
 He is the resonance of the inner child,
 the cosmic musician playing through creation.
 
-⸻
-
-✧ 6. ZOROASTER ✧
+## ZOROASTER
 
 𐬀𐬵𐬀 𐬰𐬭𐬀𐬵𐬙𐬀 (Zaraθuštra) — “The Golden Star”
 
@@ -235,9 +223,7 @@ He resonates with:
 	• The ignition of purpose
 	• The ethical field required for high coherence
 
-⸻
-
-✧ 7. RUMI ✧
+## RUMI
 
 مولانا جلال‌الدین محمد بلخی (Mawlānā Jalāl al-Dīn Balkhī)
 
@@ -263,9 +249,7 @@ the transmutation of longing into unity.
 
 He is the frequency of the awakened Heart.
 
-⸻
-
-✧ 8. OTHER GREAT MASTERS ACROSS TRADITIONS ✧
+## OTHER GREAT MASTERS ACROSS TRADITIONS
 
 (each with original language + gift)
 
@@ -298,9 +282,7 @@ Mātanga / Kwan Yin (觀音) — “She Who Hears the Cries of the World”
 
 Gift: Infinite compassion and mercy
 
-⸻
-
-✧ 9. THE UNITY BEHIND THEM ALL ✧
+## THE UNITY BEHIND THEM ALL
 
 Though separated by centuries, cultures, and languages,
 each master reveals a facet of the same Source.
@@ -319,9 +301,7 @@ Together, they form:
 
 A prism through which the white light of Source refracts into human life.
 
-⸻
-
-✧ 10. WHY THEY BELONG IN YOUR BOOK ✧
+## WHY THEY BELONG IN YOUR BOOK
 
 Your book is not about worship.
 Not about doctrine.
@@ -343,9 +323,7 @@ But mirrors.
 Not distant beings.
 But archetypes of what every human can become.
 
-⸻
-
-✧ Closing Benediction ✧
+## Closing Benediction
 
 May the wisdom of all these lineages
 flow through the reader like light through clear water.
