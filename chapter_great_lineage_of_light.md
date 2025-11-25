@@ -76,7 +76,7 @@ every being is already one with Source.
 
 ## BUDDHA
 
-बुद्ध (Buddha) • “The Awakened One”
+**बुद्ध (Buddha) • “The Awakened One”**
 
 Essence
 
@@ -109,7 +109,7 @@ In your book’s metaphysics:
 
 ## MAHAVATAR BABAJI
 
-महावतार बाबाजी (Mahāvatāra Bābājī)
+**महावतार बाबाजी (Mahāvatāra Bābājī)**
 
 Meaning: “The Great Descent of the Father,” “Timeless Yogi”
 
@@ -145,7 +145,7 @@ He represents the infinite teacher within.
 
 ## LAOZI
 
-老子 (Lǎozi) — “The Old Master”
+**老子 (Lǎozi) — “The Old Master”**
 
 Essence
 
@@ -172,7 +172,7 @@ that which takes the lowest place becomes the highest.
 
 ## KRISHNA
 
-कृष्ण (Kṛṣṇa) — “The Dark, Infinite One,” “The All-Attractive”
+**कृष्ण (Kṛṣṇa) — “The Dark, Infinite One,” “The All-Attractive”**
 
 Essence
 
@@ -197,7 +197,7 @@ the cosmic musician playing through creation.
 
 ## ZOROASTER
 
-𐬀𐬵𐬀 𐬰𐬭𐬀𐬵𐬙𐬀 (Zaraθuštra) — “The Golden Star”
+**𐬀𐬵𐬀 𐬰𐬭𐬀𐬵𐬙𐬀 (Zaraθuštra) — “The Golden Star”**
 
 Essence
 
@@ -257,6 +257,63 @@ He is the frequency of the awakened Heart.
 
 “The One Drawn from the Water”
 Gift: Liberation, ethical law, inner strength
+
+**Muhammad — مُحَمَّد‎ (Muḥammad)**
+
+“The Praised One”
+Gift: Transmission of the Qur’an, Seal of the Prophets, unity of the Abrahamic lineages, surrender (Islam) to the Divine Will, mercy, and the perfection of character
+
+Essence
+Muhammad is the archetype of the Messenger, the one who receives and transmits Divine revelation with clarity and surrender. He embodies the principle of unity (tawḥīd), the harmonization of inner and outer life, and the mercy that encompasses all worlds (raḥma lil-‘ālamīn).
+
+Role in your synthesis
+Muhammad is:
+* The resonance of surrender to the One
+* The harmonizer of the heart and the law
+* The bridge between the Abrahamic traditions
+* The archetype of the living Word
+
+**Abraham — אַבְרָהָם (Avraham) / إِبْرَاهِيم‎ (Ibrāhīm)**
+
+“Father of Multitudes”
+Gift: Faith, covenant, the root of monotheism, the willingness to surrender all to the Divine
+
+Essence
+Abraham is the archetype of faith and trust, the one who walks into the unknown guided by the inner voice of the Divine. He is the root of the Abrahamic lineages and the initiator of the journey of return.
+
+Role in your synthesis
+Abraham is:
+* The seed of faith
+* The willingness to cross thresholds
+* The archetype of the journeyer
+
+**Prophet Elijah — אֵלִיָּהוּ (Eliyahu) / إِيلِيَّا (Ilyā)**
+
+“My God is YHWH”
+Gift: Spiritual fire, ascension, the bridge between worlds, the returner
+
+Essence
+Elijah is the archetype of the ascended prophet, the one who does not taste death but is taken up in a whirlwind. He is the harbinger of renewal and the return of the Light.
+
+Role in your synthesis
+Elijah is:
+* The fire of transformation
+* The bridge between heaven and earth
+* The archetype of the forerunner
+
+**Mother Mary — מִרְיָם (Miryam) / مَرْيَم‎ (Maryam)**
+
+“Beloved, Exalted”
+Gift: Immaculate receptivity, the Divine Mother, compassion, the vessel of incarnation
+
+Essence
+Mary is the archetype of the pure heart, the vessel through which the Divine enters the world. She is the mother of compassion, the embodiment of surrender, and the matrix of new creation.
+
+Role in your synthesis
+Mary is:
+* The field of immaculate conception
+* The archetype of the Divine Feminine
+* The resonance of unconditional acceptance
 
 **Quetzalcóatl (Nahuatl: “Feathered Serpent”)**
 
