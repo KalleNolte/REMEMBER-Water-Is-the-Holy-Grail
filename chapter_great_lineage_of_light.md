@@ -225,7 +225,7 @@ He resonates with:
 
 ## RUMI
 
-مولانا جلال‌الدین محمد بلخی (Mawlānā Jalāl al-Dīn Balkhī)
+**مولانا جلال‌الدین محمد بلخی (Mawlānā Jalāl al-Dīn Balkhī)**
 
 Essence
 
@@ -253,32 +253,32 @@ He is the frequency of the awakened Heart.
 
 (each with original language + gift)
 
-Moses — מֹשֶׁה (Mosheh)
+**Moses — מֹשֶׁה (Mosheh)**
 
 “The One Drawn from the Water”
 Gift: Liberation, ethical law, inner strength
 
-Quetzalcóatl (Nahuatl: “Feathered Serpent”)
+**Quetzalcóatl (Nahuatl: “Feathered Serpent”)**
 
 Gift: Integration of heaven and earth, sky and body, spirit and matter
 
-Nāgārjuna (नागर्जुन)
+**Nāgārjuna (नागर्जुन)**
 
 Gift: The Middle Way of emptiness; the dissolution of conceptual rigidity
 
-Padmasambhava (པདྨ་འབྱུང་གནས) — “Lotus Born”
+**Padmasambhava (པདྨ་འབྱུང་གནས) — “Lotus Born”**
 
 Gift: Transformation of shadow; fearless compassion
 
-Sri Ramana Maharshi (ஸ்ரீ ரமண மகரிஷி)
+**Sri Ramana Maharshi (ஸ்ரீ ரமண மகரிஷி)**
 
 Gift: The direct path of Self-inquiry — “Who am I?”
 
-Black Elk (Heȟáka Sápa)
+**Black Elk (Heȟáka Sápa)**
 
 Gift: Vision, unity of all nations, the sacred hoop
 
-Mātanga / Kwan Yin (觀音) — “She Who Hears the Cries of the World”
+**Mātanga / Kwan Yin (觀音) — “She Who Hears the Cries of the World”**
 
 Gift: Infinite compassion and mercy
 
