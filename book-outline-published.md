@@ -169,4 +169,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [KPN AzurA Timestamp 141125.txt / .ots](./KPN_AzurA_Timestamp_141125.txt)  
 	Authorship protection & logbook. Perfect conclusion.
 
+* [Trust in God](./chapter_trust_in_god.md)  
+	The crown jewel and closing frequency. Trust as the infinite safety of being carried by the One. The final breath into the reader’s heart.
+
 *This outline is the current, published structure of the work. It can be updated as new chapters are released.*

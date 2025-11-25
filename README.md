@@ -50,7 +50,7 @@ This repository is best experienced by following the initiatic order below, mirr
 - [Shadow Work – The Gateway to Wholeness](./chapter_shadow_work_the_gateway_to_wholeness.md)
 - [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)
 
--#### IV. Practical Mastery — Body, Water, Light
+#### IV. Practical Mastery — Body, Water, Light
 - [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)
 - [The Four Riders and the Waters of Life](./chapter_the_four_riders_and_the_waters_of_life.md)
 - [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
@@ -113,6 +113,9 @@ This repository is best experienced by following the initiatic order below, mirr
 #### VIII. Protection, Authorship, Sources
 - [Overview for Robert Edward Grant](./overview_for_robert_edward_grant.md)
 - [KPN AzurA Timestamp 141125.txt / .ots](./KPN_AzurA_Timestamp_141125.txt)
+
+
+- [Trust in God](./chapter_trust_in_god.md)
 
 Feedback is especially welcome from those aligned with the Codex Universalis and the work of Robert Edward Grant.
 
