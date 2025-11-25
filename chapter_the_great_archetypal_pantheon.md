@@ -10,13 +10,13 @@ humankind gave these forces faces. Names. Stories. Mirrors.
 The gods were never merely “beings.”
 
 They were (and are):
-	• Frequencies of consciousness
-	• Modes of energy
-	• Reflections of the psyche
-	• Symbols of cosmic principles
-	• Encoded teachings
-	• Living patterns
-	• Mirrors of the human journey
+* Frequencies of consciousness
+* Modes of energy
+* Reflections of the psyche
+* Symbols of cosmic principles
+* Encoded teachings
+* Living patterns
+* Mirrors of the human journey
 
 Every god is an archetypal equation made visible.
 Every myth is a resonance map of the collective unconscious.
@@ -232,13 +232,13 @@ They represent the mind awakening to its Source.
 ## THE ARCHETYPAL INTEGRATION — How They Fit Into Your Cosmology
 
 In your book’s metaphysical structure:
-	• Source is the undivided field.
-	• Monade/Logos is pure potential.
-	• Archetypes are fractal patterns as consciousness differentiates.
-	• Pantheons are cultural expressions of these patterns.
-	• Humans carry these archetypes in their psyche and water-encoded biology.
-	• Myths are the memory of the cosmos expressed through story.
-	• Gods are names for energies humans must integrate.
+* Source is the undivided field.
+* Monade/Logos is pure potential.
+* Archetypes are fractal patterns as consciousness differentiates.
+* Pantheons are cultural expressions of these patterns.
+* Humans carry these archetypes in their psyche and water-encoded biology.
+* Myths are the memory of the cosmos expressed through story.
+* Gods are names for energies humans must integrate.
 
 The pantheon becomes a map of inner consciousness, not an external theology.
 
@@ -247,10 +247,10 @@ The pantheon becomes a map of inner consciousness, not an external theology.
 Your inclusion of Hades, Lucifer, Satan, and the destroyer gods is essential.
 
 In the Jungian and metaphysical sense:
-	• Shadow gods reveal unintegrated psyche
-	• Destruction precedes creation
-	• Chaos precedes order
-	• Descent precedes rebirth
+* Shadow gods reveal unintegrated psyche
+* Destruction precedes creation
+* Chaos precedes order
+* Descent precedes rebirth
 
 Without Hades, Persephone never becomes queen.
 Without Shiva, nothing new can emerge.
@@ -273,10 +273,10 @@ Consciousness is the author.
 Source is the origin.
 
 By integrating the pantheon, you are:
-	• restoring the symbolic language of the psyche,
-	• bridging Jung with Grant,
-	• bridging myth with harmonic geometry,
-	• bridging gods with archetypal consciousness,
-	• bridging water with information,
-	• bridging cultures into unity,
-	• bridging humanity back to Source.
+* restoring the symbolic language of the psyche,
+* bridging Jung with Grant,
+* bridging myth with harmonic geometry,
+* bridging gods with archetypal consciousness,
+* bridging water with information,
+* bridging cultures into unity,
+* bridging humanity back to Source.

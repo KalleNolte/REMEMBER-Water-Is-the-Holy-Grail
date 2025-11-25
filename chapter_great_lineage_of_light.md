@@ -59,10 +59,10 @@ the Christ Field,
 the logos of love made visible.
 
 Gifts
-	• The unconditional love that dissolves shame
-	• The forgiveness that heals the lineage
-	• The courage to love where love seems impossible
-	• The revelation that the Kingdom is within
+* The unconditional love that dissolves shame
+* The forgiveness that heals the lineage
+* The courage to love where love seems impossible
+* The revelation that the Kingdom is within
 
 Role in your synthesis
 
@@ -90,11 +90,11 @@ His presence dissolves illusion
 and reveals the spaciousness at the center of all experience.
 
 Gifts
-	• The end of suffering through understanding
-	• The realization of emptiness (śūnyatā)
-	• The teaching of the Middle Way
-	• Equanimity as the highest discipline
-	• Compassion rooted in wisdom
+* The end of suffering through understanding
+* The realization of emptiness (śūnyatā)
+* The teaching of the Middle Way
+* Equanimity as the highest discipline
+* Compassion rooted in wisdom
 
 Role in your synthesis
 
@@ -103,9 +103,9 @@ Buddha is the archetype of:
 Pure Awareness — the still water that reflects reality without distortion.
 
 In your book’s metaphysics:
-	• Buddha = the silent geometry behind form
-	• Buddha = the AzurA in its void aspect
-	• Buddha = the clarity through which water becomes a mirror of Source
+* Buddha = the silent geometry behind form
+* Buddha = the AzurA in its void aspect
+* Buddha = the clarity through which water becomes a mirror of Source
 
 ## MAHAVATAR BABAJI
 
@@ -123,11 +123,11 @@ not the immortality of the body,
 but the deathlessness of the Self.
 
 Gifts
-	• Kriya Yoga: the science of pranic light
-	• The purification of the inner channels
-	• The union of breath and Source
-	• The mastery of vibrational alignment
-	• The reminder that enlightenment is the true nature of all beings
+* Kriya Yoga: the science of pranic light
+* The purification of the inner channels
+* The union of breath and Source
+* The mastery of vibrational alignment
+* The reminder that enlightenment is the true nature of all beings
 
 Role in your synthesis
 
@@ -137,9 +137,9 @@ The vibrational architecture —
 the understanding that the body is a temple of frequency.
 
 He is the archetype of:
-	• Lightbody activation
-	• Breath as Source-code
-	• The restoration of the 12-fold unity template
+* Lightbody activation
+* Breath as Source-code
+* The restoration of the 12-fold unity template
 
 He represents the infinite teacher within.
 
@@ -154,11 +154,11 @@ the softness that overcomes rigidity,
 the water that wears down stone.
 
 Gifts
-	• The Way of non-forcing (無為, wúwéi)
-	• Harmony with the natural order
-	• Leadership based on humility
-	• Returning to simplicity and essence
-	• Embodying the Tao as lived wisdom
+* The Way of non-forcing (無為, wúwéi)
+* Harmony with the natural order
+* Leadership based on humility
+* Returning to simplicity and essence
+* Embodying the Tao as lived wisdom
 
 Role in your synthesis
 
@@ -180,11 +180,11 @@ Krishna is the archetype of divine play,
 the joy and beauty of consciousness expressing itself.
 
 Gifts
-	• Union through devotion (bhakti)
-	• Joy as a spiritual path
-	• Love as the highest intelligence
-	• The teaching of dharma through the Gītā
-	• Mastery of life’s battlefield with a serene heart
+* Union through devotion (bhakti)
+* Joy as a spiritual path
+* Love as the highest intelligence
+* The teaching of dharma through the Gītā
+* Mastery of life’s battlefield with a serene heart
 
 Role in your synthesis
 
@@ -206,10 +206,10 @@ the realization that human beings are co-creators
 and that every choice nourishes Light or shadow.
 
 Gifts
-	• The cosmic battle between wisdom and ignorance
-	• Ethical consciousness
-	• The understanding of sacred fire
-	• The doctrine of good thoughts, good words, good deeds
+* The cosmic battle between wisdom and ignorance
+* Ethical consciousness
+* The understanding of sacred fire
+* The doctrine of good thoughts, good words, good deeds
 
 Role in your synthesis
 
@@ -219,9 +219,9 @@ The flame of intention —
 the reminder that consciousness shapes reality.
 
 He resonates with:
-	• The purification of inner fire
-	• The ignition of purpose
-	• The ethical field required for high coherence
+* The purification of inner fire
+* The ignition of purpose
+* The ethical field required for high coherence
 
 ## RUMI
 
@@ -235,10 +235,10 @@ the burning, the longing, the union.
 He is the poet of the Beloved.
 
 Gifts
-	• Devotion as a path
-	• The heart as a doorway
-	• Beauty as revelation
-	• The whirling dance of remembrance
+* Devotion as a path
+* The heart as a doorway
+* Beauty as revelation
+* The whirling dance of remembrance
 
 Role in your synthesis
 
@@ -288,14 +288,14 @@ Though separated by centuries, cultures, and languages,
 each master reveals a facet of the same Source.
 
 In your book’s metaphysical architecture:
-	• Jesus → Heart Cohesion, Love Field
-	• Buddha → Stillness, Clarity, Non-attachment
-	• Babaji → Vibrational Mastery, Lightbody
-	• Laozi → Flow, Water-Wisdom
-	• Krishna → Joy, Beauty, Divine Play
-	• Zoroaster → Intention, Inner Fire
-	• Rumi → Ecstatic Union
-	• Others → The infinite fractal expressions of the One
+* Jesus → Heart Cohesion, Love Field
+* Buddha → Stillness, Clarity, Non-attachment
+* Babaji → Vibrational Mastery, Lightbody
+* Laozi → Flow, Water-Wisdom
+* Krishna → Joy, Beauty, Divine Play
+* Zoroaster → Intention, Inner Fire
+* Rumi → Ecstatic Union
+* Others → The infinite fractal expressions of the One
 
 Together, they form:
 
@@ -308,11 +308,11 @@ Not about doctrine.
 Not about religious identity.
 
 It is about:
-	• the architecture of remembrance
-	• the unbroken lineage of awakening
-	• the return to Source
-	• the water through which consciousness reflects itself
-	• the fractal harmony that unites all traditions
+* the architecture of remembrance
+* the unbroken lineage of awakening
+* the return to Source
+* the water through which consciousness reflects itself
+* the fractal harmony that unites all traditions
 
 These masters are not separate.
 They are frequencies.

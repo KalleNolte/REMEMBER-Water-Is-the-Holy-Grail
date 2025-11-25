@@ -26,9 +26,9 @@ where the joy of being alive
 flows naturally into the joy of contributing to life.
 
 It is the path where:
-	• Pleasure is not an escape
-	• And service is not a burden
-	• But both are movements
+* Pleasure is not an escape
+* And service is not a burden
+* But both are movements
 of the same
 one heart.
 

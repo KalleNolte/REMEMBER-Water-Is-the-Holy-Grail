@@ -37,11 +37,11 @@ It is not a story.
 It is not mythology.
 
 An archetype is:
-	• a field of meaning
-	• a pattern of consciousness
-	• a structural capacity within the psyche
-	• a bridge between individual mind and the collective field
-	• a universal tendency of life to express itself in certain forms
+* a field of meaning
+* a pattern of consciousness
+* a structural capacity within the psyche
+* a bridge between individual mind and the collective field
+* a universal tendency of life to express itself in certain forms
 
 In Jung’s terms:
 Archetypes are inherited structures of the human psyche — not genetically, but psychically, through resonance with the collective unconscious.
@@ -63,24 +63,24 @@ elementals are the archetypes as Nature.
 Human cultures have perceived them for millennia:
 
 Earth Elementals
-	• Gnomes, Dwarves, Duendes
-	• The keepers of stability, form, embodiment
-	• Pattern of: grounding, patience, endurance, memory
+* Gnomes, Dwarves, Duendes
+* The keepers of stability, form, embodiment
+* Pattern of: grounding, patience, endurance, memory
 
 Water Elementals
-	• Undines, Naiads, Nymphs, Selkies
-	• Embodiments of flow, emotion, intuition
-	• Pattern of: fluidity, empathy, healing, connection
+* Undines, Naiads, Nymphs, Selkies
+* Embodiments of flow, emotion, intuition
+* Pattern of: fluidity, empathy, healing, connection
 
 Fire Elementals
-	• Salamanders, Djinn, Agni, Ifrit
-	• Embodiments of transformation, passion, ignition
-	• Pattern of: will, intensity, purification
+* Salamanders, Djinn, Agni, Ifrit
+* Embodiments of transformation, passion, ignition
+* Pattern of: will, intensity, purification
 
 Air Elementals
-	• Sylphs, Spirits of Wind, Kami of Breath
-	• Embodiments of clarity, thought, guidance
-	• Pattern of: inspiration, vision, communication
+* Sylphs, Spirits of Wind, Kami of Breath
+* Embodiments of clarity, thought, guidance
+* Pattern of: inspiration, vision, communication
 
 In your synthesis, these are not literal small beings but consciousness-patterns that express through the elemental world.
 They are fields — not forms.
@@ -97,19 +97,19 @@ Water reflects all four.
 ## Spirits — Personified Currents of the Field
 
 Every culture the world has ever known has spoken of spirits:
-	• Ancestors
-	• Nature spirits
-	• Guardians
-	• Muses
-	• Daimons
-	• Devas
-	• Kami
-	• Angels
-	• Demons
-	• Bodhisattvas
-	• Saints
-	• Totems
-	• Genii
+* Ancestors
+* Nature spirits
+* Guardians
+* Muses
+* Daimons
+* Devas
+* Kami
+* Angels
+* Demons
+* Bodhisattvas
+* Saints
+* Totems
+* Genii
 
 What differs is not the phenomenon —
 what differs is the language.
@@ -118,10 +118,10 @@ Spirits are the personification of non-physical informational patterns.
 
 A “spirit” is not necessarily a separate being.
 It is a configuration of consciousness that feels “other” because it is:
-	• larger than the ego
-	• older than your life
-	• shared by the collective
-	• expressing through you, not from you
+* larger than the ego
+* older than your life
+* shared by the collective
+* expressing through you, not from you
 
 When an artist says, “This music wrote itself,”
 or a scientist says, “The insight arrived fully formed,”
@@ -246,27 +246,27 @@ Archetypes are frequencies.
 Water is the receiver.
 
 In more precise terms:
-	• Archetypes = coherent patterns in the collective field
-	• Water = the biological substrate that reads them
-	• Consciousness = the interpreter
-	• Symbol = the translation
-	• Myth = the story the psyche tells to understand the pattern
+* Archetypes = coherent patterns in the collective field
+* Water = the biological substrate that reads them
+* Consciousness = the interpreter
+* Symbol = the translation
+* Myth = the story the psyche tells to understand the pattern
 
 When you feel:
-	• courage rising → Hero
-	• longing deepening → Lover
-	• fear tightening → Shadow
-	• clarity sharpening → Sage
-	• devotion blooming → Mystic
-	• inspiration flooding → Muse
+* courage rising → Hero
+* longing deepening → Lover
+* fear tightening → Shadow
+* clarity sharpening → Sage
+* devotion blooming → Mystic
+* inspiration flooding → Muse
 
 your inner water is resonating with an archetypal frequency.
 
 This is why:
-	• dehydration affects emotion
-	• structured water improves clarity
-	• coherent water enhances intuition
-	• sacred water rituals open consciousness
+* dehydration affects emotion
+* structured water improves clarity
+* coherent water enhances intuition
+* sacred water rituals open consciousness
 
 Water is the mirror of archetypes.
 
@@ -277,7 +277,7 @@ It is the organ of perception for subtle fields.
 This chapter belongs after the Pantheon of Gods and before the Great Synthesis.
 
 Reason:
-	• Gods → externalized forces
-	• Archetypes → internalized forces
-	• Water → the bridge
-	• Synthesis → the integration
+* Gods → externalized forces
+* Archetypes → internalized forces
+* Water → the bridge
+* Synthesis → the integration

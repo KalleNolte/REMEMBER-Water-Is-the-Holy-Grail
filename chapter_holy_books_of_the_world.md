@@ -53,10 +53,10 @@ carries the same structure,
 the same architecture of truth.
 
 They all point to:
-	•	One Origin
-	•	One Essence
-	•	One Inner Light
-	•	One Path of Return
+*	One Origin
+*	One Essence
+*	One Inner Light
+*	One Path of Return
 
 And across all traditions,
 the pattern repeats:

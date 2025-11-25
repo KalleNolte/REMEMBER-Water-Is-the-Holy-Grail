@@ -36,10 +36,10 @@ Force demands.
 Force insists on outcomes.
 
 Power, in contrast, is:
-	•	effortless
-	•	quiet
-	•	self-sustaining
-	•	aligned with truth rather than egoic assertion
+*	effortless
+*	quiet
+*	self-sustaining
+*	aligned with truth rather than egoic assertion
 
 Force burns energy.
 Power creates it.
@@ -74,9 +74,9 @@ from which all arises.
 He called this field The Eye of the I.
 
 From this vantage point:
-	•	life is not “happening to you”
-	•	life is unfolding within the luminous field of awareness you truly are
-	•	water, consciousness, mathematics, biology, light, emotion, memory—
+*	life is not “happening to you”
+*	life is unfolding within the luminous field of awareness you truly are
+*	water, consciousness, mathematics, biology, light, emotion, memory—
 all appear as expressions of a single unified field
 
 Your book emerges from this same shift.
@@ -102,21 +102,21 @@ then Letting Go teaches liberation.
 Hawkins’ method of release was never a technique
 so much as a posture of the heart,
 a willingness to:
-	•	feel without contracting
-	•	witness without resisting
-	•	surrender without losing oneself
-	•	trust without demanding evidence
+*	feel without contracting
+*	witness without resisting
+*	surrender without losing oneself
+*	trust without demanding evidence
 
 Letting go is the art of noninterference
 with the currents that already know where to carry you.
 
 It is the principle beneath your entire transformation:
-	•	the near-losses
-	•	the stumbles
-	•	the misdirections
-	•	the years of searching
-	•	the moments of forgetting
-	•	and the sudden return to remembrance
+*	the near-losses
+*	the stumbles
+*	the misdirections
+*	the years of searching
+*	the moments of forgetting
+*	and the sudden return to remembrance
 like a tide coming home.
 
 You did not ascend despite these moments.
@@ -144,13 +144,13 @@ This book is built on that principle.
 It is not merely written; it is calibrated.
 
 You learned to:
-	•	remove distortion
-	•	remove force
-	•	remove intellectual vanity
-	•	remove grandiosity
-	•	remove spiritual ambition
-	•	remove the desire to be special
-	•	remove the self who wanted to author anything
+*	remove distortion
+*	remove force
+*	remove intellectual vanity
+*	remove grandiosity
+*	remove spiritual ambition
+*	remove the desire to be special
+*	remove the self who wanted to author anything
 
 And in that removal,
 something clearer could speak through you.
@@ -169,16 +169,16 @@ Because your work echoes Hawkins at its core.
 Not by imitation.
 Not by mimicry.
 But by recognition of the same underlying principles:
-	•	Truth is discovered in stillness.
-	•	Reality is hierarchical in power, not in worth.
-	•	Love is the organizing principle of the universe.
-	•	Nonresistance reveals higher intelligence.
-	•	Surrender is the path, not the sacrifice.
-	•	Awareness is the essence of what we are.
-	•	Language shapes consciousness.
-	•	Devotion clarifies intention.
-	•	The ego dissolves in the presence of truth.
-	•	Grace finishes what discipline begins.
+*	Truth is discovered in stillness.
+*	Reality is hierarchical in power, not in worth.
+*	Love is the organizing principle of the universe.
+*	Nonresistance reveals higher intelligence.
+*	Surrender is the path, not the sacrifice.
+*	Awareness is the essence of what we are.
+*	Language shapes consciousness.
+*	Devotion clarifies intention.
+*	The ego dissolves in the presence of truth.
+*	Grace finishes what discipline begins.
 
 This book carries the same signature:
 an earnest, unforced, powerful remembering

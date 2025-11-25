@@ -199,14 +199,14 @@ Different myths.
 But one pattern:
 
 Every culture saw the same truth through a different facet of the jewel.
-	•	The Vedic saw Consciousness.
-	•	The Egyptians saw Order & Rebirth.
-	•	The Greeks saw Mind & Emotion.
-	•	The Christians saw Love.
-	•	The Japanese saw Purity & Presence.
-	•	The Indigenous saw Nature as Alive.
-	•	The Kabbalists saw Emanation.
-	•	The Sufis saw Beloved Union.
+*	The Vedic saw Consciousness.
+*	The Egyptians saw Order & Rebirth.
+*	The Greeks saw Mind & Emotion.
+*	The Christians saw Love.
+*	The Japanese saw Purity & Presence.
+*	The Indigenous saw Nature as Alive.
+*	The Kabbalists saw Emanation.
+*	The Sufis saw Beloved Union.
 
 Your book brings this all together:
 

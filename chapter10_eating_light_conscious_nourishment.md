@@ -185,11 +185,11 @@ What you consume in fear becomes waste.
 
 Classical nutrition science separates substances from systems.
 But the new holistic view connects:
-	•	Macronutrients = Material
-	•	Micronutrients = Information
-	•	Water = Transport
-	•	Light = Energy
-	•	Consciousness = Conductor
+*	Macronutrients = Material
+*	Micronutrients = Information
+*	Water = Transport
+*	Light = Energy
+*	Consciousness = Conductor
 
 The human being is not a consumer but a translator of energy into consciousness.
 
@@ -319,10 +319,10 @@ A harp of light, whose forgotten strings begin to hum again as we awaken.
 These “strands” are not discovered through microscopes —
 
 but through resonance.
-	•	One strand holds memory.
-	•	Another holds intuition.
-	•	One vibrates with ancestral wisdom.
-	•	Another opens to divine imagination.
+*	One strand holds memory.
+*	Another holds intuition.
+*	One vibrates with ancestral wisdom.
+*	Another opens to divine imagination.
 
 Together, they form a geometry that speaks not just about you —
 
@@ -348,8 +348,8 @@ a quantum architecture beneath visible matter.
 A kind of living blueprint, not carved in stone, but woven from frequency and intention.
 
 Modern mystics and scientists alike — from Rupert Sheldrake to Robert Edward Grant — suggest that:
-	•	The body is shaped not just by genes, but by geometry.
-	•	Life unfolds not only through biology, but through harmonic memory.
+*	The body is shaped not just by genes, but by geometry.
+*	Life unfolds not only through biology, but through harmonic memory.
 
 This process has been called quantum morphogenesis:
 
@@ -370,10 +370,10 @@ Each of us carries a resonant signature, and as we tune it, the dormant music of
 Not through effort — but through entrainment.
 
 Through:
-	•	the water we bless
-	•	the words we speak
-	•	the music we absorb
-	•	the presence we allow
+*	the water we bless
+*	the words we speak
+*	the music we absorb
+*	the presence we allow
 
 And through love — the ultimate tuning fork.
 

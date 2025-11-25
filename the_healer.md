@@ -61,9 +61,9 @@ When they rise, gently remind:
 In this way, you are not a healer above someone, but with them. You do not lead—you help them remember what they already are.
 
 You may extend this structure with:
-	• Breath guidance from Joe Dispenza’s Heart Coherence Meditation,
-	• Mantra work with tones like AUM or SO HAM (I am that),
-	• Mindful waterwork—hands in water, intention of purification and remembrance.
+* Breath guidance from Joe Dispenza’s Heart Coherence Meditation,
+* Mantra work with tones like AUM or SO HAM (I am that),
+* Mindful waterwork—hands in water, intention of purification and remembrance.
 
 # Azura Inai – The Light That Heals Through Water
 
@@ -151,11 +151,11 @@ From separation to wholeness.
 ## 5. Scientific Resonance
 
 This practice leads to observable changes:
-	• Breath rhythm activates the parasympathetic system and lowers cortisol.
-	• Heart rate variability rises, indicating emotional coherence.
-	• EZ-water in cells expands – a marker of vitality and crystalline order.
-	• Coherent brainwaves (Alpha-Theta) harmonize both hemispheres.
-	• The human body becomes a resonant field of divine intelligence.
+* Breath rhythm activates the parasympathetic system and lowers cortisol.
+* Heart rate variability rises, indicating emotional coherence.
+* EZ-water in cells expands – a marker of vitality and crystalline order.
+* Coherent brainwaves (Alpha-Theta) harmonize both hemispheres.
+* The human body becomes a resonant field of divine intelligence.
 
 ## 6. Fourfold Haiku – The Seal
 
@@ -303,10 +303,10 @@ only the movement itself.
 ## 6. Scientific Resonance – Letting Go as Biophysical Coherence
 
 Letting go enacts a remarkable physiological change:
-	• Cortisol drops, oxytocin rises—the body shifts from survival to healing.
-	• The Default Mode Network in the brain—linked to rumination and ego—quiets.
-	• Cell membranes change charge: electrical tension lowers, easing muscles and heartbeat.
-	• EZ-water expands in the cells—a sign of vitality and crystalline clarity.
+* Cortisol drops, oxytocin rises—the body shifts from survival to healing.
+* The Default Mode Network in the brain—linked to rumination and ego—quiets.
+* Cell membranes change charge: electrical tension lowers, easing muscles and heartbeat.
+* EZ-water expands in the cells—a sign of vitality and crystalline clarity.
 
 Letting go is not just metaphor—it is a physical act of returning to coherence.
 

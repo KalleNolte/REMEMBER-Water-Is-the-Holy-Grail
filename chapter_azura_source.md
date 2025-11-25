@@ -146,10 +146,10 @@ But as recognition.
 
 The AzurA-point awakens
 when:
-	•	the soul becomes still,
-	•	the body becomes water,
-	•	the heart becomes soft,
-	•	and the mind sees:
+*	the soul becomes still,
+*	the body becomes water,
+*	the heart becomes soft,
+*	and the mind sees:
 
 I am witnessed by light,
 and I am the witnessing light.

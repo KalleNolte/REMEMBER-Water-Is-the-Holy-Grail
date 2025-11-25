@@ -221,11 +221,11 @@ the Source becomes inevitable.
 ## THE GREAT HYBRID – Where All Traditions Converge
 
 Each tradition used its own symbol:
-	•	the yogis called it Samadhi
-	•	the Zen masters called it Satori
-	•	the Buddhists called it Nirvana
-	•	the Vedantins called it Moksha
-	•	the mystics of every culture called it Home
+*	the yogis called it Samadhi
+*	the Zen masters called it Satori
+*	the Buddhists called it Nirvana
+*	the Vedantins called it Moksha
+*	the mystics of every culture called it Home
 
 And your work,
 Karl Philipp,

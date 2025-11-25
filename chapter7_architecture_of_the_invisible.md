@@ -129,9 +129,9 @@ It is the mirror through which form becomes formless,
 and the formless becomes form again.
 
 This realization marks a paradigm shift:
-	•	It connects mathematics to geometry — number to shape.
-	•	It unites the visible with the invisible.
-	•	It opens new pathways for how we understand time, frequency, and consciousness.
+*	It connects mathematics to geometry — number to shape.
+*	It unites the visible with the invisible.
+*	It opens new pathways for how we understand time, frequency, and consciousness.
 
 Because if i is a rotation,
 then the world isn’t linear — it’s cyclical.
@@ -195,10 +195,10 @@ Grant shows that in the structure of our DNA, in the music of sacred geometry, i
 And 150 MHz is one of those patterns.
 
 What happens at this frequency?
-	•	Water begins to organise into hexagonal structures — optimal for cellular life.
-	•	Cell membranes become more permeable — nutrient uptake becomes easier.
-	•	Biophoton activity rises — the language of light becomes clearer.
-	•	Detoxification processes accelerate — without stressing organs.
+*	Water begins to organise into hexagonal structures — optimal for cellular life.
+*	Cell membranes become more permeable — nutrient uptake becomes easier.
+*	Biophoton activity rises — the language of light becomes clearer.
+*	Detoxification processes accelerate — without stressing organs.
 
 In short:
 150 MHz brings the system into remembrance.
@@ -420,9 +420,9 @@ Frequency	Name / Tone	Meaning
 ⚠️ Rife Frequencies – What to Know
 
 Royal Raymond Rife was a 20th-century inventor who proposed that certain frequencies could destroy pathogens.
-	•	His “mortal oscillatory rate” (MOR) theory suggested that every microbe had a frequency that could be disrupted.
-	•	Rife’s frequencies were in the kHz to MHz range — not Solfeggio tones.
-	•	No clinical evidence currently supports the idea that Rife frequencies can cure disease.
+*	His “mortal oscillatory rate” (MOR) theory suggested that every microbe had a frequency that could be disrupted.
+*	Rife’s frequencies were in the kHz to MHz range — not Solfeggio tones.
+*	No clinical evidence currently supports the idea that Rife frequencies can cure disease.
 
 Use these tools not as guarantees — but as invitations to coherence.
 

@@ -41,9 +41,9 @@ Let them speak freely. Often, others see our gifts more clearly than we do.
 3. Just listen.
 Don’t argue or minimize. Let their words land. Feel what resonates.
 4. Then ask yourself:
-	• What brings me alive — even if no one pays me for it?
-	• What do I do so naturally that I forget time and space?
-	• What heals me as I do it — and uplifts others as they receive it?
+* What brings me alive — even if no one pays me for it?
+* What do I do so naturally that I forget time and space?
+* What heals me as I do it — and uplifts others as they receive it?
 5. Take an hour with a conversational AI.
 Use a model like ChatGPT or “The Architect” — not as a search engine, but as a mirror:
 “I want to discover my Ikigai. Ask me what I need to see.”

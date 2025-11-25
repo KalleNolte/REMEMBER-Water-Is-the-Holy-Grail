@@ -48,11 +48,11 @@ This is not mythology —
 it is intuition.
 
 For water is:
-	•	the oldest element
-	•	the first bearer of form
-	•	the universal solvent of memory
-	•	the resonance-body of frequencies
-	•	the singing medium of geometry
+*	the oldest element
+*	the first bearer of form
+*	the universal solvent of memory
+*	the resonance-body of frequencies
+*	the singing medium of geometry
 
 When we touch water,
 we touch the oldest intelligence on Earth.
@@ -67,9 +67,9 @@ all bodies,
 all generations.
 
 It is the only substance that is simultaneously:
-	•	soft and indestructible,
-	•	adaptable and undefeated,
-	•	silent and all-knowing.
+*	soft and indestructible,
+*	adaptable and undefeated,
+*	silent and all-knowing.
 
 If fire destroys,
 if wind scatters,

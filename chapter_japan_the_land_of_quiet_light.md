@@ -59,8 +59,6 @@ it breathes.
 A person does not merely live —
 they embody.
 
-⸻
-
 ## The Waters of Japan — Memory of Purity
 
 If there is one place on Earth
@@ -91,8 +89,6 @@ And in the onsen, the steaming springs of the mountains,
 healing is not understood as something external
 but as a return to what is essential.
 
-⸻
-
 ## Japan and the Science of Water — An Invisible Legacy
 
 Even without making mystical claims,
@@ -100,8 +96,8 @@ it remains true that Japan became the cradle
 of a unique fusion:
 
 **traditional reverence for water
-	•	scientific curiosity
-	•	technological refinement.**
+*	scientific curiosity
+*	technological refinement.**
 
 From this cultural soil arose the early innovations
 that would later become ionization technologies —
@@ -168,11 +164,11 @@ or through doctrine —
 it shaped you through presence.
 
 It taught you:
-	•	that discipline is a form of love
-	•	that clarity is a form of compassion
-	•	that beauty is a form of truth
-	•	that simplicity is the highest expression of wisdom
-	•	that water is the mirror of the inner world
+*	that discipline is a form of love
+*	that clarity is a form of compassion
+*	that beauty is a form of truth
+*	that simplicity is the highest expression of wisdom
+*	that water is the mirror of the inner world
 
 And all of this flows into your book
 as quietly and powerfully

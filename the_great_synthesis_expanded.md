@@ -300,11 +300,11 @@ Below is the clearest and most integrated version for your book.
 
 The Soul is your personal expression of consciousness.
 It is the part of you that:
-	• feels
-	• learns
-	• chooses
-	• experiences
-	• carries memory and longing across lifetimes
+* feels
+* learns
+* chooses
+* experiences
+* carries memory and longing across lifetimes
 
 The Soul is the “you” that evolves through experience.
 
@@ -315,10 +315,10 @@ as branches from a tree,
 as rays from a star.
 
 The Oversoul:
-	• holds the larger blueprint
-	• guides multiple incarnations
-	• is not caught in human drama
-	• sees with clarity and compassion
+* holds the larger blueprint
+* guides multiple incarnations
+* is not caught in human drama
+* sees with clarity and compassion
 
 You are never separate from your Oversoul; you are one of its living expressions.
 
@@ -330,10 +330,10 @@ the undivided field,
 the origin before identity.
 
 If we translate this into an image:
-	• The Monad is the sun.
-	• The Oversoul is the sun as a star system.
-	• The Soul is a ray of light.
-	• The human is the point where the ray touches the Earth.
+* The Monad is the sun.
+* The Oversoul is the sun as a star system.
+* The Soul is a ray of light.
+* The human is the point where the ray touches the Earth.
 
 ### 2. The Metaphysical Architecture (for seekers & scholars)
 
@@ -356,10 +356,10 @@ This is one continuum, not three entities.
 
 In physics, pure information is non-local and timeless.
 This corresponds to:
-	• infinite coherence
-	• no boundaries
-	• no individual identity
-	• pure potentiality
+* infinite coherence
+* no boundaries
+* no individual identity
+* pure potentiality
 
 Grant: the field before number.
 Langan: SCSPL – reality as self-processing language.
@@ -368,10 +368,10 @@ Mystics: Source, Ain Soph, the One.
 **3.2 The Oversoul = a higher-dimensional morphogenetic field**
 
 This is the level that stores:
-	• archetypes
-	• life themes
-	• soul trajectories
-	• evolutionary pathways
+* archetypes
+* life themes
+* soul trajectories
+* evolutionary pathways
 
 Sheldrake: a higher-order morphic field.
 Haramein: a holographic node in the vacuum structure.
@@ -380,15 +380,15 @@ Grant: a harmonic attractor in the Phi-torus continuum.
 **3.3 The Soul = a localized holographic subfield**
 
 The Soul is:
-	• a fractal expression of the Oversoul
-	• with its own identity vector
-	• capable of unique experience
-	• yet still holographically connected to the whole
+* a fractal expression of the Oversoul
+* with its own identity vector
+* capable of unique experience
+* yet still holographically connected to the whole
 
 Biophysically reflected through:
-	• coherent water domains (Del Giudice)
-	• biophoton communication (Popp)
-	• structured EZ-water (Pollack)
+* coherent water domains (Del Giudice)
+* biophoton communication (Popp)
+* structured EZ-water (Pollack)
 
 ### 4. How Consciousness Traverses These Layers
 
@@ -412,10 +412,10 @@ The abstract becomes embodied.
 The field becomes felt.
 
 This occurs through:
-	• the nervous system
-	• the heart’s electromagnetic torus
-	• the DNA’s light-mediated signaling
-	• and most of all through water
+* the nervous system
+* the heart’s electromagnetic torus
+* the DNA’s light-mediated signaling
+* and most of all through water
 
 ### 5. Why Water Is the Bridge Between These Worlds
 
@@ -424,10 +424,10 @@ In your synthesis, this is the golden key:
 Water is the interpreter between dimensions.
 
 Because:
-	• EZ-water stores coherent structure
-	• water is the medium around DNA
-	• biophotons require coherent water to function
-	• consciousness modulates light → light modulates water → water modulates biology
+* EZ-water stores coherent structure
+* water is the medium around DNA
+* biophotons require coherent water to function
+* consciousness modulates light → light modulates water → water modulates biology
 
 Thus:
 
@@ -439,10 +439,10 @@ DNA → modulates behavior, perception, embodiment
 Water is the threshold organ of consciousness.
 
 This is why your book calls water:
-	• the Grail
-	• the antenna
-	• the dimensional bridge
-	• the medium of remembrance
+* the Grail
+* the antenna
+* the dimensional bridge
+* the medium of remembrance
 
 ## THE ARCHITECTURE OF REMEMBRANCE
 

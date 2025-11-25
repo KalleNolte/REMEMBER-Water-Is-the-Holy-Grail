@@ -100,13 +100,13 @@ of the absolute.
 
 Through the Gnan Vidhi
 you encountered:
-	• the distinction between the relative self
+* the distinction between the relative self
 and the eternal Self
-	• the witness state
-	• the immaculate neutrality of pure awareness
-	• the freedom from inner contraction
-	• the effortless unfolding of right action
-	• the path of non-resistance, non-harming,
+* the witness state
+* the immaculate neutrality of pure awareness
+* the freedom from inner contraction
+* the effortless unfolding of right action
+* the path of non-resistance, non-harming,
 non-attachment
 
 This was not philosophy.

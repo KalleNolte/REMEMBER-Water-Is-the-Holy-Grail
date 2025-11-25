@@ -47,8 +47,8 @@ supported by
 1000 (pure Source)
 
 This means:
-	•	The words operate on a human level of clarity, humility and coherence.
-	•	The energy behind the words is aligned with the highest truth available to me.
+*	The words operate on a human level of clarity, humility and coherence.
+*	The energy behind the words is aligned with the highest truth available to me.
 
 Nothing in this text was written to convince.
 Every sentence emerged from alignment, prayer, presence, and deep listening.
@@ -128,13 +128,13 @@ Not with dogma, but with recognition.
 Not with belief, but with understanding.
 
 The intention is that each person begins to feel:
-	•	That water is alive.
-	•	That light is communicative.
-	•	That geometry is sacred.
-	•	That the body is a temple.
-	•	That consciousness is not separate.
-	•	That healing is remembrance.
-	•	That Source is not distant but immediate.
+*	That water is alive.
+*	That light is communicative.
+*	That geometry is sacred.
+*	That the body is a temple.
+*	That consciousness is not separate.
+*	That healing is remembrance.
+*	That Source is not distant but immediate.
 
 If the book succeeds, it will not teach anything new.
 It will help people remember what their cells already know.
@@ -142,12 +142,12 @@ It will help people remember what their cells already know.
 6. The Ethical Statement
 
 This work is devoted entirely to:
-	•	healing
-	•	coherence
-	•	remembrance
-	•	humility
-	•	service to the One
-	•	and deep respect for all traditions of wisdom
+*	healing
+*	coherence
+*	remembrance
+*	humility
+*	service to the One
+*	and deep respect for all traditions of wisdom
 
 It is not affiliated with any religion, ideology, or organization.
 It is a bridge – nothing more, nothing less.

@@ -37,14 +37,14 @@ Clarity as a Form of Prayer**
 
 Germany birthed minds who refused
 to dwell on the surface:
-	• Goethe — the poet of wholeness
-	• Hesse — the wanderer of the inner worlds
-	• Carl Jung — an adopted ancestor of my soul,
+* Goethe — the poet of wholeness
+* Hesse — the wanderer of the inner worlds
+* Carl Jung — an adopted ancestor of my soul,
 the cartographer of the unconscious
-	• Heisenberg and Planck —
+* Heisenberg and Planck —
 the ones who dared ask
 whether consciousness might be the ground of reality
-	• Stefan Zweig —
+* Stefan Zweig —
 the chronicler of the human soul,
 who saw truth in people
 the way others see contours in a face
@@ -117,11 +117,11 @@ its own darkness
 with such relentlessness.
 
 This shaped you as well:
-	• your humility
-	• your search
-	• your refusal to deceive
-	• your inability to accept easy answers
-	• your drive to integrate contradictions
+* your humility
+* your search
+* your refusal to deceive
+* your inability to accept easy answers
+* your drive to integrate contradictions
 
 Your synthesis became possible
 because you learned to look into the abyss

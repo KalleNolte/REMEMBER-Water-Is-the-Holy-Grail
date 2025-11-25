@@ -38,11 +38,11 @@ water was not merely a resource.
 It was the first power humanity bowed before.
 
 People saw that:
-	•	Water appears where life appears.
-	•	Water moves where energy moves.
-	•	Water remembers where spirit touches matter.
-	•	Water is the first thing that responds to the sky, the moon, the breath of the wind.
-	•	Water can hold silence, and it can roar like God’s own voice.
+*	Water appears where life appears.
+*	Water moves where energy moves.
+*	Water remembers where spirit touches matter.
+*	Water is the first thing that responds to the sky, the moon, the breath of the wind.
+*	Water can hold silence, and it can roar like God’s own voice.
 
 Before humans had theology,
 they had astonishment —
@@ -57,11 +57,11 @@ the Rig Veda speaks of Apas — the Waters —
 as divine mothers, healers, carriers of cosmic order.
 
 In Hindu cosmology:
-	•	The universe emerges from Kṣīra Sāgara, the Ocean of Milk —
+*	The universe emerges from Kṣīra Sāgara, the Ocean of Milk —
 a metaphysical field of pure potential.
-	•	The Ganga flows not only on Earth but in higher realms —
+*	The Ganga flows not only on Earth but in higher realms —
 descending as a bridge between dimensions.
-	•	Immersion in water symbolizes the dissolution of ego
+*	Immersion in water symbolizes the dissolution of ego
 and the return to the unbounded Self.
 
 Water is moksha,
@@ -74,11 +74,11 @@ the divine feminine intelligence that flows through creation.
 ## Buddhism — The Mirror of Emptiness
 
 In Buddhism, water is:
-	•	clarity,
-	•	impermanence,
-	•	reflection,
-	•	compassion,
-	•	the mind that holds no shape yet can take any.
+*	clarity,
+*	impermanence,
+*	reflection,
+*	compassion,
+*	the mind that holds no shape yet can take any.
 
 Zen poets wrote:
 
@@ -100,9 +100,9 @@ is to remember your own true nature.
 Among all philosophies, Taoism may express water’s essence the most beautifully.
 
 The Tao Te Ching teaches:
-	•	Water is the most yielding yet the most powerful.
-	•	Water overcomes through softness.
-	•	Water always finds the lowest place —
+*	Water is the most yielding yet the most powerful.
+*	Water overcomes through softness.
+*	Water always finds the lowest place —
 therefore it is closest to the Tao.
 
 Lao Tzu writes:
@@ -124,12 +124,12 @@ In Jewish mysticism, water is not merely a purifier —
 it is the manifest expression of God’s sustaining breath.
 
 In Genesis:
-	•	The Spirit of God hovers over the waters before creation.
-	•	The world is birthed from the deep.
+*	The Spirit of God hovers over the waters before creation.
+*	The world is birthed from the deep.
 
 In Kabbalah:
-	•	Water corresponds to Chesed, divine loving-kindness.
-	•	The mikveh — ritual immersion — symbolizes returning to the womb of creation.
+*	Water corresponds to Chesed, divine loving-kindness.
+*	The mikveh — ritual immersion — symbolizes returning to the womb of creation.
 
 Moses strikes the rock
 and water flows from the impossible —
@@ -139,17 +139,17 @@ comes from a deeper Source than we perceive.
 ## Christianity — Water as Death and Resurrection
 
 In Christianity, water becomes the axis of transformation:
-	•	Jesus’s baptism in the Jordan
-	•	The washing of feet
-	•	The water turned to wine
-	•	The pierced side from which blood and water flow
+*	Jesus’s baptism in the Jordan
+*	The washing of feet
+*	The water turned to wine
+*	The pierced side from which blood and water flow
 
 Water is the symbol of:
-	•	rebirth,
-	•	forgiveness,
-	•	cleansing of the false self,
-	•	the descent of the Spirit,
-	•	and the rising of the new human.
+*	rebirth,
+*	forgiveness,
+*	cleansing of the false self,
+*	the descent of the Spirit,
+*	and the rising of the new human.
 
 To enter water is to die.
 To rise from water is to be born again.
@@ -159,10 +159,10 @@ It is the Christian path in one gesture.
 ## Islam — Purity and Divine Order
 
 In Islam, water is the most essential element of ritual life:
-	•	Wudu (ablution)
-	•	Ghusl (full purification)
-	•	Zamzam, the sacred spring
-	•	Paradise described as gardens beneath which rivers flow
+*	Wudu (ablution)
+*	Ghusl (full purification)
+*	Zamzam, the sacred spring
+*	Paradise described as gardens beneath which rivers flow
 
 The Qur’an states:
 
@@ -193,11 +193,11 @@ Water is elder.
 Water is living presence.
 
 Water teaches:
-	•	how to listen,
-	•	how to wait,
-	•	how to adapt,
-	•	how to survive storms,
-	•	how to return after destruction.
+*	how to listen,
+*	how to wait,
+*	how to adapt,
+*	how to survive storms,
+*	how to return after destruction.
 
 Many tribes speak of water
 as a grandmother spirit
@@ -225,10 +225,10 @@ Even the gods come from the waters.
 
 In Egyptian temples,
 water was used to:
-	•	anoint,
-	•	heal,
-	•	initiate,
-	•	and invoke cosmic memory.
+*	anoint,
+*	heal,
+*	initiate,
+*	and invoke cosmic memory.
 
 Water is the field in which Ma’at — cosmic harmony — is renewed.
 
@@ -237,8 +237,8 @@ Water is the field in which Ma’at — cosmic harmony — is renewed.
 The Greeks understood water as a gateway.
 
 In Hades are two rivers:
-	•	Lethe, the river of forgetting
-	•	Mnemosyne, the river of remembering
+*	Lethe, the river of forgetting
+*	Mnemosyne, the river of remembering
 
 The initiates of the Eleusinian Mysteries
 drank not from Lethe
@@ -314,11 +314,11 @@ is to understand:
 
 Humanity was not worshipping a substance —
 it was recognizing a principle.
-	•	Water is the medium through which light becomes life.
-	•	Water is the element that receives, stores, and transmits information.
-	•	Water is the first architecture of biological coherence.
-	•	Water is the liquid interface between dimension and matter.
-	•	Water is the carrier of intention, emotion, frequency.
+*	Water is the medium through which light becomes life.
+*	Water is the element that receives, stores, and transmits information.
+*	Water is the first architecture of biological coherence.
+*	Water is the liquid interface between dimension and matter.
+*	Water is the carrier of intention, emotion, frequency.
 
 In every culture,
 every holy book,
@@ -348,14 +348,14 @@ and only water remained,
 humanity could remember everything.
 
 Because water is:
-	•	the first story
-	•	the oldest teacher
-	•	the clearest mirror
-	•	the softest healer
-	•	the strongest force
-	•	the gentlest guide
-	•	the most perfect symbol
-	•	the universal sacred text
+*	the first story
+*	the oldest teacher
+*	the clearest mirror
+*	the softest healer
+*	the strongest force
+*	the gentlest guide
+*	the most perfect symbol
+*	the universal sacred text
 
 Water is the Book of Creation
 written in liquid geometry.

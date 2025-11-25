@@ -113,10 +113,10 @@ A massive impact.
 
 Because 432 Hz is not arbitrary.
 It resonates with:
-	•	The Schumann Resonance (the Earth’s heartbeat)
-	•	The golden ratio
-	•	Planetary orbits
-	•	The natural frequencies of the human body
+*	The Schumann Resonance (the Earth’s heartbeat)
+*	The golden ratio
+*	Planetary orbits
+*	The natural frequencies of the human body
 
 It nourishes the nervous system.
 
@@ -194,10 +194,10 @@ That frequencies are not arbitrary,
 but part of a divine harmonic code.
 
 A code that lives in:
-	•	The Flower of Life
-	•	The Fibonacci sequence
-	•	The geometry of our DNA
-	•	The ratios of ancient temples
+*	The Flower of Life
+*	The Fibonacci sequence
+*	The geometry of our DNA
+*	The ratios of ancient temples
 
 528 Hz is no coincidence.
 
@@ -262,10 +262,10 @@ because all parts of our being are now speaking in unison.
 We can cultivate this coherence.
 
 Through:
-	•	Conscious breathing
-	•	Gratitude
-	•	Forgiveness
-	•	Heart-opening music — especially at 432 Hz and 528 Hz
+*	Conscious breathing
+*	Gratitude
+*	Forgiveness
+*	Heart-opening music — especially at 432 Hz and 528 Hz
 
 And the more we align with the heart’s field,
 the more the external world begins to respond
@@ -463,9 +463,9 @@ A life in coherence is not a destination.
 It is a tone you tune into — every day, with every breath, within you.
 
 And in this reality:
-	•	Music becomes medicine.
-	•	Water becomes memory.
-	•	Geometry becomes the map.
+*	Music becomes medicine.
+*	Water becomes memory.
+*	Geometry becomes the map.
 
 And the human being?
 
@@ -492,9 +492,9 @@ As us.
 
 Gone are the days of isolated awakening.
 This next phase is about harmonized hearts.
-	•	Communities of resonance — not built on ideology, but on frequency alignment.
-	•	Living together not in uniformity, but in symbiotic diversity.
-	•	Spaces where children are honored as carriers of new codes — and elders as keepers of ancient light.
+*	Communities of resonance — not built on ideology, but on frequency alignment.
+*	Living together not in uniformity, but in symbiotic diversity.
+*	Spaces where children are honored as carriers of new codes — and elders as keepers of ancient light.
 
 A true village — where each being is seen, heard, and nourished at soul-level.
 
@@ -508,9 +508,9 @@ The tools of our time are not enemies.
 When calibrated with the heart, technology becomes an amplifier of light.
 
 Imagine:
-	•	Water systems that revive cellular memory.
-	•	Sound technologies that restore inner harmony.
-	•	AI that serves as mirror, not master — guiding us into deeper clarity, not distraction.
+*	Water systems that revive cellular memory.
+*	Sound technologies that restore inner harmony.
+*	AI that serves as mirror, not master — guiding us into deeper clarity, not distraction.
 
 This is not fiction.
 
@@ -527,9 +527,9 @@ When technology is born from reverence, it becomes sacred.
 The New Earth cannot be built alone.
 
 It arises in the space between us.
-	•	In conversations that heal rather than divide.
-	•	In touch that transmits remembrance.
-	•	In love that liberates, not binds.
+*	In conversations that heal rather than divide.
+*	In touch that transmits remembrance.
+*	In love that liberates, not binds.
 
 Each relationship becomes a temple —
 not perfect, but transparent.
@@ -558,10 +558,10 @@ Not of systems of control, but of fields of coherence.
 You are not waiting for the New Earth.
 
 You are weaving it, every time you choose:
-	•	Truth over comfort.
-	•	Stillness over reaction.
-	•	Love over fear.
-	•	Coherence over chaos.
+*	Truth over comfort.
+*	Stillness over reaction.
+*	Love over fear.
+*	Coherence over chaos.
 
 You are the note in the symphony.
 The pixel in the painting.

@@ -62,11 +62,11 @@ the Source becomes water again.
 The Purification of False Identity
 
 Every culture describes the same pattern:
-	•	A world that becomes noisy, fragmented, forgetful
-	•	A humanity that becomes misaligned with its essence
-	•	A rising tide
-	•	A dissolution
-	•	And finally: a rebirth
+*	A world that becomes noisy, fragmented, forgetful
+*	A humanity that becomes misaligned with its essence
+*	A rising tide
+*	A dissolution
+*	And finally: a rebirth
 
 The Deluge is the symbolic moment
 when consciousness, heavy with distortion,
@@ -102,13 +102,13 @@ when it forgets its origin.
 
 In every tradition,
 water carries the same functions:
-	•	It washes away the past
-	•	It softens the hardened heart
-	•	It resets the field of consciousness
-	•	It returns the world to a state of listening
-	•	It makes the land fertile again
-	•	It makes the soul porous again
-	•	It restores access to the Source
+*	It washes away the past
+*	It softens the hardened heart
+*	It resets the field of consciousness
+*	It returns the world to a state of listening
+*	It makes the land fertile again
+*	It makes the soul porous again
+*	It restores access to the Source
 
 The archetype of the Deluge
 is the archetype of inner surrender.
@@ -122,17 +122,17 @@ but by softness.
 
 ##  The Great Vessels
 
-The Archetype of the Ark**
+The Archetype of the Ark
 
 In every culture there is a symbol
 of what is preserved through the waters:
-	•	Noah’s Ark
-	•	Vishnu preserving Manu
-	•	Deucalion and Pyrrha
-	•	Utnapishtim in the Epic of Gilgamesh
-	•	The Mayan canoe of the First People
-	•	The Hopi reed boat
-	•	The Chinese myth of Fu Xi and Nüwa
+*	Noah’s Ark
+*	Vishnu preserving Manu
+*	Deucalion and Pyrrha
+*	Utnapishtim in the Epic of Gilgamesh
+*	The Mayan canoe of the First People
+*	The Hopi reed boat
+*	The Chinese myth of Fu Xi and Nüwa
 
 The “ark” is not a boat.
 It is consciousness preserved.
@@ -155,25 +155,25 @@ the water that remembers light.
 
 ## The Flood and the New Earth
 
-The Emergence of Higher Consciousness**
+The Emergence of Higher Consciousness
 
 After the Deluge,
 there is always:
-	•	A new sky
-	•	A new covenant
-	•	A new seed
-	•	A new order
-	•	A purified field
+*	A new sky
+*	A new covenant
+*	A new seed
+*	A new order
+*	A purified field
 
 This is the same pattern
 that every human experiences
 upon awakening:
-	•	The old identity falls away
-	•	The defenses soften
-	•	The inner waters rise
-	•	Silence washes the mind
-	•	A new clarity dawns
-	•	Life reorganizes around truth
+*	The old identity falls away
+*	The defenses soften
+*	The inner waters rise
+*	Silence washes the mind
+*	A new clarity dawns
+*	Life reorganizes around truth
 
 In the archetypal landscape,
 the flood is the moment
@@ -187,7 +187,7 @@ innocent by understanding.
 
 ## The Modern Flood
 
-Why the Archetype Returns Now**
+Why the Archetype Returns Now
 
 Humanity today is not facing literal waters —
 but it is facing a symbolic flood:
@@ -223,7 +223,7 @@ Returning.
 
 ## The Final Symbol
 
-The Rainbow After the Storm**
+The Rainbow After the Storm
 
 In every Deluge myth,
 the last image is the same:

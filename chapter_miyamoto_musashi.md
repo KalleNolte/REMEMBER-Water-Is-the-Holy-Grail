@@ -17,11 +17,11 @@ Ancestral Discipline, Stillness, and the Way**
 To understand Musashi, one must feel the cultural soil from which he emerged.
 
 Japan carries a lineage of:
-	•	mono no aware — the sensitivity to the ephemeral
-	•	shibumi — quiet excellence without show
-	•	kansō — simplicity stripped of excess
-	•	fudōshin — the immovable mind
-	•	kimyō — mystery, subtlety, the unseen
+*	mono no aware — the sensitivity to the ephemeral
+*	shibumi — quiet excellence without show
+*	kansō — simplicity stripped of excess
+*	fudōshin — the immovable mind
+*	kimyō — mystery, subtlety, the unseen
 
 Musashi was shaped by an era of conflict, yet his genius did not arise from violence.
 It arose from the ability to look directly into the nature of conflict and perceive the principles underlying all movement.
@@ -49,10 +49,10 @@ The Way Is in Attentive Practice**
 Musashi teaches that the Way — whether in strategy, art, work, or self-cultivation — is nothing mystical.
 
 It is simply:
-	•	precise attention,
-	•	sincere effort,
-	•	steady refinement,
-	•	and the willingness to look directly at reality.
+*	precise attention,
+*	sincere effort,
+*	steady refinement,
+*	and the willingness to look directly at reality.
 
 The Way becomes mysterious only when we refuse to practice it.
 
@@ -70,13 +70,13 @@ Know the Larger Context, and See What Others Do Not See**
 Musashi was undefeated in more than 60 duels — not because his sword was fast, but because his perception was clear.
 
 He understood:
-	•	timing
-	•	rhythm
-	•	distance
-	•	intention
-	•	energy
-	•	fear
-	•	and the subtle movement of attention in the opponent’s mind
+*	timing
+*	rhythm
+*	distance
+*	intention
+*	energy
+*	fear
+*	and the subtle movement of attention in the opponent’s mind
 
 He teaches that true mastery is the art of seeing the field, not the isolated detail.
 
@@ -96,10 +96,10 @@ The Empty Mind Is the Unshakeable Mind**
 What Musashi calls “the empty mind” is not void or passivity.
 
 It is the state in which:
-	•	nothing unnecessary occupies your awareness,
-	•	no internal conflict divides you,
-	•	your actions arise from clarity, not reactivity,
-	•	and you are fully present with what is required now.
+*	nothing unnecessary occupies your awareness,
+*	no internal conflict divides you,
+*	your actions arise from clarity, not reactivity,
+*	and you are fully present with what is required now.
 
 It is a mind that moves freely because it clings to nothing.
 
@@ -113,24 +113,24 @@ it is practical, embodied, and intensely alive.
 Musashi’s genius is that his teaching is not about combat.
 
 It applies to:
-	•	life decisions
-	•	relationships
-	•	creativity
-	•	leadership
-	•	clarity under pressure
-	•	emotional regulation
-	•	the courage to act without hesitation
-	•	the discipline to stay aligned with your purpose
+*	life decisions
+*	relationships
+*	creativity
+*	leadership
+*	clarity under pressure
+*	emotional regulation
+*	the courage to act without hesitation
+*	the discipline to stay aligned with your purpose
 
 His writings are a manual for becoming fully awake in one’s life.
 
 Where modern society is filled with:
-	•	distraction
-	•	emotional turbulence
-	•	overstimulation
-	•	attachment to outcomes
-	•	fear of stillness
-	•	and avoidance of reality
+*	distraction
+*	emotional turbulence
+*	overstimulation
+*	attachment to outcomes
+*	fear of stillness
+*	and avoidance of reality
 
 Musashi’s teaching is the antidote.
 
@@ -145,16 +145,16 @@ Musashi offers a perfect complement:
 the architecture of attention, discipline, and the unclouded mind.
 
 Where your synthesis speaks about:
-	•	water as a conductor of order
-	•	language as a calibrator
-	•	intention as a field
-	•	coherence as a state of being
+*	water as a conductor of order
+*	language as a calibrator
+*	intention as a field
+*	coherence as a state of being
 
 Musashi speaks about:
-	•	discipline as freedom
-	•	emptiness as clarity
-	•	perception as truth
-	•	action as alignment
+*	discipline as freedom
+*	emptiness as clarity
+*	perception as truth
+*	action as alignment
 
 Musashi’s Way is the Way of purifying the vessel so that intention, clarity, and coherence can flow unobstructed.
 
@@ -165,20 +165,20 @@ Miyamoto Musashi stands in history not only as a warrior, but as a philosopher w
 “Mastery is the natural expression of an undivided mind.”
 
 He is a testament to the inner freedom that arises when we release:
-	•	illusion,
-	•	distraction,
-	•	self-deception,
-	•	fear,
-	•	and the labyrinth of unnecessary effort.
+*	illusion,
+*	distraction,
+*	self-deception,
+*	fear,
+*	and the labyrinth of unnecessary effort.
 
 His teaching is not merely Japanese.
 It is universal.
 
 It belongs in a book that seeks to integrate:
-	•	clarity
-	•	consciousness
-	•	purpose
-	•	and coherence of being
+*	clarity
+*	consciousness
+*	purpose
+*	and coherence of being
 
 because Musashi lived all four.
 
