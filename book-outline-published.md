@@ -87,6 +87,8 @@ Each file is listed with its energetic function. The order follows the temple pa
   The hidden choir of the world: how elementals, spirits, and archetypes shape consciousness, nature, and the psyche. Water as the bridge between the seen and unseen.
 * [The Great Archetypal Pantheon](./chapter_the_great_archetypal_pantheon.md)  
   A meta-mythic atlas of gods, forces, and consciousness across cultures. The archetypal map that reveals the fractal unity behind all pantheons and prepares the reader for the Synthesis.
+* [The Mythic Cathedral of Warhammer](./chapter_the_mythic_cathedral_of_warhammer.md)  
+  A chapter on archetypes, consciousness, and the eternal battle within. Warhammer as a modern mythic cathedral reflecting the timeless architecture of the psyche and the journey of coherence and remembrance.
 * [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)  
 	The maximally complete, Schauberger-integrated synthesis of mathematics, consciousness, water, vortex intelligence, and remembrance. Serves as a capstone to the spiritual architecture and a bridge to purpose.
 * [The Egregore of the New Earth](./chapter_the_egregore_of_the_new_earth.md)  
