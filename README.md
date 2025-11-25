@@ -67,11 +67,6 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The Three Keys of Remembrance](./the_three_keys_of_remembrance.md)
 - [Calibrated Poetry Resonance](./calibrated_poetry_resonance.md)
 
-- [The Pantheon of Gods](./chapter_the_pantheon_of_gods.md)
-- [Elementals, Spirits & Archetypes](./chapter_elementals_spirits_archetypes.md)
-- [The Great Archetypal Pantheon](./chapter_the_great_archetypal_pantheon.md)
-- [The Mythic Cathedral of Warhammer](./chapter_the_mythic_cathedral_of_warhammer.md)
-- [Warhammer — A Universe of Archetypes, Shadows, and Light](./chapter_warhammer_universe_of_archetypes_shadows_light.md)
 - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 #### Synthesis — The Bridge Between Worlds
  - [The Pantheon of Gods](./chapter_the_pantheon_of_gods.md)
