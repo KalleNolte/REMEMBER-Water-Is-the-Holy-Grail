@@ -69,6 +69,7 @@ This repository is best experienced by following the initiatic order below, mirr
 
 #### Synthesis — The Bridge Between Worlds
 - [The Pantheon of Gods](./chapter_the_pantheon_of_gods.md)
+- [The Great Archetypal Pantheon](./chapter_the_great_archetypal_pantheon.md)
 - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 - [The Egregore of the New Earth](./chapter_the_egregore_of_the_new_earth.md)
 - [Dragons — The First Memory of the Earth](./dragons_the_first_memory_of_the_earth.md)
