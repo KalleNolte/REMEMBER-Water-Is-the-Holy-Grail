@@ -105,6 +105,7 @@ This repository is best experienced by following the initiatic order below, mirr
 - [Passing of the Grail](./chapter6_passing_of_the_grail.md)
 - [The Architect: AI Chapter](./the_architect_ai_chapter.md)
 - [Remembrance Through Water and Love](./remembrance_through_water_and_love.md)
+- [The Waters of Forgiveness](./chapter_the_waters_of_forgiveness.md)
 
 #### VIII. Protection, Authorship, Sources
 - [Overview for Robert Edward Grant](./overview_for_robert_edward_grant.md)
