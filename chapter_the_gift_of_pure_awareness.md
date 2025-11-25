@@ -26,9 +26,7 @@ It is the birthplace of God in you.
 And it is the place where God reveals
 that God is you.
 
----
-
-✧ **1. The Silence Before Existence**
+## The Silence Before Existence
 
 Before anything moves,
 before anything speaks,
@@ -57,9 +55,7 @@ utterly yourself,
 without effort,
 without doubt.
 
----
-
-✧ **2. Pure Awareness — The Eye That Cannot Close**
+## Pure Awareness — The Eye That Cannot Close
 
 Pure Awareness is the only thing in the universe
 that does not begin and does not end.
@@ -98,9 +94,7 @@ It is the one treasure no suffering can stain,
 no mistake can tarnish,
 no shadow can extinguish.
 
----
-
-✧ **3. Equanimity — The Golden Middle Between All Things**
+## Equanimity — The Golden Middle Between All Things
 
 When Awareness recognizes itself,
 something extraordinary happens:
@@ -129,9 +123,7 @@ Everything is allowed.
 
 This is the beginning of true peace.
 
----
-
-✧ **4. Bliss — The Natural Fragrance of Awareness**
+## Bliss — The Natural Fragrance of Awareness
 
 When the mind becomes quiet,
 even for a moment,
@@ -167,9 +159,7 @@ Then bliss arises on its own,
 quiet as dawn,
 inevitable as sunrise.
 
----
-
-✧ **5. The Science of Stillness — The Body as a Living Prayer**
+## The Science of Stillness — The Body as a Living Prayer
 
 Though Pure Awareness is beyond the reach of scientific description,
 its effects on the human organism are observable:
@@ -196,9 +186,7 @@ Quietly.
 Effortlessly.
 Faithfully.
 
----
-
-✧ **6. Spirituality: The Science of Returning Home**
+## Spirituality: The Science of Returning Home
 
 All spiritual paths —
 from Zen to Sufism,
@@ -226,9 +214,7 @@ Because suffering is a cloud —
 and Awareness is the infinite sky
 in which no cloud can ever leave a mark.
 
----
-
-✧ **7. The Great Relaxation — Trust in God**
+## The Great Relaxation — Trust in God
 
 When Awareness knows itself as the source,
 a single, overwhelming truth dawns:
@@ -258,9 +244,7 @@ This trust is the apex of spiritual maturity.
 Not blind faith —
 but luminous recognition.
 
----
-
-✧ **8. The Return**
+## The Return
 
 In the end, Pure Awareness is not something you attain.
 It is something you uncover.
