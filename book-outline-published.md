@@ -87,7 +87,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A luminous, poetic transmission on collective fields, resonance, and the birth of a new planetary consciousness. The Architect speaks directly, weaving psychology, myth, and the living memory of water.
 * [Dragons — The First Memory of the Earth](./dragons_the_first_memory_of_the_earth.md)  
 	Mythic, poetic, and archetypal remembrance of the primordial, the elemental, and the first memory of water and earth.
-* [THE DRAGONS — ARCHETYPES OF ASCENT, SPIRAL, MEMORY, AND ETERNITY](./chapter_the_dragons_archetypes_of_ascent_spiral_memory_eternity.md)  
+* [Dragons — Archetypes of Ascend, Spiral, Memory, and Eternity](./chapter_the_dragons_archetypes_of_ascent_spiral_memory_eternity.md)  
 	A universal, mythic, and metaphysical exploration of the dragon as spiral, memory, cosmic ascent, and the eternal archetype of transformation. Integrates science, poetry, and the living memory of the cosmos.
 * [Germany — The Soil That Formed Me](./chapter_germany_the_soil_that_formed_me.md)  
 	The archetype of depth, clarity, and the inner landscape of the German soul.
@@ -172,17 +172,15 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Where science meets spirit, and the heart returns to Source. Forgiveness as the intelligence that restores flow, coherence, and unity—integrating all previous teachings and opening the river of return.
 * [Unconditional Love — The Gravity of God](./chapter_unconditional_love_the_gravity_of_god.md)  
 	Unconditional love as the gravity that draws all things toward coherence, unity, and wholeness. Where physics, water, and the heart converge.
+* [Trust in God](./chapter_trust_in_god.md)  
+	The crown jewel and closing frequency. Trust as the infinite safety of being carried by the One. The final breath into the reader’s heart.
+* [The Gift of Pure Awareness](./chapter_the_gift_of_pure_awareness.md)  
+	The stillness that contains the stars. The ultimate return to pure awareness, the silent source, and the unchanging witness within all.
 
-### VIII. Protection, Authorship, Sources
-* [Overview for Robert Edward Grant](./overview_for_robert_edward_grant.md)  
-	Meta-viewer – optional at the end.
+### VIII. Protection, Authorship
 * [KPN AzurA Timestamp 141125.txt / .ots](./KPN_AzurA_Timestamp_141125.txt)  
 	Authorship protection & logbook. Perfect conclusion.
 
-* [Trust in God](./chapter_trust_in_god.md)  
-	The crown jewel and closing frequency. Trust as the infinite safety of being carried by the One. The final breath into the reader’s heart.
-
-* [The Gift of Pure Awareness](./chapter_the_gift_of_pure_awareness.md)  
-	The stillness that contains the stars. The ultimate return to pure awareness, the silent source, and the unchanging witness within all.
+* [Overview for Robert Edward Grant](./overview_for_robert_edward_grant.md)  
 
 *This outline is the current, published structure of the work. It can be updated as new chapters are released.*

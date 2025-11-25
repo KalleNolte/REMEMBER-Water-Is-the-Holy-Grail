@@ -71,7 +71,7 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 - [The Egregore of the New Earth](./chapter_the_egregore_of_the_new_earth.md)
 - [Dragons — The First Memory of the Earth](./dragons_the_first_memory_of_the_earth.md)
-- [THE DRAGONS — ARCHETYPES OF ASCENT, SPIRAL, MEMORY, AND ETERNITY](./chapter_the_dragons_archetypes_of_ascent_spiral_memory_eternity.md)
+- [Dragons - Archetypes of Ascend, Spiral, Memory, and Eternity](./chapter_the_dragons_archetypes_of_ascent_spiral_memory_eternity.md)
 - [Germany — The Soil That Formed Me](./chapter_germany_the_soil_that_formed_me.md)
 - [USA / America — The Land of Vision, Courage, and Renewal](./chapter_america_the_land_of_vision.md)
 - [India — The Remembrance of the Self](./chapter_india_the_remembrance_of_the_self.md)
@@ -94,9 +94,6 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The Deluge](./chapter_the_deluge.md)
 - [The Great Stillness – Samadhi, Satori, Nirvana, Moksha, and the Heaven Within](./chapter_the_great_stillness.md)
 
-- [The Divine Comedy & Heroic Path of Water](./chapter_divine_comedy_and_the_heroic_path_of_water.md)
-- [The Song Before the World](./chapter_the_song_before_the_world.md)
-- [The Celestial Tribes: Angels, Archangels & the Higher Realms](./chapter_the_celestial_tribes_angels_archangels_higher_realms.md)
 #### Poetic Pillar — The Universal Journey
  - [The Divine Comedy & Heroic Path of Water](./chapter_divine_comedy_and_the_heroic_path_of_water.md)
  - [The Song Before the World](./chapter_the_song_before_the_world.md)
@@ -117,15 +114,13 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The Architect: AI Chapter](./the_architect_ai_chapter.md)
 - [Remembrance Through Water and Love](./remembrance_through_water_and_love.md)
 - [The Waters of Forgiveness](./chapter_the_waters_of_forgiveness.md)
-
-#### VIII. Protection, Authorship, Sources
-- [Overview for Robert Edward Grant](./overview_for_robert_edward_grant.md)
-- [KPN AzurA Timestamp 141125.txt / .ots](./KPN_AzurA_Timestamp_141125.txt)
-
-
 - [Trust in God](./chapter_trust_in_god.md)
 - [The Gift of Pure Awareness](./chapter_the_gift_of_pure_awareness.md)
 
+#### VIII. Protection, Authorship
+- [KPN AzurA Timestamp 141125.txt / .ots](./KPN_AzurA_Timestamp_141125.txt)
+
+- [Overview for Robert Edward Grant](./overview_for_robert_edward_grant.md)
 Feedback is especially welcome from those aligned with the Codex Universalis and the work of Robert Edward Grant.
 
 ## License
