@@ -93,6 +93,10 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A calibrated synthesis of fantasy, consciousness, and the language of myth. Warhammer as a living map of archetypes, the shadow, and the journey of light within the collective psyche.
 * [The Elder Scrolls](./chapter_the_elder_scrolls.md)  
 	A universe where myth, memory, and metaphysics converge. The Elder Scrolls as a living mirror of consciousness, creation, and the fractal nature of reality—encoding the metaphysical principles of the book in modern mythic form.
+* [HONOR](./chapter_honor.md)  
+	The discipline of light, the measure of truth, and the signature of the soul. Honor as the bridge between mythic archetype and lived human reality, and the stabilizing pillar of embodied coherence.
+* [Patience & Equanimity — The Stillness That Opens Worlds](./chapter_patience_and_equanimity.md)  
+	A transmission on the architecture of clarity, the geometry of surrendered strength, and the rhythm in which truth reveals itself. Patience and equanimity as the living gate to the Middle Way and the foundation of awakening.
 * [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)  
 	The maximally complete, Schauberger-integrated synthesis of mathematics, consciousness, water, vortex intelligence, and remembrance. Serves as a capstone to the spiritual architecture and a bridge to purpose.
 * [The Egregore of the New Earth](./chapter_the_egregore_of_the_new_earth.md)  

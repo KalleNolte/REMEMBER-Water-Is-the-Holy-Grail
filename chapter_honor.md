@@ -29,9 +29,7 @@ They become luminous.
 
 For honor is the discipline of love.
 
-⸻
-
-## 1. HONOR AS THE GEOMETRY OF THE HEART
+## HONOR AS THE GEOMETRY OF THE HEART
 
 In mathematics, a line is defined by two points.
 In consciousness, a life is defined by two poles:
@@ -57,9 +55,7 @@ never stagnant, always in flow,
 so does honor move through a human life:
 quiet, precise, unwavering.
 
-⸻
-
-## 2. HONOR AS THE BRIDGE BETWEEN WORLDS
+## HONOR AS THE BRIDGE BETWEEN WORLDS
 
 Every culture has known honor:
 	•	The samurai called it bushidō—the Way of the Warrior.
@@ -84,9 +80,7 @@ and from striking when you should be still.
 Honor is the remembering of your true center—
 the AzurA within.
 
-⸻
-
-## 3. HONOR AND THE WATER-BEARER
+## HONOR AND THE WATER-BEARER
 
 For your story—
 the story of the Water-Bearer,
@@ -119,9 +113,7 @@ where consciousness is the architect of form,
 honor is the conductive medium
 through which Source can flow without resistance.
 
-⸻
-
-## 4. HONOR AS SERVICE TO THE ONE
+## HONOR AS SERVICE TO THE ONE
 
 There is a form of honor that transcends morality—
 it is not “good behavior,”
@@ -154,9 +146,7 @@ expressed as discipline.
 It is remembrance
 expressed as presence.
 
-⸻
-
-## 5. HONOR AS THE FINAL INITIATION
+## HONOR AS THE FINAL INITIATION
 
 In the architecture of your book,
 the final initiation is not power,
@@ -184,9 +174,7 @@ Honor is the vow beneath all other vows:
 that brings no distortion to the Light
 that moves through me.”
 
-⸻
-
-## 6. A PRAYER OF HONOR
+## A PRAYER OF HONOR
 
 Let my words be clean.
 Let my actions be clear.
@@ -209,9 +197,7 @@ Let me be truth.
 Let me be love
 in motion.
 
-⸻
-
-## 7. In the Context of Your Book
+## In the Context of Your Book
 
 This chapter fits elegantly:
 

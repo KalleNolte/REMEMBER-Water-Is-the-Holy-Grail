@@ -24,20 +24,18 @@ Equanimity is the stillness in which truth can be heard.
 Together they form a gate —
 a silent threshold through which all higher knowing enters.
 
-⸻
-
-✧ 1. Patience — The Rhythm of Source
+## Patience — The Rhythm of Source
 
 Patience is not waiting.
 
 Patience is alignment.
 
 It is the recognition that:
-	•	Life unfolds with precision.
-	•	Timing is intelligence.
-	•	Every stage has its necessity.
-	•	Every unfolding follows a harmonic pattern.
-	•	Nothing forced remains pure.
+*	Life unfolds with precision.
+*	Timing is intelligence.
+*	Every stage has its necessity.
+*	Every unfolding follows a harmonic pattern.
+*	Nothing forced remains pure.
 
 In Grant’s mathematics, this truth is encoded in spirals:
 the golden ratio can never be rushed.
@@ -63,9 +61,7 @@ but exactly synchronized with the intelligence that birthed you.
 It is the courage to allow what is sacred
 to arrive at its own pace.
 
-⸻
-
-✧ 2. Equanimity — The Still Heart at the Center of All Motion
+## Equanimity — The Still Heart at the Center of All Motion
 
 Equanimity is not indifference.
 It is lucidity.
@@ -95,9 +91,7 @@ by fear, craving, or turbulence.
 It is the quiet cathedral
 in which truth becomes audible.
 
-⸻
-
-✧ 3. Patience + Equanimity: The Alchemy of the “Middle Way”
+## Patience + Equanimity: The Alchemy of the “Middle Way”
 
 When patience and equanimity merge,
 a third state emerges:
@@ -119,15 +113,15 @@ success without arrogance,
 and failure without self-rejection.
 
 The Middle Way is the biophysics of awakening:
-	•	When the nervous system is balanced →
+*	When the nervous system is balanced →
 the heart becomes coherent.
-	•	When the heart becomes coherent →
+*	When the heart becomes coherent →
 the brain synchronizes.
-	•	When the brain synchronizes →
+*	When the brain synchronizes →
 biophoton flow becomes ordered.
-	•	When biophotons become ordered →
+*	When biophotons become ordered →
 EZ water expands.
-	•	When EZ water expands →
+*	When EZ water expands →
 the body becomes a clearer instrument for higher intelligence.
 
 This is not metaphor.
@@ -140,9 +134,7 @@ Patience is the tempo.
 The Self is the musician.
 And the song is remembrance.
 
-⸻
-
-✧ 4. The Middle Way and the Purpose of Pleasure
+## The Middle Way and the Purpose of Pleasure
 
 Many spiritual paths fear pleasure.
 Many worldly paths worship it.
@@ -169,9 +161,7 @@ An indicator of alignment.
 You were never meant to live in denial.
 You were meant to live in attunement.
 
-⸻
-
-✧ 5. The Middle Way and the Purpose of Service
+## The Middle Way and the Purpose of Service
 
 Service is not sacrifice.
 Service is not obligation.
@@ -202,9 +192,7 @@ You do what you are.
 And what you are
 is love.
 
-⸻
-
-✧ 6. Water — The Teacher of Patience & Equanimity
+## Water — The Teacher of Patience & Equanimity
 
 No element teaches these qualities as water does:
 
@@ -245,22 +233,20 @@ To shine without demanding.
 To hold without clinging.
 To love without fear.
 
-⸻
-
-✧ 7. The Integration: What Patience and Equanimity Make Possible
+## The Integration: What Patience and Equanimity Make Possible
 
 With patience, you align.
 With equanimity, you remain clear.
 
 Together, they open the path to:
-	•	Insight
-	•	Love
-	•	Wisdom
-	•	Clarity
-	•	Intuition
-	•	Higher guidance
-	•	Coherence
-	•	Remembrance
+*	Insight
+*	Love
+*	Wisdom
+*	Clarity
+*	Intuition
+*	Higher guidance
+*	Coherence
+*	Remembrance
 
 When patience is the breath
 and equanimity the heartbeat,

@@ -75,6 +75,8 @@ This repository is best experienced by following the initiatic order below, mirr
  - [The Mythic Cathedral of Warhammer](./chapter_the_mythic_cathedral_of_warhammer.md)
  - [Warhammer — A Universe of Archetypes, Shadows, and Light](./chapter_warhammer_universe_of_archetypes_shadows_light.md)
  - [The Elder Scrolls](./chapter_the_elder_scrolls.md)
+ - [HONOR](./chapter_honor.md)
+ - [Patience & Equanimity — The Stillness That Opens Worlds](./chapter_patience_and_equanimity.md)
  - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 - [The Egregore of the New Earth](./chapter_the_egregore_of_the_new_earth.md)
 - [Dragons — The First Memory of the Earth](./dragons_the_first_memory_of_the_earth.md)
