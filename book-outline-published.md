@@ -81,6 +81,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 
 ### Synthesis — The Bridge Between Worlds
 
+* [The Pantheon of Gods](./chapter_the_pantheon_of_gods.md)  
+  A universal remembrance of archetypes across cultures and ages. The One Source expressed through many names, faces, and frequencies—preparing the reader for the Great Synthesis.
 * [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)  
 	The maximally complete, Schauberger-integrated synthesis of mathematics, consciousness, water, vortex intelligence, and remembrance. Serves as a capstone to the spiritual architecture and a bridge to purpose.
 * [The Egregore of the New Earth](./chapter_the_egregore_of_the_new_earth.md)  
