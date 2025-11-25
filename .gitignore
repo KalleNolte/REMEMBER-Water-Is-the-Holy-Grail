@@ -20,6 +20,9 @@
 # Whitelist the new chapter for publication
 !chapter_trust_in_god.md
 
+# Whitelist the new chapter for publication
+!chapter_the_soul_of_the_dual_isles.md
+
 # ========================================================
 # PUBLIC RELEASE: Chapters (auto-whitelist all chapter*.md)
 !chapter*.md

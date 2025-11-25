@@ -99,6 +99,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The archetype of fire and ocean, expression and depth.
 * [Russia — The Soul of Fire and Snow](./chapter_russia_the_soul_of_fire_and_snow.md)  
 	The archetype of vastness, resilience, and poetic depth.
+* [The Soul of the Dual Isles](./chapter_the_soul_of_the_dual_isles.md)  
+	A tribute to England, Ireland, Scotland, and Wales—keepers of myth, mind, and memory. The Isles as living archetypes and thresholds in the tapestry of human consciousness.
 * [Souls of the Earth & the Waters](./chapter_souls_of_the_earth_and_the_waters.md)  
 	The circle of humanity, the planetary body, and the mandala of remembrance.
 * [Gaia / Water — The Memory of the Earth](./chapter_gaia_water_the_memory_of_the_earth.md)  

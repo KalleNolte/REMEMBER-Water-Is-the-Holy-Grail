@@ -77,6 +77,7 @@ This repository is best experienced by following the initiatic order below, mirr
 - [Japan — The Land of Quiet Light](./chapter_japan_the_land_of_quiet_light.md)
 - [Spain & Portugal — The Twin Souls of the South](./chapter_spain_portugal_twin_souls_of_the_south.md)
 - [Russia — The Soul of Fire and Snow](./chapter_russia_the_soul_of_fire_and_snow.md)
+- [The Soul of the Dual Isles](./chapter_the_soul_of_the_dual_isles.md)
 - [Souls of the Earth & the Waters](./chapter_souls_of_the_earth_and_the_waters.md)
 - [Gaia / Water — The Memory of the Earth](./chapter_gaia_water_the_memory_of_the_earth.md)
 - [Sol / Light — The Sun: The Light of Origin](./chapter_sol_light_the_sun_of_origin.md)
