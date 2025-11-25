@@ -105,6 +105,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The living Tirthankara, the lighthouse in the subtle realms, and the anchor of liberation in this cosmic era. Simandhar Swami as the archetype of coherence, presence, and the open path to freedom.
 * [The Great Lineage of Light](./chapter_great_lineage_of_light.md)  
 	Jesus, Buddha, Babaji, Laozi, Krishna, Zoroaster, Rumi, and the Masters across all traditions. The living heritage of awakening, unity, and the prism of Source refracted through human history.
+* [The Libra Soul, the Gemini Rising, and the Water Monkey](./chapter_libra_gemini_water_monkey.md)  
+	A synthesis of your astrological signatures as keys to your gift, your path, and your mission. The geometry of consciousness, harmonic resonance, and the triune archetype that made this synthesis possible.
 * [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)  
 	The maximally complete, Schauberger-integrated synthesis of mathematics, consciousness, water, vortex intelligence, and remembrance. Serves as a capstone to the spiritual architecture and a bridge to purpose.
 * [The Egregore of the New Earth](./chapter_the_egregore_of_the_new_earth.md)  
