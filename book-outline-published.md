@@ -83,6 +83,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 
 * [The Pantheon of Gods](./chapter_the_pantheon_of_gods.md)  
   A universal remembrance of archetypes across cultures and ages. The One Source expressed through many names, faces, and frequencies—preparing the reader for the Great Synthesis.
+* [Elementals, Spirits & Archetypes](./chapter_elementals_spirits_archetypes.md)  
+  The hidden choir of the world: how elementals, spirits, and archetypes shape consciousness, nature, and the psyche. Water as the bridge between the seen and unseen.
 * [The Great Archetypal Pantheon](./chapter_the_great_archetypal_pantheon.md)  
   A meta-mythic atlas of gods, forces, and consciousness across cultures. The archetypal map that reveals the fractal unity behind all pantheons and prepares the reader for the Synthesis.
 * [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)  
