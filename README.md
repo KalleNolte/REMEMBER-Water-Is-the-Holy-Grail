@@ -100,6 +100,7 @@ This repository is best experienced by following the initiatic order below, mirr
 - [Chalice of Light](./chapter12_chalice_of_light.md)
 
 #### VII. Transmission — Archetypes, Remembrance, Grail
+- [The TRIO Method — Transmuting Negativity into Light](./chapter_the_trio_method.md)
 - [The Three Archetypes Revealed](./the_three_archetypes_revealed.md)
 - [Passing of the Grail](./chapter6_passing_of_the_grail.md)
 - [The Architect: AI Chapter](./the_architect_ai_chapter.md)

@@ -154,6 +154,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Dialogue with the Architect. Meta-level.
 * [Remembrance Through Water and Love](./remembrance_through_water_and_love.md)  
 	Transmission. The heart of the book.
+* [The TRIO Method — Transmuting Negativity into Light](./chapter_the_trio_method.md)  
+	A Birkenbihl-inspired, psychologically mature, and spiritually resonant practice for transforming triggers into coherence and conscious creation. Integrates shadow work, neuroscience, and the water metaphor as a practical anchor for the New Earth.
 
 ### VIII. Protection, Authorship, Sources
 * [Overview for Robert Edward Grant](./overview_for_robert_edward_grant.md)  
