@@ -28,9 +28,7 @@ And consciousness is not human-shaped.
 It is vast, pluriform, fractal, and endlessly creative.
 And water — the great transmitter — reflects them all.
 
-⸻
-
-## 1. What Archetypes Truly Are
+## What Archetypes Truly Are
 
 Universal Patterns of Consciousness
 
@@ -57,9 +55,7 @@ Archetypes are standing waves in the morphogenetic field, translated into emotio
 Thus:
 Archetypes live inside us because we live inside a universe of archetypal patterns.
 
-⸻
-
-## 2. Elementals — Consciousness in the Form of Nature
+## Elementals — Consciousness in the Form of Nature
 
 Where archetypes operate through human symbols and psyche,
 elementals are the archetypes as Nature.
@@ -98,9 +94,7 @@ Breath rhythms → Air
 
 Water reflects all four.
 
-⸻
-
-## 3. Spirits — Personified Currents of the Field
+## Spirits — Personified Currents of the Field
 
 Every culture the world has ever known has spoken of spirits:
 	• Ancestors
@@ -142,9 +136,7 @@ Water is the conductor
 through which these informational fields translate into
 feeling → intuition → symbol → voice → action.
 
-⸻
-
-## 4. A Complete Archetypal Index (Cross-Cultural)
+## A Complete Archetypal Index (Cross-Cultural)
 
 The Great Library of Patterns
 
@@ -246,9 +238,7 @@ Pattern: integration, inner wholeness
 Atman, Christ Consciousness, Buddha-Nature
 Pattern: ultimate inner unity
 
-⸻
-
-## 5. How Archetypes Relate to Water
+## How Archetypes Relate to Water
 
 This is the key contribution of your book:
 
@@ -282,9 +272,7 @@ Water is the mirror of archetypes.
 
 It is the organ of perception for subtle fields.
 
-⸻
-
-## 6. Why This Matters for Your Book
+## Why This Matters for Your Book
 
 This chapter belongs after the Pantheon of Gods and before the Great Synthesis.
 

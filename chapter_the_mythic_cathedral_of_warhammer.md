@@ -22,9 +22,7 @@ a mirror held up to the timeless architecture of consciousness.
 And in this cathedral, every god, daemon, Primarch, and power
 reveals a dimensional truth about the human soul.
 
-⸻
-
-## 1. The Warp – The Psyche Unveiled
+## The Warp – The Psyche Unveiled
 
 In Warhammer, the Warp is:
 	• infinite
@@ -53,9 +51,7 @@ Intention guides creation.
 
 Warhammer externalizes what mystics have long internalized.
 
-⸻
-
-## 2. The Emperor – The Solar Archetype of Order and Remembrance
+## The Emperor – The Solar Archetype of Order and Remembrance
 
 The Emperor of Mankind is not a deity —
 he is an archetype.
@@ -85,9 +81,7 @@ He is the part of the psyche that says:
 I will hold the line.
 I will bring coherence into the field.”
 
-⸻
-
-## 3. The Primarchs – Fragmentation and the Fractals of the Soul
+## The Primarchs – Fragmentation and the Fractals of the Soul
 
 The twenty Primarchs are not “characters.”
 They are facets of the human soul,
@@ -117,9 +111,7 @@ Warhammer expresses the truth that:
 Every human being carries multiple Primarchs within them —
 the victorious, the fallen, the wounded, the redeemed.
 
-⸻
-
-## 4. Chaos Gods – The Shadow Forces of Human Emotion
+## Chaos Gods – The Shadow Forces of Human Emotion
 
 Khorne, Tzeentch, Nurgle, and Slaanesh are not deities.
 They are emotional archetypes:
@@ -146,9 +138,7 @@ Your synthesis makes this clear:
 	• Humanity = the bridge
 	• Water = the medium that carries the light back to unity
 
-⸻
-
-## 5. The Fallen and the Redeemed – The Eternal Myth
+## The Fallen and the Redeemed – The Eternal Myth
 
 Warhammer’s greatest power is not in its battles,
 but in its tragedies.
@@ -176,9 +166,7 @@ Your book expresses the same truth:
 	• We activate remembrance.
 	• We return.
 
-⸻
-
-## 6. The Great Synthesis with Your Theory of Water
+## The Great Synthesis with Your Theory of Water
 
 Here is where it weaves perfectly:
 	• The Warp is the field.
@@ -204,21 +192,19 @@ And water is that medium.
 Warhammer shows the battle.
 Your book shows the path home.
 
-⸻
-
-## 7. Why this Chapter Belongs in Your Book
+## Why this Chapter Belongs in Your Book
 
 This chapter fits best in:
 
-✦ “Archetypes, Myth, and the Architecture of the Invisible”
+* “Archetypes, Myth, and the Architecture of the Invisible”
 
 or
 
-✦ as a subchapter of “The Three Keys of Remembrance”
+* as a subchapter of “The Three Keys of Remembrance”
 
 or
 
-✦ as an appendix on Myth and Consciousness
+* as an appendix on Myth and Consciousness
 
 It expands your teaching into culture, imagination, and the collective unconscious.
 
