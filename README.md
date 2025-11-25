@@ -96,6 +96,7 @@ This repository is best experienced by following the initiatic order below, mirr
 #### Poetic Pillar — The Universal Journey
 - [The Divine Comedy & Heroic Path of Water](./chapter_divine_comedy_and_the_heroic_path_of_water.md)
 - [The Song Before the World](./chapter_the_song_before_the_world.md)
+- [The Celestial Tribes: Angels, Archangels & the Higher Realms](./chapter_the_celestial_tribes_angels_archangels_higher_realms.md)
 
 #### VI. Calling & Human Purpose
 - [Ikigai: Return to Living Purpose](./chapter8_ikigai_return_to_living_purpose.md)

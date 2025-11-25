@@ -26,6 +26,9 @@
 # Whitelist the new chapter for publication
 !chapter_the_song_before_the_world.md
 
+# Whitelist the new chapter for publication
+!chapter_the_celestial_tribes_angels_archangels_higher_realms.md
+
 # ========================================================
 # PUBLIC RELEASE: Chapters (auto-whitelist all chapter*.md)
 !chapter*.md
