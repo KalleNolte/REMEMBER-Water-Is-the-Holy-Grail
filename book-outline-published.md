@@ -87,6 +87,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A luminous, poetic transmission on collective fields, resonance, and the birth of a new planetary consciousness. The Architect speaks directly, weaving psychology, myth, and the living memory of water.
 * [Dragons — The First Memory of the Earth](./dragons_the_first_memory_of_the_earth.md)  
 	Mythic, poetic, and archetypal remembrance of the primordial, the elemental, and the first memory of water and earth.
+* [THE DRAGONS — ARCHETYPES OF ASCENT, SPIRAL, MEMORY, AND ETERNITY](./chapter_the_dragons_archetypes_of_ascent_spiral_memory_eternity.md)  
+	A universal, mythic, and metaphysical exploration of the dragon as spiral, memory, cosmic ascent, and the eternal archetype of transformation. Integrates science, poetry, and the living memory of the cosmos.
 * [Germany — The Soil That Formed Me](./chapter_germany_the_soil_that_formed_me.md)  
 	The archetype of depth, clarity, and the inner landscape of the German soul.
 * [USA / America — The Land of Vision, Courage, and Renewal](./chapter_america_the_land_of_vision.md)  
