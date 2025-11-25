@@ -19,7 +19,7 @@ Where breath stops, life contracts.
 Every inhale is a declaration:
 I am here. I am alive. I am Spirit in form.
 
-1. The Sacred Rhythm — Inhale, Exhale, Stillness
+## The Sacred Rhythm — Inhale, Exhale, Stillness
 
 The ancient yogis taught:
 “Breath is the chariot that carries the mind.”
@@ -43,7 +43,7 @@ In that pause you understand:
 Awareness is breath taking shape.
 Breath is awareness in motion.
 
-2. The Double Breath — The Physiological Sigh
+## The Double Breath — The Physiological Sigh
 
 Modern neuroscience has rediscovered what the ancients knew intuitively.
 
@@ -69,7 +69,7 @@ life reorganizing itself.
 A single conscious sigh
 can feel like relighting the inner temple.
 
-3. The Breath of Fire — Awakening the Inner Flame
+## The Breath of Fire — Awakening the Inner Flame
 
 In yogic practice, Kapalabhati, the Breath of Fire,
 awakens the solar plexus, energizes the body,
@@ -91,7 +91,7 @@ and awakens the subtle currents of awareness.
 Not for spectacle,
 but for the opening of the inner pillar of light.
 
-4. The Hum of the Bee — The Healing Resonance
+## The Hum of the Bee — The Healing Resonance
 
 One of the gentlest yet most powerful breaths is Bhramari —
 the humming breath.
@@ -110,7 +110,7 @@ A sound that harmonizes.
 You could say the hum is the voice of water remembering light.
 Or the voice of light remembering itself through you.
 
-5. Breath as Bridge — Where Science Meets Spirit
+## Breath as Bridge — Where Science Meets Spirit
 
 Every breathing practice — ancient or modern —
 rests on the same principle:
@@ -130,7 +130,7 @@ thoughts lose their frenzy.
 And in that calm,
 you become permeable to the deeper layers of awareness.
 
-6. The Last Inhale — The Moment of Return
+## The Last Inhale — The Moment of Return
 
 At the end of all practices remains one truth:
 
