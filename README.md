@@ -67,12 +67,20 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The Three Keys of Remembrance](./the_three_keys_of_remembrance.md)
 - [Calibrated Poetry Resonance](./calibrated_poetry_resonance.md)
 
-#### Synthesis — The Bridge Between Worlds
 - [The Pantheon of Gods](./chapter_the_pantheon_of_gods.md)
 - [Elementals, Spirits & Archetypes](./chapter_elementals_spirits_archetypes.md)
 - [The Great Archetypal Pantheon](./chapter_the_great_archetypal_pantheon.md)
 - [The Mythic Cathedral of Warhammer](./chapter_the_mythic_cathedral_of_warhammer.md)
+- [Warhammer — A Universe of Archetypes, Shadows, and Light](./chapter_warhammer_universe_of_archetypes_shadows_light.md)
 - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
+#### Synthesis — The Bridge Between Worlds
+ - [The Pantheon of Gods](./chapter_the_pantheon_of_gods.md)
+ - [Elementals, Spirits & Archetypes](./chapter_elementals_spirits_archetypes.md)
+ - [The Great Archetypal Pantheon](./chapter_the_great_archetypal_pantheon.md)
+ - [The Mythic Cathedral of Warhammer](./chapter_the_mythic_cathedral_of_warhammer.md)
+ - [Warhammer — A Universe of Archetypes, Shadows, and Light](./chapter_warhammer_universe_of_archetypes_shadows_light.md)
+ - [The Elder Scrolls](./chapter_the_elder_scrolls.md)
+ - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 - [The Egregore of the New Earth](./chapter_the_egregore_of_the_new_earth.md)
 - [Dragons — The First Memory of the Earth](./dragons_the_first_memory_of_the_earth.md)
 - [Dragons — Archetypes of Ascend, Spiral, Memory, and Eternity](./chapter_the_dragons_archetypes_of_ascent_spiral_memory_eternity.md)

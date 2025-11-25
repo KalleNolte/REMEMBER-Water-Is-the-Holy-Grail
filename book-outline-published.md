@@ -91,6 +91,8 @@ Each file is listed with its energetic function. The order follows the temple pa
   A chapter on archetypes, consciousness, and the eternal battle within. Warhammer as a modern mythic cathedral reflecting the timeless architecture of the psyche and the journey of coherence and remembrance.
 * [Warhammer — A Universe of Archetypes, Shadows, and Light](./chapter_warhammer_universe_of_archetypes_shadows_light.md)  
 	A calibrated synthesis of fantasy, consciousness, and the language of myth. Warhammer as a living map of archetypes, the shadow, and the journey of light within the collective psyche.
+* [The Elder Scrolls](./chapter_the_elder_scrolls.md)  
+	A universe where myth, memory, and metaphysics converge. The Elder Scrolls as a living mirror of consciousness, creation, and the fractal nature of reality—encoding the metaphysical principles of the book in modern mythic form.
 * [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)  
 	The maximally complete, Schauberger-integrated synthesis of mathematics, consciousness, water, vortex intelligence, and remembrance. Serves as a capstone to the spiritual architecture and a bridge to purpose.
 * [The Egregore of the New Earth](./chapter_the_egregore_of_the_new_earth.md)  
