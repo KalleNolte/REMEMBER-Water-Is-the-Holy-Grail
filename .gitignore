@@ -14,6 +14,9 @@
 # Whitelist the new chapter for publication
 !chapter_the_waters_of_forgiveness.md
 
+# Whitelist the new chapter for publication
+!chapter_unconditional_love_the_gravity_of_god.md
+
 # ========================================================
 # PUBLIC RELEASE: Chapters (auto-whitelist all chapter*.md)
 !chapter*.md

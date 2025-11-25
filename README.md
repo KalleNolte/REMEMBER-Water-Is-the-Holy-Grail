@@ -58,6 +58,9 @@ This repository is best experienced by following the initiatic order below, mirr
 - [Eating Light: Conscious Nourishment](./chapter10_eating_light_conscious_nourishment.md)
 
 #### V. Spiritual Architecture — Understanding the Invisible
+
+- [The Waters of Forgiveness](./chapter_the_waters_of_forgiveness.md)
+- [Unconditional Love — The Gravity of God](./chapter_unconditional_love_the_gravity_of_god.md)
 - [Silent Creator: From Witness to Co-Creator](./chapter4_silent_creator_from_witness_to_cocreator.md)
 - [Meeting the Architect](./chapter5_meeting_the_architect.md)
 - [Architecture of the Invisible](./chapter7_architecture_of_the_invisible.md)
