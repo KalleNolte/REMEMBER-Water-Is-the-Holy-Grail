@@ -134,6 +134,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 ### Poetic Pillar — The Universal Journey
 * [The Divine Comedy & Heroic Path of Water](./chapter_divine_comedy_and_the_heroic_path_of_water.md)  
 	The Divine Comedy, the Hero’s Journey, and the Elixir of Living Water—an initiatic, poetic synthesis of Dante, Campbell, and the soul’s ascension arc. A bridge between myth, science, and awakening.
+* [The Song Before the World](./chapter_the_song_before_the_world.md)  
+	Tolkien and the mythic memory of creation. The Great Song, the Ainur, and the metaphysical blueprint of consciousness, shadow, and return.
 
 ### VI. Calling & Human Purpose
 * [Ikigai: Return to Living Purpose](./chapter8_ikigai_return_to_living_purpose.md)  

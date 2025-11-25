@@ -23,6 +23,9 @@
 # Whitelist the new chapter for publication
 !chapter_the_soul_of_the_dual_isles.md
 
+# Whitelist the new chapter for publication
+!chapter_the_song_before_the_world.md
+
 # ========================================================
 # PUBLIC RELEASE: Chapters (auto-whitelist all chapter*.md)
 !chapter*.md
