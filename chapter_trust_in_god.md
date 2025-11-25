@@ -26,9 +26,7 @@ Not as a belief.
 Not as a doctrine.
 But as a direct experience of the One who breathes you, lives you, carries you.
 
----
-
-✧ **The Softest Knowledge**
+## The Softest Knowledge
 
 There is a knowledge deeper than intellect.
 A knowing older than your name.
@@ -56,9 +54,7 @@ Unshakable.
 And that Being
 is what many traditions call God.
 
----
-
-✧ **God as the Ocean, You as the Current**
+## God as the Ocean, You as the Current
 
 In this universe of fractal consciousness:
 - the wave does not need to “trust” the ocean
@@ -90,9 +86,7 @@ To trust God is to recognize:
 You are the very movement
 of the One who holds all things.
 
----
-
-✧ **The Science of Surrender**
+## The Science of Surrender
 
 Modern physics has shown that:
 - space is not empty
@@ -125,9 +119,7 @@ You return to the natural state of the universe:
 
 Peace.
 
----
-
-✧ **The Spiritual Heart of Trust**
+## The Spiritual Heart of Trust
 
 To trust God is to live from the center of your being, not the periphery.
 
@@ -150,9 +142,7 @@ than your jugular vein.”
 You do not “seek” God from here.
 You are God’s seeking of Itself.
 
----
-
-✧ **The Bliss of Being Carried**
+## The Bliss of Being Carried
 
 When trust becomes complete, a strange and beautiful thing happens:
 
@@ -172,9 +162,7 @@ This is the bliss the saints speak of—
 not ecstasy, not euphoria,
 but the quiet contentment of knowing you belong to Eternity.
 
----
-
-✧ **When You Let Go, You Rise**
+## When You Let Go, You Rise
 
 What is surrender?
 Not defeat.
@@ -194,9 +182,7 @@ and return to the truth of unity.”
 Surrender is not the end of strength.
 It is the beginning.
 
----
-
-✧ **Your Life as God Remembering Itself**
+## Your Life as God Remembering Itself
 
 Your existence is not random.
 Your path is not an accident.
@@ -214,9 +200,7 @@ You are not merely carried by God.
 You are God,
 carrying yourself home through the experience of being human.
 
----
-
-✧ **The Final Word**
+## The Final Word
 
 If this book plants anything in you,
 let it be this:
