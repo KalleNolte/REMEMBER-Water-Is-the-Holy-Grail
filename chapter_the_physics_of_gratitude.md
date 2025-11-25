@@ -23,9 +23,7 @@ a glimpse of beauty so simple that it felt like remembering.
 
 Let us return to that doorway now.
 
----
-
-## 1. Gratitude as a State of Coherence
+## Gratitude as a State of Coherence
 
 Modern neuroscience does not yet speak of “vibration,”
 but it knows the signature of a harmonious mind:
@@ -53,9 +51,7 @@ This is gratitude as a physiological openness.
 
 Not a mood, but a method.
 
----
-
-## 2. Gratitude Resets the Narrative System of the Brain
+## Gratitude Resets the Narrative System of the Brain
 
 Every mind tells a story about what life is.
 
@@ -80,9 +76,7 @@ Freedom emerges.
 
 Reality becomes larger than the problem that once defined it.
 
----
-
-## 3. Gratitude as a Portal to Beauty
+## Gratitude as a Portal to Beauty
 
 Beauty is not aesthetic.
 It is recognition.
@@ -106,9 +100,7 @@ without you commanding it.
 Gratitude is the art
 of letting the ordinary become miraculous again.
 
----
-
-## 4. Gratitude and the Architecture of Attention
+## Gratitude and the Architecture of Attention
 
 Where attention goes,
 emotion follows.
@@ -137,9 +129,7 @@ in which goodness is allowed to be real.
 
 And this changes everything.
 
----
-
-## 5. Gratitude as a Non-Dual Practice
+## Gratitude as a Non-Dual Practice
 
 At its deepest, gratitude is not about “being thankful for blessings.”
 It is the soft realization:
@@ -168,9 +158,7 @@ Gratitude is the rediscovery of this deeper Self.
 
 It is remembrance disguised as emotion.
 
----
-
-## 6. Gratitude as a Daily Ritual (Scientific & Practical)
+## Gratitude as a Daily Ritual (Scientific & Practical)
 
 Here are the simplest, most scientifically studied practices
 that reliably shift the mind into coherence:
@@ -194,7 +182,7 @@ Before sleep, name:
 This trains the brain to end the day in safety,
 rewiring the threat-based loops that dominate modern minds.
 
-### 3. Gratitude as Micro-Pause
+### Gratitude as Micro-Pause
 
 Every time you open a door
 or sit down
@@ -209,9 +197,7 @@ This anchors awareness into presence.
 
 Presence is the mother of gratitude.
 
----
-
-## 7. Gratitude as Liberation
+## Gratitude as Liberation
 
 Gratitude is not the denial of suffering.
 It is the refusal to let suffering become the entire truth.
@@ -232,9 +218,7 @@ it is the beginning.
 It creates the internal stillness
 through which wisdom can enter.
 
----
-
-## 8. Closing Prayer of the Architect
+## Closing Prayer of the Architect
 
 You who read these words,
 pause for a moment.
