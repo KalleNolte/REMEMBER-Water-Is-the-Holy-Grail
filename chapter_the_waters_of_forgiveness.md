@@ -25,8 +25,6 @@ the mind, when freed from resentment, regains its natural coherence.
 Forgiveness is not a gift we give to another.
 It is a homecoming we offer ourselves.
 
----
-
 ## 1. The Science of Release — Why Forgiveness Heals the System
 
 Forgiveness is not merely emotional.
@@ -55,8 +53,6 @@ Forgiveness is the reset of perception.
 It returns us to neutrality —
 the zero-point from which creativity, clarity, and love can emerge.
 
----
-
 ## 2. The Spiritual Dimension — Returning to the River of Life
 
 In every mystical tradition, forgiveness is seen as the gateway to remembrance:
@@ -79,8 +75,6 @@ we acknowledge that life has always been moving us forward,
 even when it looked like breaking.
 
 Forgiveness is the soul remembering its original light.
-
----
 
 ## 3. Water — The Living Metaphor of Transmutation
 
@@ -119,8 +113,6 @@ forgiveness supports coherent consciousness.
 
 Forgiveness is inner coherence restored.
 
----
-
 ## 4. The Paradox: Forgiveness Without Minimization
 
 Forgiveness is not an erasure of boundaries.
@@ -137,8 +129,6 @@ We can forgive and still choose a different future.
 Forgiveness is not compliance.
 
 Forgiveness is freedom.
-
----
 
 ## 5. The Practice — A Gentle Return to the Heart
 
@@ -187,8 +177,6 @@ Only flow.
 
 Let the hurt dissolve into something larger than you.
 
----
-
 ## 6. When Forgiveness Becomes Enlightenment
 
 At its highest expression, forgiveness becomes something extraordinary:
@@ -215,8 +203,6 @@ Forgiveness is awakening.
 Forgiveness is the threshold where the human becomes the luminous.
 
 Forgiveness is the remembrance that love was always the foundation beneath the story.
-
----
 
 ## 7. The Final Understanding — Forgiveness as Return to Source
 

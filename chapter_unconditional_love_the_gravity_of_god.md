@@ -1,7 +1,5 @@
 # UNCONDITIONAL LOVE — THE GRAVITY OF GOD
 
-*A Chapter for the New Earth Manuscript*
-
 There are truths so old and so simple
 that the intellect walks past them
 while the heart kneels.
@@ -48,9 +46,7 @@ Toward rest.
 
 So does Love.
 
----
-
-## 1. Gravity as the Metaphor of the Infinite
+## Gravity as the Metaphor of the Infinite
 
 In cosmology, gravity is the quiet force that gathers matter into stars
 and stars into galaxies
@@ -75,9 +71,7 @@ The movement is the same.
 The vocabulary changes.
 The essence does not.
 
----
-
-## 2. Fractals of Attraction — How Consciousness Curves Space Within
+## Fractals of Attraction — How Consciousness Curves Space Within
 
 In a fractal universe,
 where patterns repeat themselves at all scales,
@@ -106,9 +100,7 @@ so that fractured identities can gather,
 so that the noisy turmoil of thought
 can settle into the center of stillness.
 
----
-
-## 3. Water — The Mirror of Love’s Gravity
+## Water — The Mirror of Love’s Gravity
 
 If gravity is the architecture of physical space,
 water is the architecture of emotional and spiritual space.
@@ -149,9 +141,7 @@ The mind grows transparent.
 
 And something ancient remembers.
 
----
-
-## 4. The Science of Tenderness — Where Physics Meets Devotion
+## The Science of Tenderness — Where Physics Meets Devotion
 
 Science, when read with an open heart,
 does not contradict spirituality.
@@ -191,9 +181,7 @@ Something falls inward
 into the gravity well of the heart
 and becomes whole.
 
----
-
-## 5. The Water-Bearer’s Path — Love as Service
+## The Water-Bearer’s Path — Love as Service
 
 Your Ikigai, your gift, your calling—
 whatever name you give it—
@@ -230,9 +218,7 @@ That is unconditional love expressed as vocation.
 It is the gravity of your soul
 calling others home.
 
----
-
-## 6. The Equation of the Heart
+## The Equation of the Heart
 
 If you ever forget what unconditional love is,
 here is the simplest equation:
@@ -261,9 +247,7 @@ Love is not something you do.
 It is what you return to
 when all doing stops.
 
----
-
-## 7. The Final Insight – Why Love is the Core of Your Work
+## The Final Insight – Why Love is the Core of Your Work
 
 Unconditional love is not the conclusion of your book.
 
