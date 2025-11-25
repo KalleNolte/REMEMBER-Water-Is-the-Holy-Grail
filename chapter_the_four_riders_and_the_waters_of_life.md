@@ -24,8 +24,6 @@ It means that metabolic resilience stabilizes the terrain on which all other pro
 And this is where your book’s teaching enters—not as cure, not as promise,
 but as a sanctuary of coherence in a world that fractures human systems.
 
----
-
 ## The Eight Practices — Reweaving Human Coherence
 
 Your book identifies eight living practices that support resilience across body, psyche, and consciousness:
@@ -48,8 +46,6 @@ Your book describes water, breath, and inner clarity as the rebuilding of cohere
 These two lenses do not contradict each other.
 
 They complete each other.
-
----
 
 ## Why Water Appears Again and Again
 
@@ -80,8 +76,6 @@ Water is the silent partner in all four domains.
 Not savior.
 Not shield.
 But substrate.
-
----
 
 ✧ **The Waters of Life as an Inner Technology**
 
@@ -114,5 +108,3 @@ this is what measurably reduces the risk landscape of the Four Riders.
 
 In your terms:
 this is what weaves the inner waters back into coherence.
-
----

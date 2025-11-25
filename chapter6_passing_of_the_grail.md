@@ -24,8 +24,7 @@ but a quiet ceremony, held in deep presence and love.
 
 And it was precisely this quiet love that opened a portal for something rare to enter.
 
-I had brought a book with me: “The Water of Life”, embossed in gold.
-I gave it to her, pointing out a chapter on pregnancy.
+I had brought a book with me: “The Water of Life”.
 
 She read it. And I saw it in her eyes:
 She hadn’t just understood it—she had received it.

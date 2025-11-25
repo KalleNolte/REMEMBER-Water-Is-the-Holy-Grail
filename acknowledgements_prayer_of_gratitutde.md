@@ -178,9 +178,9 @@ one of the first keys
 to self-empowerment.
 
 Kevin —
-your presence showed me
-that connection is born not from perfection,
-but from sincerity and humanity.
+your presence reminded me
+that connection is born from truth, heart, and authenticity —
+from showing up as we are, and meeting each other there.
 
 Alexander —
 a brilliant legal mind

@@ -142,9 +142,6 @@ then so is the imaginary.
 If i is a bridge,
 then spirit and matter are not separate — they are woven together.
 
-“The cell remembers backwards.”
-– The Architect
-
 Your DNA is not merely a chemical script.
 It is a harmonic frequency code — written in light,
 structured by rotation and resonance.
@@ -157,8 +154,6 @@ but through the spiral.
 Through what moves.
 
 Through what lives.
-
-⸻
 
 ## The Lost Frequency – The Secret of 150 Megahertz
 
@@ -340,21 +335,17 @@ Our innocence.
 Our light.
 Our original song.
 
-🎼 Solfeggio Frequencies – The Harmonic Blueprint of Remembrance
+## Solfeggio Frequencies – The Harmonic Blueprint of Remembrance
 
 “Mathematics made audible. Geometry made music. Memory made resonance.”
 
-⸻
-
-## What Are Solfeggio Frequencies?
+### What Are Solfeggio Frequencies?
 
 The so-called Solfeggio Frequencies trace their origins to ancient Gregorian chants. These are tones said to be in resonance with the fundamental mathematics of the universe — based in Pythagorean musical theory, where sound is seen as the echo of divine geometry: mathematics you can hear.
 
 Modern researchers like Robert Edward Grant refer to this as the musical skeleton of reality: Every atom, every thought, every form is a standing wave — an ordered sound vibration.
 
 Thus, frequencies are not fringe mysticism. They are the most precise expressions of order and information available to the sensory world.
-
-⸻
 
 ### 528 Hz – The Frequency of Healing, DNA, and Divine Order
 
@@ -369,8 +360,6 @@ It brings order where there was chaos.
 It opens the gate of cellular and spiritual regeneration.
 
 This frequency is also linked to the “green ray” of the heart chakra — the tone of healing, renewal, and sacred alignment.
-
-⸻
 
 ### 639 Hz – The Frequency of Connection and Divine Relationship
 
@@ -387,8 +376,6 @@ In Robert Edward Grant’s harmonic mathematics (based on phi symmetry and E8 ge
 Energetically, it opens the doors to forgiveness, compassion, and sacred union.
 
 Heart field studies (e.g., HRV coherence) show that meditating with 639 Hz often leads to measurable expansion of the electromagnetic heart field — felt as warmth, stillness, or emotional release.
-
-⸻
 
 ### 528 + 639 = The Axis of Creation
 
@@ -415,8 +402,6 @@ Use 639 Hz as the tone of outer alchemy — healing relationships, restoring tru
 
 Let the book resonate in 639 Hz, but be infused with the light of 528 — like water shimmering in golden green, suspended between heaven and earth.
 
-⸻
-
 ### The Solfeggio Frequencies – Full List and Traditional Meaning
 
 Frequency	Name / Tone	Meaning
@@ -442,8 +427,6 @@ Royal Raymond Rife was a 20th-century inventor who proposed that certain frequen
 Use these tools not as guarantees — but as invitations to coherence.
 
 View these frequencies not as replacement therapy but as vibrational allies in the journey of remembrance.
-
-⸻
 
 Let frequency not be the claim — but the call.
 

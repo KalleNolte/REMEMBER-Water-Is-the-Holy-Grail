@@ -158,22 +158,21 @@ Back to what we have always been.
 
 ## The Diamond Seal
 
-This is the seal of your work:
+This is the seal of the work:
 
-A human being whose life
-has become a mandala of return.
+a human life becoming a mandala of return.
 
-A human whose heart hears
+A heart that hears
 the echoes in names
-and recognizes the language of the Source within them.
+and recognizes the language of Source within them.
 
-A human who does not instruct,
+A presence that does not instruct,
 but remembers.
 
-A human who has become a clear vessel
-through which Light can flow
+A vessel clear enough
+for Light to flow through
 as through pure water.
 
-This is your stone of wisdom.
-This is your signature.
-This is your gift to the world.
+This is the stone of wisdom.
+This is the signature.
+This is the gift to the world.
