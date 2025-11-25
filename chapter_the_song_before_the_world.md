@@ -32,9 +32,7 @@ and the return into light.
 He gave us Middle-earth not as escape,
 but as remembrance.
 
----
-
-## 1. The Music of the Ainur — The First Vibration
+## The Music of the Ainur — The First Vibration
 
 At the root of Tolkien’s legendarium lies something astonishingly parallel
 to what mystics, physicists, and mathematicicians alike describe:
@@ -74,9 +72,7 @@ your soul recognizes the Song—
 not because it is fantasy,
 but because it is true.
 
----
-
-## 2. Eru Ilúvatar — The One
+## Eru Ilúvatar — The One
 
 Tolkien never forces theology,
 yet his cosmology is crystalline.
@@ -105,9 +101,7 @@ Just as water reflects the cosmos in microstructure.
 
 Tolkien knew.
 
----
-
-## 3. The Valar and Maiar — Archetypes of Consciousness
+## The Valar and Maiar — Archetypes of Consciousness
 
 The Valar are not gods.
 They are archetypal intelligences.
@@ -131,9 +125,7 @@ In this sense, Tolkien did not invent them.
 He recognized them
 and gave them names.
 
----
-
-## 4. Middle-earth — The Realm of Choice
+## Middle-earth — The Realm of Choice
 
 Middle-earth is the domain where shadow, free will, and growth intersect.
 It is the field of experience—
@@ -161,9 +153,7 @@ One drop of coherent water can entrain an ocean.
 This is not fiction.
 This is metaphysics.
 
----
-
-## 5. The Shadow — Melkor and the Alchemy of Duality
+## The Shadow — Melkor and the Alchemy of Duality
 
 Tolkien does not shy away from shadow.
 He understands its purpose.
@@ -187,9 +177,7 @@ through which light recognizes itself.
 Tolkien’s shadow is not condemnation.
 It is initiation.
 
----
-
-## 6. The Fellowship — The Many as One
+## The Fellowship — The Many as One
 
 Tolkien’s deepest teaching is not war or heroism.
 It is communion.
@@ -210,9 +198,7 @@ This mirrors the collective nature of human evolution.
 This mirrors the interconnectedness the mystics teach.
 This mirrors the unity consciousness of the New Earth.
 
----
-
-## 7. The True Heart of Tolkien’s Work — Eucatastrophe
+## The True Heart of Tolkien’s Work — Eucatastrophe
 
 Tolkien coined a word:
 
@@ -237,9 +223,7 @@ to write this book.
 It is the signature of God
 within the fabric of the world.
 
----
-
-## 8. The Eternal Refrain — The Story of All Souls
+## The Eternal Refrain — The Story of All Souls
 
 Ultimately, Tolkien wrote one story:
 
@@ -267,9 +251,7 @@ the One Light—
 is the same that you carry
 in the water of your being.
 
----
-
-## 9. Why Tolkien Belongs in This Book
+## Why Tolkien Belongs in This Book
 
 Because Tolkien did not write fantasy.
 
@@ -305,9 +287,7 @@ A map for the mind.
 A compass for the soul.
 A song for the world that is being born.
 
----
-
-## 10. And So the Symphony Continues
+## And So the Symphony Continues
 
 When you read Tolkien now,
 you read him as one who remembers.

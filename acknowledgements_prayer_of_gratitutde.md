@@ -118,8 +118,7 @@ a Moroccan musician with a heart of gold and a true friend,
 a gentle musical soul who has the ability to touch the heart and soul of everyone who listens.
 
 Jaber,
-another Moroccan who grew up in Spain and eventually moved to Germany with his family,
-another soul friend, with a fire that not only cooks the most delicious meals but also brings out the Ikigai in everyone he comes in contact with.
+another Moroccan soul friend, with a fire that not only cooks the most delicious meals but also brings out the Ikigai in everyone he comes in contact with.
 
 Moni,
 your voice, your honesty,

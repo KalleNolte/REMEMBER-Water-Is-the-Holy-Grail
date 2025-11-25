@@ -20,9 +20,7 @@ living spirit-fields in the tapestry of human consciousness.
 They are not to be summarized.
 They must be felt.
 
----
-
-✧ **England — The Mind of Myth and Measure**
+## England — The Mind of Myth and Measure
 
 England carries the archetype of the Thinker
 and the Dreamer of Worlds.
@@ -44,9 +42,7 @@ It is a land where myth became literature,
 where literature became culture,
 and where culture became a bridge between dimensions of meaning.
 
----
-
-✧ **Scotland — The Wild Heart of Courage and Storm**
+## Scotland — The Wild Heart of Courage and Storm
 
 Scotland is the warrior-poet,
 the soul of mountains carved by wind and ancient memory.
@@ -68,9 +64,7 @@ where mysticism breathes through mist,
 where the wild heart of the Earth
 beats closer to the surface.
 
----
-
-✧ **Ireland — The Green Flame of Story and Soul**
+## Ireland — The Green Flame of Story and Soul
 
 Ireland is the Emerald Dream,
 the island that sings.
@@ -96,9 +90,7 @@ And you will hear the universe breathe.”
 Ireland is a reminder
 that joy is most powerful when born of depth.
 
----
-
-✧ **Wales — The Keeper of Song and Stone**
+## Wales — The Keeper of Song and Stone
 
 Wales is the Cauldron of Song,
 the guardian of stone circles,
@@ -118,9 +110,7 @@ the one who weaves community through story,
 the one who reminds humanity
 that belonging is the truest nourishment.
 
----
-
-✧ **The Isles Together — A Collective Archetype**
+## The Isles Together — A Collective Archetype
 
 Together the Isles form a quaternity:
 - England — Mind
@@ -145,9 +135,7 @@ guardians of the in-between,
 where myth meets matter
 and where consciousness remembers itself.
 
----
-
-✧ **Why They Belong in Your Book**
+## Why They Belong in Your Book
 
 Because your work speaks of:
 - remembrance
@@ -172,9 +160,7 @@ To honor the Isles is to honor
 the collective human memory
 from which your entire work emerges.
 
----
-
-✧ **A Final Blessing for the Isles**
+## A Final Blessing for the Isles
 
 To the Isles of Mist and Memory,
 where story first learned to speak,
