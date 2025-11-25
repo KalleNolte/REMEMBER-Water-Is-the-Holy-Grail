@@ -180,4 +180,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [Trust in God](./chapter_trust_in_god.md)  
 	The crown jewel and closing frequency. Trust as the infinite safety of being carried by the One. The final breath into the reader’s heart.
 
+* [The Gift of Pure Awareness](./chapter_the_gift_of_pure_awareness.md)  
+	The stillness that contains the stars. The ultimate return to pure awareness, the silent source, and the unchanging witness within all.
+
 *This outline is the current, published structure of the work. It can be updated as new chapters are released.*

@@ -123,6 +123,7 @@ This repository is best experienced by following the initiatic order below, mirr
 
 
 - [Trust in God](./chapter_trust_in_god.md)
+- [The Gift of Pure Awareness](./chapter_the_gift_of_pure_awareness.md)
 
 Feedback is especially welcome from those aligned with the Codex Universalis and the work of Robert Edward Grant.
 
