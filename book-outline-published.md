@@ -89,8 +89,6 @@ Each file is listed with its energetic function. The order follows the temple pa
   A meta-mythic atlas of gods, forces, and consciousness across cultures. The archetypal map that reveals the fractal unity behind all pantheons and prepares the reader for the Synthesis.
 * [The Mythic Cathedral of Warhammer](./chapter_the_mythic_cathedral_of_warhammer.md)  
   A chapter on archetypes, consciousness, and the eternal battle within. Warhammer as a modern mythic cathedral reflecting the timeless architecture of the psyche and the journey of coherence and remembrance.
-* [Das Warhammer-Universum als Spiegel der Seele](./kapitel_warhammer_universum_spiegel_seele.md)  
-  Das Warhammer-Universum als archetypischer Spiegel der Seele, Mythos und Integration. Eine deutschsprachige Landkarte der inneren und äußeren Kräfte, mit Wasser als verbindendem Element.
 * [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)  
 	The maximally complete, Schauberger-integrated synthesis of mathematics, consciousness, water, vortex intelligence, and remembrance. Serves as a capstone to the spiritual architecture and a bridge to purpose.
 * [The Egregore of the New Earth](./chapter_the_egregore_of_the_new_earth.md)  
