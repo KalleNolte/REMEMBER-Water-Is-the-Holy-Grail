@@ -33,8 +33,8 @@ For honor is the discipline of love.
 
 In mathematics, a line is defined by two points.
 In consciousness, a life is defined by two poles:
-	•	Who you truly are.
-	•	How you choose to act.
+*	Who you truly are.
+*	How you choose to act.
 
 Honor is the straight line between them.
 
@@ -58,11 +58,11 @@ quiet, precise, unwavering.
 ## HONOR AS THE BRIDGE BETWEEN WORLDS
 
 Every culture has known honor:
-	•	The samurai called it bushidō—the Way of the Warrior.
-	•	The Greeks called it areté—the excellence of being fully oneself.
-	•	The Indians called it dharma—the inner law that must be lived.
-	•	The Germanic tribes called it Ehre—a dignity that cannot be bought.
-	•	The Egyptians called it Maat—truth, harmony, cosmic alignment.
+*	The samurai called it bushidō—the Way of the Warrior.
+*	The Greeks called it areté—the excellence of being fully oneself.
+*	The Indians called it dharma—the inner law that must be lived.
+*	The Germanic tribes called it Ehre—a dignity that cannot be bought.
+*	The Egyptians called it Maat—truth, harmony, cosmic alignment.
 
 Even nature knows honor.
 A tree grows in the direction of its essence.
