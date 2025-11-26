@@ -19,7 +19,7 @@ This is a unified theory of everything — not in the conventional reductionist 
 
 The intention is to bridge science and spirituality, making Truth accessible to the thinking mind and felt by the heart. This is not meant to convince, but to remember.
 
-We calibrated the book’s language at 580 on the Hawkins Scale — the frequency of Joy — as this is the highest energetic level where rational insight and spiritual transmission remain fully integrated. The source of the work, however, reaches toward 1000, beyond mind and into divine coherence.
+We calibrated the book’s language at 580 on the Hawkins Scale — the frequency of impersonal love, blessing, surrender where people open naturally — no pressure, no persuasion. This is the highest energetic level where rational insight and spiritual transmission remain fully integrated. The source of the work, however, reaches toward 1000, beyond mind and into divine coherence.
 
 ## 2. ✦ Why Share This With Grant
 Your Codex Universalis was the harmonic key that unlocked the structure behind years of intuitive synthesis. It enabled this work to:
