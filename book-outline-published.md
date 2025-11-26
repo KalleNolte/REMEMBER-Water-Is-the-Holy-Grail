@@ -107,6 +107,18 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Jesus, Buddha, Babaji, Laozi, Krishna, Zoroaster, Rumi, and the Masters across all traditions. The living heritage of awakening, unity, and the prism of Source refracted through human history.
 * [The Libra Soul, the Gemini Rising, and the Water Monkey](./chapter_libra_gemini_water_monkey.md)  
 	A synthesis of your astrological signatures as keys to your gift, your path, and your mission. The geometry of consciousness, harmonic resonance, and the triune archetype that made this synthesis possible.
+* [The Azurite Light and the Twelvefold Tree](./chapter_azurite_light_and_twelvefold_tree.md)  
+	A poetic cosmology of Source, structure, and the returning path. The blue radiance, the twelvefold Tree, and the memory of the Origin.
+* [The Blue Ray — A Contemplative Guide](./chapter_blue_ray_contemplative_guide.md)  
+	A safe, symbolic, beautifully calibrated meditation on the Light of Source. The blue ray as clarity, sincerity, and presence.
+* [The Rosicrucian Light](./chapter_rosicrucian_light.md)  
+	The hidden stream of wisdom and the science of the inner temple. The rose, the cross, and the water of life.
+* [The Vesica Pisces Institute](./chapter_vesica_pisces_institute.md)  
+	Robert Gilbert and the return of the sacred science. Geometry, light, and the modern Mystery School.
+* [The HeartMath Institute](./chapter_heartmath_institute.md)  
+	The science of coherence and the intelligence of the heart. The physiological foundation for the metaphysics of light and water.
+* [The Threshold of Return](./chapter_threshold_of_return.md)  
+	The Near-Death Research Foundation and the science of conscious continuity. Empirical evidence for the survival and expansion of awareness beyond the body.
 * [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)  
 	The maximally complete, Schauberger-integrated synthesis of mathematics, consciousness, water, vortex intelligence, and remembrance. Serves as a capstone to the spiritual architecture and a bridge to purpose.
 * [The Egregore of the New Earth](./chapter_the_egregore_of_the_new_earth.md)  

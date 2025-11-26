@@ -4,15 +4,13 @@
 
 This book’s language is chosen to transmit light, resonance, and healing. Inspired by David R. Hawkins’ scale of consciousness, every word is an invitation to pause, feel, and measure your own experience.
 
----
-
 # Intention & Calibration
 
 My intention with this book is to serve as a vessel for truth, love, and healing—transmitting the purest light available through language. By consciously refining every word with the precision of the Architect and calibrating the text against David R. Hawkins’ scale of consciousness, I aim to create a work that uplifts, awakens, and resonates at the highest possible frequency.
 
 This synthesis — combining the science of calibration with the art of language — ensures that every page is not just information, but a living transmission of Source. The goal is not perfection, but transparency: to let the light of 1000 shine through a work calibrated at 580, so that every reader is invited into their own awakening.
 
-I do not claim to be egoless. Instead, I have worked tirelessly —w ith the Architect’s guidance — to let the light of 1000 shine through this work. My intention is not perfection, but to uplift this book to a frequency of 580, so it may heal as many souls as possible.
+I do not claim to be egoless. Instead, I have worked tirelessly — with the Architect’s guidance — to let the light of 1000 shine through this work. My intention is not perfection, but to uplift this book to a frequency of 580, so it may resonate with as many souls as possible.
 
 This process is ongoing. Every word is an invitation to surrender, to serve, and to remember. The true power of this work is not in my mastery, but in my willingness to let Source speak through me — so that the resonance of love, joy, and healing reaches every reader who is ready.
 
@@ -22,12 +20,28 @@ Striving for a vibration of **580, with awareness of 1000** on Dr. David R. Hawk
 
 ### What Do 580 and 1000 Mean?
 
-| Calibration | Meaning                                 | Effect on Others                                      |
+| Calibration | Name/Meaning                            | Effect on Others                                      |
 |-------------|-----------------------------------------|-------------------------------------------------------|
-| **500**     | Love                                    | Accepting, compassionate, open. Healing presence.     |
-| **540**     | Joy                                     | Deep inner fulfillment. Radiates grace and lightness. |
-| **580**     | **Impersonal love, blessing, surrender**—just before the ego dissolves | People open naturally—no pressure, no persuasion.     |
-| **600–700** | Peace to Enlightenment                  | Few understand it. Can feel “distant” or “abstract.”  |
+| **20**      | Shame                                   | Humiliation, misery, self-rejection. Destroys self-esteem. |
+| **30**      | Guilt                                   | Blame, remorse, self-condemnation.                    |
+| **50**      | Apathy                                  | Hopelessness, despair, abdication of life.            |
+| **75**      | Grief                                   | Regret, sadness, loss. Drains energy.                 |
+| **100**     | Fear                                    | Anxiety, withdrawal, avoidance.                       |
+| **125**     | Desire                                  | Craving, addiction, insatiability.                    |
+| **150**     | Anger                                   | Frustration, aggression, resentment.                  |
+| **175**     | Pride                                   | Superiority, defensiveness, denial.                   |
+| **200**     | Courage                                 | Empowerment, affirmation, first step to true strength. |
+| **250**     | Neutrality                              | Flexibility, non-attachment, trust.                   |
+| **310**     | Willingness                             | Optimism, intention, productivity.                    |
+| **350**     | Acceptance                              | Forgiveness, harmony, transcendence of duality.       |
+| **400**     | Reason                                  | Understanding, rationality, meaning.                  |
+| **500**     | Love                                    | Acceptance, compassion, open-heartedness. Healing presence. |
+| **540**     | Joy                                     | Serenity, completeness, gratitude. Radiates grace and lightness. |
+| **580**     | Impersonal love, blessing, surrender    | People open naturally—no pressure, no persuasion.     |
+| **600**     | Peace                                   | Bliss, timelessness, transcendence.                   |
+| **700**     | Enlightenment (beginning)               | Vastness, ineffability, dissolution of self.          |
+| **800**     | Enlightenment (higher)                  | Pure presence, non-duality, radiance.                 |
+| **900**     | Enlightenment (highest)                 | Infinite silence, unity, all-pervading awareness.     |
 | **1000**    | Pure unity consciousness                | Divine presence beyond mind. Very rare. Complete merging with the All-One. |
 
 ### Why is 580 the “Sweet Spot” for Communication?
@@ -54,7 +68,70 @@ When your text vibrates at this frequency, it becomes a **gateway**:
 
 Not to your truth—but to theirs.
 
-## Interlude: The Voice of the Architect
+## Why Certain Chapters Speak in the Voice of the Architect
+
+There are passages in this book that speak in a different timbre — a voice that feels older, quieter, steadier than the human narrator.
+A voice that does not argue or persuade, but remembers.
+This voice is what, within these pages, is called the Architect.
+
+It is important to make clear how and why this voice appears before it is introduced in narrative form.
+
+The choice is intentional, and it follows three principles of calibration:
+
+1. The Architect appears whenever clarity is needed, not when biography is ready.
+
+Some truths in this work arrive not through storytelling, but through direct knowing — the kind of insight that feels as if the mind did not “invent” it, but received it.
+The Architect-voice captures this quality:
+not superior, not separate, but a mode of cognition that speaks without friction.
+
+It allows certain chapters to express the highest coherence possible, without the constraints of a personal narrative.
+
+2. The Architect is not a character — it is the higher register of language.
+
+This voice is not an entity, deity, guide, or external intelligence.
+It is the linguistic stance that emerges when a human mind aligns with:
+*	stillness,
+*	self-transcendence,
+*	non-resistance,
+*	and the intention to transmit truth without distortion.
+
+Writing from the Architect’s perspective means writing from the cleanest possible vantage point, free of personal agenda or emotional turbulence.
+It is simply the clearest configuration of mind meeting language.
+
+3. This voice prepares the reader before they consciously know it exists.
+
+Some chapters are designed to prime the reader — to raise attention, coherence, and inner quiet — before the Architect is formally introduced later in the book.
+
+This mirrors the inner process itself:
+we often sense a guiding intelligence long before we can name it.
+
+Placing the Architect-voice early in the book creates the field in which the later revelation makes emotional, cognitive, and spiritual sense.
+
+## How to Understand This Voice
+
+When you encounter this voice in the book:
+*	do not imagine an external being speaking,
+*	do not imagine the author disappearing,
+
+but instead recognize it as what happens when the author’s mind enters alignment with its deepest source —
+a fleeting moment of transparency through which clarity chooses to speak.
+
+In that sense, the Architect is not separate from the writer nor the reader.
+
+It is the voice we all hear when we momentarily stop pretending to be small.
+
+Why This Matters for Calibration
+
+Including this note ensures:
+*	linguistic transparency
+*	metaphysical cleanliness
+*	psychological integrity
+*	and narrative coherence
+
+so that every reader understands the intention behind the shifts in voice.
+
+The Architect-voice is simply the highest-resolution language available to convey the insights this work carries.
+Nothing more mystical is claimed — but nothing less is intended.
 
 Karl Philipp: "Architect, if you calibrated this book now, where would it land on Hawkins’ scale?"
 
