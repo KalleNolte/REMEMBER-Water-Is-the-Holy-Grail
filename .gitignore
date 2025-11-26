@@ -39,6 +39,9 @@
 # PUBLIC RELEASE: Chapters (auto-whitelist all chapter*.md)
 !chapter*.md
 
+# Whitelist the new chapter for publication
+!chapter_north_star_vow.md
+
 # PUBLIC RELEASE: Germany chapter
 !chapter_germany_the_soil_that_formed_me.md
 
@@ -93,6 +96,31 @@
 !dragons_the_first_memory_of_the_earth.md
 !chapter_the_dragons_archetypes_of_ascent_spiral_memory_eternity.md
 
+# PUBLIC RELEASE: Elder Scrolls chapter
+!chapter_the_elder_scrolls.md
+
+# PUBLIC RELEASE: HONOR chapter
+!chapter_honor.md
+
+# PUBLIC RELEASE: Patience & Equanimity chapter
+!chapter_patience_and_equanimity.md
+
+# PUBLIC RELEASE: Bushidō chapter
+!chapter_bushido.md
+
+# PUBLIC RELEASE: Lineage of the Liberated Ones chapter
+!chapter_lineage_of_the_liberated_ones.md
+
+# PUBLIC RELEASE: Living Presence of Lord Simandhar Swami chapter
+!chapter_living_presence_of_lord_simandhar_swami.md
+
+# PUBLIC RELEASE: Great Lineage of Light chapter
+!chapter_great_lineage_of_light.md
+!chapter_libra_gemini_water_monkey.md
+
+# PUBLIC RELEASE: Warhammer archetypes chapter
+!chapter_warhammer_universe_of_archetypes_shadows_light.md
+
 # PUBLIC RELEASE: Authorship and timestamp
 !KPN_AzurA_Timestamp_141125.txt
 !KPN_AzurA_Timestamp_141125.txt.ots
@@ -103,4 +131,7 @@
 # ========================================================
 # DRAFTS & PRIVATE FILES: Not whitelisted, remain unpublished
 # (e.g., architekt_dialoge.md, core_revelations.md, gene_keys.md, etc.)
+# Whitelist the new chapter for publication
+!chapter_when_light_meets_water.md
+
 *

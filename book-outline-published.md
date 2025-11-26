@@ -39,6 +39,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The elemental mystery.
 * [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)  
 	Rational anchor. Builds trust.
+* [When Light Meets Water](./chapter_when_light_meets_water.md)  
+	Biophysical and metaphysical synthesis: sunlight, color, structured water, and practices for "living water." Bridge to AzurA and light-body chapters.
 * [Implications for Modern Science](./implications_for_modern_science.md)  
 	Paradigm shift. For skeptics and seekers.
 * [Water: Dimensional Bridge](./water_dimensional_bridge.md)  
