@@ -13,6 +13,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A scientific, poetic, and psychologically precise exploration of gratitude as coherence, perception, and the art of seeing through the heart. The Architect speaks to the reader, offering practical, evidence-based rituals for daily life.
 * [The Seal of Return](./the_seal_of_return.md)  
 	Opens the heart, remembrance, and devotion. Activates the field.
+* [The North Star Vow](./chapter_north_star_vow.md)  
+	A declaration of coherence, intention, and service. The vow at the center of the work, clarifying mission, vision, and daily orientation.
 * [Consciousness Anchoring Invitation](./consciousness_anchoring_invitation.md)  
 	Welcomes the reader. Sets intention, trust, and orientation.
 * [Encoded Self](./encoded_self.md)  

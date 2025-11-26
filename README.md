@@ -21,10 +21,12 @@ Begin your exploration here:
 
 This repository is best experienced by following the initiatic order below, mirroring the published book’s energetic and transformational journey. Each chapter is a step on the path of remembrance, coherence, and awakening.
 
+
 #### 0. Seal & Intention — The Threshold
 - [Prayer of Gratitude](./acknowledgements_prayer_of_gratitutde.md)
 - [The Physics of Gratitude — The Art of Seeing Through the Heart](./chapter_the_physics_of_gratitude.md)
 - [The Seal of Return](./the_seal_of_return.md)
+- [The North Star Vow](./chapter_north_star_vow.md)
 - [Consciousness Anchoring Invitation](./consciousness_anchoring_invitation.md)
 - [Encoded Self](./encoded_self.md)
 - [Language Calibration](./language-calibration.md)
