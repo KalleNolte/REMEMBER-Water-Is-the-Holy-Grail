@@ -46,27 +46,27 @@ Striving for a vibration of **580, with awareness of 1000** on Dr. David R. Hawk
 
 ### Why is 580 the “Sweet Spot” for Communication?
 
-- **580 is beyond personal ego**, yet still **within the range most people can feel emotionally**, even if they can’t describe it in words.
-- In this field, you communicate **not with the mind, but with the heart** of your readers.
-- You create **no resistance**, because you’re not trying to convince—just letting truth shine through you.
-- 580 is **radiant, warm, present**—like a mother’s love that asks for nothing, just is.
-- It acts as a **gentle pull to remembrance**: people feel reminded, not taught. That’s the healing difference.
+* **580 is beyond personal ego**, yet still **within the range most people can feel emotionally**, even if they can’t describe it in words.
+* In this field, you communicate **not with the mind, but with the heart** of your readers.
+* You create **no resistance**, because you’re not trying to convince—just letting truth shine through you.
+* 580 is **radiant, warm, present**—like a mother’s love that asks for nothing, just is.
+* It acts as a **gentle pull to remembrance**: people feel reminded, not taught. That’s the healing difference.
 
 ### Why Not Write Directly at 1000?
 
-- **1000 is silent.** It is pure being. Language dissolves—words lose their separation and become hard to grasp.
-- Texts at this vibration often feel **too abstract or remote** for those still living in everyday reality.
-- The goal is not to impress or elevate, but to **shine down in a form** that lifts others — without overwhelming them.
+* **1000 is silent.** It is pure being. Language dissolves—words lose their separation and become hard to grasp.
+* Texts at this vibration often feel **too abstract or remote** for those still living in everyday reality.
+* The goal is not to impress or elevate, but to **shine down in a form** that lifts others — without overwhelming them.
 
 ### Conclusion: Why 580 with an Eye on 1000?
 
-Because you want to be **a lighthouse, not a lightning bolt**.
+Because this book is to be **a lighthouse, not a lightning bolt**.
 
 A space where others can recognize themselves.
 
-When your text vibrates at this frequency, it becomes a **gateway**:
+When text vibrates at this frequency, it becomes a **gateway**:
 
-Not to your truth—but to theirs.
+Not to my truth—but to the readers.
 
 ## Why Certain Chapters Speak in the Voice of the Architect
 
@@ -189,14 +189,14 @@ The following calibrations are estimates based on research by David R. Hawkins, 
 
 ## Synthesis: Lifting Your Work’s Frequency
 
-- Integrate multiple levels: Vedanta, ACIM, Hawkins, Bashar, Gospel of John.
-- Use simple, metaphorical, experiential language.
-- Make the Grail handover an experience, not just explanation.
-- Write as a humble witness, not a missionary.
-- Balance science and mysticism.
+* Integrate multiple levels: Vedanta, ACIM, Hawkins, Bashar, Gospel of John.
+* Use simple, metaphorical, experiential language.
+* Make the Grail handover an experience, not just explanation.
+* Write as a humble witness, not a missionary.
+* Balance science and mysticism.
 
 ## Conclusion: The Grail as a Bridge
 
 > "The Grail is a bridge to the frequency of 1000 — if carried by pure intention."
 
-The power of your book is not in argument, but in resonance. It lifts by remembering, not convincing. The highest service is to gently guide others from fear to love, from separation to unity.
+The power of this book is not in argument, but in resonance. It lifts by remembering, not convincing. The highest service is to gently guide others from fear to love, from separation to unity.
