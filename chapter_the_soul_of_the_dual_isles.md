@@ -1,6 +1,6 @@
 # THE SOUL OF THE DUAL ISLES
 
-*A Tribute to England, Ireland, Scotland, and Wales — Keepers of Myth, Mind, and Memory*
+**A Tribute to England, Ireland, Scotland, and Wales — Keepers of Myth, Mind, and Memory**
 
 There are places on Earth that feel less like geography
 and more like thresholds.
@@ -135,9 +135,9 @@ guardians of the in-between,
 where myth meets matter
 and where consciousness remembers itself.
 
-## Why They Belong in Your Book
+## Why They Belong in this Book
 
-Because your work speaks of:
+Because this work speaks of:
 - remembrance
 - mythic consciousness
 - harmonic resonance
@@ -158,7 +158,7 @@ They remind us:
 
 To honor the Isles is to honor
 the collective human memory
-from which your entire work emerges.
+from which this entire work emerges.
 
 ## A Final Blessing for the Isles
 
