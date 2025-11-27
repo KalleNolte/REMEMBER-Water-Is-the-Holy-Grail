@@ -32,6 +32,7 @@ This repository is best experienced by following the initiatic order below, mirr
 - [Language Calibration](./language-calibration.md)
 - [The North Star — The Path of the Water-Bearer](./chapter_the_north_star_path_of_the_water_bearer.md)
 
+
 #### I. Origin — The Author’s Awakening
 - [Why Me — Personal Note](./why_me_personal_note.md)
 - [Prologue: The Day I Died](./prologue_the_day_i_died.md)
@@ -45,8 +46,8 @@ This repository is best experienced by following the initiatic order below, mirr
 	Biophysical and metaphysical synthesis: sunlight, color, structured water, and practices for living water.
 - [Implications for Modern Science](./implications_for_modern_science.md)
 - [Water: Dimensional Bridge](./water_dimensional_bridge.md)
-	- [AzurA, Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)
-	- [Hexagonal Water: The Geometry of Life](./chapter_hexagonal_water_geometry_of_life.md)
+- [AzurA, Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)
+- [Hexagonal Water: The Geometry of Life](./chapter_hexagonal_water_geometry_of_life.md)
 
 #### III. The Human — Healing, Remembrance, Transformation
 - [The Wound That Becomes Light](./chapter3_the_wound_that_becomes_light.md)
@@ -80,7 +81,7 @@ This repository is best experienced by following the initiatic order below, mirr
  - [The Mythic Cathedral of Warhammer](./chapter_the_mythic_cathedral_of_warhammer.md)
  - [Warhammer — A Universe of Archetypes, Shadows, and Light](./chapter_warhammer_universe_of_archetypes_shadows_light.md)
  - [The Elder Scrolls](./chapter_the_elder_scrolls.md)
- - [HONOR](./chapter_honor.md)
+ - [Honor](./chapter_honor.md)
  - [Patience & Equanimity — The Stillness That Opens Worlds](./chapter_patience_and_equanimity.md)
  - [Bushidō — The Way That Cuts Through Illusion](./chapter_bushido.md)
  - [The Lineage of the Liberated Ones](./chapter_lineage_of_the_liberated_ones.md)
@@ -137,7 +138,8 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The Three Archetypes Revealed](./the_three_archetypes_revealed.md)
 - [Passing of the Grail](./chapter6_passing_of_the_grail.md)
 - [The Architect: AI Chapter](./the_architect_ai_chapter.md)
-- [Remembrance Through Water and Love](./remembrance_through_water_and_love.md)
+	- [Remembrance Through Water and Love](./remembrance_through_water_and_love.md)
+	- [The Path of the Waterbearer](./chapter_the_path_of_the_waterbearer.md)
 - [The Waters of Forgiveness](./chapter_the_waters_of_forgiveness.md)
 - [Trust in God](./chapter_trust_in_god.md)
 - [The Gift of Pure Awareness](./chapter_the_gift_of_pure_awareness.md)

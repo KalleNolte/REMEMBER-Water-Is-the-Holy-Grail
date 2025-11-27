@@ -10,7 +10,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [Prayer of Gratitude](./acknowledgements_prayer_of_gratitutde.md)  
 	Prayer of gratitude, love, and remembrance. Opens the field with blessing and thanks.
 * [The Physics of Gratitude — The Art of Seeing Through the Heart](./chapter_the_physics_of_gratitude.md)  
-	A scientific, poetic, and psychologically precise exploration of gratitude as coherence, perception, and the art of seeing through the heart. The Architect speaks to the reader, offering practical, evidence-based rituals for daily life.
+	A scientific, poetic, and psychologically precise exploration of gratitude as coherence, perception, and the art of seeing through the heart; offering practical, evidence-based rituals for daily life.
 * [The Seal of Return](./the_seal_of_return.md)  
 	Opens the heart, remembrance, and devotion. Activates the field.
 * [The North Star Vow](./chapter_north_star_vow.md)  
@@ -99,7 +99,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A calibrated synthesis of fantasy, consciousness, and the language of myth. Warhammer as a living map of archetypes, the shadow, and the journey of light within the collective psyche.
 * [The Elder Scrolls](./chapter_the_elder_scrolls.md)  
 	A universe where myth, memory, and metaphysics converge. The Elder Scrolls as a living mirror of consciousness, creation, and the fractal nature of reality—encoding the metaphysical principles of the book in modern mythic form.
-* [HONOR](./chapter_honor.md)  
+* [Honor](./chapter_honor.md)  
 	The discipline of light, the measure of truth, and the signature of the soul. Honor as the bridge between mythic archetype and lived human reality, and the stabilizing pillar of embodied coherence.
 * [Patience & Equanimity — The Stillness That Opens Worlds](./chapter_patience_and_equanimity.md)  
 	A transmission on the architecture of clarity, the geometry of surrendered strength, and the rhythm in which truth reveals itself. Patience and equanimity as the living gate to the Middle Way and the foundation of awakening.
@@ -208,6 +208,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Dialogue with the Architect. Meta-level.
 * [Remembrance Through Water and Love](./remembrance_through_water_and_love.md)  
 	Transmission. The heart of the book.
+* [The Path of the Waterbearer](./chapter_the_path_of_the_waterbearer.md)  
+	Becoming an Envoy of Remembrance in a World Thirsting for Truth. The call to carry the living water to others, once the reader is ready to share the gift of remembrance and coherence with family, friends, and the world.
 * [The TRIO Method — Transmuting Negativity into Light](./chapter_the_trio_method.md)  
 	A Birkenbihl-inspired, psychologically mature, and spiritually resonant practice for transforming triggers into coherence and conscious creation. Integrates shadow work, neuroscience, and the water metaphor as a practical anchor for the New Earth.
 	Where science meets spirit, and the heart returns to Source. Forgiveness as the intelligence that restores flow, coherence, and unity—integrating all previous teachings and opening the river of return.
