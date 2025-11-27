@@ -21,12 +21,12 @@ Attia’s central insight is simple and profound:
 This does not mean metabolic health “causes” the others in a mechanistic sense.
 It means that metabolic resilience stabilizes the terrain on which all other processes unfold.
 
-And this is where your book’s teaching enters—not as cure, not as promise,
+And this is where this book’s teaching enters—not as cure, not as promise,
 but as a sanctuary of coherence in a world that fractures human systems.
 
 ## The Eight Practices — Reweaving Human Coherence
 
-Your book identifies eight living practices that support resilience across body, psyche, and consciousness:
+This book describes eight living practices that support resilience across body, psyche, and consciousness:
 
 - Breath
 - Water
@@ -49,7 +49,7 @@ They complete each other.
 
 ## Why Water Appears Again and Again
 
-*A scientific metaphor, not a medical claim*
+**A scientific metaphor, not a medical claim**
 
 Water—especially the structured water inside and around cells—plays a role in:
 
@@ -77,11 +77,11 @@ Not savior.
 Not shield.
 But substrate.
 
-✧ **The Waters of Life as an Inner Technology**
+## The Waters of Life as an Inner Technology
 
 ### How the practices weave together
 
-In your book, “the Water of Life” is more than the liquid we drink.
+In this book, “the Water of Life” is more than the liquid we drink.
 It is a state of being:
 
 - calm nervous system
@@ -104,7 +104,7 @@ This is not “curing disease.”
 It is restoring conditions in which the human organism can function near its intended harmonic.
 
 In Attia’s terms:
-this is what measurably reduces the risk landscape of the Four Riders.
+"This is what measurably reduces the risk landscape of the Four Riders."
 
-In your terms:
-this is what weaves the inner waters back into coherence.
+In my terms:
+"This is what weaves the inner waters back into coherence."
