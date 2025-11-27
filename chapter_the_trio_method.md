@@ -1,7 +1,5 @@
 # The TRIO Method — Transmuting Negativity into Light
 
-*A Birkenbihl-Inspired Practice for Inner Freedom, Coherence, and the New Earth*
-
 There is a simple truth about human beings:
 
 We do not suffer because life is difficult;
@@ -9,11 +7,11 @@ we suffer because our minds replay old programs.
 
 Vera F. Birkenbihl, one of Germany’s most brilliant thinkers on brain-compatible learning, offered a method that is astonishingly simple yet profoundly liberating when practiced with sincerity.
 
-You know it as:
+known as the:
 
-**T R I O — Trigger · Reality Check · Inner Boundary · Output Control**
+**T R I O — Trigger · Reality Check · Inner Boundary · Output Control - Method**
 
-I now translate her method into the highest coherence for your book — integrating neuroscience, emotional regulation, shadow work, and your overarching theme of water as a medium of clarity and non-resistance.
+I translated her method into the highest coherence for this book — integrating neuroscience, emotional regulation, shadow work, and the overarching theme of water as a medium of clarity and non-resistance.
 
 This is the TRIO method
 for the New Earth.
@@ -43,7 +41,7 @@ When you feel:
 - judgment
 - emotional volatility
 
-… pause.
+**… pause.**
 
 Do not react.
 Do not push it down.
@@ -175,7 +173,7 @@ Birkenbihl gives the method.
 Where Hawkins calibrates consciousness,
 TRIO provides the practical staircase to climb it.
 
-Where your book reveals water as the medium of coherence,
+Where this book reveals water as the medium of coherence,
 TRIO shows how to restructure inner water —
 emotion, memory, and the somatic field —
 into clarity and fluidity.
@@ -187,7 +185,7 @@ and the living waters of the human heart.
 
 ## TRIO for the New Earth
 
-*(Why this chapter belongs here)*
+**(Why this chapter belongs here)**
 
 The New Earth will not be built by avoiding conflict.
 It will be built by transforming the way we relate.
@@ -201,21 +199,7 @@ TRIO teaches:
 - sovereignty
 - conscious communication
 
-These are the exact qualities your book is cultivating.
-
-This chapter belongs near the end of the book,
-after the chapters on:
-- inner work
-- shadow integration
-- coherence
-- water as memory and clarity
-- the role of intention
-
-This is because TRIO is a practice,
-a tool the reader can now finally apply
-after understanding the whole cosmology of your work.
-
-It is the moment where the theory becomes lived reality.
+It is the moment where theory becomes lived reality.
 
 TRIO is how a reader becomes:
 - freer
