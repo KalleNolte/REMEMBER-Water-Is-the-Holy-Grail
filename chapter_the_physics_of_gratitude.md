@@ -26,11 +26,11 @@ Let us return to that doorway now.
 Modern neuroscience does not yet speak of “vibration,”
 but it knows the signature of a harmonious mind:
 
-- increased parasympathetic activity
-- elevated heart-rate variability
-- synchronized neural oscillations
-- improved emotional regulation
-- broadened attentional bandwidth
+* increased parasympathetic activity
+* elevated heart-rate variability
+* synchronized neural oscillations
+* improved emotional regulation
+* broadened attentional bandwidth
 
 In plain words:
 
@@ -216,7 +216,7 @@ it is the beginning.
 It creates the internal stillness
 through which wisdom can enter.
 
-## Closing Prayer of the Architect
+## Closing Prayer
 
 You who read these words,
 pause for a moment.
