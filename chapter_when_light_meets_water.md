@@ -2,7 +2,7 @@
 
 A luminous bridge: why light and water are the primary channels of awakening
 
-✧ When Light Meets Water
+## When Light Meets Water
 
 In the beginning, there was Light.
 And Water.
@@ -13,9 +13,7 @@ Water is the sacred witness of light. A living memory field. A carrier of vibrat
 
 When light shines on water, something ancient awakens.
 
-⸻
-
-✧ Sunlight — the original code
+## Sunlight — the original code
 
 Sunlight is not simply illumination; it is full-spectrum information.
 It contains all visible wavelengths, as well as ultraviolet and infrared rays — each carrying specific frequencies that can structure, activate, or transform water.
@@ -24,9 +22,7 @@ When sunlight touches water, particularly in its natural environments — spring
 
 This water — structured, charged, coherent — behaves differently. It holds energy. It flows with intelligence. It becomes a medium of resonance between body and field, between cell and cosmos.
 
-⸻
-
-✧ Color and Frequency
+## Color and Frequency
 
 Each color of light has a unique energetic signature.
 Blue light — especially azurite blue — holds a particularly high frequency, long revered in mystic traditions.
@@ -40,9 +36,7 @@ Different colors impart different qualities:
 
 These are not metaphors. They are wavelengths. And water responds.
 
-⸻
-
-✧ Best Practices — Purifying and Enhancing Water
+## Best Practices — Purifying and Enhancing Water
 
 The purest water is not only clean in chemistry, but coherent in frequency.
 
@@ -59,9 +53,7 @@ Water that has passed through all six stages becomes what ancient texts called:
 
 Water that not only hydrates — but remembers. Water that not only flows — but heals. Water that not only reflects light — but becomes it.
 
-⸻
-
-✧ The Language of Source
+## The Language of Source
 
 Water is the bridge.
 Light is the message.

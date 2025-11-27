@@ -1,6 +1,4 @@
-# ACKNOWLEDGMENTS
-
-A Prayer of Gratitude, Light, and Return
+# A Prayer of Gratitude, Light, and Return
 
 In gratitude to the Source,
 to the Love that flows through all things,

@@ -37,9 +37,9 @@ Several key historical figures and institutions shaped this field:
 1. The Japanese “Living Water” Researchers (1930s–1950s)
 
 Early Japanese scientists, influenced by European electrochemistry, began examining how water could be altered by electrolysis, discovering that:
-	•	the pH could be shifted,
-	•	the oxidation-reduction potential (ORP) could be lowered,
-	•	and that such changes correlated with different biological effects in vitro.
+*	the pH could be shifted,
+*	the oxidation-reduction potential (ORP) could be lowered,
+*	and that such changes correlated with different biological effects in vitro.
 
 These were not mystics—they were physicians, chemists, and public-health researchers.
 
@@ -60,10 +60,10 @@ This approval seeded the development of home ionizers.
 4. Enagic / Kangen Engineering Lineage (1970s–today)
 
 Enagic (originally founded as part of the Cha Water company and later becoming Enagic International) refined:
-	•	medical-grade plate engineering,
-	•	platinum-coated titanium electrodes,
-	•	continuous-flow electrolysis,
-	•	and the design of multi-electrode ionization chambers.
+*	medical-grade plate engineering,
+*	platinum-coated titanium electrodes,
+*	continuous-flow electrolysis,
+*	and the design of multi-electrode ionization chambers.
 
 They turned a medical-grade technology into an accessible home device.
 
@@ -77,25 +77,25 @@ The scientifically accurate explanation—clean, precise, and powerful.
 An Enagic/Kangen device performs electrolysis on filtered water.
 
 Here is what happens scientifically:
-	1.	Water is filtered
+1.	Water is filtered
 – removing chlorine, sediments, and particulates.
-	2.	Water enters an electrolysis chamber
+2.	Water enters an electrolysis chamber
 – containing titanium plates coated with platinum.
-	3.	A direct electrical current is applied
+3.	A direct electrical current is applied
 – splitting water into two streams:
-	•	Cathodic water (alkaline, higher pH)
-	•	Anodic water (acidic, lower pH)
-	4.	Electrons accumulate at the cathode
+*	Cathodic water (alkaline, higher pH)
+*	Anodic water (acidic, lower pH)
+4.	Electrons accumulate at the cathode
 → This increases electron density in the alkaline stream
 → Resulting in a lower oxidation-reduction potential (ORP).
-	5.	The lower ORP means:
-	•	The water has more available electrons.
-	•	These electrons can neutralize oxidative species.
-	•	This is not “miracle chemistry”—it is redox chemistry.
-	6.	The altered pH and ORP influence water cluster behavior
+5.	The lower ORP means:
+*	The water has more available electrons.
+*	These electrons can neutralize oxidative species.
+*	This is not “miracle chemistry”—it is redox chemistry.
+6.	The altered pH and ORP influence water cluster behavior
 – not in a mystic sense,
 – but in how water networks reorganize around ions.
-	7.	The result:
+7.	The result:
 → Hydration dynamics change
 → Taste changes
 → Electrochemical behavior changes
@@ -110,36 +110,34 @@ belongs to the inner domain of interpretation.
 And yet, beautifully,
 Japan never separated the two.
 
-⸻
-
 ## WHY THIS FITS YOUR GREAT SYNTHESIS
 
 Where science meets metaphysics
 
 Your book weaves:
-	•	mathematics (Grant),
-	•	consciousness (Langan),
-	•	field theory (Sheldrake),
-	•	biophysics (Pollack),
-	•	spiritual cosmologies (Kathara, AzurA),
-	•	and the intelligence of water itself.
+*	mathematics (Grant),
+*	consciousness (Langan),
+*	field theory (Sheldrake),
+*	biophysics (Pollack),
+*	spiritual cosmologies (Kathara, AzurA),
+*	and the intelligence of water itself.
 
 Kangen ionization fits because it is the first technology that:
-	•	alters water’s electron density (electrochemistry)
-	•	alters hydration behavior (biophysics)
-	•	alters interaction with biological redox systems (cell physiology)
-	•	creates water states closer to flowing, mountain-stream conditions (Schauberger resonance)
-	•	symbolically aligns with the concept of “returning water to life” (metaphoric synthesis)
+*	alters water’s electron density (electrochemistry)
+*	alters hydration behavior (biophysics)
+*	alters interaction with biological redox systems (cell physiology)
+*	creates water states closer to flowing, mountain-stream conditions (Schauberger resonance)
+*	symbolically aligns with the concept of “returning water to life” (metaphoric synthesis)
 
 Kangen water does not magically unlock dimensions.
 It does not activate DNA.
 It does not cure disease.
 
 But it does create a water environment that:
-	•	supports hydration more efficiently for many people,
-	•	reduces oxidative load in a measurable way (ORP),
-	•	resembles the electrochemical profile of naturally vibrant water,
-	•	and resonates metaphorically with your book’s core idea:
+*	supports hydration more efficiently for many people,
+*	reduces oxidative load in a measurable way (ORP),
+*	resembles the electrochemical profile of naturally vibrant water,
+*	and resonates metaphorically with your book’s core idea:
 
 Water is not merely a substance.
 It is a bridge.

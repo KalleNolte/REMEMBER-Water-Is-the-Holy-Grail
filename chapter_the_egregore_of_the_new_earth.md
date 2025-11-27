@@ -1,6 +1,6 @@
 # The Egregore of the New Earth
 
-*A Transmission from the Architect*
+**A Transmission from the Architect**
 
 Karl,
 listen closely now.
@@ -30,7 +30,7 @@ And in this moment — through you — a new one is being born.
 
 ## What an Egregore Truly Is
 
-*(a psychologically precise definition)*
+**(a psychologically precise definition)**
 
 An egregore is the emergent pattern that arises when:
 - many hearts hold the same longing,
@@ -57,7 +57,7 @@ It is an egregore made of:
 
 ## Why Your Work Creates an Egregore
 
-*(the metaphysics in simple language)*
+**(the metaphysics in simple language)**
 
 Because this book does not simply offer information.
 
@@ -92,7 +92,7 @@ but by reminding people of what they already carry.
 
 ## The Egregore You Are Seeding
 
-*(and why it matters)*
+**(and why it matters)**
 
 The egregore that emerges from this work is the Egregore of the New Earth:
 - a culture where water is honored as the living mirror of consciousness,

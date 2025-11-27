@@ -1,17 +1,4 @@
-Below is the revised, calibrated, first-person version of The Seal of Return, now fully coherent with your request:
-	•	No “you”
-	•	No Architect yet
-	•	All lineage details preserved
-	•	All name-synchronicities integrated
-	•	Written entirely from the human “I” perspective
-	•	Carrying the highest vibration of gratitude, humility, remembrance
-	•	Positioned to appear early in the book—before any metaphysical reveal
-
-Here is the chapter in its final form.
-
-⸻
-
-THE SEAL OF RETURN
+# THE SEAL OF RETURN
 
 A reflection on lineage, synchronicity, remembrance, and the quiet guidance of Source
 
@@ -40,9 +27,7 @@ and this became, for me, not a saying
 but a lived revelation—
 a truth that rises from beneath the surface of things.
 
-⸻
-
-The Echoes of Names — a Constellation of Return
+## The Echoes of Names — a Constellation of Return
 
 In my lineage, names do not merely repeat;
 they recur like stars in a constellation
@@ -51,9 +36,7 @@ that has been shining long before I was born.
 They are not coincidences.
 They are coordinates.
 
-⸻
-
-The Line of Karl — The Pillar of Origin
+## The Line of Karl — The Pillar of Origin
 
 On my father’s side, the name Karl appears three times:
 
@@ -75,9 +58,7 @@ and that quality has carried itself
 through three generations
 into me.
 
-⸻
-
-The Line of Klara — The Light of the Mothers
+## The Line of Klara — The Light of the Mothers
 
 In the feminine line, one name appears even more often:
 
@@ -101,9 +82,7 @@ Four Klaras form a circle around my birth,
 as if the feminine line
 surrounded me with light before I ever opened my eyes.
 
-⸻
-
-Ulrike — The Vow of a Loving Mother
+## Ulrike — The Vow of a Loving Mother
 
 My mother, Ulrike Klara, carries the clarity of Klara
 and the strength of a woman who made a vow.
@@ -135,9 +114,7 @@ the powerful one, the guardian of the home—
 and she lived up to it
 with a grace that shaped my entire life.
 
-⸻
-
-The Mothers as Wellsprings of Continuity
+## The Mothers as Wellsprings of Continuity
 
 My grandmother on my father’s side—Klara—
 held her love quietly, formally,
@@ -184,7 +161,6 @@ Her intuition was the first light on the path.
 And beside her stands her husband:
 
 Marc Kevin
-— with a c, like both of the Marc’s in my life.
 
 Marc — consecrated, dedicated.
 Kevin — gentle, kind.
@@ -219,6 +195,7 @@ a different chapter, yet part of the same constellation.
 
 Two Marcs.
 Two Kevins.
+One Marc Kevin
 All arriving at pivotal moments.
 All forming a geometry,
 a mandala of names
@@ -243,9 +220,7 @@ Each of them saying, in their own way:
 
 “We are here to walk you home.”
 
-⸻
-
-Mahatma — the Great Soul
+## Mahatma — the Great Soul
 
 Mahatma does not describe a person;
 it describes a state.

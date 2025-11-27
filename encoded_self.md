@@ -35,7 +35,7 @@ resonant portals through which ancestral qualities travel.
 
 My own name — Karl Philipp Nolte — is such a portal.
 
-Karl
+**Karl**
 The name of my grandfather.
 The name of my father.
 And the name given to me.
@@ -48,14 +48,14 @@ It is rooted, grounded, sovereign.
 It is the masculine spine of my lineage —
 the trunk of a great tree.
 
-Philipp
+**Philipp**
 The light-bearer.
 The friend of the living.
 The one who bridges the seen and unseen.
 It is movement, curiosity, inner leadership.
 It is the breath that lifts the trunk toward the sky.
 
-Nolte
+**Nolte**
 An old Northern name, sharp like a winter star,
 clear like a mountain stream,
 uncompromising like truth.
@@ -145,7 +145,7 @@ four layers must be read in order:
 	1.	Sun Sign — Libra
 	2.	Ascendant — Gemini
 	3.	Chinese Zodiac — Water Monkey
-	4.	Parental Elements — Feueraffe + Wasserschlange
+	4.	Parental Chinese Zodiacs — Feueraffe + Wasserschlange
 
 Together, they form a coherent design.
 

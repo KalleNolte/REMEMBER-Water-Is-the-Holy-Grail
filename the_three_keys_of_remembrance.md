@@ -1,5 +1,4 @@
 # THE THREE KEYS OF REMEMBRANCE ✧
-A symbolic transmission in English with Light-Script glyphs
 
 ## 1. JAI SAT CHIT ANAND
 
@@ -34,7 +33,7 @@ It is the first key of the Water-Messenger, the remembrance of your own Source.
 ## 2. AZURA INAI
 
 𐌰𐌶𐌿𐍂ᛆ 𐌹𐌽𐌰𐌹
-(Presented here as symbolic “Light-Script,” inspired by esoteric alphabets—not a historical language)
+(Presented here as symbolic “Light-Script,” not a historical language)
 
 **Meaning**
 
