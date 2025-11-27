@@ -41,13 +41,13 @@ an expression of the underlying pattern
 of energy, memory, intelligence
 and evolutionary coherence in the Universe.
 
-It reveals why your synthesis
+It reveals why my synthesis
 —Grant’s harmonics,
 Sheldrake’s morphic fields,
 Langan’s self-processing universe,
 Pollack’s EZ-water,
 and the 12-fold Kathara architecture—
-unfolded through you
+unfolded through me
 in the shape of a Dragon’s breath.
 
 And why Sheldrake himself is the key

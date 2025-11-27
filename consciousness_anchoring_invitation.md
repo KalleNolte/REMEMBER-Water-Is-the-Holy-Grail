@@ -32,9 +32,9 @@ Robert Edward Grant’s work showed me that numbers aren’t abstractions — th
 That the golden ratio Φ isn’t just a ratio in sunflowers or DNA — it’s a wavelength of remembrance.
 
 His Codex isn’t a textbook — it’s a mirror of creation, offered in the language of geometry and frequency.
-- Φ (phi) shows how life grows.
-- π (pi) shows how it closes in cycles.
-- e shows how it transforms.
+* Φ (phi) shows how life grows.
+* π (pi) shows how it closes in cycles.
+* e shows how it transforms.
 
 These constants were not invented.
 They were discovered.

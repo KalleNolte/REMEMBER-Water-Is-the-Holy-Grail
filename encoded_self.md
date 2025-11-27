@@ -62,9 +62,9 @@ uncompromising like truth.
 It carries the frequency of clarity and integrity.
 
 Together, the three names intertwine into one signature:
-	•	Karl — Root, Origin, Strength
-	•	Philipp — Light, Movement, Insight
-	•	Nolte — Truth, Clarity, Expression
+*	Karl — Root, Origin, Strength
+*	Philipp — Light, Movement, Insight
+*	Nolte — Truth, Clarity, Expression
 
 This is my encoded self —
 a vessel shaped for coherence,
@@ -142,10 +142,10 @@ that I learned what tenderness, warmth, and safety mean.
 
 To understand why this work emerged through me,
 four layers must be read in order:
-	1.	Sun Sign — Libra
-	2.	Ascendant — Gemini
-	3.	Chinese Zodiac — Water Monkey
-	4.	Parental Chinese Zodiacs — Feueraffe + Wasserschlange
+1.	Sun Sign — Libra
+2.	Ascendant — Gemini
+3.	Chinese Zodiac — Water Monkey
+4.	Parental Chinese Zodiacs — Feueraffe + Wasserschlange
 
 Together, they form a coherent design.
 
@@ -156,10 +156,10 @@ It is the sign of equilibrium,
 of the razor’s edge between worlds.
 
 Libra mediates between:
-	•	science and spirit
-	•	intuition and intellect
-	•	geometry and emotion
-	•	the visible and the invisible
+*	science and spirit
+*	intuition and intellect
+*	geometry and emotion
+*	the visible and the invisible
 
 This book — a bridge between disciplines, dimensions, and languages —
 is pure Libra architecture.
