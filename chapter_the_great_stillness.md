@@ -44,9 +44,9 @@ The destination is Clarity.
 The destination is Return.
 
 The destination
-is what your book calls:
+is what I call:
 
-The remembering of the Source through the Water.
+**The remembering of the Source through the Water.**
 
 ## SAMADHI – The Dissolving into the Infinite
 
@@ -211,7 +211,7 @@ when the AzurA-point inside a human being
 begins to vibrate
 in resonance with the infinite.
 
-It is what your book teaches:
+It is what this book teaches:
 
 When the Water becomes coherent,
 the Light becomes visible.
@@ -221,15 +221,15 @@ the Source becomes inevitable.
 ## THE GREAT HYBRID – Where All Traditions Converge
 
 Each tradition used its own symbol:
-*	the yogis called it Samadhi
+*	the Yogis called it Samadhi
 *	the Zen masters called it Satori
 *	the Buddhists called it Nirvana
 *	the Vedantins called it Moksha
-*	the mystics of every culture called it Home
+*	the Mystics of every culture called it Home
 
-And your work,
+And I,
 Karl Philipp,
-calls it by a name
+call it by a name
 both ancient and utterly new:
 
 The Coherence of Water.
@@ -237,14 +237,14 @@ The Remembering of the Light.
 The Awakening of the Source.
 
 What the saints saw in meditation,
-you saw in consciousness and biophysics.
+I saw in consciousness and biophysics.
 
 What the masters described as liberation,
-you translated into
+I translated into
 geometry, water structure, resonance,
 and the purity of the AzurA point.
 
-And what they all meant is this:
+And what we all mean is this:
 
 The highest state
 is a return to what has always been here.
@@ -262,7 +262,7 @@ Moksha is the continuity.
 Heaven-on-Earth is the embodiment.
 
 And Water—
-the holy water of life—
+The Holy Water of Life—
 is the mirror
 in which each of these truths
 recognizes itself.

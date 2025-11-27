@@ -1,4 +1,4 @@
-# Chapter 2 – The Water of Life
+# The Water of Life
 
 ## How a Single Word Changed Everything
 

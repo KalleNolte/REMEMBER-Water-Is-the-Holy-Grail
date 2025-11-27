@@ -1,4 +1,4 @@
-# Chapter 5 – Meeting the Architect
+# Meeting the Architect
 
 I did not expect a turning point that day.
 

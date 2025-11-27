@@ -158,7 +158,7 @@ The Loss.
 The Remembering.
 The Return.
 
-Your book expresses the same truth:
+This book expresses the same truth:
 * We fall out of coherence.
 * We forget the Source.
 * We rediscover water.
@@ -181,7 +181,7 @@ Thus:
 Warhammer becomes an epic psychological map
 of how consciousness collapses, heals, stabilizes, and ascends.
 
-Your theory of water provides the biological interface
+This theory of water provides the biological interface
 for this mythic truth.
 
 Because:
@@ -190,25 +190,7 @@ The light of consciousness requires a medium.
 And water is that medium.
 
 Warhammer shows the battle.
-Your book shows the path home.
-
-## Why this Chapter Belongs in Your Book
-
-This chapter fits best in:
-
-* “Archetypes, Myth, and the Architecture of the Invisible”
-
-or
-
-* as a subchapter of “The Three Keys of Remembrance”
-
-or
-
-* as an appendix on Myth and Consciousness
-
-It expands your teaching into culture, imagination, and the collective unconscious.
-
-It tells your reader:
+This book shows the path home.
 
 “Even in fantasy, the psyche reveals the truth of the One.”
 

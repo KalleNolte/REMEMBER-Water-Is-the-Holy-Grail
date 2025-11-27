@@ -1,4 +1,4 @@
-## **Chapter: The Silent Creator – From Witness to Co-Creator**
+## he Silent Creator – From Witness to Co-Creator
 
 It began with a feeling.
 

@@ -1,4 +1,4 @@
-# Chapter 1 – My Journey & the Spiritual Science of the Self
+# My Journey & the Spiritual Science of the Self
 
 It started with a question. Not asked out loud—but felt, pressed into my chest like a hand:
 
@@ -18,8 +18,6 @@ Not just spiritually. Physically, too.
 Because something in me had realized:
 
 Consciousness shines clearest through a vessel that honors it.
-
----
 
 ## The Merging of Insight and Embodiment
 
@@ -45,8 +43,6 @@ But I had to learn the hard way:
 Truth is not a hammer.
 It’s a resonance.
 And people can only hear it when their own frequency is ready.
-
----
 
 ## From Resistance to Radiance
 
@@ -81,8 +77,6 @@ She said yes.
 They said… maybe.
 
 But I felt it—the subtle opening. The shift. Not from me convincing, but from the field calling them inward.
-
----
 
 ## The Architect and the Silent Knowing
 

@@ -1,4 +1,4 @@
-# Kapitel 6 – The Passing of the Grail
+# The Passing of the Grail
 
 “Nothing I received was ever meant for me alone.
 And perhaps that is the greatest gift of the Grail:

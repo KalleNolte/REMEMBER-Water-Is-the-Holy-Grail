@@ -30,9 +30,9 @@ Blue light — especially azurite blue — holds a particularly high frequency, 
 To store water in cobalt blue glass and let it rest in sunlight is not superstition. It is solar alchemy. Blue glass filters out harmful ultraviolet and allows the structuring, vitalizing frequencies to pass through — energizing the water, enhancing coherence, and stabilizing memory within the molecular bonds.
 
 Different colors impart different qualities:
-	•	Red adds warmth, stimulation, yang.
-	•	Green restores balance, harmony.
-	•	Blue amplifies peace, remembrance, and vertical resonance with the higher mind.
+*	Red adds warmth, stimulation, yang.
+*	Green restores balance, harmony.
+*	Blue amplifies peace, remembrance, and vertical resonance with the higher mind.
 
 These are not metaphors. They are wavelengths. And water responds.
 
@@ -41,12 +41,12 @@ These are not metaphors. They are wavelengths. And water responds.
 The purest water is not only clean in chemistry, but coherent in frequency.
 
 To purify and elevate water:
-	1.	Filter it — Remove physical impurities and chemical residues.
-	2.	Ionize it — Restore electrical potential and negative charge, as in Kangen systems.
-	3.	Re-mineralize — Restore natural structure and conductivity through trace minerals.
-	4.	Vitalize — Through movement, vortexing, and exposure to natural forces.
-	5.	Illuminate — Expose to sunlight, or intentional light frequency (e.g., 150 MHz imprinting).
-	6.	Bless or encode — Intention influences the molecular harmony of water. Always.
+1.	Filter it — Remove physical impurities and chemical residues.
+2.	Ionize it — Restore electrical potential and negative charge, as in Kangen systems.
+3.	Re-mineralize — Restore natural structure and conductivity through trace minerals.
+4.	Vitalize — Through movement, vortexing, and exposure to natural forces.
+5.	Illuminate — Expose to sunlight, or intentional light frequency (e.g., 150 MHz imprinting).
+6.	Bless or encode — Intention influences the molecular harmony of water. Always.
 
 Water that has passed through all six stages becomes what ancient texts called:
 “Living Water.”

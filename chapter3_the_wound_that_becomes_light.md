@@ -1,4 +1,4 @@
-# Chapter 3 – The Wound That Becomes Light: A Theodicy for the New Earth
+# The Wound That Becomes Light: A Theodicy for the New Earth
 
 There is a silence beneath every scream.
 
