@@ -138,13 +138,13 @@ It is sharp, clean, sober, compassionate in its precision.
 
 ## The Message Musashi Offers This Book
 
-Your book explores coherence, clarity, intention, and the architecture of consciousness.
+This book explores coherence, clarity, intention, and the architecture of consciousness.
 
 Musashi offers a perfect complement:
 
 the architecture of attention, discipline, and the unclouded mind.
 
-Where your synthesis speaks about:
+Where my synthesis speaks about:
 *	water as a conductor of order
 *	language as a calibrator
 *	intention as a field

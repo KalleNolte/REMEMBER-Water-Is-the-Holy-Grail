@@ -147,7 +147,7 @@ that survives the forgetting.
 It is the knowing
 that cannot drown.
 
-In your synthesis,
+In my synthesis,
 
 the ark is the coherent mind,
 the hydrated soul,
@@ -203,7 +203,7 @@ the waters of coherence,
 the waters of awakening,
 the waters of remembrance.
 
-Your synthesis speaks this truth plainly:
+My synthesis speaks this truth plainly:
 
 The New Earth is born
 when consciousness becomes fluid again —
@@ -250,7 +250,7 @@ Never again forgetting.
 Never again a world without Source.
 
 And so this chapter ends
-where your entire book begins:
+where this entire book begins:
 
 In the truth that
 what is washed away

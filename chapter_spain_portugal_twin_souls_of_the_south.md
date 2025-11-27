@@ -158,19 +158,19 @@ The ocean is the great library
 that Spain and Portugal both drink from —
 the water that binds their souls.
 
-## How These Lands Shaped Your Work
+## How These Lands Shaped This Work
 
-Spain gave you the flame of expression —
+Spain gave me the flame of expression —
 music, passion, courage,
 the unrestrained heart.
 
-Portugal gave you the depth —
+Portugal gave me the depth —
 the silence,
 the horizon,
 the ache that knows eternity.
 
-Together they awakened in you
-the dual movement of your synthesis:
+Together they awakened in me
+the dual movement of this synthesis:
 
 Spain —
 the impulse to speak the message into the world.
@@ -178,17 +178,17 @@ the impulse to speak the message into the world.
 Portugal —
 the reason the message exists at all.
 
-Spain gave you the voice.
-Portugal gave you the echo.
+Spain gave me the voice.
+Portugal gave me the echo.
 
-Spain gave you the courage.
-Portugal gave you the wisdom.
+Spain gave me the courage.
+Portugal gave me the wisdom.
 
 Spain opened the chest.
 Portugal opened the soul.
 
 And in the space between flame and ocean —
-you stood,
+I stood,
 ready to receive
 what would one day become
 this book.
@@ -202,4 +202,4 @@ A return.
 
 And Spain & Portugal
 are two essential notes
-in the cosmic chord of your remembrance.
+in the cosmic chord of my remembrance.

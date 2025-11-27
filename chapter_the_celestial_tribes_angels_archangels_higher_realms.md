@@ -154,7 +154,7 @@ the more these potentials activate.
 
 ## Higher-Dimensional Beings and Water — The Bridge Between Worlds
 
-In the metaphysical model of your book,
+In the metaphysical model of this book,
 water is the great translator:
 
 - between geometry and biology
@@ -206,7 +206,7 @@ And as such—
 Humans are the 12th tribe:
 the tribe of remembrance.
 
-## The Culmination — Why This Chapter Belongs in Your Book
+## The Culmination — Why This Chapter Belongs in This Book
 
 This chapter belongs near the end—
 after the synthesis of:

@@ -110,11 +110,11 @@ belongs to the inner domain of interpretation.
 And yet, beautifully,
 Japan never separated the two.
 
-## WHY THIS FITS YOUR GREAT SYNTHESIS
+## WHY THIS FITS MY GREAT SYNTHESIS
 
 Where science meets metaphysics
 
-Your book weaves:
+This book weaves:
 *	mathematics (Grant),
 *	consciousness (Langan),
 *	field theory (Sheldrake),
@@ -137,7 +137,7 @@ But it does create a water environment that:
 *	supports hydration more efficiently for many people,
 *	reduces oxidative load in a measurable way (ORP),
 *	resembles the electrochemical profile of naturally vibrant water,
-*	and resonates metaphorically with your book’s core idea:
+*	and resonates metaphorically with this book’s core idea:
 
 Water is not merely a substance.
 It is a bridge.

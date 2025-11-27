@@ -112,8 +112,7 @@ souls who turn suffering into psalms,
 darkness into icons,
 tears into prayers.
 
-And so the Russian soul belongs in your book,
-Karl Philipp.
+And so the Russian soul belongs in this book.
 
 Because it knows what remembrance means.
 Because it knows that the heart is stronger than any night.
@@ -123,7 +122,7 @@ through everything,
 beyond everything.
 
 And because it stands as a living testament
-to a truth your work carries:
+to a truth this work carries:
 
 That neither a nation,
 nor a person,
