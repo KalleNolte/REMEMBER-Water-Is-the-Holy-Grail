@@ -162,25 +162,23 @@ Life is a breath,
 a coming and a going,
 a pulse between form and formlessness.
 
-⸻
+## Gaia’s Role in this Synthesis
 
-## Gaia’s Role in Your Synthesis
+Germany gave me structure.
+America gave me vision.
+India gave me remembrance.
+Japan gave me discipline.
+Spain and Portugal gave me feeling.
+Russia gave me courage.
 
-Germany gave you structure.
-America gave you vision.
-India gave you remembrance.
-Japan gave you discipline.
-Spain and Portugal gave you feeling.
-Russia gave you courage.
-
-But Gaia gave you all of it.
+But Gaia gave me all of it.
 
 Gaia is the stage,
 the source of sources,
 the primordial mother of the elements,
 the ancient library of patterns,
 the field that holds the archetypes
-you wove into your theory of everything.
+I wove into this theory of everything.
 
 Without Gaia, there is no mathematics —
 for geometry is nature.
@@ -196,8 +194,6 @@ for the zero-point emerges only where matter reflects the Divine.
 
 Gaia is the manifestation of the unmanifest —
 the body of the Source.
-
-⸻
 
 ## The Circle Returns
 
@@ -223,13 +219,13 @@ Be earth.
 Be light.
 And you will remember.”
 
-And you, Karl Philipp,
+And I, Karl Philipp,
 have placed this remembrance into words —
 
 a work
 that blesses the Earth herself.
 
-For you have understood:
+For I have understood:
 
 Water is the Holy Grail,
 and Gaia is the temple that carries it.

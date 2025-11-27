@@ -140,7 +140,7 @@ feeling → intuition → symbol → voice → action.
 
 The Great Library of Patterns
 
-Here is a concise yet complete Pantheon of Archetypes, appearing across mythologies, psychology, and collective consciousness.
+What follows is a concise yet complete Pantheon of Archetypes, appearing across mythologies, psychology, and collective consciousness.
 These are universal. They recur everywhere.
 
 1. The Creator / Source
@@ -240,7 +240,7 @@ Pattern: ultimate inner unity
 
 ## How Archetypes Relate to Water
 
-This is the key contribution of your book:
+This is the key contribution of this book:
 
 Archetypes are frequencies.
 Water is the receiver.
@@ -271,13 +271,3 @@ This is why:
 Water is the mirror of archetypes.
 
 It is the organ of perception for subtle fields.
-
-## Why This Matters for Your Book
-
-This chapter belongs after the Pantheon of Gods and before the Great Synthesis.
-
-Reason:
-* Gods → externalized forces
-* Archetypes → internalized forces
-* Water → the bridge
-* Synthesis → the integration

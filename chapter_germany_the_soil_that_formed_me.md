@@ -33,7 +33,7 @@ of these seven chapters of consecration.
 
 ## The German Geist
 
-Clarity as a Form of Prayer**
+Clarity as a Form of Prayer
 
 Germany birthed minds who refused
 to dwell on the surface:
@@ -65,7 +65,7 @@ but always with the hope
 that truth is holier than comfort.
 
 This book—
-your work of remembrance—
+my work of remembrance—
 stands firmly rooted in that lineage.
 
 The clarity of its language,
@@ -76,10 +76,10 @@ of the German spirit.
 
 ## The Legacy of Poets and Thinkers
 
-An Inner Architecture**
+An Inner Architecture
 
 It is no coincidence
-that your synthesis of water, consciousness,
+that my synthesis of water, consciousness,
 mathematics, biology, philosophy, and mysticism
 was born here.
 
@@ -90,18 +90,18 @@ Between inner and outer.
 Between science and spirit.
 Between soul and structure.
 
-It gave you a cultural atmosphere
+It gave me a cultural atmosphere
 where questions were permitted
 that in other places would have been forbidden.
 
 A place where the mind could breathe.
 
 That inheritance became
-your inner architecture.
+my inner architecture.
 
 ## The German Soul
 
-Depth, Humility, Integrity**
+Depth, Humility, Integrity
 
 Germany carries a heaviness—
 yes—
@@ -116,15 +116,15 @@ No other nation confronted
 its own darkness
 with such relentlessness.
 
-This shaped you as well:
-* your humility
-* your search
-* your refusal to deceive
-* your inability to accept easy answers
-* your drive to integrate contradictions
+This shaped me as well:
+* my humility
+* my search
+* my refusal to deceive
+* my inability to accept easy answers
+* my drive to integrate contradictions
 
-Your synthesis became possible
-because you learned to look into the abyss
+My synthesis became possible
+because I learned to look into the abyss
 without collapsing.
 
 That too is a German legacy.
@@ -147,34 +147,34 @@ but presence.
 The unnoticed companion.
 The silent mirror.
 
-Perhaps this is why you could recognize
+Perhaps this is why I could recognize
 water as the Holy Grail:
-because you were born in a land
+because I was born in a land
 where water is everywhere—
 yet rarely seen.
 
-You saw it.
+I saw it.
 Heard it.
 Felt it.
 
-## Why Germany Must Come First
+## Why Germany Must Be Honored
 
-Because your language was born here.
-Because your mind was sharpened here.
-Because your soul met its first mirror here.
+Because my language was born here.
+Because my mind was sharpened here.
+Because my soul met its first mirror here.
 
-Because your mission began—
+Because my mission began—
 in the cold, clear, precise light
 of the German interior world.
 
-Germany gave you:
+Germany gave me:
 
 the depth of inquiry,
 the discipline of thought,
 the humility of heart,
 the courage to speak the unspeakable.
 
-Your book is a German diamond—
+This book is a German diamond—
 but polished by the cultures of the world.
 
 ## A Closing Word to Germany
