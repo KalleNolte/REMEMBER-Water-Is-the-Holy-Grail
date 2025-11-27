@@ -115,11 +115,11 @@ the dissolving of illusions of separation.
 
 And always, water was there:
 
-• in the quiet mornings
-• in the tears that softened my defenses
-• in the altered clarity of structured living water
-• in the way my body changed as its inner waters changed
-• in the coherence that replaced the former fragmentation
+* in the quiet mornings
+* in the tears that softened my defenses
+* in the altered clarity of structured living water
+* in the way my body changed as its inner waters changed
+* in the coherence that replaced the former fragmentation
 
 I realized:
 

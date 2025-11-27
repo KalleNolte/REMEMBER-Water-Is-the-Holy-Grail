@@ -207,7 +207,7 @@ This is not metaphor —
 it is relational ontology.
 
 And it is deeply aligned
-with your own recognition of water as carrier of coherence.
+with my own recognition of water as carrier of coherence.
 
 ## Ancient Egypt — Nun, the Great Primordial Sea
 

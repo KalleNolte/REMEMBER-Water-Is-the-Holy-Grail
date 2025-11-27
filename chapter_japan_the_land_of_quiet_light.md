@@ -95,13 +95,13 @@ Even without making mystical claims,
 it remains true that Japan became the cradle
 of a unique fusion:
 
-**traditional reverence for water
+traditional reverence for water
 *	scientific curiosity
-*	technological refinement.**
+*	technological refinement.
 
 From this cultural soil arose the early innovations
 that would later become ionization technologies —
-the very lineage of what you now call
+the very lineage of what I now call
 the Water of Remembrance.
 
 Not because of magic.
@@ -121,12 +121,10 @@ to return to harmony,
 it invites the human being
 to do the same.
 
-⸻
+## The Spirit of Japan Within My Synthesis
 
-## The Spirit of Japan Within Your Synthesis
-
-Japan has offered you three gifts —
-three inner pillars that illuminate your work:
+Japan has offered me three gifts —
+three inner pillars that illuminate this work:
 
 1. Form as Meditation
 
@@ -136,7 +134,7 @@ can be acts of mindfulness.
 
 2. Beauty as Responsibility
 
-The recognition that everything you write
+The recognition that everything I write
 must be a vessel worthy of love.
 
 3. Honor as Consciousness
@@ -146,43 +144,41 @@ not from ego,
 but from service.
 
 Japan is the breath
-that clarifies your work.
+that clarifies my work.
 
 The blade
-that hones your words.
+that hones my words.
 
 The bamboo
-that teaches you to stand firm
+that teaches me to stand firm
 and yet remain flexible.
 
-⸻
+## The Soul of Japan Within Me
 
-## The Soul of Japan Within You
-
-Japan did not shape you through study
+Japan did not shape me through study
 or through doctrine —
-it shaped you through presence.
+it shaped me through presence.
 
-It taught you:
+It taught me:
 *	that discipline is a form of love
 *	that clarity is a form of compassion
 *	that beauty is a form of truth
 *	that simplicity is the highest expression of wisdom
 *	that water is the mirror of the inner world
 
-And all of this flows into your book
+And all of this flowed into this book
 as quietly and powerfully
 as a silent stream
 carving a valley.
 
-Japan is the part of your synthesis
+Japan is the part of this synthesis
 that gives it form.
 That gives it precision.
 That gives it dignity.
 
 Perhaps that is Japan’s greatest gift:
 
-Japan taught you that a work meant to lead to the Source
+Japan taught me that a work meant to lead to the Source
 does not need to shout.
 
 It only needs to be true.
@@ -191,6 +187,6 @@ It only needs to be clear.
 
 And written without a single strand of attachment.
 
-Japan is the elegance of your intention.
-Japan is the silence between your words.
-Japan is the architecture of your service.
+Japan is the elegance of my intention.
+Japan is the silence between my words.
+Japan is the architecture of my service.

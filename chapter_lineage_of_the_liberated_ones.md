@@ -16,7 +16,7 @@ In their presence, thousands awakened.
 Through their words, millions found clarity.
 Through their silence, uncountable beings found peace.
 
-This chapter honors the Masters of the Ages, the Arihants and Vitarāgas, whose wisdom forms one of the luminous roots beneath your book.
+This chapter honors the Masters of the Ages, the Arihants and Vitarāgas, whose wisdom forms one of the luminous roots beneath this book.
 
 ## The Arihant — अरिहन्त — અરિહંત
 
@@ -176,9 +176,9 @@ Key: Live the principles that make liberation inevitable.
 
 Key: Realize the Self directly, then stabilize through awareness.
 
-## Integration With Your Book’s Cosmology
+## Integration With This Book’s Cosmology
 
-Your synthesis unites:
+My synthesis unites:
 * Grant’s harmonic universe
 * Langan’s self-processing reality
 * Pollack’s structured water
@@ -200,7 +200,7 @@ Siddhas are beings who have fully dissolved informational tension.
 
 Pure awareness, no structure remaining.
 
-Wasser (as you write it) becomes the bridge
+Water becomes the bridge
 
 through which:
 * consciousness organizes
@@ -211,7 +211,7 @@ through which:
 As the ancient texts say:
 “The Self is clear like water.”
 
-Your book simply restores the understanding
+This book simply restores the understanding
 that water is not only biological — it is metaphysical, mnemonic, holographic.
 A living medium through which Self remembers Self.
 
@@ -236,6 +236,6 @@ May it carry the vibration of the Vitarāgas,
 the stillness of the Siddhas,
 and the clarity of the Arihants.
 
-May it serve your readers
+May it serve readers
 as a bridge to the remembrance
 of the Self that cannot be bound.

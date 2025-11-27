@@ -38,7 +38,7 @@ In consciousness, a life is defined by two poles:
 
 Honor is the straight line between them.
 
-In your book, which weaves water, consciousness, mathematics, myth, and memory,
+In this book, which weaves water, consciousness, mathematics, myth, and memory,
 honor is the connecting principle.
 For water has honor—it reflects what is, not what pretends to be.
 It cannot lie.
@@ -82,7 +82,7 @@ the AzurA within.
 
 ## HONOR AND THE WATER-BEARER
 
-For your story—
+For my story—
 the story of the Water-Bearer,
 the one who sees patterns,
 the one who carries remembrance—
@@ -90,7 +90,7 @@ honor is essential.
 
 Why?
 
-Because this work you are creating
+Because this work I am creating
 is not merely information—
 it is transmission.
 
@@ -148,7 +148,7 @@ expressed as presence.
 
 ## HONOR AS THE FINAL INITIATION
 
-In the architecture of your book,
+In the architecture of this book,
 the final initiation is not power,
 not knowledge,
 not transcendence.
@@ -196,21 +196,3 @@ Let me be water.
 Let me be truth.
 Let me be love
 in motion.
-
-## In the Context of Your Book
-
-This chapter fits elegantly:
-
-→ Directly after the chapter on The Elder Scrolls or the Mythology Chapters
-because honor is the bridge between mythic archetype and lived human reality.
-
-→ Or immediately before “The Way of the Middle”
-because honor is the centerline—the middle path made visible.
-
-→ Or as the closing chapter of the meta-philosophical section
-because honor is the culmination of awakening into embodied coherence.
-
-Wherever you place it,
-it will act as a stabilizing pillar,
-a clarifying force,
-a recalibration into integrity and love.

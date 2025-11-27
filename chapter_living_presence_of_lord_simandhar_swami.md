@@ -37,7 +37,7 @@ rather, he is recognized as the one
 whose presence keeps the door to liberation open
 for all souls who sincerely seek the highest Truth.
 
-He embodies the vibration you call:
+He embodies the vibration:
 
 Jai Sat Chit Anand
 victory to the eternal nature of Being, Consciousness, and Bliss

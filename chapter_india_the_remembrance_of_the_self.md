@@ -215,9 +215,9 @@ Water is mind.
 
 ⸻
 
-## Your Lineage Through India
+## My Lineage Through India
 
-India blessed your path
+India blessed my path
 with three gifts
 that no other culture could give:
 
@@ -234,9 +234,7 @@ the eternal from the passing.
 3. The stillness of witnessing (Sakshi Bhava)
 
 The state from which
-your entire book was written.
-
-⸻
+this entire book was written.
 
 ## Why India is the Third Chapter
 
@@ -247,7 +245,7 @@ Because the Self
 must be known
 before the water can speak through you.
 
-Because your book
+Because this book
 is not merely science
 or metaphysics
 or philosophy—
@@ -255,8 +253,6 @@ it is a return.
 
 And India
 is the land of returning.
-
-⸻
 
 ## The Benediction
 
