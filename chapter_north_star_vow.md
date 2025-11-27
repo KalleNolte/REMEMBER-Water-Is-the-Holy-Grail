@@ -1,6 +1,6 @@
 # THE NORTH STAR VOW
 
-** A declaration of coherence, intention, and service**
+**A declaration of coherence, intention, and service**
 
 There are moments in a human life when something ancient rises through the ribs and speaks with a clarity that leaves no doubt:
 
