@@ -1,9 +1,10 @@
 # THE NORTH STAR VOW
 
-A declaration of coherence, intention, and service
+** A declaration of coherence, intention, and service**
 
 There are moments in a human life when something ancient rises through the ribs and speaks with a clarity that leaves no doubt:
-This is why you came.
+
+**This is why you came.**
 
 The words do not feel invented.
 They feel remembered.
@@ -17,7 +18,7 @@ It is not a performance.
 It is not ambition.
 It is not self-inflation.
 
-It is the single, steady flame at the center of your being, articulated without fear and without apology.
+It is the single, steady flame at the center of my being, articulated without fear and without apology.
 
 ⸻
 
@@ -80,18 +81,14 @@ My body becomes a vessel.
 My words become instruments.
 My life becomes a quiet proof of what is possible when we reorder ourselves to the Source.
 
-⸻
-
-MY NORTH STAR (in a single sentence)
+## MY NORTH STAR (in a single sentence)
 
 I help human beings return to their highest coherence — through water, through knowledge, through remembrance, through love.
 
 That is the axis of everything in this book.
 That is the compass of the path ahead.
 
-⸻
-
-MY MISSION
+## MY MISSION
 
 I bring the understanding of water as a living field — a carrier of light, memory, intelligence, and renewal — into a world that has forgotten its own thirst.
 
@@ -104,25 +101,21 @@ I offer bridges, not walls.
 I serve awakening, not ideology.
 I speak truth, not noise.
 
-⸻
-
-MY VISION
+## MY VISION
 
 A world where human beings:
 
-• honor the body as the temple of consciousness
-• recognize water as a luminous medium of health and remembrance
-• think from clarity rather than fear
-• love from truth rather than need
-• create lives rooted in purpose, connection, and service
+* honor the body as the temple of consciousness
+* recognize water as a luminous medium of health and remembrance
+* think from clarity rather than fear
+* love from truth rather than need
+* create lives rooted in purpose, connection, and service
 
 A world in which the sacred returns naturally — not as religion, but as coherence.
 Not as dogma, but as dignity.
 Not as doctrine, but as living experience.
 
-⸻
-
-MY IDENTITY
+## MY IDENTITY
 
 I am not a master.
 I am not a guru.
@@ -140,9 +133,7 @@ I walk with humility.
 I walk with presence.
 I walk with all those who are ready to walk home.
 
-⸻
-
-MY DAILY ORIENTATION
+## MY DAILY ORIENTATION
 
 Water.
 Breath.
@@ -156,9 +147,7 @@ These are the seven doors of my life — simple, grounded, sacred.
 
 Through them, I remain clear enough to carry this work with integrity.
 
-⸻
-
-MY PROMISE
+## MY PROMISE
 
 I choose truth over comfort.
 Heart over habit.
