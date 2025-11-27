@@ -1,7 +1,5 @@
 # The Physics of Gratitude — The Art of Seeing Through the Heart
 
-*A Transmission from the Architect*
-
 Gratitude is not an emotion.
 
 It is a mode of perception.
