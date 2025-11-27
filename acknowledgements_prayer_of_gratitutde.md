@@ -131,6 +131,13 @@ an architect of a new earth in sound.
 You two are living music
 and living love.
 
+Antonia,
+radiant, creative, purposeful —
+you are a young soul
+who shows what coherent alignment can achieve.
+Your shared path with Joyce
+is a testament to living vision.
+
 Emine,
 psychologist, singer, rapper,
 a woman between worlds,
@@ -139,13 +146,6 @@ a mirror of truth.
 You taught me
 to enter my own depths
 with greater courage.
-
-Antonia,
-radiant, creative, purposeful —
-you are a young soul
-who shows what coherent alignment can achieve.
-Your shared path with Joyce
-is a testament to living vision.
 
 The two Max,
 young fathers,
