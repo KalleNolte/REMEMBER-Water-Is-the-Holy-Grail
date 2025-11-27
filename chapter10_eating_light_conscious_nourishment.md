@@ -1,4 +1,4 @@
-# Eating Light – Conscious Nourishment as Prayer
+# Eating Light * Conscious Nourishment as Prayer
 
 How do I nourish life without injuring life — and how can I receive energy without excluding what energy truly is?
 
@@ -60,12 +60,12 @@ When you eat as the One that animates all life, even the simplest meal becomes p
 
 ## Practical Keys for Your Path
 
-– Begin every meal with gratitude:
+* Begin every meal with gratitude:
 “May this life entering me be perfected in love.”
-– Choose foods you know — foods whose origin you trust.
-– Structure your water.
-– Breathe deeply before the first bite.
-– Remember: nourishment is relationship.
+* Choose foods you know — foods whose origin you trust.
+* Structure your water.
+* Breathe deeply before the first bite.
+* Remember: nourishment is relationship.
 It is the constant reminder that you are not separate.
 
 There is no more mundane act than eating — and no more sacred.
@@ -117,7 +117,7 @@ Because eating is nothing other than the sharing of life with life.
 
 And life shared is love in motion.
 
-# The Biochemistry of Light – The Science of Conscious Nutrition
+# The Biochemistry of Light * The Science of Conscious Nutrition
 
 The human body is not an incineration engine.
 It is a light‑conducting, electro‑chemical ecosystem.
@@ -139,7 +139,7 @@ Diseased cells emit diffuse, chaotic light.
 
 This means: nutrition, breathing, water and consciousness are building blocks of the same matrix — they determine the internal ordering state of light within us.
 
-## 2. The Role of EZ‑Water – the Liquid Battery of the Cell
+## 2. The Role of EZ‑Water * the Liquid Battery of the Cell
 
 Dr. Gerald Pollack reshaped our understanding of water.
 
@@ -238,18 +238,18 @@ Nourishes through coherence.
 Loves through presence.
 And remembers:
 
-👉 The body is the temple.
-👉 The nervous system, a living network of light.
-👉 Every decision, a silent prayer.
+* The body is the temple.
+* The nervous system, a living network of light.
+* Every decision, a silent prayer.
 
 The return begins not in dogma,
 but in reverence:
 
-– Breath becomes the first light code.
-– Water becomes memory in motion.
-– Sleep becomes the gateway to Source.
-– Nutrients become consciousness conductors.
-– Food becomes light, not just fuel.
+* Breath becomes the first light code.
+* Water becomes memory in motion.
+* Sleep becomes the gateway to Source.
+* Nutrients become consciousness conductors.
+* Food becomes light, not just fuel.
 
 But what if the bread we eat no longer carries life?
 
@@ -292,7 +292,7 @@ but a choice.
 And that choice is made…
 in every moment you remember who you are.
 
-## The Inner Geometry – DNA and the Architecture of Light
+## The Inner Geometry * DNA and the Architecture of Light
 
 “You are not a machine made of matter. You are a song made of memory.”
 
