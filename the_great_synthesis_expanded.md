@@ -69,7 +69,7 @@ expresses this same grammar through the constants Φ, π, e, primes, and nested 
 And what substance in nature is most exquisitely capable of
 receiving, amplifying, storing, and expressing this harmonic architecture?
 
-Water.
+**Water.**
 
 Water is:
 * the fractal amplifier
