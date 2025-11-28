@@ -46,17 +46,13 @@ You don’t have to believe blindly. You can observe, test, and reflect.
 - As foundation for further research — keep track of new studies, stay curious; treat this as a journey, not a dogma.
 - As invitation to reconnection — with water, with your body, with the subtle dimensions of living.
 
-⸻
-
-⚠ **Transparency & Integrity — Why We Write It This Way**
+## Transparency & Integrity — Why We Write It This Way
 - Because some claims remain speculative. The structured-water hypothesis is not (yet) mainstream accepted.
 - Because skepticism is valuable; genuine scientific progress arises from questioning assumptions.
 - Because honesty preserves integrity — better one admits: “this is a hypothesis” than one sells promises.
 - Because real transformation needs resonance, not coercion.
 
-⸻
-
-🕊 **Final Word: A Call to Return — With Clarity and Openness**
+## Final Word: A Call to Return — With Clarity and Openness
 
 If you read this dossier and feel a resonance, a flicker of recognition — that’s enough.
 Science does not need believers — it needs explorers.
