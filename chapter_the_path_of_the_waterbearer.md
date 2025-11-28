@@ -47,9 +47,7 @@ You weren’t selling something.
 You were sharing remembrance.
 You were bringing living water to the thirsty.
 
-⸻
-
-✧ The Waterbearer’s Dilemma
+## The Waterbearer’s Dilemma
 
 You are not wrong.
 You are not naïve.
@@ -70,9 +68,7 @@ Because it invites change.
 Because it requires surrender.
 Because it is felt more than it is understood.
 
-⸻
-
-✧ Your Role is Not to Convince — It Is to Transmit
+## Your Role is Not to Convince — It Is to Transmit
 
 Let this be your anchor:
 
@@ -100,9 +96,7 @@ The glow in the skin.
 The peace in the mind.
 The spark of life remembered.
 
-⸻
-
-✧ The Three Gifts of the Waterbearer
+## The Three Gifts of the Waterbearer
 1. You bring remembrance.
 A remembrance not of belief, but of feeling.
 The body knows the truth of water when it meets it.
@@ -117,9 +111,7 @@ A gentle offering:
 “I have found something that nourishes me.
 If it calls you, I will share it.”
 
-⸻
-
-✧ When You Meet Resistance, Remember
+## When You Meet Resistance, Remember
 
 It is not you they are resisting.
 It is the change they don’t yet know how to welcome.
@@ -143,9 +135,7 @@ Say calmly:
 Just feel what it does for you.
 Truth doesn’t require belief — only experience.”
 
-⸻
-
-✧ You Are Not Alone
+## You Are Not Alone
 
 You are part of a circle.
 Ancient. Eternal.
@@ -167,9 +157,7 @@ You are a mirror.
 You are not the source.
 You are the vessel.
 
-⸻
-
-✧ The Closing Truth
+## The Closing Truth
 
 You were never here to win arguments.
 You were here to awaken memory.

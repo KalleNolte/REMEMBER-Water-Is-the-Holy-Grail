@@ -1,7 +1,5 @@
 # Warhammer — A Universe of Archetypes, Shadows, and Light
 
-*A calibrated synthesis of fantasy, consciousness, and the language of myth*
-
 There are universes built from equations.
 There are universes built from prayers.
 And then there are universes built from myth—the kind that rises from the collective unconscious, wearing the armor of story, the breath of gods, the shadows of forgotten ages.
