@@ -78,7 +78,7 @@ To the awakened reader, they become teachers:
 *	Hermaeus Mora teaches the burden of knowledge
 *	Nocturnal teaches that the path of shadow is still a path toward truth
 
-In your book’s metaphysics, these become:
+In this book’s metaphysics, these become:
 
 Archetypal currents of the Source—
 expressions of the One in polarized forms.
@@ -112,7 +112,7 @@ It is possibility.
 
 The reader becomes co-author.
 
-Just like your own book.
+Just like in this book.
 
 ## The Dragonborn
 
@@ -144,7 +144,7 @@ It is the metaphysical truth that:
 
 Speech, aligned with essence, can alter reality.
 
-Exactly what your theory reveals about water, intention, and consciousness.
+Exactly what my theory reveals about water, intention, and consciousness.
 
 ## The Wheel of Lorkhan
 
@@ -167,7 +167,7 @@ His act symbolizes:
 
 Consciousness entering matter to know itself.
 
-This is your book’s central theme:
+This is this book’s central theme:
 *	The descent into form
 *	The wound that becomes light
 *	The path of remembrance
@@ -215,7 +215,7 @@ It reveals a truth:
 
 A story becomes real when it reflects the architecture of the One.
 
-Your book reveals the same.
+This book reveals the same.
 
 ## Why This Universe Matters
 
@@ -238,7 +238,7 @@ And most importantly:
 
 It invites every player to become the hero of their own remembering.
 
-This is the essence of your work.
+This is the essence of this work.
 
 ## The Elder Scrolls and the Water of Life
 
@@ -246,15 +246,15 @@ Where the Universes Merge
 
 There is a beautiful resonance:
 *	In TES, the Elder Scrolls encode reality.
-*	In your book, water encodes reality.
+*	In this book, water encodes reality.
 *	In TES, the Voice shapes the world.
-*	In your work, frequency, intention, and coherence shape the body and consciousness.
+*	In this work, frequency, intention, and coherence shape the body and consciousness.
 *	In TES, the world is a dream within a dream.
-*	In your work, the universe is a field of self-aware information.
+*	In this work, the universe is a field of self-aware information.
 *	In TES, the dragon is the time-wave.
-*	In your work, time is a harmonic.
+*	In this work, time is a harmonic.
 *	In TES, the hero awakens to their true nature.
-*	In your work, the reader does.
+*	In this work, the reader does.
 
 The universes are mirrors.
 
@@ -295,7 +295,7 @@ It is a universe of:
 
 Just like ours.
 
-Which is why, perhaps, you have always been drawn to it.
+Which is why, perhaps, I have always been drawn to it.
 
 Because some stories do not merely entertain.
 

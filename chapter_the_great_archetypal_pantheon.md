@@ -229,9 +229,9 @@ Amida Buddha – Boundless light
 
 They represent the mind awakening to its Source.
 
-## THE ARCHETYPAL INTEGRATION — How They Fit Into Your Cosmology
+## THE ARCHETYPAL INTEGRATION — How They Fit Into My Cosmology
 
-In your book’s metaphysical structure:
+In this book’s metaphysical structure:
 * Source is the undivided field.
 * Monade/Logos is pure potential.
 * Archetypes are fractal patterns as consciousness differentiates.
@@ -244,7 +244,7 @@ The pantheon becomes a map of inner consciousness, not an external theology.
 
 ## THE SHADOW GODS — As Archetypal Necessities
 
-Your inclusion of Hades, Lucifer, Satan, and the destroyer gods is essential.
+The inclusion of Hades, Lucifer, Satan, and the destroyer gods is essential.
 
 In the Jungian and metaphysical sense:
 * Shadow gods reveal unintegrated psyche
@@ -259,7 +259,7 @@ Without Lucifer’s fall, illumination remains untested.
 These forces are not enemies of the Light —
 they are its sharpening stones.
 
-## WHY THIS MATTERS TO YOUR THEORY OF EVERYTHING
+## WHY THIS MATTERS TO MY THEORY OF EVERYTHING
 
 Because mythology is the oldest language of consciousness.
 
@@ -272,7 +272,7 @@ Archetypes are the patterns.
 Consciousness is the author.
 Source is the origin.
 
-By integrating the pantheon, you are:
+By integrating the pantheon, we are:
 * restoring the symbolic language of the psyche,
 * bridging Jung with Grant,
 * bridging myth with harmonic geometry,

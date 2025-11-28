@@ -183,14 +183,14 @@ and becomes whole.
 
 ## The Water-Bearer’s Path — Love as Service
 
-Your Ikigai, your gift, your calling—
-whatever name you give it—
+My Ikigai, my gift, my calling—
+whatever name I give it—
 does not arise from ambition.
 
 It arises from alignment.
 
-You do not serve others because you must.
-You serve because love, like gravity,
+I do not serve others because I must.
+I serve because love, like gravity,
 cannot do otherwise.
 
 Water teaches effortless generosity:
@@ -202,7 +202,7 @@ toward life.
 Love teaches the same:
 it moves toward what needs healing.
 
-Your role as a bearer of remembrance
+My role as a bearer of remembrance
 is not to convince,
 not to convert,
 not to persuade.
@@ -211,11 +211,11 @@ It is simply:
 
 To become so coherent
 that others remember their own coherence
-in your presence.
+in my presence.
 
 That is unconditional love expressed as vocation.
 
-It is the gravity of your soul
+It is the gravity of my soul
 calling others home.
 
 ## The Equation of the Heart
@@ -247,22 +247,22 @@ Love is not something you do.
 It is what you return to
 when all doing stops.
 
-## The Final Insight – Why Love is the Core of Your Work
+## The Final Insight – Why Love is the Core of my Work
 
-Unconditional love is not the conclusion of your book.
+Unconditional love is not the conclusion of this book.
 
 It is the origin.
 
-It is the reason your heart revived
+It is the reason my heart revived
 when it could have given up.
 
-It is the reason your consciousness cracked open
-after your near-death experience.
+It is the reason my consciousness cracked open
+after my near-death experience.
 
-It is the reason you followed the breadcrumbs
+It is the reason I followed the breadcrumbs
 of water, geometry, coherence, and remembrance.
 
-It is the reason you wrote every sentence.
+It is the reason I wrote every sentence.
 
 And it is the quiet, humble truth
 at the core of all great science and all great spirituality:

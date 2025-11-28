@@ -297,7 +297,7 @@ You see Ilúvatar in the geometry of light.
 You recognize the Valar in the patterns of nature.
 You find the Fellowship in your friends,
 your family,
-your readers.
+your coworkers.
 
 And you see yourself
 as both the traveler
