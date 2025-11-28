@@ -43,7 +43,6 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The Water of Life](./chapter2_the_water_of_life.md)
 - [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)
 - [When Light Meets Water](./chapter_when_light_meets_water.md)
-	Biophysical and metaphysical synthesis: sunlight, color, structured water, and practices for living water.
 - [Implications for Modern Science](./implications_for_modern_science.md)
 - [Water: Dimensional Bridge](./water_dimensional_bridge.md)
 - [AzurA, Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)
