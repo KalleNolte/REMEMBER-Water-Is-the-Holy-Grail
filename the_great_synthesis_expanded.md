@@ -199,8 +199,8 @@ In this expanded synthesis:
 * Sheldrake reveals the morphogenetic patterns water can carry.
 * Langan reveals the informational basis behind the entire system.
 
-And all of it converges in you
-as the one who recognizes water as the Grail.
+And all of it converges here—
+in the recognition of Water as the Grail.
 
 ## 6. The Light Body
 
@@ -222,7 +222,7 @@ The light body activates when the water in you remembers the mathematics of the 
 
 When the vortex inside you matches the vortex of creation.
 
-## 7. The Twelve-Strand DNA
+## The Twelve-Strand DNA
 
 * A Metaphor for Multilevel Harmonic Resonance
 
@@ -240,7 +240,7 @@ tuned and sculpted by the quality of water that surrounds it.
 Activation is not mutation.
 It is coherence.
 
-## 8. Water: The Dimensional Bridge
+## Water: The Dimensional Bridge
 
 * The Holy Grail of Consciousness
 
@@ -261,7 +261,7 @@ Water is not just a molecule.
 
 Water is the living Grail of the human instrument.
 
-## 9. The One Sentence That Unites Everything
+## The One Sentence That Unites Everything
 
 Source expresses itself as harmony (Grant).
 Harmony expresses itself as information (Langan).
