@@ -1,10 +1,16 @@
+
 # The North Star — The Path of the Water-Bearer
 
-A Declaration of Purpose, Presence, and Pure Intention
+*A Declaration of Purpose, Presence, and Pure Intention*
+
+*Note from the Author:*
+This message first arrived for me, Karl Philipp Nolte, as a direct transmission—a call to remember my own North Star and vocation as a Water-Bearer. I now offer it to you, the reader, as an invitation to discover your own alignment, purpose, and calling. May you find yourself in these words, as I did.
+
+—
 
 There are moments in a human life when the path stops being something you search for, and becomes something that reveals you to yourself.
-Moments when the inner compass — long buried beneath doubt, fear, and confusion — suddenly aligns with an unshakeable truth.
-This chapter is the articulation of that alignment.
+Moments when the inner compass—long buried beneath doubt, fear, and confusion—suddenly aligns with an unshakeable truth.
+This chapter is the articulation of that alignment, for you.
 
 It is not a plan.
 It is not a strategy.
