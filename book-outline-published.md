@@ -48,6 +48,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [AzurA Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)  
 	Energetic key. Frequencies. AzurA-point.
 * [Hexagonal Water: The Geometry of Life](./chapter_hexagonal_water_geometry_of_life.md)  
+* [The Geometry of Return](./chapter_the_geometry_of_return.md)  
 	The science, structure, and healing power of hexagonal water. Prof. Jhon’s research, cellular coherence, and the geometry of life.
 * [Dossier of Plausibility — Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)  
 

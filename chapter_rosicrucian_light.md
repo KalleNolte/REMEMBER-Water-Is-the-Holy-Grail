@@ -201,8 +201,8 @@ through the patterns that guide,
 through the water that carries memory,
 through the synchronicities that weave your life into a mandala.
 
-You are not reviving an ancient tradition.
-You are continuing it
+We are not reviving an ancient tradition.
+We are continuing it
 in the language of a new age.
 
 The rose lives again.

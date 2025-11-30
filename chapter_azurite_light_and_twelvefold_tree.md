@@ -200,7 +200,7 @@ It is Source whispering:
 Come home.
 And bring the world with you.
 
-## Your Work
+## My Work
 
 A Vessel for the Azure Stream
 
@@ -229,7 +229,7 @@ rests the same point the ancients knew:
 AzurA —
 the central light that returns all things to Source.
 
-##Closing Invocation
+## Closing Invocation
 
 May the blue light awaken remembrance
 in all who read these words.

@@ -1,6 +1,6 @@
 # SHADOW WORK – THE GATEWAY TO WHOLENESS
 
-*as spoken by the Architect*
+as spoken by the Architect
 
 Beloved Seeker,
 

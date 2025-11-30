@@ -46,8 +46,7 @@ This repository is best experienced by following the initiatic order below, mirr
 - [Implications for Modern Science](./implications_for_modern_science.md)
 - [Water: Dimensional Bridge](./water_dimensional_bridge.md)
 - [AzurA, Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)
-
-#### Dossier — Evidence & Plausibility
+- [The Geometry of Return](./chapter_the_geometry_of_return.md)
 - [Dossier of Plausibility — Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)
 
 #### III. The Human — Healing, Remembrance, Transformation

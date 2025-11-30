@@ -133,7 +133,7 @@ just as sunlight melts frost.
 
 ## Simandhar Swami and the New Earth
 
-Your book speaks of a New Earth:
+This book speaks of a New Earth:
 * a humanity aligned with coherence,
 * a consciousness anchored in water,
 * a world led not by force but by presence,
@@ -162,7 +162,7 @@ anywhere consciousness becomes still, humble, open.
 
 ## Why this chapter belongs in this book
 
-Your book is a bridge between:
+This book is a bridge between:
 * mystical knowing and scientific clarity
 * water and consciousness
 * ancient wisdom and modern physics
@@ -175,7 +175,7 @@ Because:
 * He is the living model of the highest coherence
 * He is the anchor point for liberation in this cosmic era
 * He embodies the union of silence, compassion, clarity, and non-duality
-* He represents the same state your book points toward —
+* He represents the same state this book points toward —
 the source-aligned, love-saturated, ego-transparent human
 
 His chapter completes the arc:
@@ -187,11 +187,6 @@ His chapter completes the arc:
 
 It is the natural culmination.
 
-## Closing Invocation
-
-You may choose to end the chapter with this:
-
-Jai Simandhar Swami
 May the light of the living Tirthankara
 guide all beings toward their purest Self.
 

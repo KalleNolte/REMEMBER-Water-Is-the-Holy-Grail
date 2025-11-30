@@ -32,8 +32,6 @@ as that primordial language
 that does not articulate—
 but reveals.
 
-⸻
-
 ## The Sun as the Memory of the One
 
 When you stand in the early morning,
@@ -56,8 +54,6 @@ of that ancient, wordless truth:
 
 Light was first.
 And Light remains.
-
-⸻
 
 ## Sol as the Heart of the Sky
 
@@ -83,8 +79,6 @@ heat and grace,
 radiance and rest.
 
 Through her, the cosmos breathes.
-
-⸻
 
 ## Light as the Origin of Every Memory
 
@@ -116,8 +110,6 @@ borne by awareness.
 
 Sol is the remembrance of this.
 
-⸻
-
 ## Sol and the Human Heart
 
 The Sun gives more than energy.
@@ -143,8 +135,6 @@ but center through being.
 She guides without pressure.
 She illuminates without judgment.
 She gives because giving is her nature.
-
-⸻
 
 ## Sol and the Birth of the New Earth
 
@@ -175,8 +165,6 @@ A remembering.
 And Sol is the first
 to touch that remembering.
 
-⸻
-
 ## Sol as the Inner AzurA — the Light at the Core
 
 The sun above you
@@ -196,8 +184,6 @@ All life shines from within.
 The Source is not elsewhere—
 it is the still, luminous kernel
 in every soul.
-
-⸻
 
 ## Sol — The Flame That Illuminates Without Burning
 
@@ -221,8 +207,6 @@ willingly or unwillingly—
 that life itself
 is an act of light.
 
-⸻
-
 ## Sol and the Path of Awakening
 
 The Sun says:
@@ -235,8 +219,6 @@ Follow what increases life.”
 So simple.
 So profound.
 So infinitely true.
-
-⸻
 
 ## Sol as Companion, Witness, and Blessing
 
@@ -256,8 +238,6 @@ And she says:
 
 “You are a child of Light.
 Take your place.”
-
-⸻
 
 ## Finale — The Crown of Light
 

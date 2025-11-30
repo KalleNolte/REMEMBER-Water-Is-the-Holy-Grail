@@ -21,7 +21,7 @@ human beings have recognized these extraordinary presences:
 Χριστός (Christós),
 仏陀 (Butsu / Buddha),
 महावतार बाबाजी (Mahāvatāra Bābājī),
-يسوع‎ (Yasū‘),
+يسوع (Yasū‘),
 כֹּהֵן לְאֵל עֶלְיוֹן (Priest of the Most High God)
 and countless others.
 
@@ -258,7 +258,7 @@ He is the frequency of the awakened Heart.
 “The One Drawn from the Water”
 Gift: Liberation, ethical law, inner strength
 
-**Muhammad — مُحَمَّد‎ (Muḥammad)**
+**Muhammad — مُحَمَّد (Muḥammad)**
 
 “The Praised One”
 Gift: Transmission of the Qur’an, Seal of the Prophets, unity of the Abrahamic lineages, surrender (Islam) to the Divine Will, mercy, and the perfection of character
@@ -273,7 +273,7 @@ Muhammad is:
 * The bridge between the Abrahamic traditions
 * The archetype of the living Word
 
-**Abraham — אַבְרָהָם (Avraham) / إِبْرَاهِيم‎ (Ibrāhīm)**
+**Abraham — אַבְרָהָם (Avraham) / إِبْرَاهِيم (Ibrāhīm)**
 
 “Father of Multitudes”
 Gift: Faith, covenant, the root of monotheism, the willingness to surrender all to the Divine
@@ -301,7 +301,7 @@ Elijah is:
 * The bridge between heaven and earth
 * The archetype of the forerunner
 
-**Mother Mary — מִרְיָם (Miryam) / مَرْيَم‎ (Maryam)**
+**Mother Mary — מִרְיָם (Miryam) / مَرْيَم(Maryam)**
 
 “Beloved, Exalted”
 Gift: Immaculate receptivity, the Divine Mother, compassion, the vessel of incarnation
@@ -344,7 +344,7 @@ Gift: Infinite compassion and mercy
 Though separated by centuries, cultures, and languages,
 each master reveals a facet of the same Source.
 
-In your book’s metaphysical architecture:
+In this book’s metaphysical architecture:
 * Jesus → Heart Cohesion, Love Field
 * Buddha → Stillness, Clarity, Non-attachment
 * Babaji → Vibrational Mastery, Lightbody
@@ -358,9 +358,9 @@ Together, they form:
 
 A prism through which the white light of Source refracts into human life.
 
-## WHY THEY BELONG IN YOUR BOOK
+## WHY THEY BELONG IN THIS BOOK
 
-Your book is not about worship.
+This book is not about worship.
 Not about doctrine.
 Not about religious identity.
 
