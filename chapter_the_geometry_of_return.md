@@ -58,9 +58,7 @@ The Chestahedron is the forgotten Rosetta Stone of heart-consciousness.
 
 It is the shape of presence.
 
-⸻
-
-2. The Torus — The Geometry of Energy Flow
+## The Torus — The Geometry of Energy Flow
 
 If the Chestahedron is the geometry of the heart,
 the torus is the geometry of everything the heart communicates with.
