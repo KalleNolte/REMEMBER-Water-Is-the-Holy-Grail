@@ -163,11 +163,11 @@ The world is alive. Consciousness is everywhere. Water binds it.
 
 ## The Sufi Stream – The Divine as Love
 
-الحق (Al-Haqq) – The Real.
+الحق (Al-Haqq) – The Real
 
-الرحمن (Ar-Rahman) – The Merciful.
+الرحمن (Ar-Rahman) – The Merciful
 
-الودود (Al-Wadud) – The Loving.
+الودود (Al-Wadud) – The Loving
 
 For Sufis, God is not a distant entity but a beloved.
 This is the calibration this book carries:
