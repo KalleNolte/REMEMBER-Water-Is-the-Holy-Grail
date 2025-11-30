@@ -108,12 +108,11 @@ Brothers and sisters in the light
 
 Kevin,
 my brother of fire,
-whose flamenco, flute, and spirit
+whose flamenco and spirit
 awakened beauty within me.
 
 Oussama,
-a Moroccan musician with a heart of gold and a true friend,
-a gentle musical soul who has the ability to touch the heart and soul of everyone who listens.
+a Moroccan musician with a heart of gold and a true friend with the ability to touch the heart and soul of everyone who listens.
 
 Jaber,
 another Moroccan soul friend, with a fire that not only cooks the most delicious meals but also brings out the Ikigai in everyone he comes in contact with.
@@ -133,8 +132,7 @@ and living love.
 
 Antonia,
 radiant, creative, purposeful —
-you are a young soul
-who shows what coherent alignment can achieve.
+you showed me what coherent alignment can achieve.
 Your shared path with Joyce
 is a testament to living vision.
 
@@ -159,8 +157,9 @@ Leonard,
 Olek,
 Kevin,
 Alexander,
-Daniel —
-five brothers of my path,
+Daniel,
+Till
+six brothers of my path,
 each a different tone,
 yet all part of the same song.
 
@@ -187,9 +186,13 @@ and strengthened my sense of integrity.
 
 Daniel —
 a technical genius
-with the heart of a friend —
+with a heart of gold —
 your blend of intelligence and kindness
 creates trust wherever you stand.
+
+
+Till —
+a true friend with whom I have shared countless laughs and many intense gaming sessions—moments of joy, camaraderie, and pure fun.
 
 Each of you — in your own way —
 shaped me,
@@ -208,7 +211,7 @@ Daniel and Malte,
 leaders — yet above all,
 humans of integrity, talent, and heart.
 You showed me what leadership means:
-service, clarity, humanity.
+service, clarity, humaneness.
 
 And beside you
 a working world
