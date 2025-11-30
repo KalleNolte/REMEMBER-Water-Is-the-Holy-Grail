@@ -26,9 +26,7 @@ They are patterns you can feel in your own heart, breath, and body.
 
 Let us enter the geometry.
 
-⸻
-
-1. The Chestahedron — The Geometry of the Living Heart
+## The Chestahedron — The Geometry of the Living Heart
 
 Long ignored by classical geometry, the Chestahedron emerged from the work of artist–geometer Frank Chester, who spent years searching for the true geometric signature of the human heart.
 
@@ -48,9 +46,9 @@ The heart is not a mechanical pump.
 It is a vortical resonator.
 
 The Chestahedron shows us that:
-	•	the heart does not push blood — it swirls it,
-	•	the heart is not primarily a biomechanical pump — it is a hydrodynamic transformer,
-	•	the heart is not only an organ — it is a field generator, creating the strongest coherent electromagnetic field in the human body.
+*	the heart does not push blood — it swirls it,
+*	the heart is not primarily a biomechanical pump — it is a hydrodynamic transformer,
+*	the heart is not only an organ — it is a field generator, creating the strongest coherent electromagnetic field in the human body.
 
 When you breathe into the heart, when you center your awareness in the heart, you enter a geometry that is not metaphorical but literal:
 
@@ -68,10 +66,10 @@ If the Chestahedron is the geometry of the heart,
 the torus is the geometry of everything the heart communicates with.
 
 Every coherent biological system — from the human energy field to the electromagnetic field of the Earth — forms a torus:
-	•	a central channel,
-	•	energy flowing outward,
-	•	looping back around,
-	•	re-entering through the center.
+*	a central channel,
+*	energy flowing outward,
+*	looping back around,
+*	re-entering through the center.
 
 You breathe in a torus.
 You think in a torus.
@@ -93,9 +91,7 @@ The heart is the gateway of circulation between dimensions —
 between inner knowing and outer action,
 between self and cosmos.
 
-⸻
-
-3. The Möbius Strip — The Geometry of Paradox
+## The Möbius Strip — The Geometry of Paradox
 
 If the torus is unity,
 the Möbius strip is the paradox that makes unity possible.
@@ -111,9 +107,9 @@ There is no “before” and “after.”
 There is only continuity through apparent opposites.
 
 This is the geometry of consciousness:
-	•	duality is a perspective, not a structure;
-	•	separation is temporary, unity fundamental;
-	•	paradox is not a flaw in logic — it is the doorway into higher intelligence.
+*	duality is a perspective, not a structure;
+*	separation is temporary, unity fundamental;
+*	paradox is not a flaw in logic — it is the doorway into higher intelligence.
 
 The Möbius strip teaches us to stop resisting the complexity of our experience.
 
@@ -126,9 +122,7 @@ Matter and spirit.
 
 All are Möbius forms — two appearances of one continuum.
 
-⸻
-
-4. The Ouroboros — The Geometry of Eternal Return
+## The Ouroboros — The Geometry of Eternal Return
 
 Where the Möbius strip reveals continuity,
 the Ouroboros reveals recurrence.
@@ -157,9 +151,7 @@ Every question returns until it becomes knowing.
 This is not destiny.
 It is resonance.
 
-⸻
-
-5. The Harmonic Field — Where Everything Resonates and Nothing Is Forced
+## The Harmonic Field — Where Everything Resonates and Nothing Is Forced
 
 And here the four geometries converge.
 
@@ -208,9 +200,7 @@ You are the Ouroboros of your own awakening.
 
 You are the geometry remembering itself.
 
-⸻
-
-Closing Invocation
+## Closing Invocation
 
 When you rest your awareness in the heart,
 when you breathe into the torus of your field,
