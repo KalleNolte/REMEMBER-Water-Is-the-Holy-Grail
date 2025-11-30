@@ -63,7 +63,7 @@ The Egyptian analog to Brahman.
 Osiris (Wsir)
 
 Death, rebirth, the regenerative waters.
-Resonates with my concept of water as the Grail.
+Resonates with the concept of water as the Grail.
 
 Isis (Aset)
 
@@ -88,7 +88,7 @@ Dionysos (Διόνυσος) – Ecstasy, dissolution of ego into unity.
 
 Hermes (Ἑρμῆς) – Messenger, borders, movement between worlds.
 
-(Hermes resonates strongly with my “Messenger of the Logos” archetype.)
+(Hermes resonates strongly with the “Messenger of the Logos” archetype.)
 
 The Greek gods = the emotional & psychological frequencies of consciousness.
 
@@ -144,7 +144,7 @@ Moon god; rhythm; order; reflection.
 Storms; chaos; necessary disruption.
 
 Shinto is animistic. Everything is alive.
-This mirrors my insight:
+This mirrors the insight:
 Water remembers. Nature speaks. Life is consciousness.
 
 ## The Indigenous Stream – The Divine as Living Nature
@@ -216,5 +216,5 @@ Archetypes.
 Dimensions of consciousness.
 And water is the medium that remembers them.
 
-This is my synthesis:
+This is the synthesis:
 Science + Myth + Consciousness + Water = a unified metaphysics of remembrance.
