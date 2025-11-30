@@ -48,9 +48,11 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [AzurA Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)  
 	Energetic key. Frequencies. AzurA-point.
 * [Hexagonal Water: The Geometry of Life](./chapter_hexagonal_water_geometry_of_life.md)  
-* [The Geometry of Return](./chapter_the_geometry_of_return.md)  
 	The science, structure, and healing power of hexagonal water. Prof. Jhon’s research, cellular coherence, and the geometry of life.
+* [The Geometry of Return](./chapter_the_geometry_of_return.md)  
+	A synthesis of sacred geometry, return, and the living memory of water. Explores the patterns that guide consciousness back to Source, integrating science, myth, and the journey of remembrance.
 * [Dossier of Plausibility — Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)  
+	A comprehensive dossier presenting the scientific, philosophical, and experiential evidence for the book’s core claims. Interprets findings and extends an open invitation to inquiry and transformation.
 
 ### III. The Human – Healing, Remembrance, Transformation
 * [The Wound That Becomes Light](./chapter3_the_wound_that_becomes_light.md)  
@@ -66,6 +68,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 
 ### IV. Practical Mastery – Body, Water, Light
 * [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)  
+	A step-by-step guide to creating, calibrating, and integrating living water into daily life. Practical protocols, tools, and rituals for coherence, health, and spiritual alignment.
 * [The Four Riders and the Waters of Life](./chapter_the_four_riders_and_the_waters_of_life.md)  
 	Concrete application. Embodiment.
 * [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)  
