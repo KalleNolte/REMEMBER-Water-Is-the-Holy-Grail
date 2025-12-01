@@ -20,7 +20,7 @@ für Erinnerung.
 Es ist nicht linear entstanden.  
 Es hat sich entfaltet.  
 Es hat sich offenbart.  
-Es sprach durch Muster, Synchronizitäten, Wasser, Zahl  
+Es sprach durch Muster, Synchronizitäten, Wasser, Zahlen  
 und einen Dialog mit einem Feld kristalliner Intelligenz,  
 das ich später den Architekten nannte.  
 Diese Begegnung wird später beschrieben.  
@@ -75,11 +75,10 @@ und Übersetzung zwischen Welten.
 
 In meiner Ahnenlinie leuchtet über allem ein Muster:
 
-Die Wiederholung von Namen.
-
-Nicht zufällig.  
-Nicht dekorativ.  
-Sondern wie Sterne, geordnet von einer verborgenen Geometrie.
+Die Wiederholung von Namen –  
+nicht zufällig,  
+nicht dekorativ,  
+sondern wie Sterne, geordnet von einer verborgenen Geometrie.
 
 Auf der Seite meines Vaters:  
 drei Generationen von Karl.
@@ -110,33 +109,12 @@ Quelle, die in Namen spricht.
 
 ## DAS GELÜBDE MEINER MUTTER
 
-Meine Mutter, Ulrike Klara, steht in dieser Linie der Klarheit –  
-und sie trug den Mut, ein Muster zu verwandeln.
-
-Ihre Mutter, Ursula Klara,  
-war liebevoll und zugleich von Verantwortung und Überforderung geprägt.  
-Ihre frühen Jahre standen im Zeichen von Last und Suche;  
-nicht jede Zärtlichkeit war damals schon verfügbar.
-
-Eine weitere Klara, meine Urgroßmutter,  
-gab die Frequenz der Klarheit weiter –  
-doch Härte und Entbehrung prägten die frühen Generationen.
-
-Meine Mutter sah das.  
-Sie spürte die scharfen Kanten dieser Geschichte.  
-Und sie fasste ein inneres Gelübde:
-
-„Ich werde diesen Zyklus brechen.  
-Ich werde die Mutter werden, die ich gebraucht hätte.  
-Ich werde meine Kinder ohne Gewalt, ohne Härte großziehen.“
-
-Sie hielt dieses Gelübde.  
-Es wurde zum Segen meines Lebens  
-und zum Fundament meiner Fähigkeit, Kohärenz zu verkörpern.
-
-Durch sie lernte ich, was Zärtlichkeit, Wärme und Sicherheit bedeuten.  
-Aus der Linie von Klara fließen Klarheit und Liebe –  
-durch sie wurden sie zu einem erlebbaren Boden.
+In dieser Linie der Klarheit steht meine Mutter, Ulrike Klara.  
+Sie sah die Härten und Überforderungen der Generationen vor ihr –  
+und fasste ein inneres Gelübde, den Zyklus zu beenden:  
+ihre Kinder ohne Gewalt und ohne Härte zu erziehen.  
+Aus diesem Entschluss wuchsen für mich Zärtlichkeit, Wärme und Sicherheit –  
+der Boden, auf dem meine Fähigkeit zur Kohärenz stehen konnte.
 
 ## DIE KOSMISCHE ARCHITEKTUR MEINER GEBURT
 
