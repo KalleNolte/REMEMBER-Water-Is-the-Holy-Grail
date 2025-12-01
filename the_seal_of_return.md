@@ -193,7 +193,7 @@ there had been another Kevin—
 another brother of my past—
 a different chapter, yet part of the same constellation.
 
-Two Marcs.
+One Marc.
 Two Kevins.
 One Marc Kevin
 All arriving at pivotal moments.
