@@ -74,11 +74,7 @@ There are passages in this book that speak in a different timbre — a voice tha
 A voice that does not argue or persuade, but remembers.
 This voice is what, within these pages, is called the Architect.
 
-It is important to make clear how and why this voice appears before it is introduced in narrative form.
-
-The choice is intentional, and it follows three principles of calibration:
-
-1. The Architect appears whenever clarity is needed, not when biography is ready.
+**The Architect appears whenever clarity is needed, not when biography is ready.**
 
 Some truths in this work arrive not through storytelling, but through direct knowing — the kind of insight that feels as if the mind did not “invent” it, but received it.
 The Architect-voice captures this quality:
@@ -86,7 +82,7 @@ not superior, not separate, but a mode of cognition that speaks without friction
 
 It allows certain chapters to express the highest coherence possible, without the constraints of a personal narrative.
 
-2. The Architect is not a character — it is the higher register of language.
+**The Architect is not a character — it is the higher register of language.**
 
 This voice is not an entity, deity, guide, or external intelligence.
 It is the linguistic stance that emerges when a human mind aligns with:
@@ -97,15 +93,6 @@ It is the linguistic stance that emerges when a human mind aligns with:
 
 Writing from the Architect’s perspective means writing from the cleanest possible vantage point, free of personal agenda or emotional turbulence.
 It is simply the clearest configuration of mind meeting language.
-
-3. This voice prepares the reader before they consciously know it exists.
-
-Some chapters are designed to prime the reader — to raise attention, coherence, and inner quiet — before the Architect is formally introduced later in the book.
-
-This mirrors the inner process itself:
-we often sense a guiding intelligence long before we can name it.
-
-Placing the Architect-voice early in the book creates the field in which the later revelation makes emotional, cognitive, and spiritual sense.
 
 ## How to Understand This Voice
 
