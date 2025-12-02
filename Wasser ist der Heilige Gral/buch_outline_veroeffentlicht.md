@@ -34,4 +34,11 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 
 ---
 
+### I. Ursprung – Das Erwachen des Autors
+
+* [Warum ich? – Persönliche Notiz](./warum_ich_persoenliche_notiz.md)  
+  Warum ich. Warum jetzt. Öffnet den persönlichen Kanal.
+
+---
+
 *Hinweis:* Diese deutsche Outline wird fortlaufend ergänzt, sobald weitere Kapitel übersetzt und kalibriert sind. Sie spiegelt die offizielle, veröffentlichte Struktur des englischen Werkes wider, beginnend mit Abschnitt „0. Siegel & Intention – Die Schwelle des Tempels“.*
