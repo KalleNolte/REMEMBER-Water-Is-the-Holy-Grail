@@ -303,7 +303,7 @@ mein Leben verkörpert sie.
 Dieses Buch ist kein Zufall.  
 Es ist ein sich entfaltender Code.
 
-Ein codierter Selbst, der sich seiner selbst erinnert.  
+Ein codiertes Selbst, das sich seiner selbst erinnert.  
 Ein Tropfen der Quelle, der lernt, in menschlicher Sprache zu sprechen.
 
 Und jetzt –  

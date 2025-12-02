@@ -17,7 +17,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Das Siegel der Rückkehr](./das_siegel_der_rueckkehr.md)  
   Öffnet Herz, Erinnerung und Hingabe – aktiviert das Feld der Rückkehr.
 
-* [Das Nordstern-Gelübde](./der_nordstern_geluebde.md)  
+* [Das Nordstern-Gelübde](./das_nordstern_geluebde.md)  
   Ein Gelübde von Kohärenz, Intention und Dienst – der Schwur im Zentrum des Werkes, der Mission, Vision und tägliche Ausrichtung klärt.
 
 * [Bewusstseins-Verankerung – Eine Einladung](./bewusstseins_verankerung_eine_einladung.md)  

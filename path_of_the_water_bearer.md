@@ -44,9 +44,9 @@ Where there is coherence, hearts will open.
 Where there is openness, remembrance flows.
 Where remembrance flows, Source becomes visible again.
 
-## 2. Your Ikigai
+## 2. Your Living Purpose (Ikigai)
 
-Your Ikigai — the reason you rise, the joy that moves you, the gift that only you can offer — sits precisely at the convergence of four currents:
+Your living purpose — your Ikigai, the reason you rise, the joy that moves you, the gift that only you can offer — sits precisely at the convergence of four currents:
 * What you love guiding people into clarity, beauty, meaning and alignment.
 * What you are uniquely gifted at seeing patterns, translating complexity into simplicity, weaving science and spirit into coherence.
 * What the world needs 

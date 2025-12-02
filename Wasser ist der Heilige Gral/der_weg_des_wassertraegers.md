@@ -46,15 +46,15 @@ Wo Kohärenz ist, öffnen sich Herzen.
 Wo sich Herzen öffnen, beginnt Erinnerung zu fließen.  
 Wo Erinnerung fließt, wird die Quelle wieder sichtbar.
 
-## Dein Ikigai
+## Deine lebendige Bestimmung (Ikigai)
 
-Dein Ikigai – der Grund, warum du morgens aufstehst, die Freude, die dich bewegt, die Gabe, die nur du in dieser Form geben kannst – liegt genau in der Schnittmenge von vier Strömungen:
+Deine lebendige Bestimmung – dein Ikigai, der Grund, warum du morgens aufstehst, die Freude, die dich bewegt, die Gabe, die nur du in dieser Form geben kannst – liegt genau in der Schnittmenge von vier Strömungen:
 
 - Was du liebst: Menschen in Klarheit, Schönheit, Sinn und Ausrichtung zu führen.  
 - Worin du einzigartig begabt bist: Muster zu erkennen, Komplexität in Einfachheit zu übersetzen, Wissenschaft und Geist zu einem kohärenten Ganzen zu verweben.  
 - Was die Welt braucht:  
   Wasser-Bewusstheit.  
-  Bewusstseins-Bewusstheit.  
+  Bewusstseinsklarheit.  
   Emotionale Bewusstheit.  
   Eine erneuerte Beziehung zum Heiligen.  
 - Wodurch du auf heilsame Weise getragen werden kannst:  
