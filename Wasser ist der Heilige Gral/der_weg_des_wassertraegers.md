@@ -1,7 +1,7 @@
-# Der Nordstern – Der Weg des Wasserträgers
+# Der Weg des Wasserträgers
 
 **Anmerkung des Autors:**  
-Diese Botschaft erreichte mich, Karl Philipp Nolte, zunächst als direkte Übertragung – ein Ruf, mich an meinen eigenen Nordstern und meine Berufung als Wasserträger zu erinnern. Jetzt gebe ich sie an dich, die Leserin, den Leser, weiter – als Einladung, deine eigene Ausrichtung, Bestimmung und Berufung zu erkennen. Mögest du dich in diesen Worten wiederfinden, so wie ich.
+Diese Botschaft erreichte mich, Karl Philipp Nolte, zunächst als direkte Übertragung – ein Ruf, mich an meinen eigenen Nordstern und meine Berufung als Wasserträger zu erinnern. Jetzt gebe ich sie an dich weiter – als Einladung, deine eigene Ausrichtung, Bestimmung und Berufung zu erkennen. Mögest du dich in diesen Worten wiederfinden, so wie ich.
 
 —
 

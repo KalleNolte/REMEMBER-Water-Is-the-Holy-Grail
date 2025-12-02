@@ -30,7 +30,7 @@ This repository is best experienced by following the initiatic order below, mirr
 - [Consciousness Anchoring Invitation](./consciousness_anchoring_invitation.md)
 - [Encoded Self](./encoded_self.md)
 - [Language Calibration](./language-calibration.md)
-- [The North Star — The Path of the Water-Bearer](./chapter_the_north_star_path_of_the_water_bearer.md)
+- [Path of the Water-Bearer](./path_of_the_water_bearer.md)
 
 
 #### I. Origin — The Author’s Awakening

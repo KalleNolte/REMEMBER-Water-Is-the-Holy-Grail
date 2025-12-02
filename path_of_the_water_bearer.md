@@ -1,5 +1,5 @@
 
-# The North Star — The Path of the Water-Bearer
+# Path of the Water-Bearer
 
 **Note from the Author:**
 This message first arrived for me, Karl Philipp Nolte, as a direct transmission—a call to remember my own North Star and vocation as a Water-Bearer. I now offer it to you, the reader, as an invitation to discover your own alignment, purpose, and calling. May you find yourself in these words, as I did.
