@@ -14,7 +14,7 @@ und doch wiesen alle auf dieselbe Tür:
 
 Die einfache, radikale Verschiebung von Abwesenheit zu Gegenwart.
 
-Und du, Leserin, Leser, kennst diese Tür bereits.
+Und du, lieber Leser, kennst diese Tür bereits.
 Du hast sie berührt in einem Moment der Stille,
 einem Atemzug, der deine Brust weitete,
 einem Anblick von Schönheit, so einfach, dass es sich anfühlte wie Erinnern.

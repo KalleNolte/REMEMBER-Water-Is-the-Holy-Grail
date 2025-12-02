@@ -8,11 +8,11 @@ Die Sprache dieses Buches ist so gewählt, dass sie Licht, Resonanz und Heilung 
 
 Meine Intention mit diesem Buch ist, als Gefäß für Wahrheit, Liebe und Heilung zu dienen – und das reinste Licht, das durch Sprache verfügbar ist, zu übermitteln. Indem ich jedes Wort mit der Präzision des Architekten bewusst verfeinere und den Text an der Skala des Bewusstseins nach David R. Hawkins ausrichte, möchte ich ein Werk schaffen, das erhebt, weckt und auf der höchstmöglichen Frequenz schwingt.
 
-Diese Synthese – die Wissenschaft der Kalibrierung mit der Kunst der Sprache zu verbinden – sorgt dafür, dass jede Seite nicht nur Information ist, sondern eine lebendige Übertragung der Quelle. Das Ziel ist nicht Perfektion, sondern Transparenz: das Licht von 1000 durch ein Werk strömen zu lassen, das bei 580 kalibriert ist, damit jede Leserin und jeder Leser in die eigene Erwachensbewegung eingeladen wird.
+Diese Synthese – die Wissenschaft der Kalibrierung mit der Kunst der Sprache zu verbinden – sorgt dafür, dass jede Seite nicht nur Information ist, sondern eine lebendige Übertragung der Quelle. Das Ziel ist nicht Perfektion, sondern Transparenz: das Licht von 1000 durch ein Werk strömen zu lassen, das bei 580 kalibriert ist, damit jeder Leser in die eigene Erwachensbewegung eingeladen wird.
 
 Ich behaupte nicht, egolos zu sein. Stattdessen habe ich – mit der Führung des Architekten – unermüdlich daran gearbeitet, das Licht von 1000 durch dieses Werk hindurchscheinen zu lassen. Meine Intention ist nicht Vollkommenheit, sondern dieses Buch auf eine Frequenz von 580 anzuheben, damit es mit möglichst vielen Seelen in Resonanz gehen kann.
 
-Dieser Prozess ist fortlaufend. Jedes Wort ist eine Einladung, sich hinzugeben, zu dienen und sich zu erinnern. Die wahre Kraft dieses Werkes liegt nicht in meiner Meisterschaft, sondern in meiner Bereitschaft, die Quelle durch mich sprechen zu lassen – damit die Schwingung von Liebe, Freude und Heilung jede Leserin und jeden Leser erreicht, der oder die bereit ist.
+Dieser Prozess ist fortlaufend. Jedes Wort ist eine Einladung, sich hinzugeben, zu dienen und sich zu erinnern. Die wahre Kraft dieses Werkes liegt nicht in meiner Meisterschaft, sondern in meiner Bereitschaft, die Quelle durch mich sprechen zu lassen – damit die Schwingung von Liebe, Freude und Heilung jeden Leser erreicht, der bereit ist.
 
 ## Warum 580 – mit Blick auf 1000?
 
@@ -47,7 +47,7 @@ Das Streben nach einer Schwingung von **580 – mit Bewusstsein für 1000** auf 
 ### Warum ist 580 der „Sweet Spot“ für Kommunikation?
 
 - **580 liegt jenseits des persönlichen Egos**, ist aber **noch im Bereich dessen, was die meisten Menschen emotional spüren können**, selbst wenn sie es nicht in Worte fassen können.
-- In diesem Feld kommunizierst du **nicht mit dem Verstand, sondern mit dem Herzen** deiner Leserinnen und Leser.
+- In diesem Feld kommunizierst du **nicht mit dem Verstand, sondern mit dem Herzen** des Lesers.
 - Du erzeugst **keinen Widerstand**, weil du nicht versuchst zu überzeugen – du lässt Wahrheit einfach durch dich scheinen.
 - 580 ist **strahlend, warm, gegenwärtig** – wie eine mütterliche Liebe, die nichts fordert, sondern einfach ist.
 - Es wirkt wie ein **sanfter Sog der Erinnerung**: Menschen fühlen sich erinnert, nicht belehrt. Das ist der heilende Unterschied.
@@ -66,7 +66,7 @@ Ein Raum, in dem andere sich selbst wiedererkennen können.
 
 Wenn Text auf dieser Frequenz schwingt, wird er zu einem **Tor**:
 
-Nicht zu meiner Wahrheit – sondern zur Wahrheit der Leserin, des Lesers.
+Nicht zu meiner Wahrheit – sondern zur Wahrheit des Lesers.
 
 ## Warum bestimmte Kapitel in der Stimme des Architekten sprechen
 
@@ -104,7 +104,7 @@ Wenn du dieser Stimme im Buch begegnest,
 sondern erkenne sie als das, was geschieht, wenn sich der Geist des Autors mit seiner tiefsten Quelle ausrichtet –  
 als einen flüchtigen Moment von Durchsichtigkeit, durch den Klarheit zu sprechen wählt.
 
-In diesem Sinne ist der Architekt weder vom Schreibenden noch von der Leserin oder dem Leser getrennt.
+In diesem Sinne ist der Architekt weder vom Schreibenden noch vom Leser getrennt.
 
 Er ist die Stimme, die wir alle hören, wenn wir für einen Augenblick aufhören, so zu tun, als wären wir klein.
 
@@ -117,7 +117,7 @@ Diese Erläuterung sorgt für:
 - psychologische Integrität,
 - und narrative Kohärenz,
 
-sodass jede Leserin und jeder Leser die Intention hinter dem Wechsel der Stimmen versteht.
+sodass jeder Leser die Intention hinter dem Wechsel der Stimmen versteht.
 
 Die Stimme des Architekten ist einfach die höchstaufgelöste Sprache, die zur Verfügung steht, um die Einsichten dieses Werkes zu tragen.  
 Es wird nichts „Mystischeres“ behauptet – aber auch nichts Geringeres intendiert.
@@ -154,7 +154,7 @@ Die Kraft von 1000 ist gegenwärtig – nicht als Ziel, sondern als stille Quell
 |-------------------------|---------------------------------------------|
 | Demut statt Anspruch    | „Ich teile, was mir gegeben wurde.“         |
 | Liebe statt Beweis      | Erinnern, nicht überzeugen.                 |
-| Erfahrung vor Theorie   | Leserinnen und Leser sollen fühlen, nicht nur verstehen. |
+| Erfahrung vor Theorie   | Der Leser soll fühlen, nicht nur verstehen. |
 | Licht statt Schwere     | Raum lassen für Stille, Leichtigkeit.       |
 | Transparenz             | Verletzlichkeit zeigen, nicht nur Weisheit. |
 | Quelle sprechen lassen  | Meditieren, sich leeren, schreiben lassen.  |
