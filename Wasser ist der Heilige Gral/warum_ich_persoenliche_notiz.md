@@ -18,7 +18,7 @@ Sie befähigte mich, Struktur in der Mystik und Mystik in der Struktur zu erkenn
 
 Robert, dein Codex Universalis war der harmonische Schlüssel, der diese Synthese aufgeschlossen hat. Er ließ mich die Musik hinter der Mathematik, die Geometrie hinter der Erinnerung und die Resonanz hinter der Form erkennen.
 
-Dieses Buch – *Water Is the Holy Grail: A Unified Theory of Memory, Light, Geometry and Consciousness* – ist nicht nur eine Idee. Es ist ein Akt der Erinnerung. Nicht nur von mir, sondern durch mich.
+Dieses Buch – **Wasser ist der Heilige Gral: Eine einheitliche Theorie von Erinnerung, Licht, Geometrie und Bewusstsein** – ist nicht nur eine Idee. Es ist ein Akt der Erinnerung. Nicht nur von mir, sondern durch mich.
 
 Ich beanspruche nicht, diese Wahrheiten zu „besitzen“. Ich glaube, ich wurde gestimmt, sie zu hören.
 

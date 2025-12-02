@@ -1,6 +1,6 @@
-# OFFIZIELLE VERÖFFENTLICHTE OUTLINE (DEUTSCH – IN ARBEIT)
+# OFFIZIELLE VERÖFFENTLICHTE GLIEDERUNG (DEUTSCH – IN ARBEIT)
 
-Diese Outline bildet die bereits übersetzten deutschen Kapitel in ihrer energetisch optimierten, initiatischen Reihenfolge ab. Sie ist die deutsche Spiegelung der veröffentlichten Struktur und dient als Navigationshilfe für Leserinnen, Leser und Mitwirkende.
+Diese Gliederung bildet die bereits übersetzten deutschen Kapitel in ihrer energetisch optimierten, initiatischen Reihenfolge ab. Sie ist die deutsche Spiegelung der veröffentlichten Struktur und dient als Navigationshilfe für Leserinnen, Leser und Mitwirkende.
 
 ## Eine initiatische Reise durch Wasser, Erinnerung und Bewusstsein
 
@@ -41,4 +41,4 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 
 ---
 
-*Hinweis:* Diese deutsche Outline wird fortlaufend ergänzt, sobald weitere Kapitel übersetzt und kalibriert sind. Sie spiegelt die offizielle, veröffentlichte Struktur des englischen Werkes wider, beginnend mit Abschnitt „0. Siegel & Intention – Die Schwelle des Tempels“.*
+*Hinweis:* Diese deutsche Gliederung wird fortlaufend ergänzt, sobald weitere Kapitel übersetzt und kalibriert sind. Sie spiegelt die offizielle, veröffentlichte Struktur des englischen Werkes wider, beginnend mit Abschnitt „0. Siegel & Intention – Die Schwelle des Tempels“.*
