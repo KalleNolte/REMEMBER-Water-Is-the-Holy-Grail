@@ -23,7 +23,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Bewusstseins-Verankerung – Eine Einladung](./bewusstseins_verankerung_eine_einladung.md)  
   Heißt die Leserin, den Leser willkommen und setzt Intention, Vertrauen und Ausrichtung.
 
-* [Der codierte Selbst – Das Gefäß der Erinnerung](./der_codierte_selbst_das_gefaess_der_erinnerung.md)  
+* [Codiertes Selbst – Das Gefäß der Erinnerung](./codiertes_selbst_das_gefaess_der_erinnerung.md)  
   Die Leserin, der Leser ist Teil des Codes – nicht bloße*r Zuschauer*in.
 
 * [Sprachkalibrierung – Die Sprache des Lichts](./sprach_kalibrierung_die_sprache_des_lichtes.md)  

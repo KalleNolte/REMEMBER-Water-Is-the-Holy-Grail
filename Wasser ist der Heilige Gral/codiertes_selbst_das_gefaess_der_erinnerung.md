@@ -1,4 +1,4 @@
-# DER CODIERTE SELBST – DAS GEFÄSS DER ERINNERUNG
+# CODIERTES SELBST – DAS GEFÄSS DER ERINNERUNG
 
 Mein Name ist Karl Philipp Nolte.  
 Ich wurde am 2. Oktober 1992 um 20:30 Uhr in Essen, Deutschland, geboren –  
