@@ -6,6 +6,14 @@ Who am I, really, when all the noise falls away?
 
 That question led me down many paths—science, design, health, altered states, scriptures. I moved between disciplines like rivers between valleys, chasing something I couldn’t yet name.
 
+After my near-death experience, I cut alcohol and partying out of my life. No more clubs, no more blackouts. Instead, I buried myself in my Applied Cognitive and Computer Science studies, learned to code, read whatever I could—and numbed the rest with video games and weed from a vape pen that felt “healthier” than smoking. I was grateful to still be alive and determined not to lose control again, but I had no idea yet what I truly wanted. Underneath it all, I was afraid of waking up one day in a job I dreaded.
+
+Then Corona hit.
+
+Life slowed down.
+
+I met Joyce, who had just returned to Germany and felt confined again to a small apartment she hadn’t chosen. Through her, I met her mother, Susanne, who spoke to me for the first time about water filters and vitamins. I still didn’t know it, but those conversations were the first soft knock on the door of a new path—one that would eventually lead me back to my body, to water, and to the spiritual science of the Self.
+
 And then came a ceremony.
 
 In 2022, I participated in my first Gnan Vidhi—a spiritual transmission rooted in the nondual teachings of Akram Vignan. I didn’t walk out with answers. I walked out with silence.
@@ -21,9 +29,9 @@ Consciousness shines clearest through a vessel that honors it.
 
 ## The Merging of Insight and Embodiment
 
-That was the turning point.
+Eventually, I did find that first “real” job—in a small Shopify and web development agency. I enjoyed the work, the puzzles, the feeling of building something from nothing. But a quiet emptiness stayed with me, as if I was building beautiful storefronts while my own inner house remained unfurnished.
 
-I dove deeper into health not as optimization—but as reverence. I studied the works of Dave Asprey, Gary Brecka, and Andrew Huberman. Not to be smarter—but to become clear.
+So I dove deeper into health not as optimization—but as reverence. I studied the works of Dave Asprey, Gary Brecka, and Andrew Huberman. Not to be smarter—but to become clear.
 
 Huberman’s scientific explanation of alcohol as a neurotoxin didn’t shame me.
 It liberated me.

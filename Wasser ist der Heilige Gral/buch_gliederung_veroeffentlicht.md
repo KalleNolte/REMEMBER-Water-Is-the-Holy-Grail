@@ -39,6 +39,12 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Warum ich? – Persönliche Notiz](./warum_ich_persoenliche_notiz.md)  
   Warum ich. Warum jetzt. Öffnet den persönlichen Kanal.
 
+* [Prolog – Der Tag, an dem ich starb](./prolog_der_tag_an_dem_ich_starb.md)  
+  Nahtoderfahrung, Schwelle, radikales Erwachen in die Kostbarkeit des Lebens.
+
+* [Kapitel I – Die Rückkehr der Zahl](./prolog_die_rueckkehr_der_zahl.md)  
+  Die Geburt der Zahl als Erinnerung des Einen – eine poetische Einführung in Zahl, Rhythmus und heilige Proportion.
+
 ---
 
 *Hinweis:* Diese deutsche Gliederung wird fortlaufend ergänzt, sobald weitere Kapitel übersetzt und kalibriert sind. Sie spiegelt die offizielle, veröffentlichte Struktur des englischen Werkes wider, beginnend mit Abschnitt „0. Siegel & Intention – Die Schwelle des Tempels“.*
