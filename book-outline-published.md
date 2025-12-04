@@ -105,8 +105,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	An initiatic guide to the Vedantic method of negation. The stripping away of all that is not Self, the clearing of identification, and the arrival in the unnameable.
 
 ### VIII. Spiritual Architecture – Understanding the Invisible
-* [Silent Creator: From Witness to Co-Creator](./silent_creator_from_witness_to_cocreator.md)  
-	From witness to creator.
+* [Silent Creator – From Witness to Co-Creator](./silent_creator_from_witness_to_cocreator.md)  
+	From silent witness to conscious co-creator; the inner shift from identification with thought to creative participation in reality, and the first unveiling of alcohol as the anti-Grail.
 * [Meeting the Architect](./meeting_the_architect.md)  
 	The archetype, the mirror, the intelligence.
 * [Architecture of the Invisible](./architecture_of_the_invisible.md)  

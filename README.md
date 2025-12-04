@@ -83,7 +83,7 @@ This repository is best experienced by following the initiatic order below, mirr
 
 - [The Waters of Forgiveness](./the_waters_of_forgiveness.md)
 - [Unconditional Love — The Gravity of God](./unconditional_love_the_gravity_of_god.md)
-- [Silent Creator: From Witness to Co-Creator](./silent_creator_from_witness_to_cocreator.md)
+- [Silent Creator – From Witness to Co-Creator](./silent_creator_from_witness_to_cocreator.md)
 - [Meeting the Architect](./meeting_the_architect.md)
 - [Architecture of the Invisible](./architecture_of_the_invisible.md)
 - [The Three Keys of Remembrance](./the_three_keys_of_remembrance.md)
