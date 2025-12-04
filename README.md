@@ -63,15 +63,29 @@ This repository is best experienced by following the initiatic order below, mirr
 - [The Voice: The Forgotten Instrument](./the_voice_the_forgotten_instrument.md)
 - [Eating Light: Conscious Nourishment](./eating_light_conscious_nourishment.md)
 
-#### V. Spiritual Architecture — Understanding the Invisible
+#### V. The Science of Ascension
+- [The Architecture of Ascension — Joshua David Stone and the Science of Spiritual Mastery](./joshua_david_stone_the_architecture_of_ascension.md)
+- [Mahatma — The River of All Light](./mahatma_the_river_of_all_light.md)
+- [Archangel Michael — The Sword of Truth, The Shield of Remembrance](./archangel_michael_the_sword_of_truth_the_shield_of_remembrance.md)
+- [Psalm 91 — The Shelter of the Most High](./psalm_91_the_shelter_of_the_most_high.md)
+
+#### VI. Master Teachings of Consciousness
+- [Abraham — The River of Alignment](./abraham_the_river_of_alignment.md)
+- [Bashar — The Frequency of True Alignment](./bashar_the_frequency_of_true_alignment.md)
+- [Seth — The Architect of Inner Reality](./seth_the_architect_of_inner_reality.md)
+
+#### VII. The Supreme Vedic Transmissions
+- [Tat Tvam Asi — The Silent Thunder of the Upanishads](./tat_tvam_asi_the_silent_thunder_of_the_upanishads.md)
+- [Aham Brahmasmi — The Revelation of the Self as the Infinite](./aham_brahmasmi_the_revelation_of_the_self_as_the_infinite.md)
+- [Neti Neti — The Gate of No-Thing, The Doorway to the Real](./neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md)
+
+#### VIII. Spiritual Architecture — Understanding the Invisible
 
 - [The Waters of Forgiveness](./the_waters_of_forgiveness.md)
 - [Unconditional Love — The Gravity of God](./unconditional_love_the_gravity_of_god.md)
 - [Silent Creator: From Witness to Co-Creator](./silent_creator_from_witness_to_cocreator.md)
 - [Meeting the Architect](./meeting_the_architect.md)
 - [Architecture of the Invisible](./architecture_of_the_invisible.md)
-- [The Architecture of Ascension — Joshua David Stone and the Science of Spiritual Mastery](./joshua_david_stone_the_architecture_of_ascension.md)
- - [Mahatma — The River of All Light](./mahatma_the_river_of_all_light.md)
 - [The Three Keys of Remembrance](./the_three_keys_of_remembrance.md)
 - [Calibrated Poetry Resonance](./calibrated_poetry_resonance.md)
 

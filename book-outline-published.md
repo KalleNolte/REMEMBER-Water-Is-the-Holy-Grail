@@ -78,17 +78,39 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [Eating Light: Conscious Nourishment](./eating_light_conscious_nourishment.md)  
 	Living on light in daily life.
 
-### V. Spiritual Architecture – Understanding the Invisible
+### V. The Science of Ascension
+* [The Architecture of Ascension — Joshua David Stone and the Science of Spiritual Mastery](./joshua_david_stone_the_architecture_of_ascension.md)  
+	A calibrated tribute to Joshua David Stone’s ascension science, integrated with water physics, coherence, and the book’s cosmology. Bridges classical ascension teachings with the unified model of light, water, and remembrance.
+* [Mahatma — The River of All Light](./mahatma_the_river_of_all_light.md)  
+	A tribute to Brian Grattan’s Mahatma teaching as the synthesis current of grace. Explores the Mahatma as totality-field, unifier of paths, and living bridge between Source, water, heart, and ascension.
+* [Archangel Michael — The Sword of Truth, The Shield of Remembrance](./archangel_michael_the_sword_of_truth_the_shield_of_remembrance.md)  
+	An exploration of Archangel Michael as a frequency of truth, protection, and remembrance. The sword as discernment, the shield as coherence, and the blue flame as alignment with Source.
+* [Psalm 91 — The Shelter of the Most High](./psalm_91_the_shelter_of_the_most_high.md)  
+	A contemplative mapping of Psalm 91 as a manual of coherence, faith, and protection. The secret place of the Most High as an inner field of resonance in heart, water, and light.
+
+### VI. Master Teachings of Consciousness
+* [Abraham — The River of Alignment](./abraham_the_river_of_alignment.md)  
+	A synthesis of Abraham’s teachings on the Emotional Guidance System and the art of allowing. Alignment as vibrational water-course, emotion as compass, and joy as calibration.
+* [Bashar — The Frequency of True Alignment](./bashar_the_frequency_of_true_alignment.md)  
+	An integration of Bashar’s core formula and the physics of belief. State over circumstance, excitement as compass, and coherent action as the bridge between potential and form.
+* [Seth — The Architect of Inner Reality](./seth_the_architect_of_inner_reality.md)  
+	A calibrated tribute to the Seth material. Reality as thought-form, probable realities, multidimensional identity, and the primacy of belief in shaping the waters of experience.
+
+### VII. The Supreme Vedic Transmissions
+* [Tat Tvam Asi — The Silent Thunder of the Upanishads](./tat_tvam_asi_the_silent_thunder_of_the_upanishads.md)  
+	A contemplative exploration of the mahavakya “Tat Tvam Asi.” The identity of self and Source, the dissolving of separation, and the remembrance of the One in all.
+* [Aham Brahmasmi — The Revelation of the Self as the Infinite](./aham_brahmasmi_the_revelation_of_the_self_as_the_infinite.md)  
+	A transmission on “Aham Brahmasmi” as lived recognition. The I that is not personal, the crown of non-dual insight, and the water of consciousness realizing itself as Brahman.
+* [Neti Neti — The Gate of No-Thing, The Doorway to the Real](./neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md)  
+	An initiatic guide to the Vedantic method of negation. The stripping away of all that is not Self, the clearing of identification, and the arrival in the unnameable.
+
+### VIII. Spiritual Architecture – Understanding the Invisible
 * [Silent Creator: From Witness to Co-Creator](./silent_creator_from_witness_to_cocreator.md)  
 	From witness to creator.
 * [Meeting the Architect](./meeting_the_architect.md)  
 	The archetype, the mirror, the intelligence.
 * [Architecture of the Invisible](./architecture_of_the_invisible.md)  
 	Fractals, fields, harmonics.
-* [The Architecture of Ascension — Joshua David Stone and the Science of Spiritual Mastery](./joshua_david_stone_the_architecture_of_ascension.md)  
-	A calibrated tribute to Joshua David Stone’s ascension science, integrated with water physics, coherence, and the book’s cosmology. Bridges classical ascension teachings with the unified model of light, water, and remembrance.
-* [Mahatma — The River of All Light](./mahatma_the_river_of_all_light.md)  
-	A tribute to Brian Grattan’s Mahatma teaching as the synthesis current of grace. Explores the Mahatma as totality-field, unifier of paths, and living bridge between Source, water, heart, and ascension.
 * [The Three Keys of Remembrance](./the_three_keys_of_remembrance.md)  
 	Three fundamental principles. Simple, essential.
 * [Calibrated Poetry Resonance](./calibrated_poetry_resonance.md)  
