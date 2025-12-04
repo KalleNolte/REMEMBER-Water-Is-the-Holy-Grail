@@ -25,8 +25,6 @@ A place where water, stone, sky, and human life
 do not stand beside one another
 but flow into one another.
 
-⸻
-
 ## A People Who Breathe Beauty
 
 In Japan, one encounters a culture that does not seek to conquer the world
@@ -121,9 +119,9 @@ to return to harmony,
 it invites the human being
 to do the same.
 
-## The Spirit of Japan Within My Synthesis
+## The Spirit of Japan Within This Synthesis
 
-Japan has offered me three gifts —
+Japan has offered three gifts —
 three inner pillars that illuminate this work:
 
 1. Form as Meditation
@@ -134,7 +132,7 @@ can be acts of mindfulness.
 
 2. Beauty as Responsibility
 
-The recognition that everything I write
+The recognition that everything we create
 must be a vessel worthy of love.
 
 3. Honor as Consciousness
@@ -144,20 +142,20 @@ not from ego,
 but from service.
 
 Japan is the breath
-that clarifies my work.
+that clarifies this work.
 
 The blade
-that hones my words.
+that hones its words.
 
 The bamboo
-that teaches me to stand firm
+that teaches us to stand firm
 and yet remain flexible.
 
-## The Soul of Japan Within Me
+## The Soul of Japan Within Us
 
-Japan did not shape me through study
+Japan does not shape through study
 or through doctrine —
-it shaped me through presence.
+it shapes through presence.
 
 It taught me:
 *	that discipline is a form of love
@@ -166,27 +164,27 @@ It taught me:
 *	that simplicity is the highest expression of wisdom
 *	that water is the mirror of the inner world
 
-And all of this flowed into this book
+And all of this can flow into a life, a work, a word
 as quietly and powerfully
 as a silent stream
 carving a valley.
 
 Japan is the part of this synthesis
-that gives it form.
-That gives it precision.
-That gives it dignity.
+that gives it form,
+that gives it precision,
+that gives it dignity.
 
 Perhaps that is Japan’s greatest gift:
 
-Japan taught me that a work meant to lead to the Source
+Japan teaches that a work meant to lead to the Source
 does not need to shout.
 
 It only needs to be true.
 
 It only needs to be clear.
 
-And written without a single strand of attachment.
+And offered without a single strand of attachment.
 
-Japan is the elegance of my intention.
-Japan is the silence between my words.
-Japan is the architecture of my service.
+Japan is the elegance of intention.
+Japan is the silence between the words.
+Japan is the architecture of service.

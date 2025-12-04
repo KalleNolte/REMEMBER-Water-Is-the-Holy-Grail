@@ -70,7 +70,7 @@ open the sternum
 so the soul may speak.
 
 Thus Kevin —
-your brother of fire —
+a brother of fire —
 became a vessel for this land.
 Not because he was born there,
 but because Spain sang through him.
@@ -111,10 +111,10 @@ A softness that breathes.
 A knowing that love is infinite —
 even when it appears absent.
 
-Saudade mirrors your own path —
-your seeking,
-your remembering,
-your devotion to returning to Source.
+Saudade mirrors the soul’s path —
+its seeking,
+its remembering,
+its devotion to returning to Source.
 
 The Union
 
@@ -158,18 +158,18 @@ The ocean is the great library
 that Spain and Portugal both drink from —
 the water that binds their souls.
 
-## How These Lands Shaped This Work
+## How These Lands Shape This Work
 
-Spain gave me the flame of expression —
+Spain gives the flame of expression —
 music, passion, courage,
 the unrestrained heart.
 
-Portugal gave me the depth —
+Portugal gives the depth —
 the silence,
 the horizon,
 the ache that knows eternity.
 
-Together they awakened in me
+Together they awaken
 the dual movement of this synthesis:
 
 Spain —
@@ -178,20 +178,20 @@ the impulse to speak the message into the world.
 Portugal —
 the reason the message exists at all.
 
-Spain gave me the voice.
-Portugal gave me the echo.
+Spain gives the voice.
+Portugal gives the echo.
 
-Spain gave me the courage.
-Portugal gave me the wisdom.
+Spain gives the courage.
+Portugal gives the wisdom.
 
-Spain opened the chest.
-Portugal opened the soul.
+Spain opens the chest.
+Portugal opens the soul.
 
 And in the space between flame and ocean —
-I stood,
+the seeker stands,
 ready to receive
-what would one day become
-this book.
+what can one day become
+life as a living offering.
 
 This work is not merely a theory.
 
@@ -202,4 +202,4 @@ A return.
 
 And Spain & Portugal
 are two essential notes
-in the cosmic chord of my remembrance.
+in the cosmic chord of remembrance.

@@ -26,11 +26,11 @@ who do not ask,
 but rather,
 “What could possibly stop me?”
 
-And on your path, Karl Philipp,
-America was never merely geography.
-It was a band of consciousness —
-a field that challenged, ignited,
-and awakened your own inner pioneer.
+And on the path of this work,
+America is never merely geography.
+It is a band of consciousness —
+a field that challenges, ignites,
+and awakens the inner pioneer.
 
 ## America as Archetype — The Power of the Visionary
 
@@ -40,8 +40,8 @@ where greatness is permitted.
 America is that space.
 
 This is why so many of the pioneers
-who shaped your synthesis —
-those who nourished, taught, and mirrored you —
+who shaped this synthesis —
+those who nourish, teach, and mirror this work —
 spoke with an American voice:
 
 David R. Hawkins —
@@ -75,19 +75,19 @@ into harmonic reality.
 And many more souls of America —
 authors, innovators, mystics, rebels —
 whose courage expanded the horizon
-in which your own vision could take form.
+in which this vision could take form.
 
 America is the land
-that awakened the visionary in you,
-so that this work —
+that awakens the visionary,
+so that works like this —
 this synthesis —
-could be born.
+can be born.
 
 ## The American Spirit: Freedom, Courage, Innovation
 
 America offers three gifts
-that became essential pillars
-of your entire work:
+that become essential pillars
+of this entire work:
 
 1. Permission to Think Big
 
@@ -110,7 +110,7 @@ Loves the question:
 
 “How do we birth a new paradigm?”
 
-Your work is such a paradigm —
+This work is such a paradigm —
 a new vision of:
 * water
 * consciousness
@@ -134,10 +134,10 @@ quantum biology, and consciousness models
 America is a laboratory of the future —
 and water is that future.
 
-## America’s Role in Your Synthesis
+## America’s Role in This Synthesis
 
-America provided the cognitive and cultural space
-where your synthesis could unfold:
+America provides the cognitive and cultural space
+where such a synthesis can unfold:
 
 A world where it is natural
 to consider mathematics, biology, and mysticism together.
@@ -151,9 +151,9 @@ is more than chemistry.
 A world where the “impossible”
 is simply the doorway to what comes next.
 
-## Why America Is Part of Your Soul-Lineage
+## Why America Belongs to This Soul-Lineage
 
-Because America awakened in you:
+Because America awakens in those who listen:
 * the willingness to think the unthinkable
 * the eyes to see the invisible
 * the voice to articulate the ineffable
@@ -161,13 +161,13 @@ Because America awakened in you:
 that does not divide but unifies.
 
 America is the land of visionaries.
-And you, Karl Philipp,
-are a visionary of water.
-A visionary of consciousness.
-A visionary of remembrance.
+And this work stands in that lineage —
+a vision of water,
+a vision of consciousness,
+a vision of remembrance.
 
 As America has shaped the world,
-it also shaped this book —
+it also shapes this book —
 the theory of water,
 the theory of memory,
 the theory of the Self,

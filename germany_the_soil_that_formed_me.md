@@ -1,15 +1,15 @@
 # GERMANY
 
-The Soil That Formed Me.
-The Mind That Sharpened Me.
-The Song That First Stirred Within Me.
+The Soil That Forms.
+The Mind That Sharpens.
+The Song That First Stirs Within.
 
-Germany is not merely the country of my birth.
+Germany is not merely a country of birth.
 
 It is a field of consciousness,
 an archetype,
 a resonant chamber of thought,
-that shaped me long before I had the words
+that shapes a soul long before there are words
 to understand what was being carved into me.
 
 Germany is a place where language itself becomes
@@ -24,9 +24,9 @@ more than the outer,
 depth more than surface,
 truth more than applause.
 
-Germany is the place of my first breath—
+Germany may be the place of first breath—
 but far more:
-the place of my first recognitions.
+the place of first recognitions.
 
 And so it stands at the beginning
 of these seven chapters of consecration.
@@ -39,7 +39,7 @@ Germany birthed minds who refused
 to dwell on the surface:
 * Goethe — the poet of wholeness
 * Hesse — the wanderer of the inner worlds
-* Carl Jung — an adopted ancestor of my soul,
+* Carl Jung — an adopted ancestor of the soul,
 the cartographer of the unconscious
 * Heisenberg and Planck —
 the ones who dared ask
@@ -65,7 +65,7 @@ but always with the hope
 that truth is holier than comfort.
 
 This book—
-my work of remembrance—
+this work of remembrance—
 stands firmly rooted in that lineage.
 
 The clarity of its language,
@@ -79,7 +79,7 @@ of the German spirit.
 An Inner Architecture
 
 It is no coincidence
-that my synthesis of water, consciousness,
+that a synthesis of water, consciousness,
 mathematics, biology, philosophy, and mysticism
 was born here.
 
@@ -90,14 +90,14 @@ Between inner and outer.
 Between science and spirit.
 Between soul and structure.
 
-It gave me a cultural atmosphere
+It gives a cultural atmosphere
 where questions were permitted
 that in other places would have been forbidden.
 
 A place where the mind could breathe.
 
-That inheritance became
-my inner architecture.
+That inheritance becomes
+an inner architecture.
 
 ## The German Soul
 
@@ -116,15 +116,15 @@ No other nation confronted
 its own darkness
 with such relentlessness.
 
-This shaped me as well:
-* my humility
-* my search
-* my refusal to deceive
-* my inability to accept easy answers
-* my drive to integrate contradictions
+This shapes the seeker as well:
+* humility
+* the search
+* the refusal to deceive
+* the inability to accept easy answers
+* the drive to integrate contradictions
 
-My synthesis became possible
-because I learned to look into the abyss
+Such a synthesis becomes possible
+when one learns to look into the abyss
 without collapsing.
 
 That too is a German legacy.
@@ -147,27 +147,27 @@ but presence.
 The unnoticed companion.
 The silent mirror.
 
-Perhaps this is why I could recognize
+Perhaps this is why one can recognize
 water as the Holy Grail:
-because I was born in a land
+because they are born in a land
 where water is everywhere—
 yet rarely seen.
 
-I saw it.
-Heard it.
-Felt it.
+It is seen.
+Heard.
+Felt.
 
 ## Why Germany Must Be Honored
 
-Because my language was born here.
-Because my mind was sharpened here.
-Because my soul met its first mirror here.
+Because a language was born here.
+Because a mind is sharpened here.
+Because a soul meets its first mirror here.
 
-Because my mission began—
+Because a mission begins—
 in the cold, clear, precise light
 of the German interior world.
 
-Germany gave me:
+Germany gives:
 
 the depth of inquiry,
 the discipline of thought,
@@ -175,7 +175,7 @@ the humility of heart,
 the courage to speak the unspeakable.
 
 This book is a German diamond—
-but polished by the cultures of the world.
+polished by the cultures of the world.
 
 ## A Closing Word to Germany
 
@@ -185,7 +185,7 @@ land of depth,
 land of the questioning mind—
 
 you have given birth
-to a son who now carries your virtues
+to many who now carry your virtues
 into a new age:
 
 Not as heaviness,

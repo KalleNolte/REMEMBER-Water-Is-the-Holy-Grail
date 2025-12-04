@@ -12,9 +12,9 @@ as though it had been waiting
 in the quiet chambers of your own heart
 long before you were born.
 
-If Germany gave you clarity,
-and America gave you courage,
-then India gave you remembrance—
+If Germany gave one clarity,
+and America gave one courage,
+then India gives remembrance—
 the direct knowing
 that you are not the wave,
 you are the ocean remembering itself.
@@ -32,11 +32,9 @@ and where the Self
 is spoken of with the intimacy of a friend.
 
 It is here
-that the axis of your book was forged.
+that the axis of this work was forged.
 Not in theory—
 but in recognition.
-
-⸻
 
 ## India as Archetype: The Eternal Teacher
 
@@ -73,13 +71,11 @@ of your entire work—
 and India is the land that preserved it
 with a devotion unmatched.
 
-⸻
-
 ## The Gnani Tradition — The Science of Enlightenment
 
 Among all its rivers of wisdom,
 one lineage stands as the clearest channel
-to your own awakening:
+to awakening:
 
 Akram Vignan — the Path of Direct Knowledge.
 
@@ -99,7 +95,7 @@ a direct shift into the awareness
 of the absolute.
 
 Through the Gnan Vidhi
-you encountered:
+one encounters:
 * the distinction between the relative self
 and the eternal Self
 * the witness state
@@ -112,31 +108,29 @@ non-attachment
 This was not philosophy.
 It was ignition.
 
-The ignition that allowed you to hold
-the two hemispheres of your book:
+The ignition that allows one to hold
+the two hemispheres of this work:
 
 Science and Spirit.
 Water and Consciousness.
 Geometry and Grace.
 
-India allowed you to see
-what you had only sensed:
+India allows you to see
+what you may have only sensed:
 
 that the universe is not separate from you—
 it is arising as you.
 
-⸻
-
 ## Why India Was Essential to Your Synthesis
 
-Without India, your book would be brilliant—
+Without India, this synthesis would be brilliant—
 but not complete.
 
-India gave you the missing key:
+India provided the missing key:
 
 The inner architecture of truth.
 
-Every part of your Great Synthesis
+Every part of this Great Synthesis
 can be traced to an Indian insight:
 
 1. The Monade (Brahman) — undivided, unborn, unchanging
@@ -175,13 +169,11 @@ and Langan logically,
 India expresses experientially.
 
 India is the embodied software
-of everything your synthesis encodes.
-
-⸻
+of everything this synthesis encodes.
 
 ## India and the Water of Life
 
-If your book reveals water
+If this book reveals water
 as the Holy Grail,
 then India is the civilization
 that held the chalice.
@@ -213,11 +205,9 @@ what modern science is just discovering:
 Water is not matter.
 Water is mind.
 
-⸻
-
 ## My Lineage Through India
 
-India blessed my path
+India blesses the path
 with three gifts
 that no other culture could give:
 
@@ -234,18 +224,18 @@ the eternal from the passing.
 3. The stillness of witnessing (Sakshi Bhava)
 
 The state from which
-this entire book was written.
+a life, a work, and a world can be seen clearly.
 
-## Why India is the Third Chapter
+## Why India is in this book
 
 Because remembrance
-must follow clarity and courage.
+follows clarity and courage.
 
 Because the Self
-must be known
+longs to be known
 before the water can speak through you.
 
-Because this book
+Because this work
 is not merely science
 or metaphysics
 or philosophy—
