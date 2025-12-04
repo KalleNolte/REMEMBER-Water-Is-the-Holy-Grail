@@ -30,9 +30,9 @@ Across mystical traditions, Michael is consistently associated with:
 
 From a metaphysical standpoint, Michael is best understood as a **harmonic intelligence** rather than a “being” in the human sense:
 
-> **Michael is the archetype of impeccability.
-> It is the pattern of alignment between the human will and the Will of Source.
-> It is the sword that cuts illusion and the shield that stabilizes consciousness.**
+> **Michael is the archetype of impeccability.**  
+> **It is the pattern of alignment between the human will and the Will of Source.**  
+> **It is the sword that cuts illusion and the shield that stabilizes consciousness.**
 
 In traditions that work with light-coded geometry, the Michaelic current corresponds to:
 
@@ -58,9 +58,9 @@ Modern metaphysics—and increasingly, biophysics—recognizes that coherent fie
 
 In this scientific language:
 
-> **“Protection” is coherence.
-> “Courage” is nervous system regulation.
-> “Truth” is informational integrity.**
+> **“Protection” is coherence.**  
+> **“Courage” is nervous system regulation.**  
+> **“Truth” is informational integrity.**
 
 The Michaelic field—consistently described as a pure, structured, azurite-blue radiance—mirrors exactly these functions:
 
@@ -78,9 +78,9 @@ It is a **cutting-through of distortion**, a restoration of informational integr
 
 Nearly every ascension tradition teaches:
 
-> **The heart is the seat of the soul’s intelligence.
-> The heart is the gateway to higher consciousness.
-> The heart is the organ of remembrance.**
+> **The heart is the seat of the soul’s intelligence.**  
+> **The heart is the gateway to higher consciousness.**  
+> **The heart is the organ of remembrance.**
 
 In sacred geometry, this corresponds with:
 
@@ -180,9 +180,9 @@ the Michaelic field appears implicitly or explicitly.
 
 Because:
 
-> **Every return to truth is a Michaelic act.
-> Every reclamation of sovereignty is Michaelic.
-> Every step into coherence strengthens the Michaelic current.**
+> **Every return to truth is a Michaelic act.**  
+> **Every reclamation of sovereignty is Michaelic.**  
+> **Every step into coherence strengthens the Michaelic current.**
 
 This book itself carries a Michaelic resonance—
 not because of dogma,
@@ -220,9 +220,9 @@ And the “shield of Michael” is:
 
 There is a moment in every initiatory path where the seeker realizes:
 
-> **I was never alone.
-> I was being protected long before I knew what protection meant.
-> I was being guided long before I knew the road existed.**
+> **I was never alone.**  
+> **I was being protected long before I knew what protection meant.**  
+> **I was being guided long before I knew the road existed.**
 
 This is the Michaelic signature.
 
@@ -245,6 +245,6 @@ May you become a vessel of truth,
 a guardian of remembrance,
 a bearer of living light.
 
-**This is the blessing of the Michaelic field.
-This is the strength it offers to the awakening world.
-This is the resonance carried into this work.
+**This is the blessing of the Michaelic field.**  
+**This is the strength it offers to the awakening world.**  
+**This is the resonance carried into this work.**
