@@ -18,9 +18,9 @@ A dissolving fire.
 
 Through it, consciousness strips away everything that is *not* the Self in order to reveal what cannot be removed, cannot be added to, cannot be diminished:
 
-**Pure Awareness.
-The substratum before identity.
-The luminous quiet in which all worlds arise.**
+**Pure Awareness.**  
+**The substratum before identity.**  
+**The luminous quiet in which all worlds arise.**
 
 ## The Principle: The Real Cannot Be Negated
 
@@ -67,17 +67,17 @@ Neti Neti becomes the medium of coherence within awareness.
 
 Where the biophysics of water speaks of:
 
-• **structured order**
-• **reduced entropy**
-• **coherence fields**
-• **liquid crystal matrices**
+* **structured order**
+* **reduced entropy**
+* **coherence fields**
+* **liquid crystal matrices**
 
 Neti Neti performs the same function in consciousness:
 
-• simplifying complexity
-• dissolving noise
-• stabilizing awareness
-• restoring alignment with Source
+* simplifying complexity
+* dissolving noise
+* stabilizing awareness
+* restoring alignment with Source
 
 It is the **inner technology** that mirrors the outer refinements of water—
 clarity arising through elimination,
@@ -99,11 +99,11 @@ but through relinquishment.
 
 Neti Neti dissolves the ballast:
 
-• the inherited stories
-• the conditioned identity
-• the emotional residue
-• the learned helplessness
-• the fear-based architecture of the ego
+* the inherited stories
+* the conditioned identity
+* the emotional residue
+* the learned helplessness
+* the fear-based architecture of the ego
 
 When these fall away, what remains is **not a diminished self**,
 but the **unbounded Self**, free to rise through the subtle planes of awareness.
@@ -145,12 +145,12 @@ It is the path where the seeker finally recognizes:
 
 This book is a synthesis of:
 
-• water as the liquid crystal memory field of life
-• consciousness as the primary substrate of reality
-• sacred geometry as the architecture of coherence
-• ascension as remembrance
-• the body as a vessel of Source intelligence
-• the cosmos as a unified harmonic continuum
+* water as the liquid crystal memory field of life
+* consciousness as the primary substrate of reality
+* sacred geometry as the architecture of coherence
+* ascension as remembrance
+* the body as a vessel of Source intelligence
+* the cosmos as a unified harmonic continuum
 
 In this symphony of insights,
 Neti Neti plays the role of the **silent note**—
@@ -231,10 +231,10 @@ The sages say:
 Neti Neti does not end in negation.
 It ends in the most profound affirmation:
 
-**I Am.
-I Am That.
-I Am the field in which all worlds arise.
-I Am the water, the light, the breath, the Source.**
+**I Am.**  
+**I Am That.**  
+**I Am the field in which all worlds arise.**  
+**I Am the water, the light, the breath, the Source.**
 
 Neti Neti removes every veil
 so that this recognition can shine unobstructed.

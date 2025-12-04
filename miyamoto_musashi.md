@@ -12,7 +12,7 @@ This chapter honors Musashi’s place within the lineage of those who lived clos
 
 ## The Spirit of Japan
 
-Ancestral Discipline, Stillness, and the Way**
+Ancestral Discipline, Stillness, and the Way
 
 To understand Musashi, one must feel the cultural soil from which he emerged.
 
@@ -43,7 +43,7 @@ Here are three of Musashi’s most enduring teachings, translated into modern la
 
 ## Teaching One
 
-The Way Is in Attentive Practice**
+The Way Is in Attentive Practice
 “The true science of martial arts means practicing them in such a way that they will be useful at any time and to teach them in all things.”
 
 Musashi teaches that the Way — whether in strategy, art, work, or self-cultivation — is nothing mystical.
@@ -64,7 +64,7 @@ This is Musashi’s version of enlightenment through action.
 
 ## Teaching Two
 
-Know the Larger Context, and See What Others Do Not See**
+Know the Larger Context, and See What Others Do Not See
 “Perceive that which cannot be seen with the eye.”
 
 Musashi was undefeated in more than 60 duels — not because his sword was fast, but because his perception was clear.
@@ -90,7 +90,7 @@ his art is the art of seeing reality as it is — unblinded by emotion, fear, de
 
 ## Teaching Three
 
-The Empty Mind Is the Unshakeable Mind**
+The Empty Mind Is the Unshakeable Mind
 “You must understand that there is more than one path to the top of the mountain.”
 
 What Musashi calls “the empty mind” is not void or passivity.

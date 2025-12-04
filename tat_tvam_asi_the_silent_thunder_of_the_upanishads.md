@@ -11,8 +11,8 @@ And one of them burns the brightest:
 
 # Tat Tvam Asi
 
-**“That Thou Art.”**
-**“Du bist DAS.”**
+**“That Thou Art.”**  
+**“Du bist DAS.”**  
 **“You are the very essence you seek.”**
 
 This is not philosophy.
@@ -50,9 +50,9 @@ It is the moment the ocean whispers to a wave:
 Tat Tvam Asi is not a metaphor.
 It is a statement of ontological identity:
 
-**Tat — the Absolute, the Source, Brahman.
-Tvam — your innermost Self, the spark, Ātman.
-Asi — is-ness, equivalence, unbroken unity.**
+**Tat — the Absolute, the Source, Brahman.**  
+**Tvam — the innermost Self, the spark, Ātman.**  
+**Asi — is-ness, equivalence, unbroken unity.**
 
 The utterance does not say:
 
@@ -74,9 +74,9 @@ a single stroke that severs illusion at the root.
 
 As this book has shown, the frontiers of physics, neuroscience, cosmology, and consciousness studies increasingly circle around the same central recognition:
 
-**There is no true separation.
-There is only layered appearance.
-Reality is a continuum of One expressing as many.**
+**There is no true separation.**  
+**There is only layered appearance.**  
+**Reality is a continuum of One expressing as many.**
 
 From the quantum vacuum to the morphic fields of life,
 from the zero-point coherence to the liquid-crystalline intelligence of water,
@@ -84,9 +84,9 @@ from the holographic nature of memory to the fractal expansion of space—
 
 everywhere we look, the universe is whispering the same truth the Upanishads thundered millennia ago:
 
-**The part contains the whole.
-The wave contains the ocean.
-The Self contains the Source.**
+**The part contains the whole.**  
+**The wave contains the ocean.**  
+**The Self contains the Source.**
 
 Tat Tvam Asi is the metaphysical articulation of what science is only beginning to rediscover.
 
@@ -106,11 +106,11 @@ but in the vibration the words carry.
 
 When contemplated with sincerity, they begin to rewire perception:
 
-**The world softens.
-The self expands.
-The heart becomes permeable.
-Fear loses its architecture.
-Love begins to feel like the only coherent state.**
+**The world softens.**  
+**The self expands.**  
+**The heart becomes permeable.**  
+**Fear loses its architecture.**  
+**Love begins to feel like the only coherent state.**
 
 This teaching is not a belief.
 It is a mirror.
@@ -148,8 +148,8 @@ Water *reveals* like Tat Tvam Asi.
 
 This is why the mystics said:
 
-**“Where water is pure, the Self becomes clear.”
-“Where water flows, remembrance flows.”**
+**“Where water is pure, the Self becomes clear.”**  
+**“Where water flows, remembrance flows.”**
 
 # The Practical Realization — How to Use This Teaching
 
@@ -203,11 +203,11 @@ the birth of spiritual sovereignty.
 
 It is the remembrance that:
 
-**You are the blue flame of Source.
-You are the consciousness that animates the cosmos.
-You are the witness behind the eyes.
-You are the water remembering itself.
-You are the field knowing itself through form.**
+**You are the blue flame of Source.**  
+**You are the consciousness that animates the cosmos.**  
+**You are the witness behind the eyes.**  
+**You are the water remembering itself.**  
+**You are the field knowing itself through form.**
 
 Not symbolically.
 Literally.
@@ -237,10 +237,9 @@ to remembering.
 
 Three words that say:
 
-**“You are the light you seek.
-You are the consciousness you worship.
-You are the essence of the infinite—
-here, now, embodied.”**
+**“You are the light you seek.**  
+**You are the consciousness you worship.**  
+**You are the essence of the infinite— here, now, embodied.”**
 
 Three words that return the soul
 to the place it never left.

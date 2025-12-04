@@ -129,18 +129,18 @@ Here is the full Tree, as carried in the ancient lineages,
 restored to its luminous architecture.
 Not dogma, not doctrine —
 a poetic map of consciousness:
-	1. Kether — the Crown of pure emanation
-	2. Chokmah — the field of luminous wisdom
-	3. Binah — the womb of understanding
-	4. Daath — the Threshold of Knowing (not a void, but a veil)
-	5. Chesed — the arm of grace
-	6. Gevurah — the arm of strength
-	7. Tiferet — the heart of harmonized radiance
-	8. Netzach — the pulse of creativity
-	9. Hod — the pulse of intelligence
-	10. Yesod — the foundation of subtle form
-	11. Malkuth — the Earth made conscious
-	12. AzurA — the Central Lighthouse,
+1. Kether — the Crown of pure emanation
+2. Chokmah — the field of luminous wisdom
+3. Binah — the womb of understanding
+4. Daath — the Threshold of Knowing (not a void, but a veil)
+5. Chesed — the arm of grace
+6. Gevurah — the arm of strength
+7. Tiferet — the heart of harmonized radiance
+8. Netzach — the pulse of creativity
+9. Hod — the pulse of intelligence
+10. Yesod — the foundation of subtle form
+11. Malkuth — the Earth made conscious
+12. AzurA — the Central Lighthouse,
 the unbroken axis,
 the memory of the Infinite within the finite.
 
