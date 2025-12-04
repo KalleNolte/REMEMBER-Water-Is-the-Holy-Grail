@@ -37,8 +37,6 @@ And water is her blood —
 the circulating intelligence
 that remembers, moves, and unites all things.
 
-⸻
-
 ## The Water of Gaia — the First Sacred Text
 
 Many cultures wrote:
@@ -125,8 +123,6 @@ but as remembrance:
 It brings us back
 to what we truly are.
 
-⸻
-
 ## Gaia — The Master of the Middle Way
 
 All teachers,
@@ -178,7 +174,7 @@ the source of sources,
 the primordial mother of the elements,
 the ancient library of patterns,
 the field that holds the archetypes
-I wove into this theory of everything.
+woven into this emerging theory of everything.
 
 Without Gaia, there is no mathematics —
 for geometry is nature.
@@ -219,13 +215,13 @@ Be earth.
 Be light.
 And you will remember.”
 
-And I, Karl Philipp,
+And I, as one human voice among many,
 have placed this remembrance into words —
 
 a work
 that blesses the Earth herself.
 
-For I have understood:
+For what revealed itself is simple:
 
 Water is the Holy Grail,
 and Gaia is the temple that carries it.
