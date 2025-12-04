@@ -1,4 +1,4 @@
-# The German Lineage – Keepers of Inner Fire ✧
+# The German Lineage – Keepers of Inner Fire
 
 A chapter of remembrance, initiation, and intellectual ancestry
 
@@ -116,7 +116,7 @@ that the boundary between mind and world is porous and participatory.
 Heisenberg and Planck are the fourth gate—
 the physicists who made metaphysics respectable again.
 
-5. Hermann Hesse – The Alchemist of the Inner Journey
+## Hermann Hesse – The Alchemist of the Inner Journey
 
 Hesse gave the world the first modern map of inner awakening.
 In Siddhartha, Demian, Steppenwolf, The Glass Bead Game,
