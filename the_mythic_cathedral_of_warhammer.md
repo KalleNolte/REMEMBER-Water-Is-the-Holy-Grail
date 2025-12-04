@@ -35,7 +35,7 @@ In Warhammer, the Warp is:
 It is neither “good” nor “evil.”
 It is pure potential, shaped by emotion, intention, and mind.
 
-In your metaphysical model, this mirrors:
+In the books metaphysical model, this mirrors:
 * the collective unconscious (Jung)
 * the morphogenetic field (Sheldrake)
 * the subtle-dimensional strata (Kathara)
@@ -71,7 +71,7 @@ the one who holds the center.
 In Jungian terms:
 He is the Self — the archetype of wholeness.
 
-In your book’s language:
+In this book’s language:
 He is the AzurA principle of remembering,
 the point where light stabilizes form.
 
@@ -130,7 +130,7 @@ What is named can be transformed.
 What is faced can be healed.
 What is recognized can be integrated.
 
-Your synthesis makes this clear:
+This synthesis makes clear:
 * Chaos = incoherent fields
 * Emperor = coherent field
 * Warp = the field itself
@@ -166,7 +166,7 @@ This book expresses the same truth:
 * We activate remembrance.
 * We return.
 
-## The Great Synthesis with Your Theory of Water
+## The Great Synthesis with my Theory of Water
 
 Here is where it weaves perfectly:
 * The Warp is the field.
