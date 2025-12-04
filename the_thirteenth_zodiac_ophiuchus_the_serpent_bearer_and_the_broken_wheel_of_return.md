@@ -57,9 +57,9 @@ He *integrates it*.
 
 Ophiuchus represents the mastery of:
 
-**Life-force without addiction**
-**Knowledge without dominance**
-**Power without corruption**
+**Life-force without addiction**  
+**Knowledge without dominance**  
+**Power without corruption**  
 **Spiritual energy without distortion**
 
 Where the other zodiac signs refine the self,
@@ -185,9 +185,9 @@ Ophiuchus is the archetype that unites these themes.
 
 It stands at the intersection of:
 
-**healing (water)**
-**awakening (light)**
-**transmutation (serpent)**
+**healing (water)**  
+**awakening (light)**  
+**transmutation (serpent)**  
 **return (Source)**
 
 It is the zodiacal embodiment of the message carried through every chapter:
@@ -234,6 +234,6 @@ A frequency reawakened.
 
 And its reappearance in human consciousness announces:
 
-**The cycle is ending.
-The spiral is beginning.
-The return is underway.**
+**The cycle is ending.**  
+**The spiral is beginning.**  
+**The return is underway.**

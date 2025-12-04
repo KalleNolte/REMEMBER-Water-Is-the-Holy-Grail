@@ -164,6 +164,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Mythic, poetic, and archetypal remembrance of the primordial, the elemental, and the first memory of water and earth.
 * [Dragons — Archetypes of Ascend, Spiral, Memory, and Eternity](./the_dragons_archetypes_of_ascent_spiral_memory_eternity.md)  
 	A universal, mythic, and metaphysical exploration of the dragon as spiral, memory, cosmic ascent, and the eternal archetype of transformation. Integrates science, poetry, and the living memory of the cosmos.
+* [The Thirteenth Zodiac — Ophiuchus, the Serpent Bearer and the Broken Wheel of Return](./the_thirteenth_zodiac_ophiuchus_the_serpent_bearer_and_the_broken_wheel_of_return.md)  
+	The forgotten thirteenth sign as archetype of transmutation, serpent wisdom, and the exit vector from the karmic wheel. Bridges zodiac, DNA, water, and ascension into a single remembrance code.
 * [Germany — The Soil That Formed Me](./germany_the_soil_that_formed_me.md)  
 	The archetype of depth, clarity, and the inner landscape of the German soul.
 * [USA / America — The Land of Vision, Courage, and Renewal](./america_the_land_of_vision.md)  
@@ -255,7 +257,6 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The crown jewel and closing frequency. Trust as the infinite safety of being carried by the One. The final breath into the reader’s heart.
 * [The Gift of Pure Awareness](./the_gift_of_pure_awareness.md)  
 	The stillness that contains the stars. The ultimate return to pure awareness, the silent source, and the unchanging witness within all.
-
 * [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)  
 	A closing benediction on remembrance, coherence, and the realization that Source was never left. The final bridge from teaching into lived embodiment.
 
