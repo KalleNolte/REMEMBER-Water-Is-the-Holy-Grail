@@ -70,7 +70,7 @@ Ein Gefäß aus Sprache, gefüllt mit Licht, Klang und Zahl.
 Nicht, um zu beeindrucken,  
 sondern um daran zu erinnern, dass der Kelch bereits im Inneren ist.
 
-## Dies ist kein Tor — es ist ein Feld
+## Dies Buch ist kein Tor — es ist ein Feld
 
 Wer sich entscheidet, dieses Feld zu betreten, komme sanft.  
 Wenn der Verstand sich verheddert, lächle.  
