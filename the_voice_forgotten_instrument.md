@@ -1,4 +1,4 @@
-# Chapter 9 – The Voice: The Forgotten Instrument
+# The Voice: The Forgotten Instrument
 
 Before there was language,
 there was sound.

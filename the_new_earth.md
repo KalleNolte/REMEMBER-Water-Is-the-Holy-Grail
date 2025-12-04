@@ -1,4 +1,4 @@
-# Chapter 11 – The New Earth
+# The New Earth
 
 ## A Prayer That Lives Within Us
 

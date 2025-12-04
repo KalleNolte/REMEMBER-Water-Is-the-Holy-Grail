@@ -1,4 +1,4 @@
-# Chapter 12 – The Chalice of Light
+# The Chalice of Light
 
 (The Holy Grail and the Philosopher’s Stone)
 

@@ -1,4 +1,4 @@
-# Chapter 7 – The Architecture of the Invisible
+# The Architecture of the Invisible
 
 ## The Invisible Forces
 
