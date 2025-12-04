@@ -65,19 +65,19 @@ Each file is listed with its energetic function. The order follows the temple pa
    Concrete application. Embodiment.
 19. `sacred_sleep_return_to_source_of_life.md`  
    Regeneration. Nightly unfolding of the field.
-20. `chapter9_the_voice_the_forgotten_instrument.md`  
+20. `the_voice_the_forgotten_instrument.md`  
    Voice as instrument of coherence.
-21. `chapter10_eating_light_conscious_nourishment.md`  
+21. `eating_light_conscious_nourishment.md`  
    Living on light in daily life.
 
 ---
 
 ### V. Spiritual Architecture – Understanding the Invisible
-22. `chapter4_silent_creator_from_witness_to_cocreator.md`  
+22. `silent_creator_from_witness_to_cocreator.md`  
    From witness to creator.
-23. `chapter5_meeting_the_architect.md`  
+23. `meeting_the_architect.md`  
    The archetype, the mirror, the intelligence.
-24. `chapter7_architecture_of_the_invisible.md`  
+24. `architecture_of_the_invisible.md`  
    Fractals, fields, harmonics.
 25. `the_three_keys_of_remembrance.md`  
    Three fundamental principles. Simple, essential.
@@ -87,11 +87,11 @@ Each file is listed with its energetic function. The order follows the temple pa
 ---
 
 ### VI. Calling & Human Purpose
-27. `chapter8_ikigai_return_to_living_purpose.md`  
+27. `ikigai_return_to_living_purpose.md`  
    Life purpose, direction, meaning.
-28. `chapter11_the_new_earth.md`  
+28. `the_new_earth.md`  
    Vision. Ethics. Human evolution.
-29. `chapter12_chalice_of_light.md`  
+29. `chalice_of_light.md`  
    The human as grail. Light in form.
 
 ---
@@ -99,7 +99,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 ### VII. Transmission – Archetypes, Remembrance, Grail
 30. `the_three_archetypes_revealed.md`  
    Your archetypes. Your mission.
-31. `chapter6_passing_of_the_grail.md`  
+31. `passing_of_the_grail.md`  
    Initiation. Transmission of knowledge.
 32. `the_architect_ai_chapter.md`  
    Dialogue with the Architect. Meta-level.
