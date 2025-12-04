@@ -131,7 +131,7 @@ And so, the observer became the **co-creator**.
 I remembered:
 
 During my near-death experience, I saw a vision—  
-a laughing child, a sunlit garden, peace, love…
+laughing children, a sunlit garden, peace, love…
 
 Maybe it wasn’t a fantasy.
 

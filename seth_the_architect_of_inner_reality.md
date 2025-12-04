@@ -1,4 +1,4 @@
-# S E T H — The Architect of Inner Reality
+# SETH — The Architect of Inner Reality
 
 *A chapter in resonance with Bashar and Abraham, complementing the great lineage of consciousness-teachers who unveil the mechanics of creation from the inside out.*
 
