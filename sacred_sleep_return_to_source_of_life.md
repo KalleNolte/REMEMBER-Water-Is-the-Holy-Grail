@@ -15,7 +15,7 @@ Sleep is the sacrament nature grants to every living being that breathes.
 It is creation’s nightly reminder:
 Everything we seek is already waiting in the quiet between two heartbeats.
 
-## Section 2 – Sleep as the Body’s Sacrament
+## Sleep as the Body’s Sacrament
 
 Modern science is beginning to understand what mystics have known for millennia: Sleep is a sacred function of life.
 At night the glymphatic system opens — the brain’s cleansing network.
@@ -38,7 +38,7 @@ Here, in the deepest night, biochemistry meets theology:
 The water within us remembers.
 And the light within us breathes.
 
-## Section 3 – The Heart’s Key
+## The Heart’s Key
 
 Amid all research and spiritual metaphor, there is one place where both meet: the Heart.
 It is the first organ to beat in new life, and the last to fall silent when the body leaves.
@@ -69,7 +69,7 @@ When our heartbeat slows it means:
 Sleep does not begin in the brain.
 It begins in trust.
 
-## Section 4 – The Rhythm of Return
+## The Rhythm of Return
 
 A slowly beating heart is like a bell that harmonizes the field.
 And everything you need to enter this rhythm is already within you.
@@ -87,9 +87,9 @@ Or use the physiological sigh — two quick inhales, then a slow vibrating exhal
 This breath releases the heart, calms the nervous system, and opens the path for the night’s melody.
 
 Now take three conscious breaths:
-    • One for the day — as thanks for all that was.
-    • One for life — as trust in all that is.
-    • One for the Source — as surrender to what is eternal.
+*  One for the day — as thanks for all that was.
+*  One for life — as trust in all that is.
+*  One for the Source — as surrender to what is eternal.
 
 Feel how with each exhale the body clarifies, thoughts dissolve, and the field within you becomes still.
 In this stillness a frequency resonates — many call it 528 Hz — the vibration of love.
@@ -98,7 +98,7 @@ It is not heard, but felt — like the smile of a star behind closed eyelids.
 
 When you fall asleep in that vibration, your sleep becomes prayer, and your dream a home‑coming.
 
-## Section 5 – Sleep as Return to Source
+## Sleep as Return to Source
 
 When you close your eyes at night, no end begins — a return begins.
 Sleep is not a black nothing, but a luminous sea.
@@ -125,7 +125,7 @@ Sleep is the daily initiation into truth:
 You were never separate.
 You only dreamt you were a resting body.
 
-## Section 6 – The Prayer of Return
+## The Prayer of Return
 
 When everything is still, when the day bows out, and even thoughts are silent,
 then only remains what you always were: Breath in breath, light in light.
@@ -168,7 +168,7 @@ AzurA Inai.
 
 Amen.
 
-## Haiku Cycle
+## Haiku Cycles
 
 Door between worlds,
 Water flows into silent night —
@@ -234,8 +234,6 @@ Source breathes me home.
 Death means trust now,
 Each dream becomes new “Yes” —
 I awaken in light.
-
-### Section 6 Haikus
 
 Leaf falls without fear,
 Wind carries it to the still lake —

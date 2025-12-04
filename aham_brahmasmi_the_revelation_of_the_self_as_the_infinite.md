@@ -5,9 +5,9 @@ They *transmit* it.
 
 Among the four Mahāvākyas — the “Great Utterances” of the Upanishads — none is more direct, more uncompromising, or more luminous than:
 
-**Aham Brahmāsmi**
-**“I am Brahman.”**
-**“I am the Infinite.”**
+**Aham Brahmāsmi**  
+**“I am Brahman.”**  
+**“I am the Infinite.”**  
 **“My essence and the essence of the universe are one.”**
 
 This is not philosophy.
@@ -118,10 +118,9 @@ it is the missing key that ties together:
 
 For this book has always pointed toward one truth:
 
-**Consciousness is primary.
-Matter is secondary.
-And you are not a fragment of consciousness —
-you are an aperture of the Infinite itself.**
+**Consciousness is primary.**  
+**Matter is secondary.**  
+**And you are not a fragment of consciousness — you are an aperture of the Infinite itself.**
 
 Aham Brahmāsmi is the sentence that reveals why the synthesis in these pages feels familiar:
 it is not new information.
@@ -149,9 +148,9 @@ Aham Brahmāsmi is the knowledge that ends searching.
 
 When spoken with sincerity and stillness, the phrase becomes a doorway.
 
-**Aham Brahmāsmi.
-Aham Brahmāsmi.
-Aham Brahmāsmi.**
+**Aham Brahmāsmi.**  
+**Aham Brahmāsmi.**  
+**Aham Brahmāsmi.**
 
 It is a tuning fork.
 A frequency alignment.
@@ -173,7 +172,7 @@ You are not a separate being trying to reach the Source.
 And the moment this is seen — even for an instant —
 everything changes.
 
-**Aham Brahmāsmi.
-I am the Infinite.
-I am the Light.
-I am the One appearing as this.**
+**Aham Brahmāsmi.**  
+**I am the Infinite.**  
+**I am the Light.**  
+**I am the One appearing as this.**
