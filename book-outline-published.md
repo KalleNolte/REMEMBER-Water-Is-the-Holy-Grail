@@ -16,7 +16,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [The North Star Vow](./the_north_star_vow.md)  
 	A declaration of coherence, intention, and service. The vow at the center of the work, clarifying mission, vision, and daily orientation.
 * [Consciousness Anchoring Invitation](./consciousness_anchoring_invitation.md)  
-	Welcomes the reader. Sets intention, trust, and orientation.
+	An opening field of resonance rather than persuasion; an ancient remembrance taking the form of a book, anchoring intention, trust, and orientation in the reader’s own water, light, and memory.
 * [Encoded Self](./encoded_self.md)  
 	The reader is part of the code, not a spectator.
 * [Language Calibration](./language-calibration.md)  

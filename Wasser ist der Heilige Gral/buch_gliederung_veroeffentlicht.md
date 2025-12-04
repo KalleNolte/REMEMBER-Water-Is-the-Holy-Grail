@@ -1,6 +1,6 @@
 # OFFIZIELLE VERÖFFENTLICHTE GLIEDERUNG (DEUTSCH – IN ARBEIT)
 
-Diese Gliederung bildet die bereits übersetzten deutschen Kapitel in ihrer energetisch optimierten, initiatischen Reihenfolge ab. Sie ist die deutsche Spiegelung der veröffentlichten Struktur und dient als Navigationshilfe für Leserinnen, Leser und Mitwirkende.
+Diese Gliederung bildet die bereits übersetzten deutschen Kapitel in ihrer energetisch optimierten, initiatischen Reihenfolge ab. Sie ist die deutsche Spiegelung der veröffentlichten Struktur und dient als Navigationshilfe für Leser und Mitwirkende.
 
 ## Eine initiatische Reise durch Wasser, Erinnerung und Bewusstsein
 
@@ -20,19 +20,17 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Das Nordstern-Gelübde](./das_nordstern_geluebde.md)  
   Ein Gelübde von Kohärenz, Intention und Dienst – der Schwur im Zentrum des Werkes, der Mission, Vision und tägliche Ausrichtung klärt.
 
-* [Bewusstseins-Verankerung – Eine Einladung](./bewusstseins_verankerung_eine_einladung.md)  
-  Heißt die Leserin, den Leser willkommen und setzt Intention, Vertrauen und Ausrichtung.
+* [Bewusstseinsverankerung – Eine Einladung](./bewusstseins_verankerung_eine_einladung.md)  
+  Ein stilles Resonanzfeld – eine alte Erinnerung in Buchform, die Intention, Vertrauen und Ausrichtung im eigenen Wasser und Licht weckt und verankert.
 
 * [Codiertes Selbst – Das Gefäß der Erinnerung](./codiertes_selbst_das_gefaess_der_erinnerung.md)  
-  Die Leserin, der Leser ist Teil des Codes – nicht bloße*r Zuschauer*in.
+  Der Leser ist Teil des Codes – nicht nur Zuschauer.
 
 * [Sprachkalibrierung – Die Sprache des Lichts](./sprach_kalibrierung_die_sprache_des_lichtes.md)  
   Stimmt Frequenz, Ton und Resonanz – kalibriert den Kanal.
 
 * [Der Weg des Wasserträgers](./der_weg_des_wassertraegers.md)  
   Deklaration von Bestimmung, Präsenz und reiner Intention – der innere Kompass und Ikigai des Werkes, der Intention und Ursprung verbindet.
-
----
 
 ### I. Ursprung – Das Erwachen des Autors
 
@@ -44,7 +42,5 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 
 * [Kapitel I – Die Rückkehr der Zahl](./prolog_die_rueckkehr_der_zahl.md)  
   Die Geburt der Zahl als Erinnerung des Einen – eine poetische Einführung in Zahl, Rhythmus und heilige Proportion.
-
----
 
 *Hinweis:* Diese deutsche Gliederung wird fortlaufend ergänzt, sobald weitere Kapitel übersetzt und kalibriert sind. Sie spiegelt die offizielle, veröffentlichte Struktur des englischen Werkes wider, beginnend mit Abschnitt „0. Siegel & Intention – Die Schwelle des Tempels“.*
