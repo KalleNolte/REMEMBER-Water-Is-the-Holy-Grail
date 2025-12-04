@@ -157,8 +157,11 @@ This repository is best experienced by following the initiatic order below, mirr
 - [Remembrance Through Water and Love](./remembrance_through_water_and_love.md)
 - [The Path of the Waterbearer](./the_path_of_the_waterbearer.md)
 - [The Waters of Forgiveness](./the_waters_of_forgiveness.md)
+- [Unconditional Love — The Gravity of God](./unconditional_love_the_gravity_of_god.md)
+- [Hoʻoponopono — The Art of Returning the Heart to Its Original Clarity](./hooponopono_the_art_of_returning_the_heart_to_its_original_clarity.md)
 - [Trust in God](./trust_in_god.md)
 - [The Gift of Pure Awareness](./the_gift_of_pure_awareness.md)
+ - [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)
 
 #### VIII. Protection, Authorship
 - [KPN AzurA Timestamp 141125.txt / .ots](./KPN_AzurA_Timestamp_141125.txt)

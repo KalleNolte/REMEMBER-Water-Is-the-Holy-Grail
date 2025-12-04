@@ -249,10 +249,15 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Where science meets spirit, and the heart returns to Source. Forgiveness as the intelligence that restores flow, coherence, and unity—integrating all previous teachings and opening the river of return.
 * [Unconditional Love — The Gravity of God](./unconditional_love_the_gravity_of_god.md)  
 	Unconditional love as the gravity that draws all things toward coherence, unity, and wholeness. Where physics, water, and the heart converge.
+* [Hoʻoponopono — The Art of Returning the Heart to Its Original Clarity](./hooponopono_the_art_of_returning_the_heart_to_its_original_clarity.md)  
+	An inner purification practice of four simple phrases. Hoʻoponopono as emotional filtration system, memory transmutation, and the final cleansing of the inner waters before resting as pure awareness.
 * [Trust in God](./trust_in_god.md)  
 	The crown jewel and closing frequency. Trust as the infinite safety of being carried by the One. The final breath into the reader’s heart.
 * [The Gift of Pure Awareness](./the_gift_of_pure_awareness.md)  
 	The stillness that contains the stars. The ultimate return to pure awareness, the silent source, and the unchanging witness within all.
+
+* [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)  
+	A closing benediction on remembrance, coherence, and the realization that Source was never left. The final bridge from teaching into lived embodiment.
 
 ### VIII. Protection, Authorship
 * [KPN AzurA Timestamp 141125.txt / .ots](./KPN_AzurA_Timestamp_141125.txt)  
