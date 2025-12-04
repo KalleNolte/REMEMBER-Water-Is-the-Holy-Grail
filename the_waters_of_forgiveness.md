@@ -25,7 +25,7 @@ the mind, when freed from resentment, regains its natural coherence.
 Forgiveness is not a gift we give to another.
 It is a homecoming we offer ourselves.
 
-## 1. The Science of Release — Why Forgiveness Heals the System
+## The Science of Release — Why Forgiveness Heals the System
 
 Forgiveness is not merely emotional.
 It is neurobiological.
@@ -53,7 +53,7 @@ Forgiveness is the reset of perception.
 It returns us to neutrality —
 the zero-point from which creativity, clarity, and love can emerge.
 
-## 2. The Spiritual Dimension — Returning to the River of Life
+## The Spiritual Dimension — Returning to the River of Life
 
 In every mystical tradition, forgiveness is seen as the gateway to remembrance:
 - In Buddhism: the release of clinging and aversion
@@ -76,7 +76,7 @@ even when it looked like breaking.
 
 Forgiveness is the soul remembering its original light.
 
-## 3. Water — The Living Metaphor of Transmutation
+## Water — The Living Metaphor of Transmutation
 
 Water is the teacher of forgiveness.
 
@@ -113,7 +113,7 @@ forgiveness supports coherent consciousness.
 
 Forgiveness is inner coherence restored.
 
-## 4. The Paradox: Forgiveness Without Minimization
+## The Paradox: Forgiveness Without Minimization
 
 Forgiveness is not an erasure of boundaries.
 
@@ -130,7 +130,7 @@ Forgiveness is not compliance.
 
 Forgiveness is freedom.
 
-## 5. The Practice — A Gentle Return to the Heart
+## The Practice — A Gentle Return to the Heart
 
 Here is the simplest forgiveness process —
 not as dogma but as an invitation:
@@ -177,7 +177,7 @@ Only flow.
 
 Let the hurt dissolve into something larger than you.
 
-## 6. When Forgiveness Becomes Enlightenment
+## When Forgiveness Becomes Enlightenment
 
 At its highest expression, forgiveness becomes something extraordinary:
 
@@ -204,7 +204,7 @@ Forgiveness is the threshold where the human becomes the luminous.
 
 Forgiveness is the remembrance that love was always the foundation beneath the story.
 
-## 7. The Final Understanding — Forgiveness as Return to Source
+## The Final Understanding — Forgiveness as Return to Source
 
 Forgiveness is the softest of powers.
 
