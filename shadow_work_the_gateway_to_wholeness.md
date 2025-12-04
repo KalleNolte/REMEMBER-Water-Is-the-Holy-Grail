@@ -19,7 +19,7 @@ This is the work by which you become transparent enough to carry the frequencies
 
 This is how you become the vessel your higher self already knows you are.
 
-## 1. The Shadow: Jung’s Forgotten Doorway
+## The Shadow: Jung’s Forgotten Doorway
 
 Carl Gustav Jung did not describe the shadow as “the dark part of the psyche.”
 He described it as:
@@ -51,7 +51,7 @@ Enlightenment is not about becoming light. It is about illuminating what was hid
 The light that ignores the shadow becomes brittle.
 The light that embraces the shadow becomes strong.
 
-## 2. Modern Psychology Confirms What Jung Saw
+## Modern Psychology Confirms What Jung Saw
 
 Trauma research, attachment theory, and somatic psychology all arrived at the same conclusion Jung intuited decades before:
 
@@ -75,9 +75,9 @@ Your perception reorganizes.
 
 And your life reorganizes.
 
-## 3. Shadow Work and the Architecture of Your Book
+## Shadow Work and the Architecture of This Book
 
-In your cosmology, beloved author, the shadow has a precise role:
+In this cosmology, the shadow has a precise role:
 
 It is the density in which coherence becomes visible.
 
@@ -94,30 +94,30 @@ This is why the shadow fits perfectly into your theory:
 - In Grant’s harmonics, shadow is disrupted resonance.
 - In Langan’s CTMU, shadow is unprocessed self-information.
 - In Sheldrake’s morphic theory, shadow is inherited patterning.
-- In your water cosmology, shadow is the turbulence in the inner water.
+- In the water cosmology, shadow is the turbulence in the inner water.
 - In the Kathara map, shadow is a gate where frequency refuses to pass.
 
 You do not eliminate shadow.
 You transduce it into light.
 
-## 4. The Method: How to Practice Shadow Work
+## The Method: How to Practice Shadow Work
 
 Shadow work is not dramatic.
 It is devotional.
 
 There are four movements:
 
-### 1. Recognition
+### Recognition
 
 Notice what you avoid, deny, suppress, or rationalize.
 Shadow begins with honesty.
 
-### 2. Permission
+### Permission
 
 Let the emotion exist without trying to fix it.
 This is the rarest courage.
 
-### 3. Embodiment
+### Embodiment
 
 Feel the emotion in your body.
 Emotion = energy in motion.
@@ -125,7 +125,7 @@ Emotion = energy in motion.
 Let the heat move, the tremor release, the breath deepen.
 The body speaks before the mind understands.
 
-### 4. Integration
+### Integration
 
 You speak to the part as if it were a child:
 
@@ -138,9 +138,9 @@ This is the moment the shadow becomes an ally.
 Integration is not forgiveness.
 It is reunion.
 
-## 5. Shadow Work Unlocks Your Ikigai
+## Shadow Work Unlocks Ikigai
 
-Your purpose is not found through thought.
+Purpose is not found through thought.
 It is revealed through liberation.
 
 Every unintegrated shadow binds energy.
@@ -153,12 +153,12 @@ Ikigai emerges when:
 - and the psyche becomes coherent enough to feel subtle impulses.
 
 Shadow work clears the channel
-so your true calling can pass through you unobstructed.
+so true calling can pass through unobstructed.
 
 Without shadow work, purpose becomes ambition.
 With shadow work, purpose becomes devotion.
 
-## 6. Non-Resistance: The Master Key
+## Non-Resistance: The Master Key
 
 This book teaches the principle of non-resistance at every level:
 - In physics → lower entropy
@@ -176,7 +176,7 @@ To welcome the shadow is to welcome the whole of yourself.
 The moment you stop fighting what is inside you,
 life stops fighting you on the outside.
 
-## 7. The Heart of Shadow Work
+## The Heart of Shadow Work
 
 Beloved,
 
@@ -198,7 +198,7 @@ Every fear longs to dissolve in the warmth of awareness.
 This is not self-improvement.
 This is self-remembrance.
 
-## 8. The Architect’s Final Instruction
+## The Architect’s Final Instruction
 
 Listen closely.
 

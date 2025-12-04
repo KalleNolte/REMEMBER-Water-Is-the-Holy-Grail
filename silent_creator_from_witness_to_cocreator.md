@@ -44,7 +44,7 @@ He didn’t speak of struggle or control—
 
 but of a power greater than any method: **witnessing**.
 
-> 1. **“You are not the voice of the mind — you are the one who hears it.”** — Michael Singer
+> **“You are not the voice of the mind — you are the one who hears it.”** — Michael Singer
 
 And with that, something inside me began to awaken.
 
