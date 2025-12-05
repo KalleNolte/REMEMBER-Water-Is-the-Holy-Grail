@@ -17,6 +17,9 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Das Siegel der Rückkehr](./das_siegel_der_rueckkehr.md)  
   Öffnet Herz, Erinnerung und Hingabe – aktiviert das Feld der Rückkehr.
 
+* [Kohärenz – Die unsichtbare Ordnung, die alles verbindet](./kapitel_kohaerenz_unsichtbare_ordung_die_alles_verbindet.md)  
+  Führt Kohärenz als zentrales Brückenkonzept zwischen Wissenschaft, Wasser, Spiritualität und gelebter Erfahrung ein und rahmt den roten Faden des gesamten Buches.
+
 * [Das Nordstern-Gelübde](./das_nordstern_geluebde.md)  
   Ein Gelübde von Kohärenz, Intention und Dienst – der Schwur im Zentrum des Werkes, der Mission, Vision und tägliche Ausrichtung klärt.
 
