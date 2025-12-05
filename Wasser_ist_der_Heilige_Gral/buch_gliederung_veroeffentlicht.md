@@ -54,6 +54,9 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Wasser als fünfdimensionale Schnittstelle](./wasser_fuenfdimensionale_schnittstelle.md)  
   Wasser als fünfdimensionale Schnittstelle – eine Synthese aus Grant, CTMU und dem Architekten, die Wasser als lebendige Brücke zwischen Bewusstsein und Form zeigt.
 
+* [Evidenzkette – Wasser ist der Heilige Gral](./evidenzkette_wasser_ist_der_heilige_gral.md)  
+  Eine multidisziplinäre Evidenzkette für Wasser als Heiligen Gral – als Erinnerungsmedium, Lichtleiter und harmonische Brücke zwischen Mathematik, Physik, Biologie und Bewusstsein.
+
 ### III. Der Mensch – Heilung, Erinnerung, Transformation
 
 * [Die Wunde, die zu Licht wird](./die_wunde_die_zu_licht_wird.md)  
