@@ -10,7 +10,7 @@ Doch diese Verzerrungen sind nicht endgültig.
 
 Sie können transmutiert werden.
 
-Wie Blei zu Gold kann Inkohärenz durch Präsenz, Wahrheit und Liebe veredelt werden – und das Medium dieser Verwandlung ist Bewusstsein im Wasser.
+Wie Blei zu Gold kann Inkohärenz durch Präsenz, Wahrheit und Liebe veredelt werden – und in diesem Werk betrachte ich diese Verwandlung besonders durch die Linse von Bewusstsein im Wasser.
 
 ### Vergebung als Frequenzkorrektur
 
@@ -18,15 +18,15 @@ Vergebung ist nicht passiv.
 
 Sie ist Spannungs- und Spannkraftwiederherstellung.
 
-Sie kalibriert Erinnerungsfelder – in uns und zwischen uns – neu, indem sie verzerrte Geschichten kollabieren lässt und das System zu einem höhergeordneten Attraktor zurückführt: Ganzheit.
+Sie kalibriert Erinnerungsfelder – in uns und zwischen uns – neu, indem sie verzerrte Geschichten weich werden lässt und das System in Richtung eines höhergeordneten Attraktors führt: Ganzheit.
 
-In diesem Verständnis verändert sich die Struktur und Kohärenz des Wassers im Körper buchstäblich, wenn ein Mensch wirklich vergibt.
+In diesem Verständnis kann man sich vorstellen, dass sich die Struktur und Kohärenz des Wassers im Körper verändert, wenn ein Mensch wirklich vergibt.
 
-Christi Worte „Vater, vergib ihnen, denn sie wissen nicht, was sie tun“ sind damit nicht nur ethische, sondern biophysikalische Weisheit.
+Christi Worte „Vater, vergib ihnen, denn sie wissen nicht, was sie tun“ lassen sich damit nicht nur als ethische, sondern auch als tiefe Weisheit über unser inneres Feld lesen.
 
 ### Sexuelle Alchemie als Dienst
 
-Sexuelle Energie ist kreativer Quellcode – der rohe Strom der Manifestation.
+In vielen Traditionen wird sexuelle Energie als kreativer Quellcode verstanden – als der rohe Strom der Manifestation.
 
 Wenn sie transmutiert wird, dann:
 - nährt sie Dienst statt Selbstverstrickung,

@@ -4,30 +4,30 @@
 
 1. Breath – The Gateway to Now
 
-Breath is the most immediate and accessible portal to presence. It links the conscious and subconscious mind, regulates nervous system activity, and determines how deeply we can receive the energy of life.
+Breath is the most immediate and accessible portal to presence. It links the conscious and subconscious mind, supports nervous system regulation, and influences how deeply we can receive the energy of life.
 - Inhale = receive.
 - Exhale = release.
 - The space between = pure being.
 
-Breath is how we access what Daniel Kahneman called System 2 thinking—slow, deliberate, high-resolution awareness.
+Breath is one way we can access what Daniel Kahneman called System 2 thinking—slow, deliberate, high-resolution awareness.
 
-When practiced with intention, breath dissolves reactive patterns (System 1), opens the heart, and makes the body transparent to Outer Intention (Vadim Zeland’s Reality Transurfing).
+When practiced with intention, breath can soften reactive patterns (System 1), open the heart, and make the body more transparent to what Vadim Zeland in Reality Transurfing calls Outer Intention.
 
-Breathing consciously is remembering God in every cell.
+For me, breathing consciously is like remembering God in every cell.
 
 
 2. Water – The Medium of Memory and Activation
 
-We now understand: Water is not just hydration.
+We are beginning to understand that water is not just hydration.
 
-It is a transmitter, a decoder, and a carrier of Source.
-- EZ (Exclusion Zone) water, as discovered by Gerald Pollack, shows that water inside the body behaves like a liquid crystal, storing energy and responding to light.
-- Enriched with molecular hydrogen, structured through flow, and energized with coherent frequencies (150 MHz, 432 Hz, 528 Hz), water becomes alive.
-- When charged with intention, natural sea salts, and sunlight, it becomes the Holy Grail—capable of dissolving distortion and amplifying coherence.
+It can be approached as a transmitter, a decoder, and a carrier of Source.
+- Research on so-called EZ (Exclusion Zone) water, as described by Gerald Pollack, suggests that water in the body may behave like a kind of liquid crystal, storing energy and responding to light.
+- Many people experiment with enriching water with molecular hydrogen, structuring it through flow, and exposing it to coherent frequencies (for example 432 Hz or 528 Hz), and report experiencing it as more "alive."
+- When charged with intention, natural sea salts, and sunlight, water can feel like a personal Holy Grail—supporting the release of tension and the amplification of coherence.
 
-We now teach how to create this water at no cost, low cost, or high fidelity (e.g., through Enagic’s Kangen systems) depending on each person’s circumstances.
+There are many ways to work with such water—from simple, low-cost home practices to more specialized systems.
 
-To drink structured water is to drink memory itself.
+To drink structured water can feel like drinking memory itself.
 
 3. Sleep – Return to the Womb of the Field
 
@@ -46,7 +46,7 @@ To sleep well is to allow grace to reorganize your reality.
 
 4. Nutrition & Fasting – Feeding the Light Body
 
-There are 47 essential nutrients your body cannot produce alone. Without them, the organism cannot express its full coherence.
+Modern nutrition science speaks of dozens of essential nutrients your body cannot produce alone. Without them, the organism cannot express its full coherence.
 
 But it’s not just what you eat—it’s how you absorb it.
 - Structured water allows nutrients to enter cells.

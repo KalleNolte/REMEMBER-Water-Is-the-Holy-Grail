@@ -10,7 +10,7 @@ But these distortions are not fixed.
 
 They can be transmuted.
 
-Like lead into gold, incoherence can be refined through presence, truth, and love — and the medium through which this transformation occurs is consciousness in water.
+Like lead into gold, incoherence can be refined through presence, truth, and love — and in this work I explore that transformation especially through the lens of consciousness in water.
 
 ### Forgiveness as Frequency Correction
 
@@ -18,15 +18,15 @@ Forgiveness is not passive.
 
 It is voltage restoration.
 
-It recalibrates memory fields — both within and between people — by collapsing distorted narratives and returning the system to a higher-order attractor: wholeness.
+It recalibrates memory fields — both within and between people — by softening distorted narratives and returning the system toward a higher-order attractor: wholeness.
 
-In this understanding, water within the body literally shifts in structure and coherence when one fully forgives.
+In this understanding, one can imagine the water within the body shifting in structure and coherence when one fully forgives.
 
-Christ’s teaching, “Forgive them, for they know not what they do,” is thus not only ethical — it is biophysical wisdom.
+Christ’s teaching, “Forgive them, for they know not what they do,” is thus not only ethical — it can also be read as deep wisdom about our inner field.
 
 ### Sexual Alchemy as Service
 
-Sexual energy is creative source code — the raw current of manifestation.
+In many traditions, sexual energy is seen as creative source code — the raw current of manifestation.
 
 When transmuted, this energy:
 - Fuels service, not self-indulgence.
