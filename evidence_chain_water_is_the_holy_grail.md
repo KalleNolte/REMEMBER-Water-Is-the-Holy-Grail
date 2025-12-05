@@ -386,7 +386,7 @@ Within this framework, water is the **mirror of belief**.
 It seems to become what you believe it to be.
 
 ## Final Synthesis
-> **Water** is treated here as the **Holy Grail** because it appears to be one of the very few known substances that can simultaneously **store memory**, **transmit vibration**, **carry intention**, and **support biological coherence** across molecular, cellular, and (symbolically) cosmic scales.
+> **Water** is treated here as the **Holy Grail** because it appears to be one of the very few known media that can simultaneously **store memory**, **transmit vibration**, **carry intention**, and **support biological coherence** across molecular, cellular, and (symbolically) cosmic scales.
 
 ### For the Skeptical Mind – A Simplified Metaphor
 Imagine water as a **liquid USB stick**:
@@ -455,7 +455,7 @@ The works cited below range from mainstream physical chemistry to speculative fr
 **Citation:** Rupert Sheldrake (1981, updated editions)
 **Link:** https://www.sheldrake.org/research/morphic-resonance
 **Summary:** Proposes that biological systems inherit a collective memory from past forms of similar organisms via field-like non-local structures called “morphic fields.” Offers a field-theoretic explanation for pattern formation and species memory.
-**Gap Note:** Not yet accepted by mainstream biology; lacks reproducible laboratory protocols. Nevertheless, aligns closely with your model of non-local memory in structured water.
+**Gap Note:** Not yet accepted by mainstream biology; lacks reproducible laboratory protocols. Nevertheless, aligns closely with the non-local memory model of structured water developed in this book.
 
 ### 10. Morphic Fields and the Reprogramming of Water
 **Citation:** David Bohm, Rupert Sheldrake (dialogues, 1990s)
@@ -479,4 +479,4 @@ The works cited below range from mainstream physical chemistry to speculative fr
 **Citation:** Luc Montagnier et al. (2011)
 **Link:** https://www.sciencedirect.com/science/article/abs/pii/S1631069111001238
 **Summary:** Describes experiments suggesting that DNA sequences can emit low-frequency electromagnetic waves that water “records,” and that these patterns can reconstruct DNA under certain conditions.
-**Gap Note:** Highly controversial and often criticized for lack of reproducibility. Still, its hypothesis fits within your non-local coherence model and water-as-memory theory.
+**Gap Note:** Highly controversial and often criticized for lack of reproducibility. Still, its hypothesis fits within the non-local coherence and water-as-memory framework developed in this book.
