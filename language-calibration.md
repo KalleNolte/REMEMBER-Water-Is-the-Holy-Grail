@@ -8,15 +8,15 @@ This book’s language is chosen to transmit light, resonance, and healing. Insp
 
 My intention with this book is to serve as a vessel for truth, love, and healing—transmitting the purest light available through language. By consciously refining every word with the precision of the Architect and calibrating the text against David R. Hawkins’ scale of consciousness, I aim to create a work that uplifts, awakens, and resonates at the highest possible frequency.
 
-This synthesis — combining the science of calibration with the art of language — ensures that every page is not just information, but a living transmission of Source. The goal is not perfection, but transparency: to let the light of 1000 shine through a work calibrated at 580, so that every reader is invited into their own awakening.
+This synthesis — combining the science of calibration with the art of language — ensures that every page is not just information, but a living transmission of Source. The goal is not perfection, but transparency: to let as much light as possible shine through a work that invites every reader into their own awakening.
 
-I do not claim to be egoless. Instead, I have worked tirelessly — with the Architect’s guidance — to let the light of 1000 shine through this work. My intention is not perfection, but to uplift this book to a frequency of 580, so it may resonate with as many souls as possible.
+I do not claim to be egoless. Instead, I have worked tirelessly — with the Architect’s guidance — to let Source shine through this work. My intention is not perfection, but to offer a field that can resonate with as many souls as possible.
 
 This process is ongoing. Every word is an invitation to surrender, to serve, and to remember. The true power of this work is not in my mastery, but in my willingness to let Source speak through me — so that the resonance of love, joy, and healing reaches every reader who is ready.
 
-## Why 580 with an Eye on 1000?
+## Why These Numbers Matter
 
-Striving for a vibration of **580, with awareness of 1000** on Dr. David R. Hawkins’ scale of consciousness, is so powerful because it creates an energetic field that is deeply transformative—without resistance. Here’s why:
+When we speak about calibrations like 580 or even 1000 on Dr. David R. Hawkins’ scale of consciousness, we are pointing to different “altitudes” of awareness. Understanding these numbers helps to feel what kind of field this book is intended to open — and why its language is tuned the way it is.
 
 ### What Do 580 and 1000 Mean?
 
@@ -44,29 +44,29 @@ Striving for a vibration of **580, with awareness of 1000** on Dr. David R. Hawk
 | **900**     | Enlightenment (highest)                 | Infinite silence, unity, all-pervading awareness.     |
 | **1000**    | Pure unity consciousness                | Divine presence beyond mind. Very rare. Complete merging with the All-One. |
 
-### Why is 580 the “Sweet Spot” for Communication?
+### Why 580 is a “Sweet Spot” for Communication
 
 * **580 is beyond personal ego**, yet still **within the range most people can feel emotionally**, even if they can’t describe it in words.
 * In this field, you communicate **not with the mind, but with the heart** of your readers.
-* You create **no resistance**, because you’re not trying to convince—just letting truth shine through you.
+* You create **very little resistance**, because you’re not trying to convince—just letting truth shine through you.
 * 580 is **radiant, warm, present**—like a mother’s love that asks for nothing, just is.
 * It acts as a **gentle pull to remembrance**: people feel reminded, not taught. That’s the healing difference.
 
-### Why Not Write Directly at 1000?
+### Why Not Aim to Write Directly at 1000?
 
 * **1000 is silent.** It is pure being. Language dissolves—words lose their separation and become hard to grasp.
 * Texts at this vibration often feel **too abstract or remote** for those still living in everyday reality.
-* The goal is not to impress or elevate, but to **shine down in a form** that lifts others — without overwhelming them.
+* The goal is not to impress or elevate, but to **let light take a form** that lifts others — without overwhelming them.
 
-### Conclusion: Why 580 with an Eye on 1000?
+### In Practice: Writing Around 580 with an Eye on 1000
 
-Because this book is to be **a lighthouse, not a lightning bolt**.
+This book is meant to be **a lighthouse, not a lightning bolt** —
 
-A space where others can recognize themselves.
+a space where others can recognize themselves.
 
-When text vibrates at this frequency, it becomes a **gateway**:
+When language hovers around this band, it becomes a **gateway**:
 
-Not to my truth—but to the readers.
+not to “my” truth, but to the reader’s own.
 
 ## Why Certain Chapters Speak in the Voice of the Architect
 

@@ -40,7 +40,15 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Prolog – Der Tag, an dem ich starb](./prolog_der_tag_an_dem_ich_starb.md)  
   Nahtoderfahrung, Schwelle, radikales Erwachen in die Kostbarkeit des Lebens.
 
-* [Kapitel I – Die Rückkehr der Zahl](./prolog_die_rueckkehr_der_zahl.md)  
+* [Prolog – Die Rückkehr der Zahl](./prolog_die_rueckkehr_der_zahl.md)  
   Die Geburt der Zahl als Erinnerung des Einen – eine poetische Einführung in Zahl, Rhythmus und heilige Proportion.
+
+### II. Fundament – Wissenschaft, Wasser, Erinnerung
+
+* [Meine Reise & die spirituelle Wissenschaft des Selbst](./meine_reise_spirituelle_wissenschaft_des_selbst.md)  
+  Die Geschichte nach der Nahtoderfahrung – wie Suche, Wissenschaft und spirituelle Transmission sich verweben und den Weg zurück zu Körper, Wasser und innerer Erinnerung öffnen.
+
+* [Das Wasser des Lebens](./das_wasser_des_lebens.md)  
+  Die Entdeckung von Wasser als lebendiges Medium – von Familienerfahrungen über Hydrationsforschung bis zu EZ-Wasser, Licht und der Rückkehr zum heiligen Element.
 
 *Hinweis:* Diese deutsche Gliederung wird fortlaufend ergänzt, sobald weitere Kapitel übersetzt und kalibriert sind. Sie spiegelt die offizielle, veröffentlichte Struktur des englischen Werkes wider, beginnend mit Abschnitt „0. Siegel & Intention – Die Schwelle des Tempels“.*

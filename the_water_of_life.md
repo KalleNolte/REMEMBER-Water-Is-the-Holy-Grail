@@ -37,8 +37,6 @@ And I knew:
 If I truly wished to understand the body, health, consciousness, and the architecture of reality itself,
 then I had to understand water.
 
----
-
 ## A Family Awakens
 
 The real shift began when my parents offered my sister and her partner a Kangen machine as a wedding gift.
@@ -54,8 +52,6 @@ Moods lifted.
 There was something alive in this water—something long forgotten but now remembered by the body.
 
 I watched this unfold with the wonder of a child who realizes for the first time that fire is not just dangerous, but also warm. That it can burn—but also heal.
-
----
 
 ## The Doctor Who Listened to Thirst
 
@@ -73,7 +69,7 @@ The body crying out not for medicine—but for water.
 
 But not just any water.
 
-Structured, mineralized, electrically active water.
+Structured, mineralized, electrically alive water.
 
 He described histamine, typically seen as a troublemaker in allergic reactions, as the body’s primary water regulator—rising when hydration was insufficient, not to attack, but to conserve.
 
@@ -122,9 +118,7 @@ This wasn’t a fringe finding—it was repeatable, visible under microscopes, a
 
 Our bodies, it turns out, are not mostly filled with “liquid water” in the conventional sense.
 
-They are composed of EZ water—a structured, crystalline form that vibrates in harmony with life.
-
----
+They are composed of EZ water—a structured, crystalline form that vibrates in harmony with life, a quiet architecture of what traditions once called the “water of life.”
 
 ## Light and the Body’s Energy Field
 

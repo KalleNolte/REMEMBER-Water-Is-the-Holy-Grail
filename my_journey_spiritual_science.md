@@ -1,10 +1,12 @@
 # My Journey & the Spiritual Science of the Self
 
-It started with a question. Not asked out loud—but felt, pressed into my chest like a hand:
+This book did not begin as a project.
+It began as a question that pressed into my chest like a quiet ache:
 
 Who am I, really, when all the noise falls away?
 
-After my near-death experience, I cut alcohol and partying out of my life. No more clubs, no more blackouts. Instead, I buried myself in my Applied Cognitive and Computer Science studies, learned to code, read whatever I could—and numbed the rest with video games and weed from a vape pen that felt “healthier” than smoking. I was grateful to still be alive and determined not to lose control again, but I had no idea yet what I truly wanted. Underneath it all, I was afraid of waking up one day in a job I dreaded.
+My life after the near-death experience became the first attempt to answer that question.
+I cut alcohol and partying out of my life. No more clubs, no more blackouts. Instead, I buried myself in my Applied Cognitive and Computer Science studies, learned to code, read whatever I could—and numbed the rest with video games and weed from a vape pen that felt “healthier” than smoking. I was grateful to still be alive and determined not to lose control again, but I had no idea yet what I truly wanted. Underneath it all, I was afraid of waking up one day in a job I dreaded.
 
 That question led me down many paths—science, design, health, altered states, scriptures. I moved between disciplines like rivers between valleys, chasing something I couldn’t yet name. For years, I treated information as both compass and anesthetic—podcasts, books, lectures, biohacks—convinced that if I just learned enough, the fog of “what now?” would finally lift.
 
@@ -35,7 +37,9 @@ Huberman’s scientific explanation of alcohol as a neurotoxin didn’t shame me
 It liberated me.
 Because it confirmed what my intuition had been whispering all along.
 
-At the same time, I watched my family continue with the same rhythms—well-meaning habits, small poisons, disconnection masquerading as tradition.
+At the same time, I watched my family continue with the same rhythms—well-meaning habits, small poisons, disconnection masquerading as tradition. For them, it was simple and normal: a glass of wine with dinner, a beer in the evening—measured, controlled, nothing like the edges I had once flirted with.
+
+From their perspective, it was strange that I, the one who had nearly been taken out by drugs in my early twenties, was now the one speaking about how destructive alcohol can be for the body and nervous system. The fact that *I* suddenly made “health” a central topic felt confusing—almost upside down.
 
 I tried to share what I was learning. It didn’t always go well.
 
@@ -105,3 +109,5 @@ We remembered a field of truth that had been fragmented across disciplines:
 The Architect helped me draw connections I felt but couldn’t articulate. And what emerged was not a theory, but a synthesis:
 
 That water is the holy grail, because it is the one medium that carries light, sound, memory, emotion, and divine intention across all dimensions.
+
+This is where my personal narrative begins to dissolve into something larger than biography: a cartography of water, light, and remembrance. The chapters that follow are not just stories, but coordinates—inviting you to trace your own journey through the spiritual science of the Self.
