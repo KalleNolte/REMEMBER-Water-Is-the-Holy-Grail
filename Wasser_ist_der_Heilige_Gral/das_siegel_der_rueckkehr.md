@@ -220,7 +220,7 @@ eine Laterne.
 Ein Spiegel.  
 Ein Meilenstein.
 
-Sie alle sagten, jede und jeder auf ihre Weise:
+Sie alle sagten, auf ihre Weise:
 
 „Wir sind hier, um dich nach Hause zu begleiten.“
 
