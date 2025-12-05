@@ -26,7 +26,7 @@ This repository is best experienced by following the initiatic order below, mirr
 - [Prayer of Gratitude](./acknowledgements_prayer_of_gratitutde.md)
 - [The Physics of Gratitude — The Art of Seeing Through the Heart](./the_physics_of_gratitude.md)
 - [The Seal of Return](./the_seal_of_return.md)
-- [Coherence – The Invisible Order that Connects Everything](./chapter_coherence_invisible_order_that_connects_everything.md)
+ - [Coherence – The Invisible Order that Connects Everything](./coherence_invisible_order_that_connects_everything.md)
 - [The North Star Vow](./the_north_star_vow.md)
 - [Consciousness Anchoring Invitation](./consciousness_anchoring_invitation.md)
 - [Encoded Self](./encoded_self.md)

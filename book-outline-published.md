@@ -13,7 +13,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A scientific, poetic, and psychologically precise exploration of gratitude as coherence, perception, and the art of seeing through the heart; offering practical, evidence-based rituals for daily life.
 * [The Seal of Return](./the_seal_of_return.md)  
 	Opens the heart, remembrance, and devotion. Activates the field.
-* [Coherence – The Invisible Order that Connects Everything](./chapter_coherence_invisible_order_that_connects_everything.md)  
+* [Coherence – The Invisible Order that Connects Everything](./coherence_invisible_order_that_connects_everything.md)  
 	Introduces coherence as the central bridge concept between science, water, spirituality, and lived experience, framing the red thread of the entire book.
 * [The North Star Vow](./the_north_star_vow.md)  
 	A declaration of coherence, intention, and service. The vow at the center of the work, clarifying mission, vision, and daily orientation.
