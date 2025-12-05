@@ -24,7 +24,7 @@ This chapter is about Trust in God.
 Not as an idea.
 Not as a belief.
 Not as a doctrine.
-But as a direct experience of the One who breathes you, lives you, carries you.
+But as a direct experience of the One who breathes you, lives you, carries you — in every cell, in every heartbeat, in every drop of water in your body.
 
 ## The Softest Knowledge
 

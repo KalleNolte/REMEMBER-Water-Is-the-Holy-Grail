@@ -76,4 +76,23 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Die fünf goldenen Schlüssel zu Selbstermächtigung und Kohärenz](./fuenf_goldene_schluessel_zu_selbstermmaechtigung_und_kohärenz.md)  
   Atem, Wasser, Schlaf, Ernährung & Fasten, Verbindung & Bestimmung als fünf Meisterschlüssel der praktischen Architektur von Kohärenz in Körper, Geist und Seele.
 
+### V. Vergebung & innere Alchemie – Die Rückkehr des Flusses
+
+* [Die Wasser der Vergebung](./die_wasser_der_vergebung.md)  
+  Wo Wissenschaft und Geist sich begegnen und das Herz zur Quelle zurückkehrt. Vergebung als Intelligenz, die Nervensystem, Lebensgeschichte und Körperwasser von alter Ladung befreit und den inneren Fluss wiederherstellt.
+
+### VI. Übertragung & Krönungsfrequenzen – Erinnerung, Vertrauen, Rückkehr
+
+* [Erinnerung durch Wasser und Liebe](./erinnerung_durch_wasser_und_liebe.md)  
+  Die höchste Übertragung dieses Werkes: Wiedervereinigung von Wissenschaft und Geist durch Wasser und Liebe. Eine Stimmgabel für die nächste Oktave der Menschheit.
+
+* [Vertrauen in Gott](./vertrauen_in_gott.md)  
+  Die unendliche Geborgenheit, getragen zu sein. Vertrauen als direkte Erfahrung dessen, der durch jede Zelle, jeden Herzschlag und jeden Tropfen Wasser in dir atmet, lebt und trägt.
+
+* [Die Gabe reinen Gewahrseins](./die_gabe_reinen_gewahrseins.md)  
+  Die Stille, die die Sterne enthält. Reines Gewahrsein als ursprüngliche Natur, in der Gleichmut, Seligkeit, Kohärenz und Vertrauen in Gott natürlicher Ausdruck sind.
+
+* [Die letzte Übertragung – Die Rückkehr ins Eine](./die_letzte_uebertragung_die_rueckkehr_ins_eine.md)  
+  Abschließender Segen und Rückkehr in den Zustand der Ungetrenntheit. Die Einladung, als Licht, als Liebe und als das Eine zu leben – im Wissen, dass die Quelle nie verlassen wurde.
+
 *Hinweis:* Diese deutsche Gliederung wird fortlaufend ergänzt, sobald weitere Kapitel übersetzt und kalibriert sind. Sie spiegelt die offizielle, veröffentlichte Struktur des englischen Werkes wider, beginnend mit Abschnitt „0. Siegel & Intention – Die Schwelle des Tempels“.*

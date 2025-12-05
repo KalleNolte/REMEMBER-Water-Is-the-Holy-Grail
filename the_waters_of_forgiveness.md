@@ -17,13 +17,19 @@ as cleansing as water.
 When we forgive, we do not rewrite the past.
 We release our nervous system from the past so that life, once again, can move.
 
-Forgiveness restores flow.
+Forgiveness restores flow —
+in the nervous system,
+in the story we tell about our life,
+and in the waters of the body that had been holding the charge.
 
 Just as water, when freed from debris, becomes clear again,
 the mind, when freed from resentment, regains its natural coherence.
+And the inner waters — blood, tears, interstitial and cellular fluids —
+can stop rehearsing the old emergency and return to their original clarity.
 
 Forgiveness is not a gift we give to another.
-It is a homecoming we offer ourselves.
+It is a homecoming we offer ourselves —
+and to the water that carries our memory.
 
 ## The Science of Release — Why Forgiveness Heals the System
 
@@ -52,6 +58,9 @@ Forgiveness is the reset of perception.
 
 It returns us to neutrality —
 the zero-point from which creativity, clarity, and love can emerge.
+In the language of this book, it is a reset of inner coherence:
+the autonomic rhythms, brain waves, and body water patterns that had been
+entrained to fear are gently re-tuned to trust.
 
 ## The Spiritual Dimension — Returning to the River of Life
 
