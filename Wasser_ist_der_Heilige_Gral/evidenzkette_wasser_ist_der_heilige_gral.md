@@ -7,7 +7,7 @@ Bevor wir in Formeln, Studien und Modelle einsteigen, möchte ich dich direkt an
 In diesem Kapitel lade ich dich ein, gemeinsam mit mir eine **Evidenzkette** zu betrachten: keine starre Beweisführung, sondern eine sorgfältig gewebte Landkarte aus Wissenschaft, Geometrie, Biophysik und innerer Erfahrung. Du bist eingeladen, jeden Schritt mit deinem eigenen Herzen, deinem eigenen Verstand und deinem eigenen Wasser zu prüfen.
 
 ### Wie du diese Evidenzkette lesen kannst
--- Ich erkläre jede Formel und jedes Modell mit Mitgefühl und Klarheit – mit Quellenangaben und kurzen, zugänglichen Zusammenfassungen am Ende des Kapitels.
+- Ich erkläre jede Formel und jedes Modell mit Mitgefühl und Klarheit – mit Quellenangaben und kurzen, zugänglichen Zusammenfassungen am Ende des Kapitels.
 - Jede Passage ist klar gekennzeichnet als
     - **empirisch gestützte, weitgehend mainstream-kompatible Wissenschaft**,  
     - **Frontier-Forschung / theoretisches oder interpretatives Modell** oder  
