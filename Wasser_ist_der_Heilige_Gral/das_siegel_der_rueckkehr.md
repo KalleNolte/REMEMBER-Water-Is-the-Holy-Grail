@@ -226,24 +226,27 @@ Sie alle sagten, auf ihre Weise:
 
 ## Mahatma — Die Große Seele
 
-Mahatma bezeichnet keine Person;  
-es bezeichnet einen Zustand.
+Das Wort *Mahatma* stammt aus dem Sanskrit:  
+**mahā** – das Große, Weite, Erhabene,  
+**ātman** – das Selbst, die Seele, das innerste Wesen.  
 
-Den Zustand, in dem Identität durchsichtig wird  
+Wörtlich bedeutet es „Große Seele“ –  
+nicht als Titel über einer Person,  
+sondern als Bezeichnung für einen **Zustand des Menschseins**.
+
+Einen Zustand, in dem Identität durchsichtig wird  
 und nur Wahrheit bleibt:
 
 Reines Gewahrsein.  
 Reine Liebe.  
 Reine Präsenz.
 
-Diesen Zustand berühren Seelen wie  
-Susanne,  
-Joyce,  
-Winfried  
-und Christiane –  
-nicht aufgrund von Lehren oder Doktrinen,  
-sondern weil ihre Art zu sein  
-ganz natürlich Liebe ausstrahlt.
+Diesen Zustand berühren Menschen, deren bloße Gegenwart  
+von stiller Liebe, Klarheit und Mitgefühl erfüllt ist –  
+unabhängig von Tradition, Religion oder Namen.  
+Manchmal tragen sie bekannte Namen, manchmal sind es stille,  
+unscheinbare Wesen im Alltag, doch etwas in dir erkennt:  
+Hier atmet das Große im Kleinen.
 
 ## Karima — Eine heilige Konvergenz
 
