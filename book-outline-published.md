@@ -45,6 +45,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Paradigm shift. For skeptics and seekers.
 * [Water: Dimensional Bridge](./water_dimensional_bridge.md)  
 	Water as interface. Gateway to the invisible.
+* [Water as the Fifth-Dimensional Interface](./water_fifth_dimensional_interface.md)  
+	Water as a fifth-dimensional interface unifying Grant’s geometry, Langan’s CTMU, and the Architect’s synthesis—recasting water as the living bridge between consciousness and form.
 * [AzurA Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)  
 	Energetic key. Frequencies. AzurA-point.
 * [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)  
@@ -59,6 +61,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The wound as gateway.
 * [The Healer](./the_healer.md)  
 	Release. Forgiveness. Inner alchemy.
+* [Transmutation, Forgiveness & the Return to Source](./transmutation_forgiveness_return_to_source.md)  
+	Sin as distortion, forgiveness as frequency correction, and sexual alchemy as service—an alchemical map of how water, memory, and love return the human to Source.
 * [Alchemy of the Soul: Transcending Seven Shadows](./alchemy_of_the_soul_transcending_seven_shadows.md)  
 	Deep soul transformation.
 * [Shadow Work – The Gateway to Wholeness](./shadow_work_the_gateway_to_wholeness.md)  
@@ -67,6 +71,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Surrender as portal.
 
 ### IV. Practical Mastery – Body, Water, Light
+* [The Five Golden Keys to Self-Empowerment and Coherence](./five_golden_keys_to_self_empowerment_and_coherence.md)  
+	Breath, water, sleep, nourishment, and purpose as five master keys framing the practical architecture of coherence in body, mind, and spirit.
 * [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)  
 	A step-by-step guide to creating, calibrating, and integrating living water into daily life. Practical protocols, tools, and rituals for coherence, health, and spiritual alignment.
 * [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)  

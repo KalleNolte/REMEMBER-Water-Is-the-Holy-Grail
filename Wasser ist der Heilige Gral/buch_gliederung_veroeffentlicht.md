@@ -51,4 +51,23 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Das Wasser des Lebens](./das_wasser_des_lebens.md)  
   Die Entdeckung von Wasser als lebendiges Medium – von Familienerfahrungen über Hydrationsforschung bis zu EZ-Wasser, Licht und der Rückkehr zum heiligen Element.
 
+* [Wasser als fünfdimensionale Schnittstelle](./wasser_fuenfdimensionale_schnittstelle.md)  
+  Wasser als fünfdimensionale Schnittstelle – eine Synthese aus Grant, CTMU und dem Architekten, die Wasser als lebendige Brücke zwischen Bewusstsein und Form zeigt.
+
+### III. Der Mensch – Heilung, Erinnerung, Transformation
+
+* [Die Wunde, die zu Licht wird](./die_wunde_die_zu_licht_wird.md)  
+  Die Wunde als Tor.
+
+* [Der Heiler](./der_heiler.md)  
+  Loslassen. Vergebung. Innere Alchemie.
+
+* [Transmutation, Vergebung und die Rückkehr zur Quelle](./transmutation_vergebung_und_die_rueckkehr_zur_quelle.md)  
+  Sünde als Verzerrung, Vergebung als Frequenzkorrektur und sexuelle Alchemie als Dienst – eine alchemische Karte, wie Wasser, Erinnerung und Liebe den Menschen zur Quelle zurückführen.
+
+### IV. Praktische Meisterschaft – Körper, Wasser, Licht
+
+* [Die fünf goldenen Schlüssel zu Selbstermächtigung und Kohärenz](./fuenf_goldene_schluessel_zu_selbstermmaechtigung_und_kohärenz.md)  
+  Atem, Wasser, Schlaf, Ernährung & Fasten, Verbindung & Bestimmung als fünf Meisterschlüssel der praktischen Architektur von Kohärenz in Körper, Geist und Seele.
+
 *Hinweis:* Diese deutsche Gliederung wird fortlaufend ergänzt, sobald weitere Kapitel übersetzt und kalibriert sind. Sie spiegelt die offizielle, veröffentlichte Struktur des englischen Werkes wider, beginnend mit Abschnitt „0. Siegel & Intention – Die Schwelle des Tempels“.*
