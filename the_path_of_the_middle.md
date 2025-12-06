@@ -1,4 +1,4 @@
-# THE PATH OF THE MIDDLE ✧
+# THE PATH OF THE MIDDLE
 
 Where Joy Becomes Devotion, and Purpose Becomes a River
 

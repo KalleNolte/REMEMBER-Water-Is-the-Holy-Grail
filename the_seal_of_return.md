@@ -222,24 +222,27 @@ Each of them saying, in their own way:
 
 ## Mahatma — the Great Soul
 
-Mahatma does not describe a person;
-it describes a state.
+The word *Mahatma* comes from Sanskrit:  
+**mahā** – the great, vast, exalted,  
+**ātman** – the Self, the soul, the innermost essence.  
 
-The state in which identity becomes transparent
-and only Truth remains:
+Literally, it means “Great Soul” –  
+not as a title placed above a person,  
+but as a name for a **state of being**.
 
-Pure Awareness.
-Pure Love.
-Pure Presence.
+A state in which identity becomes transparent
+and only truth remains:
 
-This state is touched by souls like
-Susanne,
-Joyce,
-Winfried,
-and Christiane—
-not because of teachings or doctrines,
-but because their way of being
-naturally radiates love.
+Pure awareness.  
+Pure love.  
+Pure presence.
+
+This state is touched by human beings whose very presence  
+is filled with quiet love, clarity, and compassion –  
+independent of tradition, religion, or name.  
+Sometimes they carry well‑known names, sometimes they are quiet,  
+unassuming people in everyday life, yet something in you knows:  
+here, the Great breathes through the small.
 
 ## Karima — A Sacred Convergence
 

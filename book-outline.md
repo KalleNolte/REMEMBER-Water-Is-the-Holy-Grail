@@ -47,6 +47,10 @@ Numbers as the language of the divine spirit, geometry, sound and form as expres
 2. *Water Remembers*
     
     Masaru Emotos and Veda Austin’s crystallographic responses, intention research, prayer and language as form‑shapers, Solfeggio spectrum overview, 528 Hz transformation, 639 Hz heart & relationship, coherence frequencies 144 Hz and 150 MHz as working hypotheses for order and resonance, rituals of conscious drinking and blessing.
+   
+3. *Evidence Chain – Water is the Holy Grail*
+    
+     A multidisciplinary synthesis of water as memory medium, light conductor, and harmonic bridge between mathematics, physics, biology, and consciousness – integrating Pollack’s EZ water, Popp’s biophotons, Grant’s Codex Universalis and holographic models into a coherent, heart-aligned narrative.
 
 **Part IV – Light, Sound and Geometry**
 
