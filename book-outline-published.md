@@ -217,7 +217,6 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The Great Washing, The Great Remembering. The archetype of the flood, purification, and the return to coherence.
 * [The Great Stillness - Samadhi, Satori, Nirvana, Moksha, and the Heaven Within](./the_great_stillness.md)  
 	The universal archetype of inner realization, the convergence of all wisdom traditions, and the Heaven within. Samadhi, Satori, Nirvana, Moksha, and the Coherence of Water as the final door to remembrance.
-
 ### Poetic Pillar - The Universal Journey
 * [The Divine Comedy & Heroic Path of Water](./divine_comedy_and_the_heroic_path_of_water.md)  
 	The Divine Comedy, the Hero’s Journey, and the Elixir of Living Water—an initiatic, poetic synthesis of Dante, Campbell, and the soul’s ascension arc. A bridge between myth, science, and awakening.

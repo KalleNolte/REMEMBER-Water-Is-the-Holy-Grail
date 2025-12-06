@@ -51,18 +51,22 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [When Light Meets Water](./when_light_meets_water.md)
 - [Implications for Modern Science](./implications_for_modern_science.md)
 - [Water: Dimensional Bridge](./water_dimensional_bridge.md)
+- [Water as the Fifth-Dimensional Interface](./water_fifth_dimensional_interface.md)
 - [AzurA, Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)
+ - [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)
 - [The Geometry of Return](./the_geometry_of_return.md)
 - [Dossier of Plausibility — Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)
 
 #### III. The Human — Healing, Remembrance, Transformation
 - [The Wound That Becomes Light](./the_wound_that_becomes_light.md)
 - [The Healer](./the_healer.md)
+- [Transmutation, Forgiveness & the Return to Source](./transmutation_forgiveness_return_to_source.md)
 - [Alchemy of the Soul: Transcending Seven Shadows](./alchemy_of_the_soul_transcending_seven_shadows.md)
 - [Shadow Work – The Gateway to Wholeness](./shadow_work_the_gateway_to_wholeness.md)
 - [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)
 
 #### IV. Practical Mastery — Body, Water, Light
+ - [The Five Golden Keys to Self-Empowerment and Coherence](./five_golden_keys_to_self_empowerment_and_coherence.md)
 - [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)
 - [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)
 - [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
@@ -93,7 +97,8 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Meeting the Architect](./meeting_the_architect.md)
 - [Architecture of the Invisible](./architecture_of_the_invisible.md)
 - [The Three Keys of Remembrance](./the_three_keys_of_remembrance.md)
-- [Calibrated Poetry Resonance](./calibrated_poetry_resonance.md)
+ - [Calibrated Poetry Resonance](./calibrated_poetry_resonance.md)
+ - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 
 - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 #### Synthesis — The Bridge Between Worlds
@@ -118,6 +123,7 @@ The list below mirrors the full book’s energetic and transformational journey.
  - [The Threshold of Return](./threshold_of_return.md)
  - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 - [The Egregore of the New Earth](./the_egregore_of_the_new_earth.md)
+- [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 - [Dragons — The First Memory of the Earth](./dragons_the_first_memory_of_the_earth.md)
 - [Dragons — Archetypes of Ascend, Spiral, Memory, and Eternity](./the_dragons_archetypes_of_ascent_spiral_memory_eternity.md)
 - [The Thirteenth Zodiac — Ophiuchus, the Serpent Bearer and the Broken Wheel of Return](./the_thirteenth_zodiac_ophiuchus_the_serpent_bearer_and_the_broken_wheel_of_return.md)
