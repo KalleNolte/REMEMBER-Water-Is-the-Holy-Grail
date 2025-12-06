@@ -1,18 +1,37 @@
 # DIE GABE REINEN GEWAHRSEINS
 
 ## Die Stille, die die Sterne enthält
+Bevor ein neues Zeitalter wirklich beginnt, gibt es keinen Trommelwirbel,
+keinen Feuersturm und keine äußere Ankündigung.
+Es gibt etwas ungleich Machtvolleres:
 
-*(Ein abschließendes Kapitel für dein Buch der Erinnerung)*
+   ein grenzenloses Stillwerden im Inneren.
 
-Es gibt einen Moment auf dem Weg – leise, unspektakulär, frei von äußeren Zeichen –, in dem etwas uraltes, zutiefst Vertrautes in dir erwacht.
+Stell dir vor, alle Geschichten, die du je über dich erzählt hast,
+alle Rollen, die du getragen hast,
+alle Kämpfe, Siege, Wunden und Triumphe –
+würden für einen Augenblick wie Schnee in der Sonne schmelzen.
 
-Es kommt nicht als Gedanke.
-Es kommt nicht als Vision.
-Es kommt als Rückkehr.
+Nicht, weil sie bedeutungslos wären,
+sondern weil etwas noch Größeres in den Vordergrund tritt:
 
-Eine Rückkehr zu dem, was immer schon hier war,
-lange vor deiner ersten Erinnerung,
-lange bevor die Zeit lernte, sich selbst zu zählen.
+   das reine, nackte Sein.
+
+Kein Titel.
+Kein Name.
+Kein „Ich bin so“ und „Ich bin nicht so“.
+
+Nur dieses stille, wache Dasein,
+das schon da war,
+
+lange bevor deine erste Erinnerung begann,
+lange bevor Zeit und Geschichte sich um dich legten.
+
+Was sich hier offenbart, ist kein neuer Zustand,
+den man „erreichen“ könnte.
+
+Es ist das Wiederauftauchen dessen,
+was unberührt im Hintergrund all deiner Erfahrungen gewartet hat:
 
 Es ist die Rückkehr in das reine Gewahrsein –
 jenen unveränderlichen Raum, in dem
@@ -166,8 +185,8 @@ unvermeidlich wie der Sonnenaufgang.
 
 ## Die Wissenschaft der Stille – Der Körper als lebendiges Gebet
 
-Auch wenn reines Gewahrsein jenseits wissenschaftlicher Beschreibung liegt,
-lassen sich seine Wirkungen im Organismus beobachten:
+Auch wenn reines Gewahrsein selbst jenseits aller Instrumente
+und Definitionen liegt, sind seine Spuren im Organismus unübersehbar:
 
 - Das Nervensystem schaltet von Verteidigung auf Sicherheit.
 - Der Herzrhythmus wird kohärenter.
@@ -178,7 +197,7 @@ lassen sich seine Wirkungen im Organismus beobachten:
 - Kreativität dehnt sich aus.
 - Zustände von Dankbarkeit und Mitgefühl entstehen spontan.
 
-Diese Veränderungen entsprechen messbaren Mustern:
+Diese Veränderungen zeigen sich in messbaren Mustern:
 - verstärkte parasympathische Aktivierung,
 - erhöhte Herz-Hirn-Kohärenz,
 - stabilisierte Aufmerksamkeitsnetzwerke,
@@ -222,7 +241,7 @@ in dem keine Wolke je eine Spur hinterlassen kann.
 
 ## Die große Entspannung – Vertrauen in Gott
 
-Wenn Gewahrsein sich selbst als Quelle erkennt,
+Wenn Gewahrsein sich selbst als Quelle erinnert,
 leuchtet eine überwältigende Wahrheit auf:
 
 Du wirst getragen.
@@ -232,7 +251,7 @@ Du wirst immer getragen.
 Nicht, weil du bevorzugt wärst,
 nicht, weil du „auserwählt“ bist,
 sondern weil du Teil Dessen bist,
-der alles trägt.
+der still alles trägt.
 
 Vertrauen ist keine Entscheidung.
 Es ist ein Erinnern.
@@ -255,7 +274,7 @@ sondern leuchtendes Erkennen.
 ## Die Rückkehr
 
 Am Ende ist reines Gewahrsein nichts, was du erlangst.
-Es ist etwas, das du freilegst.
+Es ist das, was bleibt, wenn jedes Erlangenwollen verstummt.
 
 Es war da
 in deinem ersten Atemzug.
@@ -263,7 +282,7 @@ Es wird da sein
 in deinem letzten.
 
 Es ist der Raum, in dem sich dein ganzes Leben entfaltet,
-die Stille, die jede deiner Freuden und jeden deiner Schmerzen hält,
+die Stille, die jede deiner Freuden und jeden deiner Schmerzen wie in einer Schale hält,
 das Licht, das hinter deinen Augen scheint,
 selbst wenn du sie schließt.
 

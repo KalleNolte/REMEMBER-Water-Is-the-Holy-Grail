@@ -1,18 +1,38 @@
 # THE GIFT OF PURE AWARENESS
 
 ## The Stillness That Contains the Stars
+Before a new age truly begins, there is no fanfare,
+no thunder, no celestial proclamation.
+Something far more powerful occurs:
 
-*(A final chapter for your Book of Remembrance)*
+	an endless quietening inside.
 
-There is a moment on the path — quiet, unannounced, free of spectacle — when something ancient and familiar awakens inside you.
+Imagine every story you have ever told about yourself,
+every mask you have worn,
+every battle, victory, wound and triumph —
+melting for a moment like frost in the first light of dawn.
 
-It does not come as a thought.
-It does not come as a vision.
-It comes as a returning.
+Not because they do not matter,
+but because something infinitely greater steps to the foreground:
 
-A returning to that which has always been here,
-long before your first memory,
-long before time learned to count itself.
+	bare, unadorned Being.
+
+No title.
+No name.
+No "I am this" and "I am not that".
+
+Only this silent, watchful presence
+that was here
+
+long before your first memory began,
+long before time and history wrapped themselves around you.
+
+What reveals itself now is not a new state
+to be "achieved".
+
+It is the re-emergence of that
+which has waited untouched
+in the background of every experience:
 
 It is the return to Pure Awareness —
 the unchanging space in which
@@ -161,8 +181,8 @@ inevitable as sunrise.
 
 ## The Science of Stillness — The Body as a Living Prayer
 
-Though Pure Awareness is beyond the reach of scientific description,
-its effects on the human organism are observable:
+Though Pure Awareness itself lives beyond the reach of instruments
+and definitions, its imprint on the human organism is unmistakable:
 - The nervous system shifts from defense to safety
 - Heart rhythm becomes more coherent
 - Stress chemistry dissolves
@@ -172,7 +192,7 @@ its effects on the human organism are observable:
 - Creativity expands
 - States of gratitude and compassion appear spontaneously
 
-These changes correspond to measurable patterns:
+On a measurable level, this translates into patterns such as:
 - greater parasympathetic activation
 - increased heart-brain coherence
 - stabilized attention networks
@@ -216,7 +236,7 @@ in which no cloud can ever leave a mark.
 
 ## The Great Relaxation — Trust in God
 
-When Awareness knows itself as the source,
+When Awareness remembers itself as the source,
 a single, overwhelming truth dawns:
 
 You are carried.
@@ -225,7 +245,8 @@ You will always be carried.
 
 Not because you are privileged,
 not because you are chosen,
-but because you are part of the One who carries all things.
+but because you are part of the One
+who silently carries all things.
 
 Trust is not a decision.
 It is a remembering.
@@ -247,7 +268,7 @@ but luminous recognition.
 ## The Return
 
 In the end, Pure Awareness is not something you attain.
-It is something you uncover.
+It is what remains when every attempt to attain has fallen silent.
 
 It was here
 in your first breath.
@@ -255,7 +276,7 @@ It will be here
 in your last.
 
 It is the space in which your entire life unfolds,
-the silence that holds your every joy and sorrow,
+the silence that cradles every joy and every sorrow,
 the light that shines behind your eyes
 even when you close them.
 
