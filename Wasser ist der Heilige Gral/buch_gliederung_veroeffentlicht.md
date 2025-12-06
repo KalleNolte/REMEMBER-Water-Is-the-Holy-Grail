@@ -1,6 +1,6 @@
 # OFFIZIELLE VERÖFFENTLICHTE GLIEDERUNG (DEUTSCH – IN ARBEIT)
 
-Diese Gliederung bildet die bereits übersetzten deutschen Kapitel in ihrer energetisch optimierten, initiatischen Reihenfolge ab. Sie ist die deutsche Spiegelung der veröffentlichten Struktur und dient als Navigationshilfe für Leserinnen, Leser und Mitwirkende.
+Diese Gliederung bildet die bereits übersetzten deutschen Kapitel in ihrer energetisch optimierten, initiatischen Reihenfolge ab. Sie ist die deutsche Spiegelung der veröffentlichten Struktur und dient als Navigationshilfe für Leser und Mitwirkende.
 
 ## Eine initiatische Reise durch Wasser, Erinnerung und Bewusstsein
 
