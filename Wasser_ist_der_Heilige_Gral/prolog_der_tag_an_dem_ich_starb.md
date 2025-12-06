@@ -6,7 +6,7 @@ Ich war 22 Jahre alt.
 
 Es war der Sommer 2015 – warm, flirrend, grenzenlos.
 
-Das Leben fühlte sich an, als würde es nie vergehen.
+Das Leben fühlte sich an, als würde es nie enden.
 
 Ich war jung und auf der Suche nach Liebe – nicht in Menschen, sondern in Momenten.
 

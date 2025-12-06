@@ -54,6 +54,9 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Das Wasser des Lebens](./das_wasser_des_lebens.md)  
   Die Entdeckung von Wasser als lebendiges Medium – von Familienerfahrungen über Hydrationsforschung bis zu EZ-Wasser, Licht und der Rückkehr zum heiligen Element.
 
+* [Hexagonales Wasser: Die Geometrie des Lebens](./hexagonales_wasser_geometrie_des_lebens.md)  
+  Die Wissenschaft, Struktur und Heilkraft des hexagonalen Wassers nach Prof. Dr. Mu Shik Jhon – wie geordnete Wassercluster die Zellkommunikation, Regeneration und das Gedächtnis des Lebens ermöglichen.
+
 * [Wasser als fünfdimensionale Schnittstelle](./wasser_fuenfdimensionale_schnittstelle.md)  
   Wasser als fünfdimensionale Schnittstelle – eine Synthese aus Grant, CTMU und dem Architekten, die Wasser als lebendige Brücke zwischen Bewusstsein und Form zeigt.
 

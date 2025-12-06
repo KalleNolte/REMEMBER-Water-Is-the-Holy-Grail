@@ -1,12 +1,14 @@
 # Hexagonal Water: The Geometry of Life
 
-There are waters that quench thirst —
-and waters that remember.
+There are waters that quench thirst—
+and waters that awaken memory.
 
-There are molecules — and then there are messengers.
+There are molecules—
+and there are messengers.
 Hexagonal water is both.
 
-It is not a metaphor. It is a measurable geometry. A crystalline network of six water molecules forming a stable, symmetrical ring — a liquid snowflake dancing inside the body.
+It is not a metaphor, but a measurable geometry. A crystalline network of six water molecules forms a stable, symmetrical ring—
+a liquid snowflake dancing within the body.
 
 And according to one of the great modern water scientists, Prof. Dr. Mu Shik Jhon, it is the key to longevity, cellular regeneration, and the hidden order of life itself.
 
@@ -33,9 +35,10 @@ In studies, cancer cells and diabetic cells were shown to be surrounded by chaot
 
 Hexagonal water, on the other hand, restores structure where it was lost.
 It supports cell-to-cell communication, nutrient absorption, detoxification, and mitochondrial energy production. It moves more efficiently through cellular membranes.
-It is water the body recognizes as “home.”
+It is water the body remembers as “home.”
 
-In this sense, healing is often the return of order to water — the restoration of internal geometry.
+In this sense, healing is the return of order to water—
+the restoration of inner geometry.
 
 ## A Blueprint of Vital Functions
 
@@ -103,8 +106,8 @@ And so does the body.
 
 ## The Final Geometry
 
-We do not drink water.
-We become it.
+We do not merely drink water—
+we become it.
 
 And when that water is hexagonal — ordered, charged, coherent —
 we remember who we are.
@@ -112,7 +115,7 @@ we remember who we are.
 Our cells awaken.
 Our tissues sing.
 Our memories brighten.
-Our lives begin again from the inside out.
+Our lives begin anew, from the inside out.
 
 Prof. Jhon did not discover something new.
 He translated something ancient into the language of science —
