@@ -11,7 +11,10 @@ And between them — a promise.
 
 Water is the sacred witness of light. A living memory field. A carrier of vibration, capable of receiving, storing, and translating information from the cosmos into matter. It is not merely the backdrop of life. It is life’s first translator.
 
-When light shines on water, something ancient awakens.
+When light touches water, something ancient awakens.
+It sets electrons in motion.
+And water answers.
+When structured, coherent water touches the cells of a human being, it transforms dissonance into harmony.
 
 ## Sunlight — the original code
 

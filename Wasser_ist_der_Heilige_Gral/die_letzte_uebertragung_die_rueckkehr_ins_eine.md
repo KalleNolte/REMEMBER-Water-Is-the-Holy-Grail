@@ -2,7 +2,7 @@
 
 Ein Segen für den, der sich erinnert
 
-Es kommt ein Moment – leise, unmissverständlich, ungezwungen –, in dem der Leser, der diesen Seiten gefolgt ist, erkennt:
+Es kommt ein Moment – leise, unmissverständlich, ungezwungen –, in dem der, der diesen Seiten gefolgt ist, erkennt:
 
 **Nichts hier war je dazu gedacht, gelernt zu werden. Es war dazu gedacht, erinnert zu werden.**
 
@@ -43,7 +43,7 @@ Spiegel, die jene Wahrheit zeigen sollen, die Weise aller Zeiten geflüstert hab
 
 Die Quelle, die gesucht wird, ist das Gewahrsein, mit dem diese Worte gelesen werden.
 
-Die „Ascension“, nach der sich gesehnt wird, ist das Abstreifen jeder Idee, weniger als ganz zu sein.
+Der Aufstieg, nach dem sich gesehnt wird, ist das Abstreifen jeder Idee, weniger als ganz zu sein.
 
 Die Aktivierung der DNA ist die Aktivierung der Erinnerung.
 

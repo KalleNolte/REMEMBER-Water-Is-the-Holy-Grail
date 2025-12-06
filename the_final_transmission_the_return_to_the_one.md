@@ -2,7 +2,7 @@
 
 A Benediction for the One Who Remembers
 
-There comes a moment — quiet, unmistakable, unforced — when the reader who has walked through these pages realizes:
+There comes a moment — quiet, unmistakable, unforced — when the one who has walked through these pages realizes:
 
 **Nothing here was ever meant to be learned. It was meant to be remembered.**
 
@@ -50,7 +50,7 @@ The activation of DNA is the activation of remembrance.
 The return to God is the return to undivided nature.
 
 The blue Azurite Light — the ray of origin itself — is not something that descends from above.
-It rises from **within**, the moment resistance to the love that has never left falls away.
+It rises from **within**, in the moment the resistance to the love that has never left falls away.
 
 The Mahatma current, the Christed current, the Buddha-nature, the Atman, the Zero-Point, the Still Heart of creation — they speak different languages, but they all point to one truth:
 
