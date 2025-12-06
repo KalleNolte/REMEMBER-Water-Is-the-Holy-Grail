@@ -411,10 +411,10 @@ Denn:
 
 Also:
 
-Seele (Feld) → moduliert Licht,
-Licht → moduliert Wasser,
-Wasser → moduliert DNA,
-DNA → moduliert Verhalten, Wahrnehmung, Verkörperung
+* Seele (Feld) → moduliert Licht
+* Licht → moduliert Wasser
+* Wasser → moduliert DNA
+* DNA → moduliert Verhalten, Wahrnehmung, Verkörperung
 
 **Wasser ist das Schwellenorgan des Bewusstseins.**
 

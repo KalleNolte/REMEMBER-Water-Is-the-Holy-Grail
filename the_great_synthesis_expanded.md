@@ -413,10 +413,10 @@ Because:
 
 Thus:
 
-Soul (field) → modulates light
-Light → modulates water
-Water → modulates DNA
-DNA → modulates behavior, perception, embodiment
+* Soul (field) → modulates light
+* Light → modulates water
+* Water → modulates DNA
+* DNA → modulates behavior, perception, embodiment
 
 **Water is the threshold organ of consciousness.**
 
