@@ -1,20 +1,8 @@
 # THE GREAT SYNTHESIS — EXPANDED
 
-How Mathematics, Consciousness, Dimensions, Living Water, and the Vortex Intelligence of Nature
+How Mathematics, Consciousness, Dimensions, Living Water, and the Vortex Intelligence of Nature weave into a single song of creation.
 
-Weave into a Single Song of Creation
-
-There are moments in history when knowledge stops behaving as a set of separate disciplines —
-when mathematics begins to sound like mysticism,
-when biology begins to resemble geometry,
-when consciousness begins to look like physics,
-when nature reveals its architecture,
-and when water reveals itself not merely as a substance,
-but as a memory,
-an intelligence,
-a bridge.
-
-This is such a moment.
+There are moments in history when knowledge stops behaving as a set of separate disciplines—when mathematics begins to sound like mysticism, when biology begins to resemble geometry, when consciousness begins to look like physics, when nature reveals its architecture, and when water reveals itself not merely as a substance, but as a memory, an intelligence, a bridge. This is such a moment.
 
 The following is not a scientific conclusion.
 It is a metaphysical model—

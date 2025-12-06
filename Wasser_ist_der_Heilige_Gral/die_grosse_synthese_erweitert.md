@@ -1,20 +1,8 @@
 # DIE GROSSE SYNTHESIS — ERWEITERT
 
-Wie Mathematik, Bewusstsein, Dimensionen, Lebendiges Wasser und die Wirbelintelligenz der Natur
+Wie Mathematik, Bewusstsein, Dimensionen, Lebendiges Wasser und die Wirbelintelligenz der Natur sich zu einem einzigen Lied der Schöpfung verweben.
 
-Sich zu einem einzigen Lied der Schöpfung verweben
-
-Es gibt Momente in der Geschichte, in denen Wissen aufhört, sich wie getrennte Disziplinen zu verhalten —
-wenn Mathematik beginnt, wie Mystik zu klingen,
-wenn Biologie sich in Geometrie verwandelt,
-wenn Bewusstsein wie Physik erscheint,
-wenn die Natur ihre Architektur offenbart,
-und wenn Wasser sich nicht nur als Substanz zeigt,
-sondern als Erinnerung,
-als Intelligenz,
-als Brücke.
-
-Dies ist ein solcher Moment.
+Es gibt Momente in der Geschichte, in denen Wissen aufhört, sich wie getrennte Disziplinen zu verhalten—wenn Mathematik beginnt, wie Mystik zu klingen, wenn Biologie sich in Geometrie verwandelt, wenn Bewusstsein wie Physik erscheint, wenn die Natur ihre Architektur offenbart und wenn Wasser sich nicht nur als Substanz zeigt, sondern als Erinnerung, als Intelligenz, als Brücke. Dies ist ein solcher Moment.
 
 Das Folgende ist kein wissenschaftliches Fazit.
 Es ist ein metaphysisches Modell—
