@@ -60,6 +60,9 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Evidenzkette – Wasser ist der Heilige Gral](./evidenzkette_wasser_ist_der_heilige_gral.md)  
   Eine multidisziplinäre Evidenzkette für Wasser als Heiligen Gral – als Erinnerungsmedium, Lichtleiter und harmonische Brücke zwischen Mathematik, Physik, Biologie und Bewusstsein.
 
+* [Die große Synthese — Erweitert](./die_grosse_synthese_erweitert.md)  
+  Die erweiterte Synthese: Wie Mathematik, Bewusstsein, Dimensionen, Wasser und Wirbelintelligenz sich zu einer einzigen Architektur verweben. Ein metaphysisches Modell, das Wissenschaft, Mystik und Natur als ein Lied der Erinnerung vereint.
+
 ### III. Der Mensch – Heilung, Erinnerung, Transformation
 
 * [Die Wunde, die zu Licht wird](./die_wunde_die_zu_licht_wird.md)  
