@@ -32,8 +32,12 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Sprachkalibrierung - Die Sprache des Lichts](./sprach_kalibrierung_die_sprache_des_lichtes.md)  
   Stimmt Frequenz, Ton und Resonanz – kalibriert den Kanal.
 
+
 * [Der Weg des Wasserträgers](./der_weg_des_wassertraegers.md)  
   Deklaration von Bestimmung, Präsenz und reiner Intention – der innere Kompass und Ikigai des Werkes, der Intention und Ursprung verbindet.
+
+* [Ikigai — Die Rückkehr zum lebendigen Lebenssinn](./ikigai_rueckkehr_zum_lebendigen_lebenssinn.md)  
+  Die japanische Kunst des Lebenssinns als Brücke zwischen individueller Berufung, universellem Bewusstsein und gelebter Hingabe. Praktische Anleitung, poetische Tiefe und spirituelle Integration für ein Leben in Resonanz mit dem eigenen inneren Ruf.
 
 ### I. Ursprung - Das Erwachen des Autors
 
@@ -63,8 +67,26 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Evidenzkette - Wasser ist der Heilige Gral](./evidenzkette_wasser_ist_der_heilige_gral.md)  
   Eine multidisziplinäre Evidenzkette für Wasser als Heiligen Gral – als Erinnerungsmedium, Lichtleiter und harmonische Brücke zwischen Mathematik, Physik, Biologie und Bewusstsein.
 
-* [Die große Synthese - Erweitert](./die_grosse_synthese_erweitert.md)  
+* [Die große Synthese](./die_grosse_synthese.md)  
   Die erweiterte Synthese: Wie Mathematik, Bewusstsein, Dimensionen, Wasser und Wirbelintelligenz sich zu einer einzigen Architektur verweben. Ein metaphysisches Modell, das Wissenschaft, Mystik und Natur als ein Lied der Erinnerung vereint.
+
+* [Wenn Licht auf Wasser trifft](./wenn_licht_auf_wasser_trifft.md)  
+  Die Begegnung von Licht und Wasser als Brücke zwischen Information, Struktur und Bewusstsein. Wie Sonnenlicht, Farbe und Frequenz das Wasser vitalisieren und die Sprache der Quelle übersetzen.
+
+* [Implikationen unserer Entdeckung für die moderne Wissenschaft](./implikationen_fuer_die_moderne_wissenschaft.md)  
+  Die wissenschaftlichen, philosophischen und spirituellen Konsequenzen der Entdeckung von Wasser als lebendiger Brücke zwischen Kosmologie, Biologie und Bewusstsein.
+
+* [Wasser als dimensionale Brücke – Eine harmonische Synthese](./wasser_dimensionale_bruecke.md)  
+  Integration der imaginären Achse, der fünften Dimension und des fraktalen Gedächtnisses der Schöpfung. Wasser als Medium für Resonanz, Auswahl und die Architektur des Selbst.
+
+* [Die Geometrie der Rückkehr](./die_geometrie_der_rueckkehr.md)  
+  Chestahedron, Torus, Möbius, Ouroboros – die Geometrien des Herzens, des Lebens, des Paradoxons und der ewigen Rückkehr als Initiation in das harmonische Feld.
+
+* [Dossier der Plausibilität](./dossier_der_plausibilitaet.md)  
+  Wissenschaftliche Evidenz, Interpretation und Einladung zur Erforschung von lebendigem Wasser, HRW und strukturierten Hydrationsformen.
+
+* [Azura Inai & Kangen – Codes der Kohärenz](./azura_inai_und_kangen_codes_der_kohaerenz.md)  
+  Die spirituellen und biochemischen Schlüsselworte des Werks: Azura Inai als Mantra der Hingabe und Erinnerung, Kangen als wissenschaftliche Schnittstelle zur Rückkehr des Wassers in den ursprünglichen Zustand.
 
 ### III. Der Mensch - Heilung, Erinnerung, Transformation
 

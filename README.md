@@ -100,7 +100,6 @@ The list below mirrors the full book’s energetic and transformational journey.
  - [Calibrated Poetry Resonance](./calibrated_poetry_resonance.md)
  - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 
-- [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 #### Synthesis — The Bridge Between Worlds
  - [The Pantheon of Gods](./the_pantheon_of_gods.md)
  - [Elementals, Spirits & Archetypes](./elementals_spirits_archetypes.md)
@@ -121,9 +120,7 @@ The list below mirrors the full book’s energetic and transformational journey.
  - [The Vesica Pisces Institute](./vesica_pisces_institute.md)
  - [The HeartMath Institute](./heartmath_institute.md)
  - [The Threshold of Return](./threshold_of_return.md)
- - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 - [The Egregore of the New Earth](./the_egregore_of_the_new_earth.md)
-- [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 - [Dragons — The First Memory of the Earth](./dragons_the_first_memory_of_the_earth.md)
 - [Dragons — Archetypes of Ascend, Spiral, Memory, and Eternity](./the_dragons_archetypes_of_ascent_spiral_memory_eternity.md)
 - [The Thirteenth Zodiac — Ophiuchus, the Serpent Bearer and the Broken Wheel of Return](./the_thirteenth_zodiac_ophiuchus_the_serpent_bearer_and_the_broken_wheel_of_return.md)
