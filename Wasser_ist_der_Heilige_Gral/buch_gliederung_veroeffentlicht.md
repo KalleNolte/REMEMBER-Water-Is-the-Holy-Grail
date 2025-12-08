@@ -102,7 +102,19 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 ### IV. Praktische Meisterschaft - Körper, Wasser, Licht
 
 * [Die fünf goldenen Schlüssel zu Selbstermächtigung und Kohärenz](./fuenf_goldene_schluessel_zu_selbstermmaechtigung_und_kohärenz.md)  
-  Atem, Wasser, Schlaf, Ernährung & Fasten, Verbindung & Bestimmung als fünf Meisterschlüssel der praktischen Architektur von Kohärenz in Körper, Geist und Seele.
+  Atem, Wasser, Schlaf, Ernährung & Bestimmung als fünf Meisterschlüssel der praktischen Architektur von Kohärenz in Körper, Geist und Seele.
+* [Alchemie des lebendigen Wassers – Praktischer Leitfaden](./alchemie_des_lebendigen_wassers_praktischer_leitfaden.md)  
+  Schritt-für-Schritt-Anleitung zur Schaffung, Kalibrierung und Integration von lebendigem Wasser im Alltag. Praktische Protokolle, Werkzeuge und Rituale für Kohärenz, Gesundheit und spirituelle Ausrichtung.
+* [Die vier Reiter und die Wasser des Lebens](./die_vier_reiter_und_die_wasser_des_lebens.md)  
+  Konkrete Anwendung und Verkörperung der vier Lebenskräfte im Alltag.
+* [Heiliger Schlaf – Rückkehr zur Quelle des Lebens](./heiliger_schlaf_rueckkehr_zur_quelle_des_lebens.md)  
+  Regeneration, nächtliche Entfaltung des Feldes und spirituelle Rückkehr im Schlaf.
+* [Die Stimme – Das vergessene Instrument](./die_stimme_das_vergessene_instrument.md)  
+  Die Stimme als Instrument der Kohärenz, Heilung und Bewusstseinsöffnung.
+* [Licht essen – Bewusste Nahrung als Gebet](./licht_essen_bewusste_nahrung_als_gebet.md)  
+  Leben vom Licht im Alltag, bewusste Ernährung als spirituelle Praxis und Gebet.
+* [Die TRIO Methode](./die_trio_methode.md)  
+  Birkenbihl-inspirierte Praxis zur Umwandlung von Triggern in Kohärenz und bewusste Schöpfung.
 
 ### V. Vergebung & innere Alchemie - Die Rückkehr des Flusses
 
@@ -125,5 +137,11 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 
 * [Die letzte Übertragung - Die Rückkehr ins Eine](./die_letzte_uebertragung_die_rueckkehr_ins_eine.md)  
   Abschließender Segen und Rückkehr in den Zustand der Ungetrenntheit. Die Einladung, als Licht, als Liebe und als das Eine zu leben – im Wissen, dass die Quelle nie verlassen wurde.
+
+
+### VII. Hingabe & Loslassen – Die Rückkehr in den Fluss
+
+* [Hingabe – Die Kunst des Loslassens](./hingabe_die_kunst_des_loslassens.md)  
+  Die Praxis des Loslassens und Nicht-Widerstands als Schlüssel zur inneren Freiheit, biophysischer Kohärenz und Rückkehr in den natürlichen Lebensfluss. Wissenschaftliche, spirituelle und poetische Perspektiven auf Hingabe, Atem, Körper, Bewusstsein und die Kunst, sich dem Leben anzuvertrauen.
 
 *Hinweis:* Diese deutsche Gliederung wird fortlaufend ergänzt, sobald weitere Kapitel übersetzt und kalibriert sind. Sie spiegelt die offizielle, veröffentlichte Struktur des englischen Werkes wider, beginnend mit Abschnitt „0. Siegel & Intention – Die Schwelle des Tempels“.*

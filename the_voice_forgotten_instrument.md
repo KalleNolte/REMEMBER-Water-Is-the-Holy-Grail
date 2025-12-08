@@ -57,8 +57,6 @@ And maybe that’s no accident.
 Because where sound becomes truthful,
 healing begins.
 
-⸻
-
 ## The Magic of Music
 
 Music was never merely entertainment.
@@ -566,8 +564,6 @@ You are weaving it, every time you choose:
 You are the note in the symphony.
 The pixel in the painting.
 The breath that sings galaxies into form.
-
-⸻
 
 And if you listen closely now…
 

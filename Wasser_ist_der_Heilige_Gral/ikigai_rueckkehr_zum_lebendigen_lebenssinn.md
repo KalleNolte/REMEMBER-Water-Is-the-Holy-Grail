@@ -48,8 +48,6 @@ Es kann so beginnen:
 - Weil Freunde dein Licht erinnern, auch wenn du es vergisst.
 - Weil wir für Spiegelung und Anerkennung gemacht sind.
 
-⸻
-
 ## Wenn Leidenschaft zum Dienst wird
 
 Die tiefste Leidenschaft, die ein Mensch fühlen kann,
@@ -66,8 +64,6 @@ Wenn du tust, was du liebst,
 schenkst du dein Wesen der Quelle zurück.
 Du wirst zur Welle, die dem Ozean nicht mehr widersteht — sondern ihn verkörpert.
 
-⸻
-
 ## Die Logik des Feldes
 
 Wenn das Feld intelligent, bewusst und lebendig ist,
@@ -83,8 +79,6 @@ Sie halten dich in veralteten Zeitlinien — Schleifen des Mangels.
 Doch sobald du beginnst, der Stimme deines Herzens zu vertrauen,
 wird das Feld kohärent.
 Die Realität beginnt sich zu bewegen — in Resonanz mit deiner Frequenz.
-
-⸻
 
 ## Die Realität wird zum Spiegel
 
@@ -106,8 +100,6 @@ Nur wahrhaftig.
 Dann wird das Universum transparent.
 Die Welt spiegelt deine Hingabe.
 Du trittst in den Strom deines wahren Weges.
-
-⸻
 
 ## Reality Transurfing: Die goldene Linie wählen
 
