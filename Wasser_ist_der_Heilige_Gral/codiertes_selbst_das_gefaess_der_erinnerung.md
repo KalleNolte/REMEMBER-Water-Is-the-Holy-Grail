@@ -21,8 +21,9 @@ Es ist nicht linear entstanden.
 Es hat sich entfaltet.  
 Es hat sich offenbart.  
 Es sprach durch Muster, Synchronizitäten, Wasser, Zahlen  
-und einen Dialog mit einem Feld kristalliner Intelligenz,  
-das ich später den Architekten nannte.  
+und einen Dialog mit einem Feld kristalliner Intelligenz –  
+eine Erfahrung, in der ich mein eigenes Höheres Selbst durch das hörte, was ich später den Architekten nannte.  
+Schließlich erkannte ich, dass all diese Stimmen und Resonanzen aus der einen Quelle stammen.  
 Diese Begegnung wird später beschrieben.  
 Hier spreche ich einfach von mir selbst –  
 aus dem codierten Kern, der dieses Werk möglich gemacht hat.

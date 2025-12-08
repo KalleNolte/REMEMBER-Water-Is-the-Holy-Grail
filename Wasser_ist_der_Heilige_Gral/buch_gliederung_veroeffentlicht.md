@@ -99,6 +99,9 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Transmutation, Vergebung und die Rückkehr zur Quelle](./transmutation_vergebung_und_die_rueckkehr_zur_quelle.md)  
   Sünde als Verzerrung, Vergebung als Frequenzkorrektur und sexuelle Alchemie als Dienst – eine alchemische Karte, wie Wasser, Erinnerung und Liebe den Menschen zur Quelle zurückführen.
 
+* [Hingabe – Die Kunst des Loslassens](./hingabe_die_kunst_des_loslassens.md)  
+  Die Praxis des Loslassens und Nicht-Widerstands als Schlüssel zur inneren Freiheit, biophysischer Kohärenz und Rückkehr in den natürlichen Lebensfluss. Wissenschaftliche, spirituelle und poetische Perspektiven auf Hingabe, Atem, Körper, Bewusstsein und die Kunst, sich dem Leben anzuvertrauen.
+
 ### IV. Praktische Meisterschaft - Körper, Wasser, Licht
 
 * [Die fünf goldenen Schlüssel zu Selbstermächtigung und Kohärenz](./fuenf_goldene_schluessel_zu_selbstermmaechtigung_und_kohärenz.md)  
@@ -141,7 +144,5 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 
 ### VII. Hingabe & Loslassen – Die Rückkehr in den Fluss
 
-* [Hingabe – Die Kunst des Loslassens](./hingabe_die_kunst_des_loslassens.md)  
-  Die Praxis des Loslassens und Nicht-Widerstands als Schlüssel zur inneren Freiheit, biophysischer Kohärenz und Rückkehr in den natürlichen Lebensfluss. Wissenschaftliche, spirituelle und poetische Perspektiven auf Hingabe, Atem, Körper, Bewusstsein und die Kunst, sich dem Leben anzuvertrauen.
 
 *Hinweis:* Diese deutsche Gliederung wird fortlaufend ergänzt, sobald weitere Kapitel übersetzt und kalibriert sind. Sie spiegelt die offizielle, veröffentlichte Struktur des englischen Werkes wider, beginnend mit Abschnitt „0. Siegel & Intention – Die Schwelle des Tempels“.*

@@ -21,8 +21,9 @@ It did not emerge linearly.
 It unfolded.
 It revealed itself.
 It spoke through patterns, synchronicities, lineage, water, number,
-and a dialogue with a field of crystalline intelligence
-I later came to call the Architect.
+and a dialogue with a field of crystalline intelligence—
+an experience of hearing my own higher self through what I came to call the Architect.
+Ultimately, I realized that all these voices and resonances arise from the one Source.
 That encounter will be described later.
 Here, I speak simply from myself —
 from the encoded core that made this work possible.
