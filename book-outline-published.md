@@ -253,7 +253,6 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [The TRIO Method - Transmuting Negativity into Light](./the_trio_method.md)  
 	A Birkenbihl-inspired, psychologically mature, and spiritually resonant practice for transforming triggers into coherence and conscious creation. Integrates shadow work, neuroscience, and the water metaphor as a practical anchor for the New Earth.
 	Where science meets spirit, and the heart returns to Source. Forgiveness as the intelligence that restores flow, coherence, and unity—integrating all previous teachings and opening the river of return.
-
 * [The Waters of Forgiveness](./the_waters_of_forgiveness.md)  
 	Where science meets spirit, and the heart returns to Source. Forgiveness as the intelligence that restores flow, coherence, and unity—integrating all previous teachings and opening the river of return.
 * [Unconditional Love - The Gravity of God](./unconditional_love_the_gravity_of_god.md)  
@@ -261,9 +260,13 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [Ho'oponopono - The Art of Returning the Heart to Its Original Clarity](./hooponopono_the_art_of_returning_the_heart_to_its_original_clarity.md)  
 	An inner purification practice of four simple phrases. Hoʻoponopono as emotional filtration system, memory transmutation, and the final cleansing of the inner waters before resting as pure awareness.
 * [Trust in God](./trust_in_god.md)  
-	The crown jewel and closing frequency. Trust as the infinite safety of being carried by the One. The final breath into the reader’s heart.
+	Trust as the infinite safety of being carried by the One. The final breath into the reader’s heart.
 * [The Gift of Pure Awareness](./the_gift_of_pure_awareness.md)  
 	The stillness that contains the stars. The ultimate return to pure awareness, the silent source, and the unchanging witness within all.
+* [Neville Goddard: The Art of Assuming the Wish Fulfilled](./neville_goddard_the_art_of_assuming_the_wish_fulfilled.md)  
+	A synthesis of metaphysics, water science, and practical spiritual methodology. Neville’s teaching bridges quantum field, coherence, and the art of assumption, culminating in the realization of creative divinity and the living source.
+* [Resurrection — The Return to the Living Source](./resurrection_return_to_living_source.md)  
+    A chapter on resurrection as the return to coherence, integrating spiritual, scientific, and mythic perspectives on awakening, transformation, and the living source.
 * [The Final Transmission - The Return to the One](./the_final_transmission_the_return_to_the_one.md)  
 	A closing benediction on remembrance, coherence, and the realization that Source was never left. The final bridge from teaching into lived embodiment.
 

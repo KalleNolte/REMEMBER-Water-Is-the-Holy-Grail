@@ -174,6 +174,8 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Hoʻoponopono — The Art of Returning the Heart to Its Original Clarity](./hooponopono_the_art_of_returning_the_heart_to_its_original_clarity.md)
 - [Trust in God](./trust_in_god.md)
 - [The Gift of Pure Awareness](./the_gift_of_pure_awareness.md)
+[Neville Goddard: The Art of Assuming the Wish Fulfilled](./neville_goddard_the_art_of_assuming_the_wish_fulfilled.md)
+ - [Resurrection — The Return to the Living Source](./resurrection_return_to_living_source.md)
  - [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)
 
 #### VIII. Protection, Authorship

@@ -98,6 +98,9 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Die Gabe reinen Gewahrseins](./die_gabe_reinen_gewahrseins.md)  
   Die Stille, die die Sterne enthält. Reines Gewahrsein als ursprüngliche Natur, in der Gleichmut, Seligkeit, Kohärenz und Vertrauen in Gott natürlicher Ausdruck sind.
 
+* [Neville Goddard: Die Kunst, den erfüllten Wunsch anzunehmen](./neville_goddard_die_kunst_den_erfuellten_wunsch_anzunehmen.md)  
+  Die Lehre von Neville Goddard als Brücke zwischen Wissenschaft, Mystik und praktischer Schöpfungskraft. Vorstellungskraft als schöpferische Kraft, Annahme als Schlüssel zur inneren und äußeren Wandlung.
+
 * [Die letzte Übertragung - Die Rückkehr ins Eine](./die_letzte_uebertragung_die_rueckkehr_ins_eine.md)  
   Abschließender Segen und Rückkehr in den Zustand der Ungetrenntheit. Die Einladung, als Licht, als Liebe und als das Eine zu leben – im Wissen, dass die Quelle nie verlassen wurde.
 
