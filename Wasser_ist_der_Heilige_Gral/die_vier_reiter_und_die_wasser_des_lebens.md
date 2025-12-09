@@ -47,10 +47,10 @@ Dies sind keine „Behandlungen“.
 Sie sind Bedingungen – die stille Architektur, in der das Nervensystem repariert, das Herz Stabilität findet, das Immunsystem lauscht und der Geist integriert. Sie sind Einladungen, zur ursprünglichen Harmonie deiner Natur zurückzukehren.
 
 Attia beschreibt metabolische Dysfunktion als Zusammenbruch der Kohärenz in der menschlichen Biologie.
-Dein Buch beschreibt Wasser, Atem und innere Klarheit als Wiederaufbau von Kohärenz von innen nach außen.
+Dieses Buch beschreibt Wasser, Atem und innere Klarheit als Wiederaufbau von Kohärenz von innen nach außen.
 
 
-Diese beiden Perspektiven widersprechen sich nicht.
+Die beiden Perspektiven widersprechen sich nicht.
 
 Sie ergänzen sich – Wissenschaft und Geist, Struktur und Fluss, vereint in den Wassern des Lebens.
 

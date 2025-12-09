@@ -1,7 +1,5 @@
 # DIE WASSER DER VERGEBUNG
 
-*Wo Wissenschaft und Geist sich begegnen – und das Herz zur Quelle zurückkehrt*
-
 Vergebung ist kein Akt der Schwäche.
 Sie ist keine Absolution von Unrecht.
 Sie ist keine moralische Pflicht.

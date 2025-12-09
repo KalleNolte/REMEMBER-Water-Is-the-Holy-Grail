@@ -120,7 +120,7 @@ kann der Körper es kaum nutzen.
 Es mag hindurchfließen –  
 aber es nährt nicht.
 
-Diese Einsichten trafen mich nicht wie ein Dogma,  
+Diese Einsichten kamen nicht als Lehre,  
 sondern wie ein klarer Spiegel,  
 in dem ich meinen eigenen Körper endlich wiedererkannte.
 
@@ -354,8 +354,6 @@ wird Wasser zum Tempel.
 Und in diesem Tempel  
 erinnert sich jede Zelle  
 an ihre eigene, göttliche Ordnung.
-
----
 
 ## Anhang – Persönliche Notiz zu Wassergeräten
 
