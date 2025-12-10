@@ -19,7 +19,7 @@ Each entry links to an existing chapter file.
 ## An Initiatic Journey — Short Edition
 
 ### 0. Seal & Intention – The Threshold of the Temple (Condensed)
-* [Prayer of Gratitude](./acknowledgements_prayer_of_gratitutde.md)  
+* [Prayer of Gratitude](./acknowledgements_prayer_of_gratitude.md)  
   Prayer of gratitude, love, and remembrance. Opens the field with blessing and thanks.
 * [The Physics of Gratitude — The Art of Seeing Through the Heart](./the_physics_of_gratitude.md)  
   A scientific, poetic, and psychologically precise exploration of gratitude as coherence, perception, and the art of seeing through the heart; offering practical, evidence-based rituals for daily life.

@@ -7,7 +7,7 @@ This outline presents the currently published chapters in their energetically op
 Each file is listed with its energetic function. The order follows the temple path, curated for resonance and transformation.
 
 ### 0. Seal & Intention - The Threshold of the Temple
-* [Prayer of Gratitude](./acknowledgements_prayer_of_gratitutde.md)  
+* [Prayer of Gratitude](./acknowledgements_prayer_of_gratitude.md)  
 	Prayer of gratitude, love, and remembrance. Opens the field with blessing and thanks.
 * [The Physics of Gratitude - The Art of Seeing Through the Heart](./the_physics_of_gratitude.md)  
 	A scientific, poetic, and psychologically precise exploration of gratitude as coherence, perception, and the art of seeing through the heart; offering practical, evidence-based rituals for daily life.
@@ -69,6 +69,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Deep soul transformation.
 * [Shadow Work - The Gateway to Wholeness](./shadow_work_the_gateway_to_wholeness.md)  
 	Integration, transparency, and the return to wholeness.
+* [The Alchemy of Grief – When Pain Becomes Light](./Water_is_the_Holy_Grail/alchemy_of_grief_when_pain_becomes_light.md)  
+	A poetic and practical guide to transforming grief into light and coherence through the alchemy of water, presence, and remembrance.
 * [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)  
 	Surrender as portal.
 
@@ -77,6 +79,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Breath, water, sleep, nourishment, and purpose as five master keys framing the practical architecture of coherence in body, mind, and spirit.
 * [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)  
 	A comprehensive set of practices for coherence, remembrance, and the return to Source-consciousness. Integrates breath, heart, intention, gratitude, and embodiment into a unified path.
+* [Wilhelm Reich and the Stream of Orgone Energy](./wilhelm_reich_and_the_stream_of_orgone_energy.md)  
+	The forgotten science of the living, the role of orgone energy, breath, field, and coherence as a bridge between science and living experience.
 * [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)  
 	A step-by-step guide to creating, calibrating, and integrating living water into daily life. Practical protocols, tools, and rituals for coherence, health, and spiritual alignment.
 * [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)  

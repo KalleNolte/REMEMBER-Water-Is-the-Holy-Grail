@@ -92,13 +92,12 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 
 * [Die Wunde, die zu Licht wird](./die_wunde_die_zu_licht_wird.md)  
   Die Wunde als Tor.
-
 * [Der Heiler](./der_heiler.md)  
   Loslassen. Vergebung. Innere Alchemie.
-
 * [Transmutation, Vergebung und die Rückkehr zur Quelle](./transmutation_vergebung_und_die_rueckkehr_zur_quelle.md)  
   Sünde als Verzerrung, Vergebung als Frequenzkorrektur und sexuelle Alchemie als Dienst – eine alchemische Karte, wie Wasser, Erinnerung und Liebe den Menschen zur Quelle zurückführen.
-
+* [Die Alchemie der Trauer – Wenn Schmerz zu Licht wird](./alchemie_der_trauer_wenn_schmerz_zu_licht_wird.md)  
+  Poetische und praktische Anleitung, wie Trauer durch die Alchemie des Wassers, Präsenz und Erinnerung in Licht und Kohärenz verwandelt wird.
 * [Hingabe – Die Kunst des Loslassens](./hingabe_die_kunst_des_loslassens.md)  
   Die Praxis des Loslassens und Nicht-Widerstands als Schlüssel zur inneren Freiheit, biophysischer Kohärenz und Rückkehr in den natürlichen Lebensfluss. Wissenschaftliche, spirituelle und poetische Perspektiven auf Hingabe, Atem, Körper, Bewusstsein und die Kunst, sich dem Leben anzuvertrauen.
 
@@ -108,6 +107,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Atem, Wasser, Schlaf, Ernährung & Bestimmung als fünf Meisterschlüssel der praktischen Architektur von Kohärenz in Körper, Geist und Seele.
 * [Die 12 Schlüssel der Selbstermächtigung – und die 13. Krone](./zwoelf_schluessel_selbstermächtigung_und_krone.md)  
   Das Herz der Rückkehr zur Quelle. Eine Erinnerungskarte und praktische Synthese von Atem, Herz, Wasser, Licht, Bewusstsein und der höchsten Krone. Fundamental, tief und sofort wirksam.
+* [Wilhelm Reich und die Strömung der Orgonenenergie](./wilhelm_reich_und_die_stroemung_der_orgonenenergie.md)  
+  Die vergessene Wissenschaft des Lebendigen, die Rolle der Orgonenergie, Atem, Feld und Kohärenz als Brücke zwischen Wissenschaft und lebendiger Erfahrung.
 * [Alchemie des lebendigen Wassers – Praktischer Leitfaden](./alchemie_des_lebendigen_wassers_praktischer_leitfaden.md)  
   Schritt-für-Schritt-Anleitung zur Schaffung, Kalibrierung und Integration von lebendigem Wasser im Alltag. Praktische Protokolle, Werkzeuge und Rituale für Kohärenz, Gesundheit und spirituelle Ausrichtung.
 * [Die vier Reiter und die Wasser des Lebens](./die_vier_reiter_und_die_wasser_des_lebens.md)  
@@ -130,16 +131,12 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 
 * [Erinnerung durch Wasser und Liebe](./erinnerung_durch_wasser_und_liebe.md)  
   Die höchste Übertragung dieses Werkes: Wiedervereinigung von Wissenschaft und Geist durch Wasser und Liebe. Eine Stimmgabel für die nächste Oktave der Menschheit.
-
 * [Vertrauen in Gott](./vertrauen_in_gott.md)  
   Die unendliche Geborgenheit, getragen zu sein. Vertrauen als direkte Erfahrung dessen, der durch jede Zelle, jeden Herzschlag und jeden Tropfen Wasser in dir atmet, lebt und trägt.
-
 * [Die Gabe reinen Gewahrseins](./die_gabe_reinen_gewahrseins.md)  
   Die Stille, die die Sterne enthält. Reines Gewahrsein als ursprüngliche Natur, in der Gleichmut, Seligkeit, Kohärenz und Vertrauen in Gott natürlicher Ausdruck sind.
-
 * [Neville Goddard: Die Kunst, den erfüllten Wunsch anzunehmen](./neville_goddard_die_kunst_den_erfuellten_wunsch_anzunehmen.md)  
   Die Lehre von Neville Goddard als Brücke zwischen Wissenschaft, Mystik und praktischer Schöpfungskraft. Vorstellungskraft als schöpferische Kraft, Annahme als Schlüssel zur inneren und äußeren Wandlung.
-
 * [Die letzte Übertragung - Die Rückkehr ins Eine](./die_letzte_uebertragung_die_rueckkehr_ins_eine.md)  
   Abschließender Segen und Rückkehr in den Zustand der Ungetrenntheit. Die Einladung, als Licht, als Liebe und als das Eine zu leben – im Wissen, dass die Quelle nie verlassen wurde.
 

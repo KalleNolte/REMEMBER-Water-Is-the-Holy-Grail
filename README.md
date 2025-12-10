@@ -28,7 +28,7 @@ Du kannst mit der **englischen Kurzfassung** beginnen, in die **vollständige en
 The list below mirrors the full book’s energetic and transformational journey. Each chapter is a step on the path of remembrance, coherence, and awakening.
 
 #### 0. Seal & Intention — The Threshold
-- [Prayer of Gratitude](./acknowledgements_prayer_of_gratitutde.md)
+- [Prayer of Gratitude](./acknowledgements_prayer_of_gratitude.md)
 - [The Physics of Gratitude — The Art of Seeing Through the Heart](./the_physics_of_gratitude.md)
 - [The Seal of Return](./the_seal_of_return.md)
  - [Coherence – The Invisible Order that Connects Everything](./coherence_invisible_order_that_connects_everything.md)
@@ -63,11 +63,13 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Transmutation, Forgiveness & the Return to Source](./transmutation_forgiveness_return_to_source.md)
 - [Alchemy of the Soul: Transcending Seven Shadows](./alchemy_of_the_soul_transcending_seven_shadows.md)
 - [Shadow Work – The Gateway to Wholeness](./shadow_work_the_gateway_to_wholeness.md)
+- [The Alchemy of Grief – When Pain Becomes Light](./Water_is_the_Holy_Grail/alchemy_of_grief_when_pain_becomes_light.md)
 - [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)
 
 #### IV. Practical Mastery — Body, Water, Light
- - [The Five Golden Keys to Self-Empowerment and Coherence](./five_golden_keys_to_self_empowerment_and_coherence.md)
+ - [The Five Golden Keys to Coherence](./five_golden_keys_to_self_empowerment_and_coherence.md)
  - [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)
+ - [Wilhelm Reich and the Stream of Orgone Energy](./wilhelm_reich_and_the_stream_of_orgone_energy.md)
 - [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)
 - [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)
 - [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
