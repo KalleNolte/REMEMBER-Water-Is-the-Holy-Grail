@@ -102,7 +102,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die Praxis des Loslassens und Nicht-Widerstands als Schlüssel zur inneren Freiheit, biophysischer Kohärenz und Rückkehr in den natürlichen Lebensfluss. Wissenschaftliche, spirituelle und poetische Perspektiven auf Hingabe, Atem, Körper, Bewusstsein und die Kunst, sich dem Leben anzuvertrauen.
 
 ### IV. Praktische Meisterschaft - Körper, Wasser, Licht
-
+* [Geduld & Gelassenheit — Die Stille, die Welten öffnet](./geduld_und_gelassenheit.md)  
+  Die Kunst, im Rhythmus der Quelle zu ruhen: Geduld und Gelassenheit als Schlüssel zu Kohärenz, Freude und Dienst. Poetische, wissenschaftliche und praktische Perspektiven auf den mittleren Weg und die Integration von Wasserweisheit im Alltag.
 * [Die fünf goldenen Schlüssel zu Selbstermächtigung und Kohärenz](./fuenf_goldene_schluessel_zu_selbstermmaechtigung_und_kohärenz.md)  
   Atem, Wasser, Schlaf, Ernährung & Bestimmung als fünf Meisterschlüssel der praktischen Architektur von Kohärenz in Körper, Geist und Seele.
 * [Die 12 Schlüssel der Selbstermächtigung – und die 13. Krone](./zwoelf_schluessel_selbstermächtigung_und_krone.md)  
