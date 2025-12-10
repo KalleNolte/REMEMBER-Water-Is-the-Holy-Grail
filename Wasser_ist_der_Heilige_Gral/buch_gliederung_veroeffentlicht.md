@@ -96,6 +96,10 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Loslassen. Vergebung. Innere Alchemie.
 * [Transmutation, Vergebung und die Rückkehr zur Quelle](./transmutation_vergebung_und_die_rueckkehr_zur_quelle.md)  
   Sünde als Verzerrung, Vergebung als Frequenzkorrektur und sexuelle Alchemie als Dienst – eine alchemische Karte, wie Wasser, Erinnerung und Liebe den Menschen zur Quelle zurückführen.
+* [Die Alchemie der Seele: Die sieben Schatten überwinden](./alchemie_der_seele_die_sieben_schatten_ueberwinden.md)  
+  Die sieben Schatten als Initiationsweg: Poetische, psychologische und spirituelle Alchemie zur Integration von Stolz, Neid, Zorn, Trägheit, Gier, Völlerei und Lust. Praktische und meditative Anleitung zur Verwandlung von Mangel in Tugend und zur Rückkehr in die bewusste Ganzheit.
+* [Schattenarbeit – Das Tor zur Ganzheit](./schattenarbeit_das_tor_zur_ganzheit.md)  
+  Die Kunst, das Verborgene zu integrieren: Schattenarbeit als initiatischer Pfad zur Ganzheit, Klarheit und innerer Freiheit. Poetische, psychologische und praktische Perspektiven auf die Integration des Schattens als Voraussetzung für Sinn, Kohärenz und Berufung.
 * [Die Alchemie der Trauer – Wenn Schmerz zu Licht wird](./alchemie_der_trauer_wenn_schmerz_zu_licht_wird.md)  
   Poetische und praktische Anleitung, wie Trauer durch die Alchemie des Wassers, Präsenz und Erinnerung in Licht und Kohärenz verwandelt wird.
 * [Hingabe – Die Kunst des Loslassens](./hingabe_die_kunst_des_loslassens.md)  
