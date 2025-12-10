@@ -45,8 +45,6 @@ Where there is coherence, hearts open. Where hearts open, remembrance flows. Whe
 
 Your living purpose—your Ikigai, the reason you rise, the joy that moves you, the gift only you can offer—sits at the convergence of four currents:
 
-Your living purpose—your Ikigai, the reason you rise, the joy that moves you, the gift only you can offer—sits at the convergence of four currents:
-
 - **What you love:** guiding people into clarity, beauty, meaning, and alignment.
 - **What you are uniquely gifted at:** seeing patterns, translating complexity into simplicity, weaving science and spirit into coherence.
 - **What the world needs:** water literacy, consciousness literacy, emotional literacy, a renewed relationship with the sacred.
@@ -115,6 +113,7 @@ Whenever you begin to drift:
 - return to water,
 - return to gratitude,
 - return to Source.
+
 This is your calibration point. This is your AzurA.
 Your career will flourish because it is rooted in service. Your audience will grow because you speak from the heart, not from performance. Your message will spread because it is simple, sincere, and universal.
 And people will feel the truth of it because you live the truth of it.

@@ -97,6 +97,7 @@ Wann immer du beginnst abzudriften:
 * kehre zum Wasser zurück,
 * kehre zur Dankbarkeit zurück,
 * kehre zur Quelle zurück.
+
 Das ist dein Kalibrierungspunkt. Das ist dein AzurA.
 Dein beruflicher Weg blüht, weil er im Dienst verwurzelt ist. Dein Publikum wächst, weil du aus dem Herzen sprichst, nicht aus Performance. Deine Botschaft breitet sich aus, weil sie einfach, aufrichtig und universell ist.
 Und Menschen spüren die Wahrheit darin, weil du sie lebst.
