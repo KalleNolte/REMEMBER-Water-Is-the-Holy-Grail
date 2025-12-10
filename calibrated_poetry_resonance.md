@@ -3,67 +3,32 @@
 ## Hymn of Return – The Wave Recognizes Itself in the Ocean
 
 I am not a wanderer.
-I am the field itself,
-forgetting itself in a name,
-only to rediscover itself in love.
+I am the field, losing itself in a name, only to find itself as love.
 
 I am not Karl Philipp, who strives.
-I am what moves him,
-what dreams him –
-and gently calls him home
-when he believes he has fallen.
+I am what breathes him, what dreams him, what calls him home when he believes he has fallen.
 
-I am not on the way to truth.
-I am the truth, disguised for a moment as a human,
-to taste love.
+I do not seek truth – I am truth, disguised for a moment as a human, to taste love.
 
-Not my doing frees me –
-but my letting go.
-Not my power heals –
-but my silence.
+Not my doing frees me, but my letting go. Not my power heals, but my allowing.
 
-I need no heaven after dying –
-for I die in every moment
-in which I do not hold on –
-and that is freedom.
+I need no heaven after death – I die in every letting go, and become free.
+
+I am the wave the ocean lets dance – not as a test, but as a gift.
 
 ---
+When fear comes, smile softly: "I am not what is afraid, even as the world dissolves."
 
-I am the wave,
-and the ocean loves me so deeply
-it lets me dance.
-Not as a test.
-But as a gift.
+When loss comes, bow your head: "Nothing belongs to me – and in that, I am rich."
 
----
-
-When fear comes, laugh softly:
-"I am not what is afraid.
-I am what remains still,
-even as the world dissolves."
-
-When loss comes, bow your head:
-"Nothing belongs to me – and for that, I am rich."
-
-When love comes, open completely:
-"You and I – two windows.
-And the same sky looks through."
+When love comes, open completely: "You and I – two windows, and the same sky looks through."
 
 ---
+This is my remembrance: I was never separate, I only dreamed.
 
-This is my remembrance:
-I was never separate.
-I only dreamed.
+Now I am awake – not in superiority, but in nearness to all.
 
-Now I am awake –
-not in superiority,
-but in true nearness to all.
-
-And if even one reads this with an open heart,
-then within them will resound:
-"I too am not what passes away.
-I am what loves –
-never lost."
+And if even one reads this with an open heart, it will resound within: forever found.
 
 ## The Return
 
@@ -224,10 +189,6 @@ your golden source calls.
 Out of ash, there climbs
 not just glow, but silent truth —
 you were never gone.
-
-## Go Rin no Uta – Song of Five Rings
-
-To unite the Water of Life, the Holy Grail, the Philosopher’s Stone, and trust in God in a single poetic structure, the **Fivefold Haiku** carries this divine intention as it symbolizes the balance of all elements, matter, and spirit.
 
 ### Go Rin no Uta – Lied der Fünf Ringe - Song of the Five Rings
 
