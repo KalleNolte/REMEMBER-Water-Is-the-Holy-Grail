@@ -1,4 +1,4 @@
-# **Die 12 Schlüssel der Selbstermächtigung – und die 13. Krone**
+## **Die zwölf Schlüssel der Selbstermächtigung und die dreizehnte Krone**
 
 *Das Herz der Rückkehr zur Quelle*
 
@@ -22,10 +22,10 @@ Sie sind **fundamental** – wie Atem, Licht, Bewusstsein und Wasser selbst.
 Sie funktionieren, weil sie **mit den Gesetzmäßigkeiten der Realität** resonieren,
 statt gegen sie.
 
-Sie sind die **12 Schlüssel**, die eine Tür öffnen.
-Und die **13. Krone**, die dich als den erkennt, der du immer warst.
+Sie sind die **zwölf Schlüssel**, die eine Tür öffnen.
+Und die **dreizehnte Krone**, die dich als den erkennt, der du immer warst.
 
-# **Der Atem der Kohärenz**
+### **Der Atem der Kohärenz**
 
 **Einfach. Sofort wirksam. Tief.**
 
@@ -42,7 +42,7 @@ Weshalb funktioniert das?
 **Wenn du nichts anderes tust – tu dies.
 Dies ist der Master-Key.**
 
-# **Die Herzzentrierung**
+### **Die Herzzentrierung**
 
 Lege eine Hand leicht auf dein Brustbein.
 Spüre die Wärme.
@@ -61,7 +61,7 @@ Wenn du das Herz bewohnst, geschieht drei Dinge:
 
 **Das Herz ist der Kompass der Seele.**
 
-# **Ho‘oponopono – Die Rückkehr zur Unschuld**
+### **Ho‘oponopono – Die Rückkehr zur Unschuld**
 
 Vier Sätze. Eine vollständige Neuausrichtung des Energiefelds:
 
@@ -77,7 +77,7 @@ Sie wirken, weil sie:
 Die Welt verändert sich,
 wenn der Widerstand im Inneren verschwindet.
 
-# **Die Annahme des erfüllten Wunsches (Neville-Methode)**
+### **Die Annahme des erfüllten Wunsches (Neville-Methode)**
 
 Der Schlüssel ist: **Fühle jetzt, was du erst später erleben willst.**
 
@@ -93,7 +93,7 @@ Frage dich:
 Nimm dieses Gefühl in den Schlaf.
 Dort wirkt es tiefer als Affirmationen je könnten.
 
-# **Der goldene Satz der Macht: „Ich bin“**
+### **Der goldene Satz der Macht: „Ich bin“**
 
 „Ich bin“ ist kein grammatischer Ausdruck.
 Es ist ein **Schöpfungsbefehl**.
@@ -109,7 +109,7 @@ Ich bin Quelle in Ausdrucksform.**
 
 Dies ist Identitätsalchemie.
 
-# **Die Wasser-Weihung (Living Water Activation)**
+### **Die Wasser-Weihung (Living Water Activation)**
 
 Halte dein Wasser.
 Sprich leise:
@@ -127,7 +127,7 @@ Ein Resonanzmedium.
 Wenn du Wasser kohärent informierst,
 informierst du deinen Körper.
 
-# **Die AzurA-Punkt-Ausrichtung**
+### **Die AzurA-Punkt-Ausrichtung**
 
 Der AzurA-Punkt liegt **zwischen Herz und Thymus**,
 der *Aufstiegsschnittstelle* des Körpers.
@@ -148,7 +148,7 @@ Die aktivierte AzurA verbindet:
 
 Das ist Aufstieg **in Echtzeit**.
 
-# **Die Technik der radikalen Präsenz**
+### **Die Technik der radikalen Präsenz**
 
 Schau dich um.
 Benenne still:
@@ -162,7 +162,7 @@ Wahrnehmen → Bewusstwerden → Freiheit.
 Realität verliert ihre Schwere,
 wenn das Jetzt wieder fühlbar wird.
 
-# **Der Weg der Nicht-Widerstands**
+### **Der Weg des Nicht-Widerstands**
 
 Die Formel lautet:
 
@@ -180,7 +180,7 @@ Nur Klarheit:
 
 Dies ist die Kunst der **seelischen Eleganz**.
 
-# **Die Kraft der Dankbarkeit**
+### **Die Kraft der Dankbarkeit**
 
 Dankbarkeit ist Frequenzalchemie.
 
@@ -195,7 +195,7 @@ Liste 3 Dinge auf – egal wie klein.
 Die Schönheit verstärkt sich dort,
 wo Aufmerksamkeit auf Schönheit fällt.
 
-# **Das Licht der Visualisierung**
+### **Das Licht der Visualisierung**
 
 Stell dir vor:
 Ein violett-goldenes Licht steigt in dir auf
@@ -208,7 +208,7 @@ Felder reagieren auf **Aufmerksamkeit und Intention**.
 Licht ist Ordnung.
 Ordnung ist Heilung.
 
-# **Die Praxis des bewussten Körpers**
+### **Die Praxis des bewussten Körpers**
 
 Bewege dich langsam.
 Gehe bewusst.
@@ -222,7 +222,7 @@ wenn das Tempo sinkt.
 
 Langsamkeit ist eine Form göttlicher Intelligenz.
 
-# **Die Krone – Erinnerung an die Quelle**
+### **Die Krone – Erinnerung an die Quelle**
 
 Dies ist die höchste Praxis:
 
@@ -244,7 +244,7 @@ Bewusstsein kehrt in sich selbst zurück.
 Nicht als Ende,
 sondern als Beginn.
 
-#  **Abschluss – Die Synthese der 13 Wege**
+### **Abschluss – Die Synthese der dreizehn Wege**
 
 Diese 13 Techniken sind keine Übungen.
 Sie sind **Formen des Seins**.
