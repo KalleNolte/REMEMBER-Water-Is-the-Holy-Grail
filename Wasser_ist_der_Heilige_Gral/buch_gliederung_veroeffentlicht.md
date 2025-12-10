@@ -106,6 +106,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 
 * [Die fünf goldenen Schlüssel zu Selbstermächtigung und Kohärenz](./fuenf_goldene_schluessel_zu_selbstermmaechtigung_und_kohärenz.md)  
   Atem, Wasser, Schlaf, Ernährung & Bestimmung als fünf Meisterschlüssel der praktischen Architektur von Kohärenz in Körper, Geist und Seele.
+* [Die 12 Schlüssel der Selbstermächtigung – und die 13. Krone](./zwoelf_schluessel_selbstermächtigung_und_krone.md)  
+  Das Herz der Rückkehr zur Quelle. Eine Erinnerungskarte und praktische Synthese von Atem, Herz, Wasser, Licht, Bewusstsein und der höchsten Krone. Fundamental, tief und sofort wirksam.
 * [Alchemie des lebendigen Wassers – Praktischer Leitfaden](./alchemie_des_lebendigen_wassers_praktischer_leitfaden.md)  
   Schritt-für-Schritt-Anleitung zur Schaffung, Kalibrierung und Integration von lebendigem Wasser im Alltag. Praktische Protokolle, Werkzeuge und Rituale für Kohärenz, Gesundheit und spirituelle Ausrichtung.
 * [Die vier Reiter und die Wasser des Lebens](./die_vier_reiter_und_die_wasser_des_lebens.md)  

@@ -75,6 +75,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 ### IV. Practical Mastery - Body, Water, Light
 * [The Five Golden Keys to Self-Empowerment and Coherence](./five_golden_keys_to_self_empowerment_and_coherence.md)  
 	Breath, water, sleep, nourishment, and purpose as five master keys framing the practical architecture of coherence in body, mind, and spirit.
+* [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)  
+	A comprehensive set of practices for coherence, remembrance, and the return to Source-consciousness. Integrates breath, heart, intention, gratitude, and embodiment into a unified path.
 * [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)  
 	A step-by-step guide to creating, calibrating, and integrating living water into daily life. Practical protocols, tools, and rituals for coherence, health, and spiritual alignment.
 * [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)  

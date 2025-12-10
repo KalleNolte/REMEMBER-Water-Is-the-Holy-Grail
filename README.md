@@ -67,6 +67,7 @@ The list below mirrors the full book’s energetic and transformational journey.
 
 #### IV. Practical Mastery — Body, Water, Light
  - [The Five Golden Keys to Self-Empowerment and Coherence](./five_golden_keys_to_self_empowerment_and_coherence.md)
+ - [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)
 - [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)
 - [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)
 - [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
