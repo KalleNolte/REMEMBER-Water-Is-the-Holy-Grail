@@ -61,6 +61,12 @@ Beginne und beende jeden Tag mit dieser Übung, um dich zu zentrieren.
 
 ### **Ho‘oponopono – Die Rückkehr zur Unschuld**
 
+**Was ist Ho'oponopono?**
+Ho'oponopono ist eine alte hawaiianische Technik zur Vergebung und inneren Heilung. Sie hilft, Frieden mit sich selbst und anderen zu schließen, indem man Verantwortung für seine Gefühle übernimmt und alte Belastungen loslässt.
+
+**Warum ist sie so wirksam?**
+Die vier einfachen Sätze wirken, weil sie das Herz öffnen, Schuld und Groll auflösen und das Nervensystem beruhigen. Sie bringen dich zurück in einen Zustand von innerem Frieden und Klarheit – ganz ohne komplizierte Rituale.
+
 **Anleitung für den Alltag:**
 1. Sprich innerlich oder laut die vier Sätze:
 	- Es tut mir leid.

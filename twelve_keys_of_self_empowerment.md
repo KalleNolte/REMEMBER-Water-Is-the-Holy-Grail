@@ -176,13 +176,14 @@ Behavior follows the new state.
 > “Feel from the end, not toward it.”
 
 ---
-*Resistance is a shadow at the edge of light. Naming, breathing, and releasing—these are the gentle hands that open the window to freedom.*
 ---
-### **Key Eight — The Triad of Non-Resistance**
+*Resistance is a shadow at the edge of light. Naming, breathing, forgiving—these are the gentle hands that open the window to freedom.*
+---
+### **Key Eight — The Triad of Non-Resistance (with Ho'oponopono)**
 
-**(The most practical tool for dissolving tension)**
+**(The most practical tool for dissolving tension and restoring peace)**
 
-Whenever resistance arises, use three steps:
+Whenever resistance or emotional pain arises, use this threefold approach:
 
 1. **Name it.**
    “There is tension. There is fear. There is contraction.”
@@ -190,8 +191,18 @@ Whenever resistance arises, use three steps:
 2. **Breathe through the heart.**
    Let breath soften the edges.
 
-3. **Release the storyline.**
-   You do not need to solve the emotion—only stop wrestling with it.
+3. **Forgive and release with Ho'oponopono.**
+   Silently or aloud, repeat these four phrases:
+   - I'm sorry.
+   - Please forgive me.
+   - I love you.
+   - Thank you.
+   Repeat them several times, breathing gently and allowing any feelings to arise and pass.
+
+You do not need to solve the emotion—only stop wrestling with it. Ho'oponopono is an ancient Hawaiian technique for reconciliation and healing. The four simple phrases open the heart, dissolve guilt and resentment, and calm the nervous system. This practice returns you to a state of inner peace and clarity—no complex rituals required.
+
+**When to use:**
+Whenever you feel emotional pain, conflict, or self-judgment, use this triad to return to your natural state of wholeness.
 
 Resistance loosens immediately when not fed.
 
