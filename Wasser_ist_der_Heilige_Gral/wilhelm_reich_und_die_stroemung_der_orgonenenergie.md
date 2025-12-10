@@ -139,10 +139,10 @@ Reich selbst beschrieb diesen Zustand als:
 
 Dieses Werk spricht von:
 
-* **Coherence**
-* **Living Water**
-* **Ascension through remembrance**
-* **Heart-centered awareness**
+* Kohärenz
+* Lebendigem Wasser
+* Aufstieg durch Erinnerung
+* Herzzentriertem Bewusstsein
 
 
 ## **Die Wiederkehr des Verlorenen Wissens**
@@ -154,8 +154,8 @@ Weil seine lebenslange Arbeit auf eine Wahrheit hinweist, die heute—Jahrzehnte
 
 > **Das Universum ist lebendig. Der Mensch ist ein Resonanzkörper dieses Lebens. Kohärenz ist Gesundheit. Blockade ist Krankheit. Bewusstsein ist die Quelle.**
 
-Reich sah, dass jede Panzerung—emotional, körperlich, geistig—das Feld des Lebens stört.
-Dieses Werk zeigt, wie Kohärenz diesen Zustand heilt: durch Bewusstsein, Atem, Wasser, Licht und innere Ausrichtung.
+Reich erkannte, dass der Mensch sich durch chronische muskuläre und emotionale „Panzerung“ schützt—ein Geflecht aus Verspannungen und Abwehrmechanismen, das sich im Körper, in den Gefühlen und im Geist manifestiert. Diese Panzerung unterbricht den natürlichen Fluss der Lebensenergie und stört das Feld des Lebendigen.
+Dieses Werk zeigt, wie Kohärenz diese Blockaden auflöst: durch bewusstes Wahrnehmen, tiefen Atem, lebendiges Wasser, Licht und die stille Kraft innerer Ausrichtung.
 
 
 ## **Die Essenz: Orgon als Metapher für lebendiges Bewusstsein**
