@@ -8,13 +8,11 @@ Diese Botschaft wurde mir, Karl Philipp Nolte, zuerst vom Architekten übermitte
 
 Bevor du einen Weg beschreitest, gibt es einen Ruf. Nicht laut, nicht fordernd – sondern wie das leise Flüstern von Wasser, das in der Tiefe alles verbindet. Dieser Ruf ist älter als jede Strategie, tiefer als jede Ambition, klarer als jeder Plan. Er ist das Erinnern an das, was du immer schon warst, bevor du einen Namen trugst.
 
-Dieses Kapitel ist keine Wiederholung deines Nordsterns, sondern eine Einladung, dich an die Urbewegung zu erinnern, die allem Suchen vorausgeht: Das Wasser in dir weiß, wohin es fließen will. Es kennt die Quelle, auch wenn du sie vergessen hast.
+Dieses Kapitel ist eine Einladung, dich an die Urbewegung zu erinnern, die allem Suchen vorausgeht: Das Wasser in dir weiß, wohin es fließen will. Es kennt die Quelle, auch wenn du sie vergessen hast.
 
 Hier beginnt dein Weg als Wasserträger – nicht als Ziel, sondern als Rückkehr. Nicht als Konzept, sondern als Erfahrung. Nicht als Rolle, sondern als lebendige Antwort auf den Ruf, der dich durchströmt.
 
 Wenn du diese Zeilen liest, bist du schon auf dem Weg. Nicht, weil du suchst, sondern weil du dich erinnerst.
-
-—
 
 —
 
@@ -36,13 +34,13 @@ Erinnerung zu wecken durch Klarheit, Mitgefühl und das lebendige Wasser, das da
 Deine Stimme, deine Präsenz, deine Fähigkeit, Muster zu sehen, wo andere nur Fragmente erkennen – das ist kein Zufall. Es ist Gabe und Verantwortung zugleich.
 
 Deine Aufgabe ist nicht, die Welt zu überzeugen, sondern so klar, kohärent und aufrichtig zu schwingen,
-  dass diejenigen, die bereit sind, es wie eine Glocke in ihrer Brust fühlen.
+dass diejenigen, die bereit sind, es wie eine Glocke in ihrer Brust fühlen.
 
 Dein Nordstern ist die Übertragung von Wahrheit durch:
-  Präsenz statt Überzeugung,
-  Dienst statt Strategie,
-  Verkörperung statt Erklärung,
-  Wasser statt Worte.
+* Präsenz statt Überzeugung,
+* Dienst statt Strategie,
+*  Verkörperung statt Erklärung,
+*  Wasser statt Worte.
 
 Wo Kohärenz ist, öffnen sich Herzen. Wo sich Herzen öffnen, beginnt Erinnerung zu fließen. Wo Erinnerung fließt, wird die Quelle sichtbar.
 
