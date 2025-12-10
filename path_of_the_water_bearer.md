@@ -45,10 +45,12 @@ Where there is coherence, hearts open. Where hearts open, remembrance flows. Whe
 
 Your living purpose—your Ikigai, the reason you rise, the joy that moves you, the gift only you can offer—sits at the convergence of four currents:
 
-What you love: guiding people into clarity, beauty, meaning, and alignment.
-What you are uniquely gifted at: seeing patterns, translating complexity into simplicity, weaving science and spirit into coherence.
-What the world needs: water literacy, consciousness literacy, emotional literacy, a renewed relationship with the sacred.
-What you can sustainably be supported by: sharing the water that restores life, teaching the principles that restore coherence, creating offerings that uplift, educate, and heal.
+Your living purpose—your Ikigai, the reason you rise, the joy that moves you, the gift only you can offer—sits at the convergence of four currents:
+
+- **What you love:** guiding people into clarity, beauty, meaning, and alignment.
+- **What you are uniquely gifted at:** seeing patterns, translating complexity into simplicity, weaving science and spirit into coherence.
+- **What the world needs:** water literacy, consciousness literacy, emotional literacy, a renewed relationship with the sacred.
+- **What you can sustainably be supported by:** sharing the water that restores life, teaching the principles that restore coherence, creating offerings that uplift, educate, and heal.
 
 Your Ikigai is not a profession, but a frequency—the frequency of remembrance.
 
@@ -61,39 +63,58 @@ Your career is not a ladder, but a spiral—widening, deepening, integrating.
 
 Here is the path that most clearly aligns with your intention and gift:
 
-Year 1—Foundation: Become the Water-Bearer
-	Share the living-water protocol with integrity and clarity. Build a community of resonance, not persuasion. Offer guidance freely, generously, as devotion.
-	Income is not the goal. Coherence is the goal—income follows coherence.
+### Year 1—Foundation: Become the Water-Bearer
+- Share the living-water protocol with integrity and clarity. Build a community of resonance, not persuasion. Offer guidance freely, generously, as devotion.
+- Income is not the goal. Coherence is the goal—income follows coherence.
 
-Years 2–3—Expansion: Teach Remembrance
-	Workshops, circles, the science and spirit of water, the art of letting go, the architecture of awareness, your synthesis of consciousness and biology.
-	Teach as a companion, not as a guru.
+### Years 2–3—Expansion: Teach Remembrance
+- Workshops, circles, the science and spirit of water, the art of letting go, the architecture of awareness, your synthesis of consciousness and biology.
+- Teach as a companion, not as a guru.
 
-Years 3–5—Mastery: Voice of Integration
-	You will be known for bridging worlds: science and spirituality, water and consciousness, intelligence and humility, knowledge and tenderness, vision and practicality.
-	Your income becomes stable because it is rooted in service, not performance.
-	Your work becomes global because it is rooted in truth, not ambition.
-	Your name becomes known because you became transparent, not loud.
+### Years 3–5—Mastery: Voice of Integration
+- You will be known for bridging worlds: science and spirituality, water and consciousness, intelligence and humility, knowledge and tenderness, vision and practicality.
+- Your income becomes stable because it is rooted in service, not performance.
+- Your work becomes global because it is rooted in truth, not ambition.
+- Your name becomes known because you became transparent, not loud.
 
 ## How You Touch Hearts
 
 You touch hearts not by trying to impress, but by doing the opposite:
-	By being transparently human, speaking in humility, naming your own wounds without shame, and letting people see that your clarity was earned, not inherited.
-You touch hearts when you listen more deeply than others expect, speak only what is true, explain complex things in simple metaphors, honor every belief but cling to none, lead with gentleness, and reveal that your faith was born from your own brokenness.
+
+- By being transparently human, speaking in humility, naming your own wounds without shame, and letting people see that your clarity was earned, not inherited.
+
+You touch hearts when you:
+- Listen more deeply than others expect
+- Speak only what is true
+- Explain complex things in simple metaphors
+- Honor every belief but cling to none
+- Lead with gentleness
+- Reveal that your faith was born from your own brokenness
+
 People do not follow what you know—they follow how you love.
-And you love through water, words, presence, patience, truthfulness, gratitude, devotion.
+And you love through:
+- Water
+- Words
+- Presence
+- Patience
+- Truthfulness
+- Gratitude
+- Devotion
+
 You are not here to argue.
 You are here to open something in the human heart that has been closed for too long.
 
 ## The Through-Line: Staying True to Intention
 
 Your real path—the path that cannot be derailed—is this:
-	Always return to the clear, quiet, centered place inside you from which this book was written.
+
+**Always return to the clear, quiet, centered place inside you from which this book was written.**
+
 Whenever you begin to drift:
-	return to breath,
-	return to water,
-	return to gratitude,
-	return to Source.
+- return to breath,
+- return to water,
+- return to gratitude,
+- return to Source.
 This is your calibration point. This is your AzurA.
 Your career will flourish because it is rooted in service. Your audience will grow because you speak from the heart, not from performance. Your message will spread because it is simple, sincere, and universal.
 And people will feel the truth of it because you live the truth of it.

@@ -39,8 +39,8 @@ dass diejenigen, die bereit sind, es wie eine Glocke in ihrer Brust fühlen.
 Dein Nordstern ist die Übertragung von Wahrheit durch:
 * Präsenz statt Überzeugung,
 * Dienst statt Strategie,
-*  Verkörperung statt Erklärung,
-*  Wasser statt Worte.
+* Verkörperung statt Erklärung,
+* Wasser statt Worte.
 
 Wo Kohärenz ist, öffnen sich Herzen. Wo sich Herzen öffnen, beginnt Erinnerung zu fließen. Wo Erinnerung fließt, wird die Quelle sichtbar.
 
@@ -48,10 +48,10 @@ Wo Kohärenz ist, öffnen sich Herzen. Wo sich Herzen öffnen, beginnt Erinnerun
 
 Deine lebendige Bestimmung – dein Ikigai, der Grund, warum du morgens aufstehst, die Freude, die dich bewegt, die Gabe, die nur du in dieser Form geben kannst – liegt in der Schnittmenge von vier Strömungen:
 
-Was du liebst: Menschen in Klarheit, Schönheit, Sinn und Ausrichtung zu führen.
-Worin du einzigartig bist: Muster erkennen, Komplexität in Einfachheit übersetzen, Wissenschaft und Geist zu einem Ganzen verweben.
-Was die Welt braucht: Wasserbewusstsein, Bewusstseinsklarheit, emotionale Tiefe, eine erneuerte Beziehung zum Heiligen.
-Wodurch du getragen wirst: Das Wasser teilen, das Leben wiederherstellt. Prinzipien lehren, die Kohärenz schaffen. Angebote, die erheben und heilen.
+- **Was du liebst:** Menschen in Klarheit, Schönheit, Sinn und Ausrichtung zu führen.
+- **Worin du einzigartig bist:** Muster erkennen, Komplexität in Einfachheit übersetzen, Wissenschaft und Geist zu einem Ganzen verweben.
+- **Was die Welt braucht:** Wasserbewusstsein, Bewusstseinsklarheit, emotionale Tiefe, eine erneuerte Beziehung zum Heiligen.
+- **Wodurch du getragen wirst:** Das Wasser teilen, das Leben wiederherstellt. Prinzipien lehren, die Kohärenz schaffen. Angebote, die erheben und heilen.
 
 Dein Ikigai ist kein Beruf, sondern eine Frequenz: die Frequenz der Erinnerung.
 
@@ -93,10 +93,10 @@ Du bist hier, um etwas im menschlichen Herzen zu öffnen, das zu lange verschlos
 Dein wahrer Weg – der Weg, der nicht entgleisen kann – ist dieser:
 Kehre immer wieder zu jenem klaren, stillen, zentrierten Ort in dir zurück, aus dem dieses Buch geschrieben wurde.
 Wann immer du beginnst abzudriften:
-  kehre zum Atem zurück,
-  kehre zum Wasser zurück,
-  kehre zur Dankbarkeit zurück,
-  kehre zur Quelle zurück.
+* kehre zum Atem zurück,
+* kehre zum Wasser zurück,
+* kehre zur Dankbarkeit zurück,
+* kehre zur Quelle zurück.
 Das ist dein Kalibrierungspunkt. Das ist dein AzurA.
 Dein beruflicher Weg blüht, weil er im Dienst verwurzelt ist. Dein Publikum wächst, weil du aus dem Herzen sprichst, nicht aus Performance. Deine Botschaft breitet sich aus, weil sie einfach, aufrichtig und universell ist.
 Und Menschen spüren die Wahrheit darin, weil du sie lebst.
@@ -123,4 +123,4 @@ Und dein Leben – dein ganzes Leben – ist das Gefäß, durch das die Quelle s
 Du bist nicht hier, um zu überzeugen. Du bist hier, um zu erleuchten.
 Du bist nicht hier, um Autorität zu beanspruchen. Du bist hier, um Aufrichtigkeit zu verkörpern.
 Du bist nicht hier, um gefolgt zu werden. Du bist hier, um andere zu ihrem eigenen inneren Kompass zu erwecken,
-  sodass wir einander – gemeinsam – nach Hause begleiten.
+sodass wir einander – gemeinsam – nach Hause begleiten.
