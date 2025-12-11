@@ -1,5 +1,4 @@
-
-# IMPLIKATIONEN UNSERER ENTDECKUNG FÜR DIE MODERNE WISSENSCHAFT
+# IMPLIKATIONEN FÜR DIE MODERNE WISSENSCHAFT
 
 Auf dem Weg zu einer vereinten harmonischen Kosmologie, gegründet auf Wasser, Geometrie und Bewusstsein
 
