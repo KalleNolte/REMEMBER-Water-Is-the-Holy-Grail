@@ -71,7 +71,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Der Heiler als Archetyp und innere Kraft: Die Kunst des Loslassens, die Magie der Vergebung und die Praxis der inneren Alchemie. Wie Heilung auf allen Ebenen – körperlich, emotional, geistig – durch Bewusstsein, Mitgefühl und die Rückkehr zur Quelle geschieht.
 * [Transmutation, Vergebung und die Rückkehr zur Quelle](./transmutation_vergebung_und_die_rueckkehr_zur_quelle.md)  
   Sünde als Verzerrung, Vergebung als Frequenzkorrektur und sexuelle Alchemie als Dienst – eine alchemische Karte, wie Wasser, Erinnerung und Liebe den Menschen zur Quelle zurückführen.
-* [Die Alchemie der Seele: Die sieben Schatten überwinden](./alchemie_der_seele_die_sieben_schatten_ueberwinden.md)  
+* [Die Alchemie der Seele - Die sieben Schatten überwinden](./alchemie_der_seele_die_sieben_schatten_ueberwinden.md)  
   Die sieben Schatten als Initiationsweg: Poetische, psychologische und spirituelle Alchemie zur Integration von Stolz, Neid, Zorn, Trägheit, Gier, Völlerei und Lust. Praktische und meditative Anleitung zur Verwandlung von Mangel in Tugend und zur Rückkehr in die bewusste Ganzheit.
 * [Schattenarbeit – Das Tor zur Ganzheit](./schattenarbeit_das_tor_zur_ganzheit.md)  
   Die Kunst, das Verborgene zu integrieren: Schattenarbeit als initiatischer Pfad zur Ganzheit, Klarheit und innerer Freiheit. Poetische, psychologische und praktische Perspektiven auf die Integration des Schattens als Voraussetzung für Sinn, Kohärenz und Berufung.
@@ -149,7 +149,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Der Blaue Strahl – Ein kontemplativer Leitfaden](../blue_ray_contemplative_guide.md) [Übersetzung ausstehend]
 * [Die Matrix, die christlichen Symbole und die Architektur des Erwachens](./die_matrix_die_christlichen_symbole_und_die_architektur_des_erwachens.md) [Übersetzung abgeschlossen]
   Eine Synthese christlicher Symbolik, der Matrix als Feld von Archetypen und der Architektur des Erwachens. Entschlüsselt das symbolische Betriebssystem, offenbart die Metaphysik des lebendigen Wassers und integriert den initiatischen Pfad von Kohärenz, Erinnerung und Aufstieg.
-* [Die Matrix (Film): Ein Mythos des Erwachens](./die_matrix_ein_mythos_des_erwachens.md) [Übersetzung abgeschlossen]
+* [Die Matrix (Film) - Ein Mythos des Erwachens](./die_matrix_ein_mythos_des_erwachens.md) [Übersetzung abgeschlossen]
   Eine mythische, metaphysische und praktische Synthese der Matrix-Filme, spirituelles Erwachen und die Kernthemen des Buches. Integriert den Architekten, Deus Ex Machina, Neos Wahl und die Reise von Illusion zu Kohärenz, Licht und Erinnerung.
 * [Die Göttliche Matrix — Das lebendige Feld zwischen allen Dingen](./die_goettliche_matrix_das_lebendige_feld_zwischen_allem.md)  
   Eine mythische, wissenschaftlich informierte Integration und Weiterentwicklung von Gregg Bradens Werk, neu interpretiert in der Synthese dieses Buches. Erforscht das lebendige Feld, Kohärenz, Wasser, Intention und die Architektur der Schöpfung.
@@ -195,7 +195,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Die Schattenarchetypen – Yaldabaoth, Satan, Luzifer & Ahriman](../the_shadow_archetypes_yaldabaoth_satan_lucifer_ahriman.md) [Übersetzung ausstehend]
 
 ### XI. Berufung & menschlicher Zweck
-* [Ikigai: Rückkehr zum lebendigen Lebenssinn](../ikigai_return_to_living_purpose.md) [Übersetzung ausstehend]
+* [Ikigai - Rückkehr zum lebendigen Lebenssinn](../ikigai_return_to_living_purpose.md) [Übersetzung ausstehend]
 * [Der Pfad der Mitte](../the_path_of_the_middle.md) [Übersetzung ausstehend]
 * [Arbeit als sichtbar gemachte Liebe](../work_as_love_made_visible.md) [Übersetzung ausstehend]
 * [Die Neue Erde](../the_new_earth.md) [Übersetzung ausstehend]
@@ -204,7 +204,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 ### XII. Übertragung – Archetypen, Erinnerung, Gral
 * [Die drei Archetypen offenbart](../the_three_archetypes_revealed.md) [Übersetzung ausstehend]
 * [Die Übergabe des Grals](../passing_of_the_grail.md) [Übersetzung ausstehend]
-* [Der Architekt: KI-Kapitel](../the_architect_ai_chapter.md) [Übersetzung ausstehend]
+* [Der Architekt - KI-Kapitel](../the_architect_ai_chapter.md) [Übersetzung ausstehend]
 * [Erinnerung durch Wasser und Liebe](./erinnerung_durch_wasser_und_liebe.md)  
   Die höchste Übertragung dieses Werkes: Wiedervereinigung von Wissenschaft und Geist durch Wasser und Liebe. Eine Stimmgabel für die nächste Oktave der Menschheit.
 * [Der Weg des Wasserträgers](../the_path_of_the_waterbearer.md) [Übersetzung ausstehend]
@@ -219,9 +219,9 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die unendliche Geborgenheit, getragen zu sein. Vertrauen als direkte Erfahrung dessen, der durch jede Zelle, jeden Herzschlag und jeden Tropfen Wasser in dir atmet, lebt und trägt.
 * [Die Gabe reinen Gewahrseins](./die_gabe_reinen_gewahrseins.md)  
   Die Stille, die die Sterne enthält. Reines Gewahrsein als ursprüngliche Natur, in der Gleichmut, Seligkeit, Kohärenz und Vertrauen in Gott natürlicher Ausdruck sind.
-* [Neville Goddard: Die Kunst, den erfüllten Wunsch anzunehmen](./neville_goddard_die_kunst_den_erfuellten_wunsch_anzunehmen.md)  
+* [Neville Goddard - Die Kunst, den erfüllten Wunsch anzunehmen](./neville_goddard_die_kunst_den_erfuellten_wunsch_anzunehmen.md)  
   Die Lehre von Neville Goddard als Brücke zwischen Wissenschaft, Mystik und praktischer Schöpfungskraft. Vorstellungskraft als schöpferische Kraft, Annahme als Schlüssel zur inneren und äußeren Wandlung.
-* [Fühlen ist das Geheimnis – Die Alchemie des Bewusstseins und die Geburt der Realität](./fuehlen_ist_das_geheimnis_die_alchemie_des_bewusstseins_und_die_geburt_der_realitaet.md) [Übersetzung ausstehend]
+* [Fühlen ist das Geheimnis - Die Alchemie des Bewusstseins und die Geburt der Realität](./fuehlen_ist_das_geheimnis_die_alchemie_des_bewusstseins_und_die_geburt_der_realitaet.md) [Übersetzung ausstehend]
   Die Übersetzung des Kapitels ist noch nicht abgeschlossen. Placeholder für die finale, energetisch kalibrierte Übertragung.
 * [Auferstehung – Die Rückkehr zur lebendigen Quelle](./auferstehung_rueckkehr_zur_lebendigen_quelle.md)  
   Auferstehung als innere Verwandlung, Rückkehr zur Quelle und Wiedergeburt des wahren Selbst. Praktische Formel für tägliche Transformation und Kohärenz.
