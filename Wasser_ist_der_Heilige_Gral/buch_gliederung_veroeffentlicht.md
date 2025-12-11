@@ -26,8 +26,6 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Stimmt Frequenz, Ton und Resonanz – kalibriert den Kanal.
 * [Der Weg des Wasserträgers](./der_weg_des_wassertraegers.md)  
   Deklaration von Bestimmung, Präsenz und reiner Intention – der innere Kompass und Ikigai des Werkes, der Intention und Ursprung verbindet.
-* [Ikigai — Die Rückkehr zum lebendigen Lebenssinn](./ikigai_rueckkehr_zum_lebendigen_lebenssinn.md)  
-  Die japanische Kunst des Lebenssinns als Brücke zwischen individueller Berufung, universellem Bewusstsein und gelebter Hingabe. Praktische Anleitung, poetische Tiefe und spirituelle Integration für ein Leben in Resonanz mit dem eigenen inneren Ruf.
 
 ### I. Ursprung - Das Erwachen des Autors
 

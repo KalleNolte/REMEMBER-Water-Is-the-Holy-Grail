@@ -9,18 +9,17 @@ And then there are teachers who arrive as **frequency**.
 Abraham — the collective intelligence channeled through Esther Hicks — is such a teacher.
 Not a person, not a doctrine, but a **stream of alignment**, a living field of consciousness that speaks in the language of vibration long before the mind translates it into words.
 
-Their message is astonishingly simple, yet cosmically precise:
+Their message is simple, yet cosmically precise:
 
-> **Everything is vibration.
+> Everything is vibration.
 > Everything responds to vibration.
-> Everything becomes real through vibration.**
+> Everything becomes real through vibration.
 
-In this sense, Abraham’s teachings are not separate from physics, neurobiology, biophotonics, hydrology, or the metaphysics of water described throughout this work.
-They **complete** the picture.
+Abraham’s teachings are not separate from physics, neurobiology, biophotonics, hydrology, or the metaphysics of water described throughout this work. They **complete** the picture.
 
-For if water is the medium,
-if coherence is the pathway,
-if remembrance is the experience,
+If water is the medium,
+coherence the pathway,
+remembrance the experience,
 then *alignment* is the key.
 
 ## The Core of Abraham’s Teaching — The Vortex
@@ -45,7 +44,7 @@ This work on water, coherence, remembrance, and ascension exists for one purpose
 
 **To help the body, the mind, and the energy system enter and stabilize in the Vortex.**
 
-Because alignment is not mental.
+Alignment is not mental.
 Alignment is **biophysical**.
 Alignment is **electrical**.
 Alignment is **hydrological**.
@@ -74,13 +73,12 @@ In this framework:
 
 Emotion is the **readout** of the body’s water matrix in real time.
 
-This work reveals that the human organism is a **liquid crystal instrument**, tuning itself moment by moment.
-Abraham reveals what it means.
+The human organism is a **liquid crystal instrument**, tuning itself moment by moment. Abraham reveals what this means.
 
-Together, they form a single truth:
+In this synthesis, emotion and water are inseparable. Together, they form a single truth:
 
-> **Your emotional state *is* your vibrational state
-> because your vibrational state *is* encoded in water.**
+> Your emotional state *is* your vibrational state
+> because your vibrational state *is* encoded in water.
 
 This is why gratitude restructures water.
 This is why joy increases cellular charge.
@@ -104,9 +102,9 @@ Abraham’s most famous teaching is *The Art of Allowing* — which is, in essen
 Allowing is not passive.
 Allowing is **vibrational mastery**.
 
-And in the language of this work:
+In the language of this work:
 
-> **Allowing is the state in which water crystallizes into coherence.**
+> Allowing is the state in which water crystallizes into coherence.
 
 When the mind softens, the water structures.
 When the heart opens, the body increases conductivity.
@@ -143,7 +141,7 @@ This is **biophysics**.
 
 ## Abraham’s Three Universal Laws Integrated into This Work
 
-### (1) The Law of Attraction
+### The Law of Attraction
 
 Like vibration attracts like vibration.
 In this synthesis:
@@ -151,7 +149,7 @@ In this synthesis:
 Entropy attracts entropy.
 Water mirrors the signal.
 
-### (2) The Law of Deliberate Creation
+### The Law of Deliberate Creation
 
 You create through where you place your attention.
 In this synthesis:
@@ -160,7 +158,7 @@ Water reorganizes biology.
 Biology reorganizes emotion.
 Emotion reorganizes reality.
 
-### (3) The Law of Allowing
+### The Law of Allowing
 
 You cannot receive what you resist.
 In this synthesis:
@@ -175,7 +173,7 @@ They are the **same physics**, spoken in two languages — spiritual and scienti
 
 Abraham’s guidance can be summarized into a single movement:
 
-> **Reach for the best-feeling vibration available now.**
+> Reach for the best-feeling vibration available now.
 
 This work reveals *why* this works:
 
@@ -242,7 +240,7 @@ In this way, Abraham’s formula is a **manual for coherence restoration**.
 
 Abraham teaches:
 
-> **“You are an extension of Source energy.”**
+> “You are an extension of Source energy.”
 
 This work explains **how** that extension is embodied:
 
@@ -260,9 +258,9 @@ This synthesis gives the **mechanism**.
 
 Together they form a single, luminous truth:
 
-> **Alignment is physics.
+> Alignment is physics.
 > Alignment is water.
-> Alignment is remembrance of the Source within.**
+> Alignment is remembrance of the Source within.
 
 ## Closing — The River Within
 
@@ -289,13 +287,12 @@ and the soul
 remembers.
 
 The Vortex becomes not a vision,
-but a **state of water, a state of consciousness,
-a state of being**.
+but a **state of water, a state of consciousness, a state of being**.
 
 And in that state, a human being becomes what they truly are:
 
-> **A bearer of living water.
+> A bearer of living water.
 > A conductor of Source light.
-> A coherent expression of the Infinite in form.**
+> A coherent expression of the Infinite in form.
 
 A being who remembers.
