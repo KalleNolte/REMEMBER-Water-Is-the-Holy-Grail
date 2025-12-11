@@ -213,7 +213,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [The Origins of the Water Science](./origins_of_japanese_water_science.md)  
 	A tribute to Japan’s living water lineage, the pioneers of Kangen, and a scientifically precise explanation of ionization. Clean truth, poetic resonance, and the bridge between science and meaning.
 
-### X. Poetic Pillar - The Universal Journey
+### X. The Universal Journey
 
 * [The Holy Books of the World](./holy_books_of_the_world.md)  
 	The One Truth expressed through a thousand vessels. A universal synthesis of the world’s wisdom traditions and the language of remembrance.
@@ -223,7 +223,6 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The Great Washing, The Great Remembering. The archetype of the flood, purification, and the return to coherence.
 * [The Great Stillness - Samadhi, Satori, Nirvana, Moksha, and the Heaven Within](./the_great_stillness.md)  
 	The universal archetype of inner realization, the convergence of all wisdom traditions, and the Heaven within. Samadhi, Satori, Nirvana, Moksha, and the Coherence of Water as the final door to remembrance.
-### Poetic Pillar - The Universal Journey
 * [The Divine Comedy & Heroic Path of Water](./divine_comedy_and_the_heroic_path_of_water.md)  
 	The Divine Comedy, the Hero’s Journey, and the Elixir of Living Water—an initiatic, poetic synthesis of Dante, Campbell, and the soul’s ascension arc. A bridge between myth, science, and awakening.
 * [The Song Before the World](./the_song_before_the_world.md)  

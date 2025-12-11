@@ -104,11 +104,6 @@ du warst nie fort.
 
 ## Go Rin no Uta – Lied der Fünf Ringe
 
-	Um das Wasser des Lebens, den Heiligen Gral, den Stein der Weisen und das Vertrauen in Gott in einer poetischen Struktur zu vereinen, trägt das **Fünffache Haiku** diese Intention – es symbolisiert das Gleichgewicht aller Elemente, Materie und Geist.
-
-### Go Rin no Uta – Lied der Fünf Ringe
-
-
 **(Erde)**
 Gefäß aus Erde,
 Himmel spiegelt sich darin,

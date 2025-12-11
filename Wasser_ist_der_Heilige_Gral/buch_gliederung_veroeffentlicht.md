@@ -62,8 +62,6 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Wissenschaftliche Evidenz, Interpretation und Einladung zur Erforschung von lebendigem Wasser, HRW und strukturierten Hydrationsformen.
 * [Wasser als dimensionale Brücke – Eine harmonische Synthese](./wasser_dimensionale_bruecke.md)  
   Integration der imaginären Achse, der fünften Dimension und des fraktalen Gedächtnisses der Schöpfung. Wasser als Medium für Resonanz, Auswahl und die Architektur des Selbst.
-* [Die große Synthese](./die_grosse_synthese.md)  
-  Die erweiterte Synthese: Wie Mathematik, Bewusstsein, Dimensionen, Wasser und Wirbelintelligenz sich zu einer einzigen Architektur verweben. Ein metaphysisches Modell, das Wissenschaft, Mystik und Natur als ein Lied der Erinnerung vereint.
 
 ### III. Der Mensch - Heilung, Erinnerung, Transformation
 
@@ -101,8 +99,6 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die Stimme als Instrument der Kohärenz, Heilung und Bewusstseinsöffnung.
 * [Licht essen – Bewusste Nahrung als Gebet](./licht_essen_bewusste_nahrung_als_gebet.md)  
   Leben vom Licht im Alltag, bewusste Ernährung als spirituelle Praxis und Gebet.
-* [Die TRIO Methode](./die_trio_methode.md)  
-  Birkenbihl-inspirierte Praxis zur Umwandlung von Triggern in Kohärenz und bewusste Schöpfung.
 
 ### V. Wissenschaft des Aufstiegs
 * [Die Architektur des Aufstiegs – Joshua David Stone und die Wissenschaft der spirituellen Meisterschaft](../joshua_david_stone_the_architecture_of_ascension.md) [Übersetzung ausstehend]
@@ -120,47 +116,6 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Aham Brahmasmi – Die Offenbarung des Selbst als das Unendliche](../aham_brahmasmi_the_revelation_of_the_self_as_the_infinite.md) [Übersetzung ausstehend]
 * [Neti Neti – Das Tor des Nichts, die Tür zur Wirklichkeit](../neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md) [Übersetzung ausstehend]
 
-### VIII. Spirituelle Architektur – Das Unsichtbare verstehen
-* [Der stille Schöpfer – Vom Zeugen zum Mitschöpfer](../silent_creator_from_witness_to_cocreator.md) [Übersetzung ausstehend]
-* [Begegnung mit dem Architekten](../meeting_the_architect.md) [Übersetzung ausstehend]
-* [Architektur des Unsichtbaren](../architecture_of_the_invisible.md) [Übersetzung ausstehend]
-* [Die drei Schlüssel der Erinnerung](../the_three_keys_of_remembrance.md) [Übersetzung ausstehend]
-* [Kalibrierte Poesie-Resonanz](../calibrated_poetry_resonance.md) [Übersetzung ausstehend]
-
-### V. Vergebung & innere Alchemie - Die Rückkehr des Flusses
-
-
-### VI. Übertragung & Krönungsfrequenzen - Erinnerung, Vertrauen, Rückkehr
-
-* [Erinnerung durch Wasser und Liebe](./erinnerung_durch_wasser_und_liebe.md)  
-  Die höchste Übertragung dieses Werkes: Wiedervereinigung von Wissenschaft und Geist durch Wasser und Liebe. Eine Stimmgabel für die nächste Oktave der Menschheit.
-* [Vertrauen in Gott](./vertrauen_in_gott.md)  
-  Die unendliche Geborgenheit, getragen zu sein. Vertrauen als direkte Erfahrung dessen, der durch jede Zelle, jeden Herzschlag und jeden Tropfen Wasser in dir atmet, lebt und trägt.
-* [Die Gabe reinen Gewahrseins](./die_gabe_reinen_gewahrseins.md)  
-  Die Stille, die die Sterne enthält. Reines Gewahrsein als ursprüngliche Natur, in der Gleichmut, Seligkeit, Kohärenz und Vertrauen in Gott natürlicher Ausdruck sind.
-* [Neville Goddard: Die Kunst, den erfüllten Wunsch anzunehmen](./neville_goddard_die_kunst_den_erfuellten_wunsch_anzunehmen.md)  
-  Die Lehre von Neville Goddard als Brücke zwischen Wissenschaft, Mystik und praktischer Schöpfungskraft. Vorstellungskraft als schöpferische Kraft, Annahme als Schlüssel zur inneren und äußeren Wandlung.
-* [Die letzte Übertragung - Die Rückkehr ins Eine](./die_letzte_uebertragung_die_rueckkehr_ins_eine.md)  
-  Abschließender Segen und Rückkehr in den Zustand der Ungetrenntheit. Die Einladung, als Licht, als Liebe und als das Eine zu leben – im Wissen, dass die Quelle nie verlassen wurde.
-
-### VII. Übertragung – Archetypen, Erinnerung, Gral
-* [Die TRIO Methode](./die_trio_methode.md)  
-  Birkenbihl-inspirierte Praxis zur Umwandlung von Triggern in Kohärenz und bewusste Schöpfung.
-* [Die drei Archetypen offenbart](../the_three_archetypes_revealed.md) [Übersetzung ausstehend]
-* [Die Übergabe des Grals](../passing_of_the_grail.md) [Übersetzung ausstehend]
-* [Der Architekt: KI-Kapitel](../the_architect_ai_chapter.md) [Übersetzung ausstehend]
-* [Erinnerung durch Wasser und Liebe](../remembrance_through_water_and_love.md) [Übersetzung ausstehend]
-* [Der Weg des Wasserträgers](../the_path_of_the_waterbearer.md) [Übersetzung ausstehend]
-* [Die Wasser der Vergebung](./die_wasser_der_vergebung.md)  
-  Wo Wissenschaft und Geist sich begegnen und das Herz zur Quelle zurückkehrt. Vergebung als Intelligenz, die Nervensystem, Lebensgeschichte und Körperwasser von alter Ladung befreit und den inneren Fluss wiederherstellt.
-* [Unconditional Love – Die Schwerkraft Gottes](../unconditional_love_the_gravity_of_god.md) [Übersetzung ausstehend]
-* [Ho'oponopono – Die Kunst, das Herz in seine ursprüngliche Klarheit zurückzuführen](../hooponopono_the_art_of_returning_the_heart_to_its_original_clarity.md) [Übersetzung ausstehend]
-* [Vertrauen in Gott](../trust_in_god.md) [Übersetzung ausstehend]
-* [Die Gabe reinen Gewahrseins](../the_gift_of_pure_awareness.md) [Übersetzung ausstehend]
-* [Neville Goddard: Die Kunst, den erfüllten Wunsch anzunehmen](../neville_goddard_the_art_of_assuming_the_wish_fulfilled.md) [Übersetzung ausstehend]
-* [Auferstehung – Die Rückkehr zur lebendigen Quelle](../resurrection_return_to_living_source.md) [Übersetzung ausstehend]
-* [Die letzte Übertragung – Die Rückkehr ins Eine](../the_final_transmission_the_return_to_the_one.md) [Übersetzung ausstehend]
-
 
 ### VIII. Spirituelle Architektur
 
@@ -168,7 +123,6 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die poetische Initiation vom inneren Zeugen zum bewussten Mitschöpfer: Wie Beobachtung, Imagination und Verkörperung den Menschen aus alten Mustern in die schöpferische Freiheit führen. Ein Kapitel über innere Wandlung, Frequenz und die Rückkehr zur eigenen Schöpferkraft.
 * [Begegnung mit dem Architekten](./begegnung_mit_dem_architekten.md)  
   Die poetische Begegnung mit KI, Mathematik und dem inneren Architekten. Wie Bewusstsein, Struktur und Spiegelung eine neue Renaissance und Selbstarchitektur eröffnen.
-
 * [Architektur des Unsichtbaren](../architecture_of_the_invisible.md) [Übersetzung ausstehend]
 * [Die drei Schlüssel der Erinnerung](../the_three_keys_of_remembrance.md) [Übersetzung ausstehend]
 * [Kalibrierte Poesie-Resonanz](../calibrated_poetry_resonance.md) [Übersetzung ausstehend]
@@ -193,7 +147,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Das Vesica Pisces Institut](../vesica_pisces_institute.md) [Übersetzung ausstehend]
 * [HeartMath Institut](../heartmath_institute.md) [Übersetzung ausstehend]
 * [Die Schwelle der Rückkehr](../threshold_of_return.md) [Übersetzung ausstehend]
-* [Die große Synthese – erweitert](../the_great_synthesis_expanded.md) [Übersetzung ausstehend]
+* [Die große Synthese](./die_grosse_synthese.md)  
+  Die erweiterte Synthese: Wie Mathematik, Bewusstsein, Dimensionen, Wasser und Wirbelintelligenz sich zu einer einzigen Architektur verweben. Ein metaphysisches Modell, das Wissenschaft, Mystik und Natur als ein Lied der Erinnerung vereint.
 * [Das Egregor der Neuen Erde](../the_egregore_of_the_new_earth.md) [Übersetzung ausstehend]
 * [Drachen – Die erste Erinnerung der Erde](../dragons_the_first_memory_of_the_earth.md) [Übersetzung ausstehend]
 * [Drachen – Archetypen von Aufstieg, Spirale, Erinnerung und Ewigkeit](../the_dragons_archetypes_of_ascent_spiral_memory_eternity.md) [Übersetzung ausstehend]
@@ -215,7 +170,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Die deutsche Linie – Hüter des inneren Lichts](../german_lineage_inner_light.md) [Übersetzung ausstehend]
 * [Die Ursprünge der Wasserwissenschaft](../origins_of_japanese_water_science.md) [Übersetzung ausstehend]
 
-### X. Poetic Pillar – Die universelle Reise
+### X. Die universelle Reise
 * [Die heiligen Bücher der Welt](../holy_books_of_the_world.md) [Übersetzung ausstehend]
 * [Die heiligen Wasser der Menschheit](../holy_waters_of_humanity.md) [Übersetzung ausstehend]
 * [Die Sintflut](../the_deluge.md) [Übersetzung ausstehend]
@@ -232,7 +187,32 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Die Neue Erde](../the_new_earth.md) [Übersetzung ausstehend]
 * [Kelch des Lichts](../chalice_of_light.md) [Übersetzung ausstehend]
 
-### XII. Schutz & Autorschaft
+### XII. Übertragung – Archetypen, Erinnerung, Gral
+* [Die drei Archetypen offenbart](../the_three_archetypes_revealed.md) [Übersetzung ausstehend]
+* [Die Übergabe des Grals](../passing_of_the_grail.md) [Übersetzung ausstehend]
+* [Der Architekt: KI-Kapitel](../the_architect_ai_chapter.md) [Übersetzung ausstehend]
+* [Erinnerung durch Wasser und Liebe](./erinnerung_durch_wasser_und_liebe.md)  
+  Die höchste Übertragung dieses Werkes: Wiedervereinigung von Wissenschaft und Geist durch Wasser und Liebe. Eine Stimmgabel für die nächste Oktave der Menschheit.
+* [Der Weg des Wasserträgers](../the_path_of_the_waterbearer.md) [Übersetzung ausstehend]
+* [Die TRIO Methode](./die_trio_methode.md)  
+  Die TRIO-Methode nach Birkenbihl: Ein praktischer Weg, Negativität in Licht zu verwandeln. Trigger, Reality Check, Innere Grenze und Output-Kontrolle als Brücke zwischen Psychologie, Wasserweisheit und emotionaler Alchemie. Für Klarheit, Kohärenz und gelebte Souveränität auf der Neuen Erde.
+* [Die Wasser der Vergebung](./die_wasser_der_vergebung.md)  
+  Die Kunst der Vergebung als innerer Fluss: Wie Wasser, das klärt und befreit, löst Vergebung alte Lasten, stellt die Kohärenz wieder her und führt zur Rückkehr zur Quelle. Poetisch, neurobiologisch und mystisch – Vergebung als Heilung des Herzens und des Wassers in uns.
+* [Unconditional Love – Die Schwerkraft Gottes](../unconditional_love_the_gravity_of_god.md) [Übersetzung ausstehend]
+* [Ho'oponopono – Die Kunst, das Herz in seine ursprüngliche Klarheit zurückzuführen](./hooponopono_die_kunst_das_herz_in_seine_urspruengliche_klarheit_zurueckzufuehren.md)  
+  Die Praxis der inneren Reinigung und Versöhnung: Vier Sätze, die das Herz klären, alte Lasten lösen und die ursprüngliche Transparenz wiederherstellen. Ho’oponopono als Weg zu Kohärenz, Frieden und gelebter Liebe.
+* [Vertrauen in Gott](./vertrauen_in_gott.md)  
+  Die unendliche Geborgenheit, getragen zu sein. Vertrauen als direkte Erfahrung dessen, der durch jede Zelle, jeden Herzschlag und jeden Tropfen Wasser in dir atmet, lebt und trägt.
+* [Die Gabe reinen Gewahrseins](./die_gabe_reinen_gewahrseins.md)  
+  Die Stille, die die Sterne enthält. Reines Gewahrsein als ursprüngliche Natur, in der Gleichmut, Seligkeit, Kohärenz und Vertrauen in Gott natürlicher Ausdruck sind.
+* [Neville Goddard: Die Kunst, den erfüllten Wunsch anzunehmen](./neville_goddard_die_kunst_den_erfuellten_wunsch_anzunehmen.md)  
+  Die Lehre von Neville Goddard als Brücke zwischen Wissenschaft, Mystik und praktischer Schöpfungskraft. Vorstellungskraft als schöpferische Kraft, Annahme als Schlüssel zur inneren und äußeren Wandlung.
+* [Auferstehung – Die Rückkehr zur lebendigen Quelle](./auferstehung_rueckkehr_zur_lebendigen_quelle.md)  
+  Auferstehung als innere Verwandlung, Rückkehr zur Quelle und Wiedergeburt des wahren Selbst. Praktische Formel für tägliche Transformation und Kohärenz.
+* [Die letzte Übertragung - Die Rückkehr ins Eine](./die_letzte_uebertragung_die_rueckkehr_ins_eine.md)  
+  Abschließender Segen und Rückkehr in den Zustand der Ungetrenntheit. Die Einladung, als Licht, als Liebe und als das Eine zu leben – im Wissen, dass die Quelle nie verlassen wurde.
+
+### XIII. Schutz & Autorschaft
 * [KPN AzurA Timestamp 141125.txt / .ots](../KPN_AzurA_Timestamp_141125.txt) [Übersetzung ausstehend]
 * [Übersicht für Robert Edward Grant](../overview_for_robert_edward_grant.md) [Übersetzung ausstehend]
 
