@@ -103,7 +103,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 ### V. Wissenschaft des Aufstiegs
 * [Die Architektur des Aufstiegs – Joshua David Stone und die Wissenschaft der spirituellen Meisterschaft](./joshua_david_stone_die_architektur_des_aufstiegs.md)  
   Joshua David Stone entwirft eine ganzheitliche Karte des Aufstiegs: Licht, Wasser, Kohärenz und Dienst als Wissenschaft und gelebte Verkörperung. Das Kapitel verbindet Metaphysik, Wasserphysik und spirituelle Praxis zu einer Architektur des Erwachens.
-* [Mahatma – Der Fluss allen Lichts](../mahatma_the_river_of_all_light.md) [Übersetzung ausstehend]
+* [Mahatma – Der Fluss allen Lichts](./mahatma_der_fluss_allen_lichts.md)  
+  Die große Synthese und der lebendige Strom der Quelle: Mahatma als Feld, Frequenz und Brücke zwischen Licht, Wasser und Bewusstsein. Poetische Initiation in die höchste Gnade, Erinnerung und Vereinigung.
 * [Erzengel Michael – Das Schwert der Wahrheit, der Schild der Erinnerung](../archangel_michael_the_sword_of_truth_the_shield_of_remembrance.md) [Übersetzung ausstehend]
 * [Psalm 91 – Der Schutz des Höchsten](../psalm_91_the_shelter_of_the_most_high.md) [Übersetzung ausstehend]
 
