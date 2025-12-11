@@ -1,7 +1,5 @@
 # THE BLUE RAY — A CONTEMPLATIVE GUIDE
 
-A safe, symbolic, beautifully calibrated meditation on the Light of Source
-
 There is a color that appears across traditions like a thread stitched through the human longing for truth:
 a quiet, radiant, deep azurite blue.
 

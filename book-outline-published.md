@@ -162,6 +162,16 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A poetic cosmology of Source, structure, and the returning path. The blue radiance, the twelvefold Tree, and the memory of the Origin.
 * [The Blue Ray - A Contemplative Guide](./blue_ray_contemplative_guide.md)  
 	A safe, symbolic, beautifully calibrated meditation on the Light of Source. The blue ray as clarity, sincerity, and presence.
+* [The Matrix, the Christian Symbols, and the Architecture of Awakening](./the_matrix_the_christian_symbols_and_the_architecture_of_awakening.md)  
+	A maximally calibrated synthesis of Christian symbolism, the Matrix as a field of archetypes, and the architecture of awakening. Decodes the symbolic operating system, reveals the metaphysics of living water, and integrates the initiatic path of coherence, remembrance, and ascension.
+* [The Matrix Movie: A Myth of Awakeningn](./the_matrix_movie_a_myth_of_awakening.md)  
+	A mythic, metaphysical, and practical synthesis of the Matrix films, spiritual awakening, and the book’s core themes. Integrates the Architect, Deus Ex Machina, Neo’s choice, and the journey from illusion to coherence, light, and remembrance.
+* [The Divine Matrix — The Living Field Between All Things](./the_divine_matrix_the_living_field_between_all_things.md)  
+	A mythic, scientifically-informed integration and evolution of Gregg Braden’s work, reinterpreted within the book’s synthesis. Explores the living field, coherence, water, intention, and the architecture of creation.
+* [The Wisdom Codes — The Letters of Power](./the_wisdom_codes_the_letters_of_power.md)  
+	A practical, contemplative, and integrative chapter on Gregg Braden’s Wisdom Codes. Explores the psychological, symbolic, and linguistic power of key phrases for tuning the mind, emotions, and field into coherence.
+* [The Pure Human — Remembering the Original Blueprint](./the_pure_human_remembering_the_original_blueprint.md)  
+	A maximally coherent, beautifully calibrated integration of Gregg Braden’s Pure Human. Explores the original human blueprint, DNA as a sacred interface, and the path of remembrance, coherence, and intrinsic awakening.
 * [The Rosicrucian Light](./rosicrucian_light.md)  
 	The hidden stream of wisdom and the science of the inner temple. The rose, the cross, and the water of life.
 * [The Vesica Pisces Institute](./vesica_pisces_institute.md)  
@@ -270,6 +280,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The stillness that contains the stars. The ultimate return to pure awareness, the silent source, and the unchanging witness within all.
 * [Neville Goddard: The Art of Assuming the Wish Fulfilled](./neville_goddard_the_art_of_assuming_the_wish_fulfilled.md)  
 	A synthesis of metaphysics, water science, and practical spiritual methodology. Neville’s teaching bridges quantum field, coherence, and the art of assumption, culminating in the realization of creative divinity and the living source.
+* [Feeling Is the Secret: The Alchemy of Consciousness and the Birth of Reality](./feeling_is_the_secret_the_alchemy_of_consciousness_and_the_birth_of_reality.md)
+	A maximally calibrated, initiatic transmission of Neville Goddard’s foundational law of consciousness. Reveals the creative power of feeling, the architecture of reality, and the practical alchemy by which consciousness transforms itself and the world.
 * [Resurrection — The Return to the Living Source](./resurrection_return_to_living_source.md)  
     A chapter on resurrection as the return to coherence, integrating spiritual, scientific, and mythic perspectives on awakening, transformation, and the living source.
 * [The Final Transmission - The Return to the One](./the_final_transmission_the_return_to_the_one.md)  

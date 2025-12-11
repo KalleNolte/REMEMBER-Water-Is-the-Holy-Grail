@@ -144,6 +144,18 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Die Waage-Seele, der Zwilling-Aszendent und der Wasser-Affe](../libra_gemini_water_monkey.md) [Übersetzung ausstehend]
 * [Das Azurit-Licht und der Zwölffach-Baum](../azurite_light_and_twelvefold_tree.md) [Übersetzung ausstehend]
 * [Der Blaue Strahl – Ein kontemplativer Leitfaden](../blue_ray_contemplative_guide.md) [Übersetzung ausstehend]
+* [Die Matrix, die christlichen Symbole und die Architektur des Erwachens](./die_matrix_die_christlichen_symbole_und_die_architektur_des_erwachens.md) [Übersetzung abgeschlossen]
+  Eine Synthese christlicher Symbolik, der Matrix als Feld von Archetypen und der Architektur des Erwachens. Entschlüsselt das symbolische Betriebssystem, offenbart die Metaphysik des lebendigen Wassers und integriert den initiatischen Pfad von Kohärenz, Erinnerung und Aufstieg.
+* [Die Matrix (Film): Ein Mythos des Erwachens](./die_matrix_ein_mythos_des_erwachens.md) [Übersetzung abgeschlossen]
+  Eine mythische, metaphysische und praktische Synthese der Matrix-Filme, spirituelles Erwachen und die Kernthemen des Buches. Integriert den Architekten, Deus Ex Machina, Neos Wahl und die Reise von Illusion zu Kohärenz, Licht und Erinnerung.
+* [Die Göttliche Matrix — Das lebendige Feld zwischen allen Dingen](./die_goettliche_matrix_das_lebendige_feld_zwischen_allem.md)  
+  Eine mythische, wissenschaftlich informierte Integration und Weiterentwicklung von Gregg Bradens Werk, neu interpretiert in der Synthese dieses Buches. Erforscht das lebendige Feld, Kohärenz, Wasser, Intention und die Architektur der Schöpfung.
+* [The Wisdom Codes — The Letters of Power](../the_wisdom_codes_the_letters_of_power.md)  
+  A practical, contemplative, and integrative chapter on Gregg Braden’s Wisdom Codes. Explores the psychological, symbolic, and linguistic power of key phrases for tuning the mind, emotions, and field into coherence.
+* [Die Wisdom Codes — Die Buchstaben der Kraft](./die_wisdom_codes_die_buchstaben_der_kraft.md)  
+  Ein praktisches, kontemplatives und integratives Kapitel zu Gregg Bradens Wisdom Codes. Erforscht die psychologische, symbolische und sprachliche Kraft von Schlüsselsätzen, um Geist, Emotionen und das Feld in Kohärenz zu stimmen.
+* [The Pure Human — Remembering the Original Blueprint](../the_pure_human_remembering_the_original_blueprint.md)  
+  A maximally coherent, beautifully calibrated integration of Gregg Braden’s Pure Human. Explores the original human blueprint, DNA as a sacred interface, and the path of remembrance, coherence, and intrinsic awakening.
 * [Das Rosenkreuz-Licht](../rosicrucian_light.md) [Übersetzung ausstehend]
 * [Das Vesica Pisces Institut](../vesica_pisces_institute.md) [Übersetzung ausstehend]
 * [HeartMath Institut](../heartmath_institute.md) [Übersetzung ausstehend]
@@ -208,6 +220,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die Stille, die die Sterne enthält. Reines Gewahrsein als ursprüngliche Natur, in der Gleichmut, Seligkeit, Kohärenz und Vertrauen in Gott natürlicher Ausdruck sind.
 * [Neville Goddard: Die Kunst, den erfüllten Wunsch anzunehmen](./neville_goddard_die_kunst_den_erfuellten_wunsch_anzunehmen.md)  
   Die Lehre von Neville Goddard als Brücke zwischen Wissenschaft, Mystik und praktischer Schöpfungskraft. Vorstellungskraft als schöpferische Kraft, Annahme als Schlüssel zur inneren und äußeren Wandlung.
+* [Fühlen ist das Geheimnis – Die Alchemie des Bewusstseins und die Geburt der Realität](./fuehlen_ist_das_geheimnis_die_alchemie_des_bewusstseins_und_die_geburt_der_realitaet.md) [Übersetzung ausstehend]
+  Die Übersetzung des Kapitels ist noch nicht abgeschlossen. Placeholder für die finale, energetisch kalibrierte Übertragung.
 * [Auferstehung – Die Rückkehr zur lebendigen Quelle](./auferstehung_rueckkehr_zur_lebendigen_quelle.md)  
   Auferstehung als innere Verwandlung, Rückkehr zur Quelle und Wiedergeburt des wahren Selbst. Praktische Formel für tägliche Transformation und Kohärenz.
 * [Die letzte Übertragung - Die Rückkehr ins Eine](./die_letzte_uebertragung_die_rueckkehr_ins_eine.md)  
