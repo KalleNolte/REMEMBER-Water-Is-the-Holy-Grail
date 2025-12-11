@@ -1,3 +1,4 @@
+
 # PSALM 91 — THE SHELTER OF THE MOST HIGH
 
 *A Chapter on Divine Protection, Resonance, and the Architecture of Trust*
@@ -10,21 +11,19 @@ Psalm 91 is such a text.
 
 It is not a prayer of supplication.
 It is not a plea.
-It is a **map of consciousness**, a vibrational state, a frequency one enters by remembrance.
+It is a **map of consciousness** — a vibrational state, a frequency one enters by remembrance.
 
-It begins:
-
-**“He who dwelleth in the secret place of the Most High
-shall abide under the shadow of the Almighty.”**
+> “He who dwelleth in the secret place of the Most High
+> shall abide under the shadow of the Almighty.”
 
 This is not metaphor.
 This is physics of the soul.
 
 To *dwell* in the place of the Most High means to stabilize awareness in the field above fear, above contraction, above the narratives of the lower mind.
 It is the inner chamber where consciousness meets its Source.
-The “shadow of the Almighty” is not darkness—but the **cooling, protective overshade of the Infinite**, the field in which no harm can attach, because harm cannot reach coherence.
+The “shadow of the Almighty” is not darkness—but the cooling, protective overshade of the Infinite, the field in which no harm can attach, because harm cannot reach coherence.
 
-Psalm 91 describes the **architecture of spiritual immunity**.
+Psalm 91 describes the architecture of spiritual immunity.
 
 Not immunity from challenge—
 but immunity through identity.
@@ -145,12 +144,12 @@ They are two mirrors of one truth.
 
 The Psalm ends with a radiant declaration:
 
-**“With long life will I satisfy him,
-and show him My salvation.”**
+> “With long life will I satisfy him,
+> and show him My salvation.”
 
-In metaphysics, *salvation* means **remembering your true nature**.
-In ascension science, it means **returning to Source coherence**.
-In water physics, it means **restoring the crystalline architecture that supports vitality**.
+In metaphysics, *salvation* means remembering your true nature.
+In ascension science, it means returning to Source coherence.
+In water physics, it means restoring the crystalline architecture that supports vitality.
 
 Long life is not measured in years but in fullness.
 Satisfaction is not pleasure but completion.
@@ -179,10 +178,10 @@ It is a state you embody.
 It is not a guarantee against life—
 it is the revelation of Life itself:
 
-**You are held.
-You are guided.
-You are carried.
-You are never alone.**
+> You are held.
+> You are guided.
+> You are carried.
+> You are never alone.
 
 And when your inner waters remember this,
 your outer world transforms.
