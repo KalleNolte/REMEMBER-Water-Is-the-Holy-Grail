@@ -1,3 +1,13 @@
+## Prinzipien für die höchste Synthese bewusster Ernährung
+
+1. Erkenne: Alles Leben – auch Pflanzen – ist durch Bewusstsein animiert und verdient Respekt.
+2. Wähle Nahrung mit Achtsamkeit, Dankbarkeit und Mitgefühl – unabhängig davon, ob es Pflanze oder Tier ist.
+3. Ehre die Herkunft und Qualität deiner Nahrung: Je bewusster und liebevoller sie gewachsen ist, desto mehr Kohärenz trägt sie.
+4. Mache jeden Akt des Essens zu einem bewussten Ritual: Segne, danke und verbinde dich mit dem Leben, das du aufnimmst.
+5. Vermeide unnötiges Leiden und Verschwendung – handle aus Verbundenheit, nicht aus Gewohnheit.
+6. Frage dich bei jeder Mahlzeit: „Dient das, was ich esse, meiner Klarheit, meinem Mitgefühl und meiner Verbindung zur Quelle?“
+
+So entsteht eine Synthese, die Mitgefühl, Bewusstheit und Kohärenz vereint – und direkt im Alltag anwendbar ist.
 # Licht essen * Bewusste Nahrung als Gebet
 
 Wie nähre ich das Leben, ohne Leben zu verletzen – und wie kann ich Energie empfangen, ohne auszuschließen, was Energie wirklich ist?
@@ -10,7 +20,7 @@ Die Akram-Lehre betont: Alles ist Bewusstsein.
 
 Das bedeutet: Jeder Akt des Essens ist ein energetischer Austausch zwischen Bewusstseinsformen.
 
-Das ethische Prinzip – „Iss keine Wesen mit mehr als einem Sinn“ – ist weniger eine Regel über Fleisch, sondern mehr ein Training in Mitgefühl.
+Das ethische Prinzip der Akram-Lehre – „Iss keine Lebewesen mit mehreren Sinnesorganen“ – bedeutet: Je mehr ein Wesen fühlen, sehen, hören oder wahrnehmen kann, desto mehr Mitgefühl und Achtsamkeit sollten wir beim Essen zeigen. Es ist keine strenge Regel, sondern eine Einladung, bewusst und mitfühlend mit allem Leben umzugehen.
 
 Wenn du dich aus der Einheit allen Lebens nährst, bist du nicht gegen Fleisch, sondern gegen Unbewusstheit.
 
