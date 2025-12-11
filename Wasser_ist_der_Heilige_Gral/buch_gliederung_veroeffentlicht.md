@@ -152,8 +152,6 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Eine mythische, wissenschaftlich informierte Integration und Weiterentwicklung von Gregg Bradens Werk, neu interpretiert in der Synthese dieses Buches. Erforscht das lebendige Feld, Kohärenz, Wasser, Intention und die Architektur der Schöpfung.
 * [Die Wisdom Codes — Die Buchstaben der Kraft](./die_wisdom_codes_die_buchstaben_der_kraft.md)  
   Ein praktisches, kontemplatives und integratives Kapitel zu Gregg Bradens Wisdom Codes. Erforscht die psychologische, symbolische und sprachliche Kraft von Schlüsselsätzen, um Geist, Emotionen und das Feld in Kohärenz zu stimmen.
-* [The Pure Human — Remembering the Original Blueprint](../the_pure_human_remembering_the_original_blueprint.md)  
-  A maximally coherent, beautifully calibrated integration of Gregg Braden’s Pure Human. Explores the original human blueprint, DNA as a sacred interface, and the path of remembrance, coherence, and intrinsic awakening.
 * [Der reine Mensch — Erinnerung an den ursprünglichen Bauplan](./der_reine_mensch_die_erinnerung_an_den_urspruenglichen_bauplan.md)  
   Eine maximal kohärente, poetisch-kontemplative Integration von Gregg Bradens Pure Human. Ergründet den ursprünglichen Bauplan des Menschen, DNA als heilige Schnittstelle und den Weg der Erinnerung, Kohärenz und inneren Entfaltung.
 * [Das Rosenkreuz-Licht](../rosicrucian_light.md) [Übersetzung ausstehend]
