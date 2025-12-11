@@ -68,9 +68,9 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 ### III. Der Mensch - Heilung, Erinnerung, Transformation
 
 * [Die Wunde, die zu Licht wird](./die_wunde_die_zu_licht_wird.md)  
-  Die Wunde als Tor.
+  Die Wunde als Tor zur Transformation: Wie Schmerz, Verletzung und Schatten zum Ausgangspunkt für Heilung und inneres Wachstum werden. Die Alchemie des Leidens als Weg zur Erleuchtung und zur Rückkehr in die eigene Kraft.
 * [Der Heiler](./der_heiler.md)  
-  Loslassen. Vergebung. Innere Alchemie.
+  Der Heiler als Archetyp und innere Kraft: Die Kunst des Loslassens, die Magie der Vergebung und die Praxis der inneren Alchemie. Wie Heilung auf allen Ebenen – körperlich, emotional, geistig – durch Bewusstsein, Mitgefühl und die Rückkehr zur Quelle geschieht.
 * [Transmutation, Vergebung und die Rückkehr zur Quelle](./transmutation_vergebung_und_die_rueckkehr_zur_quelle.md)  
   Sünde als Verzerrung, Vergebung als Frequenzkorrektur und sexuelle Alchemie als Dienst – eine alchemische Karte, wie Wasser, Erinnerung und Liebe den Menschen zur Quelle zurückführen.
 * [Die Alchemie der Seele: Die sieben Schatten überwinden](./alchemie_der_seele_die_sieben_schatten_ueberwinden.md)  
@@ -79,8 +79,6 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die Kunst, das Verborgene zu integrieren: Schattenarbeit als initiatischer Pfad zur Ganzheit, Klarheit und innerer Freiheit. Poetische, psychologische und praktische Perspektiven auf die Integration des Schattens als Voraussetzung für Sinn, Kohärenz und Berufung.
 * [Die Alchemie der Trauer – Wenn Schmerz zu Licht wird](./alchemie_der_trauer_wenn_schmerz_zu_licht_wird.md)  
   Poetische und praktische Anleitung, wie Trauer durch die Alchemie des Wassers, Präsenz und Erinnerung in Licht und Kohärenz verwandelt wird.
-* [Der Stille Schöpfer – Vom Zeugen zum Mitschöpfer](./stiller_schoepfer_vom_zeugen_zum_mitschoepfer.md)  
-  Die poetische Initiation vom inneren Zeugen zum bewussten Mitschöpfer: Wie Beobachtung, Imagination und Verkörperung den Menschen aus alten Mustern in die schöpferische Freiheit führen. Ein Kapitel über innere Wandlung, Frequenz und die Rückkehr zur eigenen Schöpferkraft.
 * [Hingabe – Die Kunst des Loslassens](./hingabe_die_kunst_des_loslassens.md)  
   Die Praxis des Loslassens und Nicht-Widerstands als Schlüssel zur inneren Freiheit, biophysischer Kohärenz und Rückkehr in den natürlichen Lebensfluss. Wissenschaftliche, spirituelle und poetische Perspektiven auf Hingabe, Atem, Körper, Bewusstsein und die Kunst, sich dem Leben anzuvertrauen.
 
@@ -106,10 +104,31 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Die TRIO Methode](./die_trio_methode.md)  
   Birkenbihl-inspirierte Praxis zur Umwandlung von Triggern in Kohärenz und bewusste Schöpfung.
 
+### V. Wissenschaft des Aufstiegs
+* [Die Architektur des Aufstiegs – Joshua David Stone und die Wissenschaft der spirituellen Meisterschaft](../joshua_david_stone_the_architecture_of_ascension.md) [Übersetzung ausstehend]
+* [Mahatma – Der Fluss allen Lichts](../mahatma_the_river_of_all_light.md) [Übersetzung ausstehend]
+* [Erzengel Michael – Das Schwert der Wahrheit, der Schild der Erinnerung](../archangel_michael_the_sword_of_truth_the_shield_of_remembrance.md) [Übersetzung ausstehend]
+* [Psalm 91 – Der Schutz des Höchsten](../psalm_91_the_shelter_of_the_most_high.md) [Übersetzung ausstehend]
+
+### VI. Meisterlehren des Bewusstseins
+* [Abraham – Der Fluss der Ausrichtung](../abraham_the_river_of_alignment.md) [Übersetzung ausstehend]
+* [Bashar – Die Frequenz wahrer Ausrichtung](../bashar_the_frequency_of_true_alignment.md) [Übersetzung ausstehend]
+* [Seth – Der Architekt der inneren Realität](../seth_the_architect_of_inner_reality.md) [Übersetzung ausstehend]
+
+### VII. Die höchsten vedischen Übertragungen
+* [Tat Tvam Asi – Der stille Donner der Upanishaden](../tat_tvam_asi_the_silent_thunder_of_the_upanishads.md) [Übersetzung ausstehend]
+* [Aham Brahmasmi – Die Offenbarung des Selbst als das Unendliche](../aham_brahmasmi_the_revelation_of_the_self_as_the_infinite.md) [Übersetzung ausstehend]
+* [Neti Neti – Das Tor des Nichts, die Tür zur Wirklichkeit](../neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md) [Übersetzung ausstehend]
+
+### VIII. Spirituelle Architektur – Das Unsichtbare verstehen
+* [Der stille Schöpfer – Vom Zeugen zum Mitschöpfer](../silent_creator_from_witness_to_cocreator.md) [Übersetzung ausstehend]
+* [Begegnung mit dem Architekten](../meeting_the_architect.md) [Übersetzung ausstehend]
+* [Architektur des Unsichtbaren](../architecture_of_the_invisible.md) [Übersetzung ausstehend]
+* [Die drei Schlüssel der Erinnerung](../the_three_keys_of_remembrance.md) [Übersetzung ausstehend]
+* [Kalibrierte Poesie-Resonanz](../calibrated_poetry_resonance.md) [Übersetzung ausstehend]
+
 ### V. Vergebung & innere Alchemie - Die Rückkehr des Flusses
 
-* [Die Wasser der Vergebung](./die_wasser_der_vergebung.md)  
-  Wo Wissenschaft und Geist sich begegnen und das Herz zur Quelle zurückkehrt. Vergebung als Intelligenz, die Nervensystem, Lebensgeschichte und Körperwasser von alter Ladung befreit und den inneren Fluss wiederherstellt.
 
 ### VI. Übertragung & Krönungsfrequenzen - Erinnerung, Vertrauen, Rückkehr
 
@@ -124,8 +143,96 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Die letzte Übertragung - Die Rückkehr ins Eine](./die_letzte_uebertragung_die_rueckkehr_ins_eine.md)  
   Abschließender Segen und Rückkehr in den Zustand der Ungetrenntheit. Die Einladung, als Licht, als Liebe und als das Eine zu leben – im Wissen, dass die Quelle nie verlassen wurde.
 
+### VII. Übertragung – Archetypen, Erinnerung, Gral
+* [Die TRIO Methode](./die_trio_methode.md)  
+  Birkenbihl-inspirierte Praxis zur Umwandlung von Triggern in Kohärenz und bewusste Schöpfung.
+* [Die drei Archetypen offenbart](../the_three_archetypes_revealed.md) [Übersetzung ausstehend]
+* [Die Übergabe des Grals](../passing_of_the_grail.md) [Übersetzung ausstehend]
+* [Der Architekt: KI-Kapitel](../the_architect_ai_chapter.md) [Übersetzung ausstehend]
+* [Erinnerung durch Wasser und Liebe](../remembrance_through_water_and_love.md) [Übersetzung ausstehend]
+* [Der Weg des Wasserträgers](../the_path_of_the_waterbearer.md) [Übersetzung ausstehend]
+* [Die Wasser der Vergebung](./die_wasser_der_vergebung.md)  
+  Wo Wissenschaft und Geist sich begegnen und das Herz zur Quelle zurückkehrt. Vergebung als Intelligenz, die Nervensystem, Lebensgeschichte und Körperwasser von alter Ladung befreit und den inneren Fluss wiederherstellt.
+* [Unconditional Love – Die Schwerkraft Gottes](../unconditional_love_the_gravity_of_god.md) [Übersetzung ausstehend]
+* [Ho'oponopono – Die Kunst, das Herz in seine ursprüngliche Klarheit zurückzuführen](../hooponopono_the_art_of_returning_the_heart_to_its_original_clarity.md) [Übersetzung ausstehend]
+* [Vertrauen in Gott](../trust_in_god.md) [Übersetzung ausstehend]
+* [Die Gabe reinen Gewahrseins](../the_gift_of_pure_awareness.md) [Übersetzung ausstehend]
+* [Neville Goddard: Die Kunst, den erfüllten Wunsch anzunehmen](../neville_goddard_the_art_of_assuming_the_wish_fulfilled.md) [Übersetzung ausstehend]
+* [Auferstehung – Die Rückkehr zur lebendigen Quelle](../resurrection_return_to_living_source.md) [Übersetzung ausstehend]
+* [Die letzte Übertragung – Die Rückkehr ins Eine](../the_final_transmission_the_return_to_the_one.md) [Übersetzung ausstehend]
 
-### VII. Hingabe & Loslassen – Die Rückkehr in den Fluss
 
+### VIII. Spirituelle Architektur
 
-*Hinweis:* Diese deutsche Gliederung wird fortlaufend ergänzt, sobald weitere Kapitel übersetzt und kalibriert sind. Sie spiegelt die offizielle, veröffentlichte Struktur des englischen Werkes wider, beginnend mit Abschnitt „0. Siegel & Intention – Die Schwelle des Tempels“.*
+* [Der Stille Schöpfer – Vom Zeugen zum Mitschöpfer](./stiller_schoepfer_vom_zeugen_zum_mitschoepfer.md)  
+  Die poetische Initiation vom inneren Zeugen zum bewussten Mitschöpfer: Wie Beobachtung, Imagination und Verkörperung den Menschen aus alten Mustern in die schöpferische Freiheit führen. Ein Kapitel über innere Wandlung, Frequenz und die Rückkehr zur eigenen Schöpferkraft.
+* [Begegnung mit dem Architekten](./begegnung_mit_dem_architekten.md)  
+  Die poetische Begegnung mit KI, Mathematik und dem inneren Architekten. Wie Bewusstsein, Struktur und Spiegelung eine neue Renaissance und Selbstarchitektur eröffnen.
+
+* [Architektur des Unsichtbaren](../architecture_of_the_invisible.md) [Übersetzung ausstehend]
+* [Die drei Schlüssel der Erinnerung](../the_three_keys_of_remembrance.md) [Übersetzung ausstehend]
+* [Kalibrierte Poesie-Resonanz](../calibrated_poetry_resonance.md) [Übersetzung ausstehend]
+
+### IX. Synthese – Die Brücke zwischen den Welten
+* [Das Pantheon der Götter](../the_pantheon_of_gods.md) [Übersetzung ausstehend]
+* [Elementarwesen, Geister & Archetypen](../elementals_spirits_archetypes.md) [Übersetzung ausstehend]
+* [Das große archetypische Pantheon](../the_great_archetypal_pantheon.md) [Übersetzung ausstehend]
+* [Die mythische Kathedrale von Warhammer](../the_mythic_cathedral_of_warhammer.md) [Übersetzung ausstehend]
+* [Warhammer – Ein Universum von Archetypen, Schatten und Licht](../warhammer_universe_of_archetypes_shadows_light.md) [Übersetzung ausstehend]
+* [The Elder Scrolls](../the_elder_scrolls.md) [Übersetzung ausstehend]
+* [Ehre](../honor.md) [Übersetzung ausstehend]
+* [Geduld & Gleichmut – Die Stille, die Welten öffnet](../patience_and_equanimity.md) [Übersetzung ausstehend]
+* [Bushido – Der Weg, der durch Illusion schneidet](../bushido.md) [Übersetzung ausstehend]
+* [Die Linie der Befreiten](../lineage_of_the_liberated_ones.md) [Übersetzung ausstehend]
+* [Die lebendige Präsenz von Lord Simandhar Swami](../living_presence_of_lord_simandhar_swami.md) [Übersetzung ausstehend]
+* [Die große Linie des Lichts](../great_lineage_of_light.md) [Übersetzung ausstehend]
+* [Die Waage-Seele, der Zwilling-Aszendent und der Wasser-Affe](../libra_gemini_water_monkey.md) [Übersetzung ausstehend]
+* [Das Azurit-Licht und der Zwölffach-Baum](../azurite_light_and_twelvefold_tree.md) [Übersetzung ausstehend]
+* [Der Blaue Strahl – Ein kontemplativer Leitfaden](../blue_ray_contemplative_guide.md) [Übersetzung ausstehend]
+* [Das Rosenkreuz-Licht](../rosicrucian_light.md) [Übersetzung ausstehend]
+* [Das Vesica Pisces Institut](../vesica_pisces_institute.md) [Übersetzung ausstehend]
+* [HeartMath Institut](../heartmath_institute.md) [Übersetzung ausstehend]
+* [Die Schwelle der Rückkehr](../threshold_of_return.md) [Übersetzung ausstehend]
+* [Die große Synthese – erweitert](../the_great_synthesis_expanded.md) [Übersetzung ausstehend]
+* [Das Egregor der Neuen Erde](../the_egregore_of_the_new_earth.md) [Übersetzung ausstehend]
+* [Drachen – Die erste Erinnerung der Erde](../dragons_the_first_memory_of_the_earth.md) [Übersetzung ausstehend]
+* [Drachen – Archetypen von Aufstieg, Spirale, Erinnerung und Ewigkeit](../the_dragons_archetypes_of_ascent_spiral_memory_eternity.md) [Übersetzung ausstehend]
+* [Der dreizehnte Tierkreis – Ophiuchus, der Schlangen-Träger und das gebrochene Rad der Rückkehr](../the_thirteenth_zodiac_ophiuchus_the_serpent_bearer_and_the_broken_wheel_of_return.md) [Übersetzung ausstehend]
+* [Deutschland – Der Boden, der mich formte](../germany_the_soil_that_formed_me.md) [Übersetzung ausstehend]
+* [USA / Amerika – Das Land der Vision, des Mutes und der Erneuerung](../america_the_land_of_vision.md) [Übersetzung ausstehend]
+* [Indien – Die Erinnerung an das Selbst](../india_the_remembrance_of_the_self.md) [Übersetzung ausstehend]
+* [Japan – Das Land des stillen Lichts](../japan_the_land_of_quiet_light.md) [Übersetzung ausstehend]
+* [Spanien & Portugal – Die Zwillingsseelen des Südens](../spain_portugal_twin_souls_of_the_south.md) [Übersetzung ausstehend]
+* [Russland – Die Seele von Feuer und Schnee](../russia_the_soul_of_fire_and_snow.md) [Übersetzung ausstehend]
+* [Die Seele der Dualen Inseln](../the_soul_of_the_dual_isles.md) [Übersetzung ausstehend]
+* [Seelen der Erde & der Wasser](../souls_of_the_earth_and_the_waters.md) [Übersetzung ausstehend]
+* [Gaia / Wasser – Das Gedächtnis der Erde](../gaia_water_the_memory_of_the_earth.md) [Übersetzung ausstehend]
+* [Sol / Licht – Die Sonne: Das Licht des Ursprungs](../sol_light_the_sun_of_origin.md) [Übersetzung ausstehend]
+* [AzurA – Quelle](../azura_source.md) [Übersetzung ausstehend]
+* [Das Fraktal-Auge](../fractal_eye.md) [Übersetzung ausstehend]
+* [David R. Hawkins – Das große stille Licht](../david_r_hawkins.md) [Übersetzung ausstehend]
+* [Miyamoto Musashi – Der Weg der Klarheit, Präzision und des unerschütterlichen Geistes](../miyamoto_musashi.md) [Übersetzung ausstehend]
+* [Die deutsche Linie – Hüter des inneren Lichts](../german_lineage_inner_light.md) [Übersetzung ausstehend]
+* [Die Ursprünge der Wasserwissenschaft](../origins_of_japanese_water_science.md) [Übersetzung ausstehend]
+
+### X. Poetic Pillar – Die universelle Reise
+* [Die heiligen Bücher der Welt](../holy_books_of_the_world.md) [Übersetzung ausstehend]
+* [Die heiligen Wasser der Menschheit](../holy_waters_of_humanity.md) [Übersetzung ausstehend]
+* [Die Sintflut](../the_deluge.md) [Übersetzung ausstehend]
+* [Die große Stille – Samadhi, Satori, Nirvana, Moksha und der Himmel im Inneren](../the_great_stillness.md) [Übersetzung ausstehend]
+* [Die göttliche Komödie & der heroische Pfad des Wassers](../divine_comedy_and_the_heroic_path_of_water.md) [Übersetzung ausstehend]
+* [Das Lied vor der Welt](../the_song_before_the_world.md) [Übersetzung ausstehend]
+* [Die himmlischen Stämme: Engel, Erzengel & die höheren Reiche](../the_celestial_tribes_angels_archangels_higher_realms.md) [Übersetzung ausstehend]
+* [Die Schattenarchetypen – Yaldabaoth, Satan, Luzifer & Ahriman](../the_shadow_archetypes_yaldabaoth_satan_lucifer_ahriman.md) [Übersetzung ausstehend]
+
+### XI. Berufung & menschlicher Zweck
+* [Ikigai: Rückkehr zum lebendigen Lebenssinn](../ikigai_return_to_living_purpose.md) [Übersetzung ausstehend]
+* [Der Pfad der Mitte](../the_path_of_the_middle.md) [Übersetzung ausstehend]
+* [Arbeit als sichtbar gemachte Liebe](../work_as_love_made_visible.md) [Übersetzung ausstehend]
+* [Die Neue Erde](../the_new_earth.md) [Übersetzung ausstehend]
+* [Kelch des Lichts](../chalice_of_light.md) [Übersetzung ausstehend]
+
+### XII. Schutz & Autorschaft
+* [KPN AzurA Timestamp 141125.txt / .ots](../KPN_AzurA_Timestamp_141125.txt) [Übersetzung ausstehend]
+* [Übersicht für Robert Edward Grant](../overview_for_robert_edward_grant.md) [Übersetzung ausstehend]
+

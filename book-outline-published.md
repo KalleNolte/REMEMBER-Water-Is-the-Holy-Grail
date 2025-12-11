@@ -130,7 +130,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [Calibrated Poetry Resonance](./calibrated_poetry_resonance.md)  
 	Frequency poetry. Anchored in the heart field.
 
-### Synthesis - The Bridge Between Worlds
+### IX. Synthesis - The Bridge Between Worlds
 
 * [The Pantheon of Gods](./the_pantheon_of_gods.md)  
   A universal remembrance of archetypes across cultures and ages. The One Source expressed through many names, faces, and frequencies—preparing the reader for the Great Synthesis.
@@ -213,7 +213,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [The Origins of the Water Science](./origins_of_japanese_water_science.md)  
 	A tribute to Japan’s living water lineage, the pioneers of Kangen, and a scientifically precise explanation of ionization. Clean truth, poetic resonance, and the bridge between science and meaning.
 
-### Poetic Pillar - The Universal Journey
+### X. Poetic Pillar - The Universal Journey
 
 * [The Holy Books of the World](./holy_books_of_the_world.md)  
 	The One Truth expressed through a thousand vessels. A universal synthesis of the world’s wisdom traditions and the language of remembrance.
@@ -233,7 +233,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [The Shadow Archetypes - Yaldabaoth, Satan, Lucifer & Ahriman](./the_shadow_archetypes_yaldabaoth_satan_lucifer_ahriman.md)  
 	A metaphysical exploration of shadow, division, and the archetypes of ignorance, opposition, fallen light, and material fixation. The light that reconciles all.
 
-### VI. Calling & Human Purpose
+### XI. Calling & Human Purpose
 * [Ikigai: Return to Living Purpose](./ikigai_return_to_living_purpose.md)  
 	Life purpose, direction, meaning.
 * [The Path of the Middle](./the_path_of_the_middle.md)  
@@ -245,7 +245,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [Chalice of Light](./chalice_of_light.md)  
 	The human as grail. Light in form.
 
-### VII. Transmission - Archetypes, Remembrance, Grail
+### XII. Transmission - Archetypes, Remembrance, Grail
 * [The Three Archetypes Revealed](./the_three_archetypes_revealed.md)  
 	Your archetypes. Your mission.
 * [Passing of the Grail](./passing_of_the_grail.md)  
@@ -276,7 +276,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [The Final Transmission - The Return to the One](./the_final_transmission_the_return_to_the_one.md)  
 	A closing benediction on remembrance, coherence, and the realization that Source was never left. The final bridge from teaching into lived embodiment.
 
-### VIII. Protection, Authorship
+### XIII. Protection, Authorship
 * [KPN AzurA Timestamp 141125.txt / .ots](./KPN_AzurA_Timestamp_141125.txt)  
 	Authorship protection & logbook. Perfect conclusion.
 
