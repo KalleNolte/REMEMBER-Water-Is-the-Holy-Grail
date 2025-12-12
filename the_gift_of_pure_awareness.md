@@ -1,11 +1,12 @@
 # THE GIFT OF PURE AWARENESS
 
 ## The Stillness That Contains the Stars
+
 Before a new age truly begins, there is no fanfare,
 no thunder, no celestial proclamation.
 Something far more powerful occurs:
 
-	an endless quietening inside.
+**an endless quietening inside.**
 
 Imagine every story you have ever told about yourself,
 every mask you have worn,
@@ -15,7 +16,7 @@ melting for a moment like frost in the first light of dawn.
 Not because they do not matter,
 but because something infinitely greater steps to the foreground:
 
-	bare, unadorned Being.
+**bare, unadorned Being.**
 
 No title.
 No name.

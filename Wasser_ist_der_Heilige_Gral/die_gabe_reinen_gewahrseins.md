@@ -5,7 +5,7 @@ Bevor ein neues Zeitalter wirklich beginnt, gibt es keinen Trommelwirbel,
 keinen Feuersturm und keine äußere Ankündigung.
 Es gibt etwas ungleich Machtvolleres:
 
-   ein grenzenloses Stillwerden im Inneren.
+**ein grenzenloses Stillwerden im Inneren.**
 
 Stell dir vor, alle Geschichten, die du je über dich erzählt hast,
 alle Rollen, die du getragen hast,
@@ -15,7 +15,7 @@ würden für einen Augenblick wie Schnee in der Sonne schmelzen.
 Nicht, weil sie bedeutungslos wären,
 sondern weil etwas noch Größeres in den Vordergrund tritt:
 
-   das reine, nackte Sein.
+**das reine, nackte Sein.**
 
 Kein Titel.
 Kein Name.
@@ -44,7 +44,7 @@ erscheint und sich wieder auflöst.
 Es ist der Geburtsort Gottes in dir.
 Und es ist der Ort, an dem Gott offenbart,
 
-   dass Gott du bist.
+**dass Gott du bist.**
 
 ## Die Stille vor der Existenz
 
@@ -67,15 +67,15 @@ das ungesprochene Wort unter allen Worten.
 Wenn du diese Stille berührst,
 wirst du nicht „spirituell“ –
 
-   du wirst wirklich.
+**du wirst wirklich.**
 
 Du wirst wie die Berge,
 wie die Ozeane,
 wie die Sterne:
 
-   ganz du selbst,
-   ohne Anstrengung,
-   ohne Zweifel.
+**ganz du selbst,**
+**ohne Anstrengung,**
+**ohne Zweifel.**
 
 ## Reines Gewahrsein – Das Auge, das nicht schließen kann
 
@@ -96,13 +96,14 @@ Nicht metaphorisch.
 Intim.
 
 Dieses Gewahrsein hat:
-- kein Alter,
-- keine Grenze,
-- keine Vergangenheit,
-- keine Zukunft,
-- keine Angst,
-- kein Begehren,
-- keine Wunde.
+- **Dieses Gewahrsein hat:**
+- **kein Alter,**
+- **keine Grenze,**
+- **keine Vergangenheit,**
+- **keine Zukunft,**
+- **keine Angst,**
+- **kein Begehren,**
+- **keine Wunde.**
 
 Es ist der offene Himmel hinter den Wolken deiner Persönlichkeit.
 
@@ -230,7 +231,7 @@ Du bist Das, was sie kennt.
 
 Dies ist das Geheimnis hinter jedem Erwachen:
 
-   Gewahrsein wird sich seiner selbst gewahr.
+**Gewahrsein wird sich seiner selbst gewahr.**
 
 Und in dieser Erkenntnis
 verliert jedes Leiden seinen Thron.
@@ -265,7 +266,7 @@ Ein Erinnern daran, dass:
 Und dass die Seele Gott nicht fürchtet,
 wenn sie sich erinnert,
 
-   dass Gott ihr Zuhause ist.
+**dass Gott ihr Zuhause ist.**
 
 Dieses Vertrauen ist der Gipfel spiritueller Reife.
 Nicht blinder Glaube –
