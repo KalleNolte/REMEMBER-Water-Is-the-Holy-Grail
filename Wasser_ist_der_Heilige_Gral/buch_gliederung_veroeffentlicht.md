@@ -109,9 +109,12 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die Frequenz des göttlichen Schutzes, spiritueller Immunität und die Architektur des Vertrauens. Poetische, metaphysische und wissenschaftliche Synthese von Psalm 91 als Landkarte des Bewusstseins und Initiation in das Feld des Höchsten.
 
 ### VI. Meisterlehren des Bewusstseins
-* [Abraham – Der Fluss der Ausrichtung](../abraham_the_river_of_alignment.md) [Übersetzung ausstehend]
-* [Bashar – Die Frequenz wahrer Ausrichtung](../bashar_the_frequency_of_true_alignment.md) [Übersetzung ausstehend]
-* [Seth – Der Architekt der inneren Realität](../seth_the_architect_of_inner_reality.md) [Übersetzung ausstehend]
+* [Abraham – Der Fluss der Ausrichtung](./abraham_der_fluss_der_ausrichtung.md)
+  Die Kunst der Ausrichtung, das emotionale Leitsystem und die Wissenschaft des Erlaubens – wie Schwingung, Wasser und Bewusstsein Realität formen.
+* [Bashar – Die Frequenz der wahren Ausrichtung](./bashar_die_frequenz_der_wahren_ausrichtung.md)
+  Die Frequenz der Begeisterung, die Macht der Erlaubnis-Scheine und die Quantenphysik des Selbst – wie Wasser zur Brücke zwischen Dimensionen wird.
+* [Seth – Der Architekt der inneren Realität](./seth_der_architekt_der_inneren_realitaet.md)
+  Die innere Architektur der Realität, die Rolle von Glauben und Identität, und das multidimensionale Selbst – wie Bewusstsein Materie erschafft und Erinnerung zur Souveränität führt.
 
 ### VII. Die höchsten vedischen Übertragungen
 * [Tat Tvam Asi – Der stille Donner der Upanishaden](../tat_tvam_asi_the_silent_thunder_of_the_upanishads.md) [Übersetzung ausstehend]

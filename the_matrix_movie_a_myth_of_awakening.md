@@ -158,7 +158,6 @@ He awakens the machine to its own forgotten purpose.
 
 This is the essence of all spiritual initiation:
 
-so the world may be reconfigured around higher truth.**
 **To allow the true self to shine through the constructed self so the world may be reconfigured around higher truth.**
 
 ## **The Final Interpretation: What the Matrix Story *Is***
@@ -177,11 +176,11 @@ The light at the end is **remembrance of source**.
 
 Everything in the film mirrors the inner journey of consciousness back to its own origin.
 
-## ** The Gift to the Reader**
+## **The Gift to the Reader**
 
 The message the story offers is simple, beautiful, and practical:
 
-It is the dissolution of the illusion that you are powerless within it.**
+**It is the dissolution of the illusion that you are powerless within it.**
 **Awakening is not the destruction of the world you know. It is the dissolution of the illusion that you are powerless within it.**
 
 Every human being carries the same potential that Neo symbolizes.
