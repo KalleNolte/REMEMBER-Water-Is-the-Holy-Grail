@@ -53,6 +53,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Energetic key. Frequencies. AzurA-point.
 * [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)  
 	The science, structure, and healing power of hexagonal water. Prof. Jhon’s research, cellular coherence, and the geometry of life.
+* [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)  
+	Plasma as the most abundant, yet least understood, state of matter. Explores plasma as the living threshold between matter and field, the bridge between water and consciousness, and the medium of cosmic intelligence. Integrates modern physics, ancient wisdom, and the science of coherence.
 * [The Geometry of Return](./the_geometry_of_return.md)  
 	A synthesis of sacred geometry, return, and the living memory of water. Explores the patterns that guide consciousness back to Source, integrating science, myth, and the journey of remembrance.
 * [Dossier of Plausibility - Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)  
@@ -91,6 +93,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Voice as instrument of coherence.
 * [Eating Light: Conscious Nourishment](./eating_light_conscious_nourishment.md)  
 	Living on light in daily life.
+* [The Living Synergy](./the_living_synergy.md)  
+	Water as carrier, nutrients as language, the body as field. A chapter on the convergence of structured hydration, nutrient quality, and embodied wisdom—how coherence emerges when water, nutrients, and the body are brought into relationship, and healing becomes a conversation rather than a technique.
 
 ### V. The Science of Ascension
 * [The Architecture of Ascension - Joshua David Stone and the Science of Spiritual Mastery](./joshua_david_stone_the_architecture_of_ascension.md)  
@@ -206,9 +210,18 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A tribute to England, Ireland, Scotland, and Wales—keepers of myth, mind, and memory. The Isles as living archetypes and thresholds in the tapestry of human consciousness.
 * [Souls of the Earth & the Waters](./souls_of_the_earth_and_the_waters.md)  
 	The circle of humanity, the planetary body, and the mandala of remembrance.
-* [Gaia / Water - The Memory of the Earth](./gaia_water_the_memory_of_the_earth.md)  
+* [Gaia / Water — The Memory of the Earth](./gaia_water_the_memory_of_the_earth.md)  
 	The primordial mother, the field of patterns, and the memory of unity.
-* [Sol / Light - The Sun: The Light of Origin](./sol_light_the_sun_of_origin.md)  
+* [The Moon — Guardian of the Inner Waters](./the_moon_guardian_of_the_inner_waters.md)  
+  The Moon as the silent guardian of rhythm, memory, and the inner waters. This chapter explores the lunar influence on water, biology, psyche, and myth, revealing the Moon as a teacher of cycles, emotional intelligence, and the art of return.
+
+* [The Planets — Architects of Time, Teachers of the Elements, Mirrors of Consciousness](./the_planets_architects_of_time.md)  
+	The planets as living archetypes, elemental teachers, and mirrors of consciousness. This chapter explores each planet’s elemental, psychological, and spiritual function, revealing the harmonic grammar through which the universe organizes experience and coherence.
+* [The Elements and the Crystalline Memory of Earth](./the_elements_and_the_crystalline_memory_of_earth.md)  
+	The first grammar of reality—Earth, Water, Fire, Air, and Aether as modes of consciousness, and crystals as the memory and stabilizers of order. A chapter on how the elements and crystalline structures bridge cosmos, body, and awakening.
+* [Metals and the Sacred Architecture of Creation](./metals_and_the_sacred_architecture_of_creation.md)  
+  Metals as the structuring agents of civilization, consciousness, and the body. This chapter explores gold, silver, copper, iron, magnesium, and zinc as archetypes and frequency stabilizers, revealing their roles in scripture, alchemy, biology, and the living temple of the human being.
+* [Sol / Light — The Sun: The Light of Origin](./sol_light_the_sun_of_origin.md)  
 	The archetype of light, leadership, and the inner sun.
 * [AzurA - Source](./azura_source.md)  
 	The unnameable origin, the silent point, and the return to the One.

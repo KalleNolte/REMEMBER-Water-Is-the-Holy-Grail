@@ -54,7 +54,8 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Water as the Fifth-Dimensional Interface](./water_fifth_dimensional_interface.md)
 - [AzurA, Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)
  - [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)
-- [The Geometry of Return](./the_geometry_of_return.md)
+ - [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)
+ - [The Geometry of Return](./the_geometry_of_return.md)
 - [Dossier of Plausibility — Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)
 
 #### III. The Human — Healing, Remembrance, Transformation
@@ -66,15 +67,17 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [The Alchemy of Grief – When Pain Becomes Light](./Water_is_the_Holy_Grail/alchemy_of_grief_when_pain_becomes_light.md)
 - [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)
 
+
 #### IV. Practical Mastery — Body, Water, Light
  - [The Five Golden Keys to Coherence](./five_golden_keys_to_self_empowerment_and_coherence.md)
  - [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)
  - [Wilhelm Reich and the Stream of Orgone Energy](./wilhelm_reich_and_the_stream_of_orgone_energy.md)
-- [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)
-- [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)
-- [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
-- [The Voice: The Forgotten Instrument](./the_voice_the_forgotten_instrument.md)
-- [Eating Light: Conscious Nourishment](./eating_light_conscious_nourishment.md)
+ - [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)
+ - [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)
+ - [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
+ - [The Voice: The Forgotten Instrument](./the_voice_the_forgotten_instrument.md)
+ - [Eating Light: Conscious Nourishment](./eating_light_conscious_nourishment.md)
+ - [The Living Synergy](./the_living_synergy.md)
 
 #### V. The Science of Ascension
 - [The Architecture of Ascension — Joshua David Stone and the Science of Spiritual Mastery](./joshua_david_stone_the_architecture_of_ascension.md)
@@ -135,8 +138,17 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Russia — The Soul of Fire and Snow](./russia_the_soul_of_fire_and_snow.md)
 - [The Soul of the Dual Isles](./the_soul_of_the_dual_isles.md)
 - [Souls of the Earth & the Waters](./souls_of_the_earth_and_the_waters.md)
-- [Gaia / Water — The Memory of the Earth](./gaia_water_the_memory_of_the_earth.md)
-- [Sol / Light — The Sun: The Light of Origin](./sol_light_the_sun_of_origin.md)
+ - [Gaia / Water — The Memory of the Earth](./gaia_water_the_memory_of_the_earth.md)
+ - [The Moon — Guardian of the Inner Waters](./the_moon_guardian_of_the_inner_waters.md)
+	 The Moon as the silent guardian of rhythm, memory, and the inner waters. Explores the lunar influence on water, biology, psyche, and myth, revealing the Moon as a teacher of cycles, emotional intelligence, and the art of return.
+
+ - [The Planets — Architects of Time, Teachers of the Elements, Mirrors of Consciousness](./the_planets_architects_of_time.md)
+	 The planets as living archetypes, elemental teachers, and mirrors of consciousness. Explores each planet’s elemental, psychological, and spiritual function, revealing the harmonic grammar through which the universe organizes experience and coherence.
+ - [The Elements and the Crystalline Memory of Earth](./the_elements_and_the_crystalline_memory_of_earth.md)
+
+ - [Metals and the Sacred Architecture of Creation](./metals_and_the_sacred_architecture_of_creation.md)
+	 Metals as structuring agents of civilization, consciousness, and the body. Explores gold, silver, copper, iron, magnesium, and zinc as archetypes and frequency stabilizers, revealing their roles in scripture, alchemy, biology, and the living temple of the human being.
+ - [Sol / Light — The Sun: The Light of Origin](./sol_light_the_sun_of_origin.md)
 - [AzurA — Source](./azura_source.md)
 - [The Fractal Eye](./fractal_eye.md)
 - [David R. Hawkins — The Great Quiet Light](./david_r_hawkins.md)

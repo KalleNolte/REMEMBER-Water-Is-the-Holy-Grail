@@ -5,7 +5,6 @@ Eine leuchtende Brücke: Warum Licht und Wasser die Urkanäle des Erwachens sind
 
 ## Wenn Licht auf Wasser trifft
 
-
 Am Anfang war das Licht.
 Und das Wasser.
 
@@ -22,7 +21,6 @@ Wenn strukturiertes, kohärentes Wasser die Zellen eines Menschen berührt, verw
 
 ## Sonnenlicht – der ursprüngliche Code
 
-
 Sonnenlicht ist nicht einfach Helligkeit; es ist Vollspektrum-Information.
 Es enthält alle sichtbaren Wellenlängen sowie ultraviolette und infrarote Strahlen – jede trägt spezifische Frequenzen, die Wasser strukturieren, aktivieren oder verwandeln können.
 
@@ -33,7 +31,6 @@ Wenn Sonnenlicht Wasser berührt, besonders in natürlichen Umgebungen – Quell
 Dieses Wasser – strukturiert, geladen, kohärent – verhält sich anders. Es speichert Energie. Es fließt mit Intelligenz. Es wird zum Medium der Resonanz zwischen Körper und Feld, zwischen Zelle und Kosmos.
 
 ## Farbe und Frequenz
-
 
 Jede Farbe des Lichts besitzt eine einzigartige energetische Signatur.
 Blaues Licht – insbesondere Azuritblau – trägt eine besonders hohe Frequenz, seit jeher in mystischen Traditionen verehrt.
@@ -51,7 +48,6 @@ Verschiedene Farben verleihen unterschiedliche Qualitäten:
 Das sind keine Metaphern. Es sind Wellenlängen. Und Wasser antwortet.
 
 ## Beste Praktiken – Wasser reinigen und veredeln
-
 
 Das reinste Wasser ist nicht nur chemisch rein, sondern auch kohärent in seiner Frequenz.
 
@@ -72,7 +68,6 @@ Wasser, das alle sechs Stufen durchlaufen hat, wird in alten Texten genannt:
 Wasser, das nicht nur hydratisiert – sondern erinnert. Wasser, das nicht nur fließt – sondern heilt. Wasser, das nicht nur Licht reflektiert – sondern selbst zu Licht wird.
 
 ## Die Sprache der Quelle
-
 
 Wasser ist die Brücke.
 Licht ist die Botschaft.
