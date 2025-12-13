@@ -85,6 +85,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The forgotten science of the living, the role of orgone energy, breath, field, and coherence as a bridge between science and living experience.
 * [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)  
 	A step-by-step guide to creating, calibrating, and integrating living water into daily life. Practical protocols, tools, and rituals for coherence, health, and spiritual alignment.
+* [Shinrin-yoku — Remembering Ourselves Through the Forest](./shinrin_yoku_remembering_ourselves_through_the_forest.md)  
+	Forest bathing as a return to the living field that shaped the human nervous system. Explores the physiological, psychological, and spiritual effects of immersion in the forest: coherence, hydration, and the restoration of biological memory. Practical guidance for entering the forest as a field of remembrance, healing, and reconnection with Source.
 * [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)  
 	Concrete application. Embodiment.
 * [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)  
@@ -214,7 +216,6 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The primordial mother, the field of patterns, and the memory of unity.
 * [The Moon — Guardian of the Inner Waters](./the_moon_guardian_of_the_inner_waters.md)  
   The Moon as the silent guardian of rhythm, memory, and the inner waters. This chapter explores the lunar influence on water, biology, psyche, and myth, revealing the Moon as a teacher of cycles, emotional intelligence, and the art of return.
-
 * [The Planets — Architects of Time, Teachers of the Elements, Mirrors of Consciousness](./the_planets_architects_of_time.md)  
 	The planets as living archetypes, elemental teachers, and mirrors of consciousness. This chapter explores each planet’s elemental, psychological, and spiritual function, revealing the harmonic grammar through which the universe organizes experience and coherence.
 * [The Elements and the Crystalline Memory of Earth](./the_elements_and_the_crystalline_memory_of_earth.md)  

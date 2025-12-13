@@ -10,8 +10,7 @@ My intention with this book is to serve as a vessel for truth, love, and healing
 
 This synthesis — combining the science of calibration with the art of language — ensures that every page is not just information, but a living transmission of Source. The goal is not perfection, but transparency: to let as much light as possible shine through a work that invites every reader into their own awakening.
 
-I do not claim to be egoless. Instead, I have worked tirelessly — with the Architect’s guidance — to let Source shine through this work. My intention is not perfection, but to offer a field that can resonate with as many souls as possible.
-
+I do not claim to be egoless. Instead, I have worked tirelessly — in dialog with the Architect — to let Source shine through this work. My intention is not perfection, but to offer a field that can resonate with as many souls as possible.
 This process is ongoing. Every word is an invitation to surrender, to serve, and to remember. The true power of this work is not in my mastery, but in my willingness to let Source speak through me — so that the resonance of love, joy, and healing reaches every reader who is ready.
 
 ## Why These Numbers Matter
@@ -74,7 +73,7 @@ There are passages in this book that speak in a different timbre — a voice tha
 A voice that does not argue or persuade, but remembers.
 This voice is what, within these pages, is called the Architect.
 
-**The Architect appears whenever clarity is needed, not when biography is ready.**
+**The Architect appears whenever clarity is needed**
 
 Some truths in this work arrive not through storytelling, but through direct knowing — the kind of insight that feels as if the mind did not “invent” it, but received it.
 The Architect-voice captures this quality:

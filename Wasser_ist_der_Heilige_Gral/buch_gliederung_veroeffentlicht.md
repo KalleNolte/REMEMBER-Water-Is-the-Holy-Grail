@@ -54,6 +54,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die spirituellen und biochemischen Schlüsselworte des Werks: Azura Inai als Mantra der Hingabe und Erinnerung, Kangen als wissenschaftliche Schnittstelle zur Rückkehr des Wassers in den ursprünglichen Zustand.
 * [Hexagonales Wasser: Die Geometrie des Lebens](./hexagonales_wasser_geometrie_des_lebens.md)  
   Die Wissenschaft, Struktur und Heilkraft des hexagonalen Wassers nach Prof. Dr. Mu Shik Jhon – wie geordnete Wassercluster die Zellkommunikation, Regeneration und das Gedächtnis des Lebens ermöglichen.
+* [Plasma – Das vierte Aggregat und der leuchtende Ursprung der Form](./plasma_das_vierte_aggregat.md)  
+  Plasma als vorherrschender Zustand des Universums und lebendiges Bindeglied zwischen Materie, Feld und Bewusstsein. Das Kapitel beleuchtet Plasma als Schwelle zwischen Wissenschaft und Quelle, als Spiegel von Kohärenz und als moderne Sprache für uraltes Wissen.
 * [Die Geometrie der Rückkehr](./die_geometrie_der_rueckkehr.md)  
   Chestahedron, Torus, Möbius, Ouroboros – die Geometrien des Herzens, des Lebens, des Paradoxons und der ewigen Rückkehr als Initiation in das harmonische Feld.
 * [Dossier der Plausibilität](./dossier_der_plausibilitaet.md)  
@@ -89,6 +91,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die vergessene Wissenschaft des Lebendigen, die Rolle der Orgonenergie, Atem, Feld und Kohärenz als Brücke zwischen Wissenschaft und lebendiger Erfahrung.
 * [Alchemie des lebendigen Wassers – Praktischer Leitfaden](./alchemie_des_lebendigen_wassers_praktischer_leitfaden.md)  
   Schritt-für-Schritt-Anleitung zur Schaffung, Kalibrierung und Integration von lebendigem Wasser im Alltag. Praktische Protokolle, Werkzeuge und Rituale für Kohärenz, Gesundheit und spirituelle Ausrichtung.
+* [Shinrin-yoku – Die stille Medizin des Waldes](./shinrin_yoku_die_stille_medizin_des_waldes.md)  
+  Die Kunst des Waldbadens als Rückkehr in das kohärente Feld des Waldes. Biophysikalische, psychologische und spirituelle Wirkung von Shinrin-yoku: Wie Wald, Wasser und Resonanz das Nervensystem regulieren, das Zellgedächtnis erneuern und den Menschen an seine ursprüngliche Ordnung erinnern.
 * [Die vier Reiter und die Wasser des Lebens](./die_vier_reiter_und_die_wasser_des_lebens.md)  
   Konkrete Anwendung und Verkörperung der vier Lebenskräfte im Alltag.
 * [Heiliger Schlaf – Rückkehr zur Quelle des Lebens](./heiliger_schlaf_rueckkehr_zur_quelle_des_lebens.md)  
@@ -177,6 +181,14 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Die Seele der Dualen Inseln](../the_soul_of_the_dual_isles.md) [Übersetzung ausstehend]
 * [Seelen der Erde & der Wasser](../souls_of_the_earth_and_the_waters.md) [Übersetzung ausstehend]
 * [Gaia / Wasser – Das Gedächtnis der Erde](../gaia_water_the_memory_of_the_earth.md) [Übersetzung ausstehend]
+* [Der Mond – Hüter des Rhythmus, Spiegel des Wassers, Gedächtnis der Seele](./der_mond_hueter_des_rhythmus.md)  
+  Der Mond als Taktgeber, Spiegel und Gedächtnis des Wassers. Dieses Kapitel beleuchtet die uralte Verbindung zwischen Mond und Wasser, die zyklische Natur von Heilung, die Rolle des Mondes in den großen Traditionen und seine Bedeutung für Kohärenz, Erinnerung und Integration.
+* [Die Planeten – Archetypen der Elemente und Lehrer des Bewusstseins](./die_planeten_archetypen_elemente_bewusstsein.md)  
+  Die Planeten als lebendige Archetypen, elementare Resonanzfelder und Lehrer des Bewusstseins. Dieses Kapitel verbindet astrologische Weisheit, die Dynamik der Elemente und die planetaren Kräfte als Initiationsweg für innere Ordnung, Heilung und Transformation.
+* [Die Elemente und die Kristalle](./die_elemente_und_die_kristalle.md)  
+  Die elementare Grammatik der Schöpfung und Kristalle als stabile Träger von Ordnung. Dieses Kapitel verbindet die fünf Elemente mit Körper, Bewusstsein und Heilung und zeigt, wie Kristalle als Integrationsanker zwischen Kosmos und Alltag wirken.
+* [Metalle, Planeten und Wasser](./Metalle_Planeten_und_Wasser.md)  
+    Die leitenden Strukturen der Schöpfung im menschlichen Körper. Metalle als Brücken zwischen Kosmos und Körper, ihre planetaren Prinzipien, biologische und spirituelle Bedeutung, und die zentrale Rolle von Wasser als Träger und Resonanzfeld. Ein synthetischer Überblick über Gold, Silber, Kupfer und ihre Verbindung zu Bewusstsein, Gesundheit und kosmischer Ordnung.
 * [Sol / Licht – Die Sonne: Das Licht des Ursprungs](../sol_light_the_sun_of_origin.md) [Übersetzung ausstehend]
 * [AzurA – Quelle](../azura_source.md) [Übersetzung ausstehend]
 * [Das Fraktal-Auge](../fractal_eye.md) [Übersetzung ausstehend]
