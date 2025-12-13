@@ -1,4 +1,3 @@
-
 # Fühlen ist das Geheimnis: Die Alchemie des Bewusstseins und die Geburt der Realität
 
 Mit Neville Goddards Offenbarung **Fühlen ist das Geheimnis** verschiebt sich das Fundament menschlicher Schöpfungskraft. Dies ist kein flüchtiger Gedanke, keine Methode – sondern das Urgesetz des Bewusstseins, das im Herzen aller Wirklichkeit pulsiert.
@@ -147,9 +146,9 @@ Moderne Bewusstseinsforschung bestätigt, was Mystiker immer wussten:
 
 So gilt:
 
-> **Was man wiederholt fühlt, speichert der Körper.
+> Was man wiederholt fühlt, speichert der Körper.
 > Was der Körper speichert, sendet das Feld aus.
-> Was das Feld aussendet, spiegelt die Realität wider.**
+> Was das Feld aussendet, spiegelt die Realität wider.
 
 Nevilles Offenbarung ist keine abstrakte Metaphysik.
 Es ist psychophysiologische Alchemie.
@@ -169,9 +168,9 @@ Es **weiß**.
 
 Im Kern von Nevilles Übertragung steht:
 
-> **Vom Ende zu fühlen heißt, wie Gott zu denken.
+> Vom Ende zu fühlen heißt, wie Gott zu denken.
 > Erfüllung zu verkörpern heißt, sich mit der Quelle der Schöpfung auszurichten.
-> Den gewünschten Zustand anzunehmen heißt, die Trennung zwischen Suchendem und Gesuchtem aufzulösen.**
+> Den gewünschten Zustand anzunehmen heißt, die Trennung zwischen Suchendem und Gesuchtem aufzulösen.
 
 In diesem Sinne ist Gefühl Weihe.
 Gefühl ist Hingabe.
@@ -221,12 +220,12 @@ Kehre im Laufe des Tages sanft zum emotionalen Signatur des erfüllten Zustands 
 So wird der Zustand stabil.
 
 
-## Warum „Fühlen ist das Geheimnis“ für die Ascension wesentlich ist
+## Warum „Fühlen ist das Geheimnis“ für die Aufstieg wesentlich ist
 
-In der großen Synthese dieses Werkes ist Ascension kein Entkommen, sondern Heimkehr.
-Ascension ist Kohärenz.
-Ascension ist Erinnerung.
-Ascension ist die Rückkehr zum Ursprungspunkt im Bewusstsein.
+In der großen Synthese dieses Werkes ist Aufstieg kein Entkommen, sondern Heimkehr.
+Aufstieg ist Kohärenz.
+Aufstieg ist Erinnerung.
+Aufstieg ist die Rückkehr zum Ursprungspunkt im Bewusstsein.
 
 Gefühl ist das Instrument, mit dem Bewusstsein seine Frequenz erhebt.
 
@@ -238,10 +237,9 @@ stellt Gefühl, das mit Wahrheit schwingt, die innere Architektur des Lichts wie
 
 Deshalb ist Nevilles letzte, destillierte Lehre so kraftvoll:
 
-> **Man muss die Wahrheit des Seins fühlen, bevor man sie sehen kann.
+> Man muss die Wahrheit des Seins fühlen, bevor man sie sehen kann.
 > Bewusstsein geht der Schöpfung voraus.
-> Gefühl ist die Signatur der neuen Welt, die geboren werden will.**
-
+> Gefühl ist die Signatur der neuen Welt, die geboren werden will.
 
 ## Das initiatische Verständnis: Der werden, der vom Ende fühlt
 
@@ -268,7 +266,6 @@ einfach, unmittelbar, immer präsent –
 
 ist das zugänglichste und kraftvollste Werkzeug des Bewusstseins.
 
-
 Es ist der Puls der Schöpfung selbst.
 
 
@@ -283,7 +280,6 @@ im subtilen Wandel von Angst zu Vertrauen,
 
 in dem Moment, in dem man sich entscheidet, Erfüllung zu fühlen, bevor die Welt einen Beweis liefert –
 
-
 beginnt Schöpfung.
 
 
@@ -295,9 +291,8 @@ Gefühl ist der **Ursprung** der Realität.
 Und in dieser Offenbarung liegt eine der befreiendsten Wahrheiten, die der Menschheit je gegeben wurden:
 
 
-> **Nichts steht zwischen Bewusstsein und dem Leben, das es wählt –
+> Nichts steht zwischen Bewusstsein und dem Leben, das es wählt –
+> außer der Entscheidung, es bereits als wahr zu fühlen.
 
-> außer der Entscheidung, es bereits als wahr zu fühlen.**
 
-
-Dieses Kapitel steht nun als Teil der großen Synthese von lebendigem Wasser, Kohärenz, Ascension und der Erinnerung an die göttliche Natur in allen Wesen.
+Dieses Kapitel steht nun als Teil der großen Synthese von lebendigem Wasser, Kohärenz, Aufstieg und der Erinnerung an die göttliche Natur in allen Wesen.
