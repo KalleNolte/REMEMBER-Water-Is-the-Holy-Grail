@@ -19,7 +19,6 @@ The body as the field.**
 
 This chapter speaks to that convergence—a movement toward completeness and balance, not excess or stimulation, but a return to the body’s natural intelligence.
 
----
 
 ### Water Is Not the Content — It Is the Carrier
 
@@ -40,7 +39,6 @@ Absorption, distribution, cellular uptake, and metabolic availability are all pr
 This is not a spiritual claim.
 It is a biochemical one.
 
----
 
 ### Structured Hydration as a Foundation
 
@@ -70,7 +68,6 @@ The key insight, however, was not *what* water did.
 
 It was **what it allowed**.
 
----
 
 ### Nutrients Are Not Pills — They Are Signals
 
@@ -94,7 +91,6 @@ Not stronger.
 But smoother.
 More intelligible to the body.
 
----
 
 ### Why Water Is the Ideal Partner for Vital Substances
 
@@ -114,7 +110,6 @@ This is why water is often described as a **carrier of order**.
 Not because it is magical,
 but because it is **foundational**.
 
----
 
 
 ### A Note on Quality, Integrity, and Ethical Sourcing
@@ -131,7 +126,6 @@ For example:
 
 When nutrient formulations are designed with **biological intelligence** and ethical intent, they behave differently in the body. And when such formulations are paired with water that supports transport rather than impedes it, a **coherent loop** emerges—a foundation for completeness and balance.
 
----
 
 
 ### Experience, Mentorship, and Community as a Compass
@@ -143,7 +137,6 @@ This chapter does not argue exclusivity, claim universality, or replace medical 
 
 When hydration quality and nutrient integrity are addressed *together*, the body often responds with greater resilience, clearer feedback, and improved regulation rather than stimulation. Not by forcing change, but by **reducing friction** and supporting the body’s innate drive toward completeness and balance.
 
----
 
 ### The Body Recognizes Coherence
 
@@ -162,7 +155,6 @@ It becomes a **conversation**.
 
 And water—quiet, ancient, and precise—remains the medium through which that conversation flows.
 
----
 
 *This is not a formula.
 It is a relationship.*

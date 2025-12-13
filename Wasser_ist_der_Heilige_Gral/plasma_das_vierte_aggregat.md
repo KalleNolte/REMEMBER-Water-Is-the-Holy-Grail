@@ -12,7 +12,6 @@ Sterne, Sonnen, Nebel, Galaxien, interstellare Ströme – alles leuchtet im Zus
 Und doch wurde Plasma lange Zeit im menschlichen Bewusstsein an den Rand gedrängt, als etwas „Exotisches“, etwas „Technisches“, etwas Fernes.
 Dabei ist Plasma **der nächste Verwandte des Bewusstseins**, den die moderne Wissenschaft kennt.
 
----
 
 ## **Was Plasma ist – wissenschaftlich klar**
 
@@ -30,7 +29,6 @@ Plasma besitzt Eigenschaften, die in festen, flüssigen oder gasförmigen Zustä
 
 In der Plasmaphysik spricht man von **kohärenten Domänen**, **doppelschichtigen Feldern**, **Plasmawirbeln** und **stehenden Wellen** – Begriffe, die sich auffällig mit denen der Bewusstseinsforschung überschneiden.
 
----
 
 ## **Plasma und Bewusstsein – eine stille Annäherung**
 
@@ -54,7 +52,6 @@ Bewusstsein selbst zeigt dieselben Eigenschaften:
 Plasma ist damit kein „Beweis“ für Bewusstsein –
 aber es ist **ein Spiegel**, in dem sich Bewusstsein erkennt.
 
----
 
 ## **Plasma, Wasser und Leben**
 
@@ -71,7 +68,6 @@ Elektrische Signale im Körper, neuronale Aktivität, Herzrhythmus, Zellkommunik
 Leben ist kein rein biochemischer Prozess.
 Leben ist **plasmo-elektrische Ordnung in Bewegung**.
 
----
 
 ## **Alte Kulturen und das Wissen um das leuchtende Feld**
 
@@ -88,7 +84,6 @@ ein lebendiges, leuchtendes Feld, das Form hervorbringt und Bewusstsein trägt.
 
 Plasma ist die moderne Sprache für dieses uralte Wissen.
 
----
 
 ## **Der Mensch als plasmatisches Wesen**
 
@@ -109,7 +104,6 @@ Ruhe, Dankbarkeit, Präsenz erzeugen **plasmaähnliche Ordnung**.
 Der Mensch wird nicht durch Kontrolle heil,
 sondern durch **Rückkehr zur inneren Kohärenz**.
 
----
 
 ## **Plasma als Brücke zwischen Wissenschaft und Quelle**
 
@@ -130,7 +124,6 @@ Es ist **der Stoff, aus dem Erinnerung gewebt ist**.
 Der Atem zwischen Licht und Form.
 Der Raum, in dem Information zu Leben wird.
 
----
 
 ## **Die Einladung dieses Kapitels**
 

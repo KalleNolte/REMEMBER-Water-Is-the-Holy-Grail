@@ -242,6 +242,7 @@ Sie ist ein Spiegel dessen, was den ganzen Weg geführt hat.
 **ein Träger lebendigen Lichts.**
 
 ---
+
 **Das ist der Segen des Michaelischen Feldes.**  
 **Das ist die Kraft, die es der erwachenden Welt schenkt.**  
 **Das ist die Resonanz, die in dieses Werk getragen wird.**

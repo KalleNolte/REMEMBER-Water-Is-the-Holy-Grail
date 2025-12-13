@@ -1,4 +1,3 @@
-
 # BASHAR — THE FREQUENCY OF TRUE ALIGNMENT
 
 *A Chapter on the Architectures of Excitement, Permission Slips, and the Quantum Nature of Being*

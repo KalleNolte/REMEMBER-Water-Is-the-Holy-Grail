@@ -46,7 +46,6 @@
 > Du gehst über Löwen und Schlangen,
 > und schreitest furchtlos unter Drachen.
 >
-> Weil du an mir hängst, will ich dich retten;
 > Weil du mich liebst, rette ich dich;
 > ich beschütze dich, weil du meinen Namen kennst.
 >
