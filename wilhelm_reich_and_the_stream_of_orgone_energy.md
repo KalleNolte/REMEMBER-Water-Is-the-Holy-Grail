@@ -1,6 +1,5 @@
 # **Wilhelm Reich and the Stream of Orgone Energy**
 
-
 *The Forgotten Science of the Living*
 
 There are lives that burn so fiercely, so uncomfortably bright, that the world cannot help but look away—at least for a time. Wilhelm Reich was such a life: a man who walked the razor’s edge between genius and heresy, between the cold certainties of science and the wild, untamable pulse of existence itself.

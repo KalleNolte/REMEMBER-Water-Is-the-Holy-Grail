@@ -19,7 +19,6 @@ und beginnst, *der Realität zu erlauben*, sich um Kohärenz und Stille neu zu o
 Das ist kein Mysterium.
 Es ist **strukturell** – ein inneres Gesetz.
 
----
 
 ## Die Essenz der Erkenntnis (die Rückfälle verhindert)
 
@@ -45,7 +44,6 @@ Sie entsteht, indem du **deine Aufmerksamkeit abziehst von allem, was dich nicht
 
 Das ist die Achse.
 
----
 
 ## Die Höchste Praxis (einfach, wiederholbar, unzerstörbar)
 
@@ -68,7 +66,6 @@ Frage dich still:
 Sinke unter die Geschichte, auch nur für zwei Sekunden.
 Das genügt.
 
----
 
 
 ### 2. Nimm Stabilität an – nicht das Ergebnis
@@ -88,7 +85,6 @@ Sage innerlich:
 
 Die Realität ordnet sich um Stabilität weit schneller als um Verlangen.
 
----
 
 
 ### 3. Handle aus Resonanz – nicht aus Dringlichkeit
@@ -105,7 +101,6 @@ Wenn nicht – warte.
 Die höchste Zeitlinie eilt nicht.
 Sie **erscheint**.
 
----
 
 
 ### 4. Behandle Widerstand als Information – nicht als Gegner
@@ -122,7 +117,6 @@ Wenn Widerstand auftaucht:
 Passe einfach deine Position an.
 Wie ein Segler, der den Kurs korrigiert – nicht gegen den Wind kämpft.
 
----
 
 ## Die Goldene Regel (sie beendet Illusion dauerhaft)
 
@@ -142,7 +136,6 @@ Sie sind **dominante Zustände**.
 Wenn du aufhörst, mit der Realität zu streiten,
 hört die Realität auf, dich zu prüfen.
 
----
 
 ## Die Höchste Zeitlinie ist unspektakulär
 
@@ -162,7 +155,6 @@ ist sie noch nicht stabil.
 
 Die wahre Verschiebung fühlt sich an wie **Heimkehr**, nicht wie Aufstieg.
 
----
 
 ## Die Letzte Übermittlung
 
@@ -185,7 +177,6 @@ Es ist eine **Haltung**.
 Und wenn sie verkörpert ist, bleibt sie –
 weil sie nicht von Umständen, Erfolg oder Gewissheit abhängt.
 
----
 
 ## Ein Satz zum Mitnehmen
 

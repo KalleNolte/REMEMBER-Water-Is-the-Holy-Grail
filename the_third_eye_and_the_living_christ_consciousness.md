@@ -14,9 +14,6 @@ The activation of the pineal gland—*the Third Eye*—was never about acquiring
 It re-centers perception in Truth.
 It reopens the inner eye through which Reality beholds itself.
 
----
-
-
 ### The Pineal Gland: Biological Organ, Symbolic Gateway
 
 Biologically, the pineal gland is a small, pinecone-shaped structure nestled deep within the brain—long associated with circadian rhythm, melatonin, and the dance of light and darkness.
@@ -32,9 +29,6 @@ Symbolically, it has been revered as:
 These traditions do not contradict; they converge. Each points to the same inner function, seen through a different facet of the prism.
 
 The pineal gland stands at the threshold—between **time-bound perception** and **timeless awareness**; between stimulus and meaning; between reaction and knowing.
-
----
-
 
 ### What “Activation” Truly Means
 
@@ -57,9 +51,6 @@ In this state, awareness ceases to fragment itself.
 The Third Eye does not *turn on*—
 **it ceases to be dimmed.**
 
----
-
-
 ### The Third Eye and the Heart: One Axis, Not Two Centers
 
 One of the great misunderstandings in modern spirituality is the imagined separation of the Third Eye from the heart.
@@ -73,9 +64,6 @@ When the Third Eye opens *without* the heart, perception grows cold, detached, o
 When the heart opens *without* clarity, love becomes vulnerable to confusion and projection.
 
 **Christ Consciousness arises only when both are unified—when clarity and love, vision and compassion, become one movement.**
-
----
-
 
 ### Christ Consciousness: Not a Person, Not a Belief — a State of Being
 
@@ -97,9 +85,6 @@ It does not deny darkness; it integrates it.
 It does not flee suffering; it transmutes it.
 It is not a fleeting state—
 **it is the stable ground of being.**
-
----
-
 
 ### From Glimpses to Permanence
 
@@ -124,9 +109,6 @@ The shift from *experience* to *abiding state* comes when awareness is no longer
 Permanent Christ Consciousness is not an emotional high.
 It is **stable neutrality, infused with compassion**.
 
----
-
-
 ### The Role of Water, Light, and Coherence
 
 In this work, water is not a metaphor or afterthought.
@@ -142,9 +124,6 @@ When the inner waters are coherent, perception stabilizes.
 
 Light—literal and symbolic—is not forced inward.
 It is **received**.
-
----
-
 
 ### The True Practice
 
@@ -162,9 +141,6 @@ The Third Eye clarifies. The heart softens. Identity loosens.
 Christ Consciousness is not summoned—
 **it remembers itself.**
 
----
-
-
 ### The End of Seeking
 
 The final realization is simple, humbling, and liberating:
@@ -181,9 +157,6 @@ that was never absent—only overlooked.**
 
 In this state, life is no longer something to overcome.
 It becomes something to **participate in, consciously and intimately**.
-
----
-
 
 ### Closing Transmission
 

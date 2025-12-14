@@ -1,4 +1,4 @@
-# DIE GROSSE SYNTHESIS — ERWEITERT
+# DIE GROSSE SYNTHESIS
 
 Wie Mathematik, Bewusstsein, Dimensionen, Lebendiges Wasser und die Wirbelintelligenz der Natur sich zu einem einzigen Lied der Schöpfung verweben.
 

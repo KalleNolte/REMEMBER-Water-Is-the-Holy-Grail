@@ -47,7 +47,7 @@ These are not “treatments.”
 They are conditions—the quiet architecture in which the nervous system repairs, the heart finds stability, the immune system listens, and the mind integrates. They are invitations to return to the original harmony of your nature.
 
 Attia describes metabolic dysfunction as the collapse of coherence in human biology.
-Your book describes water, breath, and inner clarity as the rebuilding of coherence from the inside outward.
+This book describes water, breath, and inner clarity as the rebuilding of coherence from the inside outward.
 
 
 These two lenses do not contradict each other.

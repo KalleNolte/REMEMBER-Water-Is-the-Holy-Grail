@@ -1,11 +1,10 @@
 ## **Shinrin-yoku – Die stille Medizin des Waldes**
 
-Es gibt Heilung, die nicht laut ist.
-Keine Methode, die erlernt werden muss.
-Kein Ziel, das erreicht werden soll.
 
-Der Wald heilt nicht, weil er etwas *tut*.
-Er heilt, weil er **ist**.
+Unterhalb aller Sprache erinnert sich der Körper an das, was der Verstand längst vergessen hat.
+
+Es gibt Orte auf Erden, an denen die Seele sich erkennt, noch bevor ein Gedanke entsteht—
+und der Wald ist der älteste dieser Orte.
 
 Shinrin-yoku – wörtlich „Eintauchen in die Waldatmosphäre“ – ist keine Metapher, sondern eine messbare Realität. Eine Praxis, die in Japan seit den 1980er-Jahren systematisch erforscht wird und heute als medizinisch anerkanntes Gesundheitsinstrument gilt. Doch in Wahrheit ist Shinrin-yoku viel älter als jede Studie: Es ist die Rückkehr des Menschen in sein ursprüngliches Resonanzfeld.
 

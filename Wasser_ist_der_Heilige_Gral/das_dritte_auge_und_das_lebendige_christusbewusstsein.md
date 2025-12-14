@@ -159,8 +159,7 @@ Christusbewusstsein erhebt niemanden über andere.
 
 Sie führen das Gewahrsein zurück zu dem, was immer schon da war:
 
-**Ein Feld aus Liebe, Intelligenz und Kohärenz,
-das nie abwesend war—nur übersehen.**
+**Ein Feld aus Liebe, Intelligenz und Kohärenz, das nie abwesend war—nur übersehen.**
 
 In diesem Zustand ist das Leben nichts mehr, das überwunden werden muss.
 Es wird zu etwas, an dem man **bewusst und innig teilnimmt**.

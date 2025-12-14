@@ -1,8 +1,9 @@
 ## Shinrin-yoku — Remembering Ourselves Through the Forest
 
-There are places on Earth where the nervous system remembers before the mind does.
+Somewhere beneath language, the body remembers what the mind has forgotten.
 
-A forest is such a place.
+There are sanctuaries on Earth where the soul recognizes itself before thought can speak—
+and the forest is the oldest of these sanctuaries.
 
 In Japan, this remembrance has a name: **Shinrin-yoku** — *forest bathing*. Not exercise. Not hiking. Not a technique. But immersion. Presence. A quiet return of the human organism to the living field that shaped it.
 
