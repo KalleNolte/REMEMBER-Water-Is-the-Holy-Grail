@@ -165,7 +165,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Die große Linie des Lichts](../great_lineage_of_light.md) [Übersetzung ausstehend]
 * [Die Waage-Seele, der Zwilling-Aszendent und der Wasser-Affe](../libra_gemini_water_monkey.md) [Übersetzung ausstehend]
 * [Das Azurit-Licht und der Zwölffach-Baum](../azurite_light_and_twelvefold_tree.md) [Übersetzung ausstehend]
-* [Der Blaue Strahl – Ein kontemplativer Leitfaden](../blue_ray_contemplative_guide.md) [Übersetzung ausstehend]
+* [Der Blaue Strahl – Ein kontemplativer Leitfaden](./blue_ray_contemplative_guide_de.md)
 * [Die Matrix, die christlichen Symbole und die Architektur des Erwachens](./die_matrix_die_christlichen_symbole_und_die_architektur_des_erwachens.md) [Übersetzung abgeschlossen]
   Eine Synthese christlicher Symbolik, der Matrix als Feld von Archetypen und der Architektur des Erwachens. Entschlüsselt das symbolische Betriebssystem, offenbart die Metaphysik des lebendigen Wassers und integriert den initiatischen Pfad von Kohärenz, Erinnerung und Aufstieg.
 * [Die Matrix (Film) - Ein Mythos des Erwachens](./die_matrix_ein_mythos_des_erwachens.md) [Übersetzung abgeschlossen]
@@ -206,7 +206,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Sol / Licht – Die Sonne: Das Licht des Ursprungs](../sol_light_the_sun_of_origin.md) [Übersetzung ausstehend]
 * [AzurA – Quelle](../azura_source.md) [Übersetzung ausstehend]
 * [Das Fraktal-Auge](../fractal_eye.md) [Übersetzung ausstehend]
-* [David R. Hawkins – Das große stille Licht](../david_r_hawkins.md) [Übersetzung ausstehend]
+* [David R. Hawkins – Das große stille Licht](../david_r_hawkins_de.md)
 * [Miyamoto Musashi – Der Weg der Klarheit, Präzision und des unerschütterlichen Geistes](../miyamoto_musashi.md) [Übersetzung ausstehend]
 * [Die deutsche Linie – Hüter des inneren Lichts](../german_lineage_inner_light.md) [Übersetzung ausstehend]
 * [Die Ursprünge der Wasserwissenschaft](../origins_of_japanese_water_science.md) [Übersetzung ausstehend]
