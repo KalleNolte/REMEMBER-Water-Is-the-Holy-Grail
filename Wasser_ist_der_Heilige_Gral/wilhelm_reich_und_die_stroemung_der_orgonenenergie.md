@@ -1,12 +1,15 @@
 
 # **Wilhelm Reich und die Strömung der Orgonenenergie**
 
-
 *Die vergessene Wissenschaft des Lebendigen*
 
-Manche Gestalten der Geschichte leuchten wie Kometen auf—verfolgt, missverstanden, unterdrückt—und doch verlöschen sie nie ganz. Wilhelm Reich ist eine solche Gestalt. In seinem Namen schwingen zwei Welten: die Strenge der Wissenschaft und die wilde Freiheit des Lebens.
+Es gibt Leben, die so hell und unbequem brennen, dass die Welt instinktiv wegschaut—zumindest für eine Weile. Wilhelm Reich war ein solches Leben: ein Mann, der auf der Schneide zwischen Genie und Häresie ging, zwischen der kühlen Strenge der Wissenschaft und dem wilden, unzähmbaren Puls des Daseins.
 
-Reich wollte keine Schule gründen, sondern das Leben *verstehen*—nicht als Theorie, sondern **energetisch**: in **Bewegung**, **Ladung**, **Expansion**, **Kontraktion**. Er suchte das Lebendige dort, wo es sich zeigt: im Körper, im Atem, im Himmel, in der Atmosphäre. So berührte er ein Mysterium, das später unter seinem Namen berühmt und berüchtigt wurde:
+Geboren in eine Epoche voller Widersprüche, war Reich nie bereit, die Grenzen anderer zu akzeptieren. Er war Schüler Freuds, doch verweigerte sich der Rolle des bloßen Jüngers. Er war Wissenschaftler, doch weigerte sich, die Seele vom Körper zu trennen. Er war Suchender, doch gab sich nie mit Metaphysik allein zufrieden. Was er wollte, war gefährlicher, radikaler: das Lebendige *berühren*—nicht als Idee, sondern als Kraft, als Strom, als Feld, das alles durchdringt.
+
+Reichs Weg war nicht die Gründung einer Schule, sondern die Jagd nach einer Frage: Was ist es, das das Fleisch belebt, das durch den Körper atmet, das den Himmel, das Blut und die Sehnsucht nach Freiheit bewegt? Er suchte die Antwort nicht in Abstraktionen, sondern im Zittern des Muskels, im Rhythmus des Atems, in der Expansion und Kontraktion des Lebens selbst. Er folgte der Spur der Lebendigkeit—hinein in den Körper, ins Wetter, in die verbotenen Zwischenräume von Wissenschaft und Geist.
+
+Und auf dieser Suche berührte er ein Mysterium, das Staunen und Verfolgung zugleich entfachte, ein Wort, das zum Chiffre für alles wurde, was die Welt noch nicht annehmen konnte:
 
 **Orgonenergie.**
 

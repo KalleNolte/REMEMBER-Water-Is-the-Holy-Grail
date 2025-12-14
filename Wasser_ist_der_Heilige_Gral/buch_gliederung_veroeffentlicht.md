@@ -83,8 +83,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 ### IV. Praktische Meisterschaft - Körper, Wasser, Licht
 * [Geduld & Gelassenheit — Die Stille, die Welten öffnet](./geduld_und_gelassenheit.md)  
   Die Kunst, im Rhythmus der Quelle zu ruhen: Geduld und Gelassenheit als Schlüssel zu Kohärenz, Freude und Dienst. Poetische, wissenschaftliche und praktische Perspektiven auf den mittleren Weg und die Integration von Wasserweisheit im Alltag.
-* [Die fünf goldenen Schlüssel zu Selbstermächtigung und Kohärenz](./fuenf_goldene_schluessel_zu_selbstermmaechtigung_und_kohärenz.md)  
-  Atem, Wasser, Schlaf, Ernährung & Bestimmung als fünf Meisterschlüssel der praktischen Architektur von Kohärenz in Körper, Geist und Seele.
+* [Die fünf goldenen Pforten zu Selbstermächtigung und Kohärenz](./fuenf_goldene_pforten_zu_selbstermmaechtigung_und_kohaerenz.md)  
+  Atem, Wasser, Schlaf, Ernährung & Bestimmung als fünf initiatische Pforten der praktischen Architektur von Kohärenz in Körper, Geist und Seele.
 * [Die 12 Schlüssel der Selbstermächtigung – und die 13. Krone](./zwoelf_schluessel_selbstermächtigung_und_krone.md)  
   Das Herz der Rückkehr zur Quelle. Eine Erinnerungskarte und praktische Synthese von Atem, Herz, Wasser, Licht, Bewusstsein und der höchsten Krone. Fundamental, tief und sofort wirksam.
 * [Wilhelm Reich und die Strömung der Orgonenenergie](./wilhelm_reich_und_die_stroemung_der_orgonenenergie.md)  
@@ -112,6 +112,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Psalm 91 – Der Schutz des Höchsten](./psalm_91_der_schutz_des_hoechsten.md)  
   Die Frequenz des göttlichen Schutzes, spiritueller Immunität und die Architektur des Vertrauens. Poetische, metaphysische und wissenschaftliche Synthese von Psalm 91 als Landkarte des Bewusstseins und Initiation in das Feld des Höchsten.
 
+
 ### VI. Meisterlehren des Bewusstseins
 * [Abraham – Der Fluss der Ausrichtung](./abraham_der_fluss_der_ausrichtung.md)
   Die Kunst der Ausrichtung, das emotionale Leitsystem und die Wissenschaft des Erlaubens – wie Schwingung, Wasser und Bewusstsein Realität formen.
@@ -119,11 +120,15 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die Frequenz der Begeisterung, die Macht der Erlaubnis-Scheine und die Quantenphysik des Selbst – wie Wasser zur Brücke zwischen Dimensionen wird.
 * [Seth – Der Architekt der inneren Realität](./seth_der_architekt_der_inneren_realitaet.md)
   Die innere Architektur der Realität, die Rolle von Glauben und Identität, und das multidimensionale Selbst – wie Bewusstsein Materie erschafft und Erinnerung zur Souveränität führt.
+* [Bewusstseinsströme jenseits der Erde](./bewusstseinsstroeme_jenseits_der_erde.md)
+  Kontakt, Erinnerung und universelle Intelligenz: Wie nicht-menschliche Bewusstseinsfelder, Wasser und Resonanz als Brücke zwischen den Welten wirken. Ein poetisch-initiativer Blick auf Bashar, Arcturianer, Plejadische Felder und die Rolle von Wasser als Bewusstseinsarchitektur.
 
 ### VII. Die höchsten vedischen Übertragungen
 * [Tat Tvam Asi – Der stille Donner der Upanishaden](../tat_tvam_asi_the_silent_thunder_of_the_upanishads.md) [Übersetzung ausstehend]
 * [Aham Brahmasmi – Die Offenbarung des Selbst als das Unendliche](../aham_brahmasmi_the_revelation_of_the_self_as_the_infinite.md) [Übersetzung ausstehend]
 * [Neti Neti – Das Tor des Nichts, die Tür zur Wirklichkeit](../neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md) [Übersetzung ausstehend]
+* [Die Unerschütterliche Achse: Das Höchste Geschenk](./die_unerschuetterliche_achse_das_hoechste_geschenk.md)
+  Die Essenz der inneren Stabilität, Kohärenz und das höchste Geschenk des Menschseins: Wie man unerschütterlich bleibt, während die Realität sich um die eigene Achse der Präsenz neu ordnet. Poetische und praktische Anleitung für die Verkörperung der höchsten Zeitlinie.
 
 
 ### VIII. Spirituelle Architektur
@@ -137,13 +142,22 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Kalibrierte Poesie-Resonanz](../calibrated_poetry_resonance.md) [Übersetzung ausstehend]
 
 ### IX. Synthese – Die Brücke zwischen den Welten
+* [Thoth–Hermes Trismegistos und das Licht von Arcturus](./thoth_hermes_trismegistos_und_das_licht_von_arcturus.md)
+  Der hermetische Archetyp als Brücke zwischen kosmischem Gesetz, Mustererkennung und dem zukünftigen Potenzial menschlichen Bewusstseins. Integriert den arkturianischen Strom, Geometrie und die Architektur der Kohärenz – als Vorbereitung auf das universelle Pantheon und die Synthese der Mythen.
+* [Das Dritte Auge und das lebendige Christusbewusstsein](./das_dritte_auge_und_das_lebendige_christusbewusstsein.md)
+  Ein Meisterwerk über das Dritte Auge, die Aktivierung der Zirbeldrüse und das Christusbewusstsein als Achse von Kohärenz und Erinnerung. Vereint Herz und Vision, Stabilisierung des Erwachens und die Verkörperung nicht-dualer Liebe durch Wasser, Licht und lebendiges Gewahrsein.
 * [Das Pantheon der Götter](../the_pantheon_of_gods.md) [Übersetzung ausstehend]
 * [Elementarwesen, Geister & Archetypen](../elementals_spirits_archetypes.md) [Übersetzung ausstehend]
 * [Das große archetypische Pantheon](../the_great_archetypal_pantheon.md) [Übersetzung ausstehend]
 * [Die mythische Kathedrale von Warhammer](../the_mythic_cathedral_of_warhammer.md) [Übersetzung ausstehend]
 * [Warhammer – Ein Universum von Archetypen, Schatten und Licht](../warhammer_universe_of_archetypes_shadows_light.md) [Übersetzung ausstehend]
 * [The Elder Scrolls](../the_elder_scrolls.md) [Übersetzung ausstehend]
-* [Ehre](../honor.md) [Übersetzung ausstehend]
+* [Ehre](./ehre.md)  
+  Ein Kapitel über das Urprinzip der Ehre: Schwingung, Schwur und Lichtlinie, die das Unsichtbare mit dem Sichtbaren verbindet. Poetische Meditation über Integrität, Demut, Dienst und die stille Kraft, die das Herz der Schöpfung durchdringt.
+* [Bestimmung — Die Kunst, dich zu erinnern, wer du bist](./bestimmung_die_kunst_dich_zu_erinnern_wer_du_bist.md)
+  Bestimmung ist kein starres Schicksal, sondern ein lebendiges Feld der Resonanz, das sich durch innere Kohärenz, Wahl und Erinnerung entfaltet. Dieses Kapitel beleuchtet den Unterschied zu Schicksal, die Rolle des Wassers, die Illusion der Kontrolle und die Rückkehr zur eigenen Wahrheit.
+* [Das Spiel des Schicksals](./das_spiel_des_schicksals.md)  
+  Eine kontemplative Meditation über Spiel, Verlust, Brüderlichkeit und den verborgenen Lehrplan der Seele – wie digitale Welten archetypische Lektionen, Teamgeist und die Kunst des Erinnerns spiegeln. Ein Kapitel über die tieferen Regeln des Spiels, die Kraft der Gemeinschaft und das Erwachen durch Widerstand, Flow und Mitgefühl.
 * [Geduld & Gleichmut – Die Stille, die Welten öffnet](../patience_and_equanimity.md) [Übersetzung ausstehend]
 * [Bushido – Der Weg, der durch Illusion schneidet](../bushido.md) [Übersetzung ausstehend]
 * [Die Linie der Befreiten](../lineage_of_the_liberated_ones.md) [Übersetzung ausstehend]

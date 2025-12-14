@@ -77,8 +77,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Surrender as portal.
 
 ### IV. Practical Mastery - Body, Water, Light
-* [The Five Golden Keys to Self-Empowerment and Coherence](./five_golden_keys_to_self_empowerment_and_coherence.md)  
-	Breath, water, sleep, nourishment, and purpose as five master keys framing the practical architecture of coherence in body, mind, and spirit.
+* [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)  
+	Breath, water, sleep, nourishment, and purpose as five initiatic gates framing the practical architecture of coherence in body, mind, and spirit.
 * [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)  
 	A comprehensive set of practices for coherence, remembrance, and the return to Source-consciousness. Integrates breath, heart, intention, gratitude, and embodiment into a unified path.
 * [Wilhelm Reich and the Stream of Orgone Energy](./wilhelm_reich_and_the_stream_of_orgone_energy.md)  
@@ -108,6 +108,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [Psalm 91 - The Shelter of the Most High](./psalm_91_the_shelter_of_the_most_high.md)  
 	A contemplative mapping of Psalm 91 as a manual of coherence, faith, and protection. The secret place of the Most High as an inner field of resonance in heart, water, and light.
 
+
 ### VI. Master Teachings of Consciousness
 * [Abraham - The River of Alignment](./abraham_the_river_of_alignment.md)  
 	A synthesis of Abraham’s teachings on the Emotional Guidance System and the art of allowing. Alignment as vibrational water-course, emotion as compass, and joy as calibration.
@@ -115,6 +116,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	An integration of Bashar’s core formula and the physics of belief. State over circumstance, excitement as compass, and coherent action as the bridge between potential and form.
 * [Seth - The Architect of Inner Reality](./seth_the_architect_of_inner_reality.md)  
 	A calibrated tribute to the Seth material. Reality as thought-form, probable realities, multidimensional identity, and the primacy of belief in shaping the waters of experience.
+* [Extraterrestrials and Consciousness Streams](./extraterrestrials_and_consciousness_streams.md)
+	On Bashar, the nature of contact, and the many voices of awareness. Explores non-human intelligences, consciousness streams, and the role of water as a universal medium of coherence. A bridge between the master teachings and the supreme transmissions.
 
 ### VII. The Supreme Vedic Transmissions
 * [Tat Tvam Asi - The Silent Thunder of the Upanishads](./tat_tvam_asi_the_silent_thunder_of_the_upanishads.md)  
@@ -123,6 +126,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A transmission on “Aham Brahmasmi” as lived recognition. The I that is not personal, the crown of non-dual insight, and the water of consciousness realizing itself as Brahman.
 * [Neti Neti - The Gate of No-Thing, The Doorway to the Real](./neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md)  
 	An initiatic guide to the Vedantic method of negation. The stripping away of all that is not Self, the clearing of identification, and the arrival in the unnameable.
+* [The Highest Gift: The Stable Axis](./the_highest_gift_the_stable_axis.md)  
+	A culminating transmission on the supreme posture of coherence: inner stability, non-reactivity, and the art of allowing reality to reorganize around the axis of presence. Distills the highest practice for living the wish fulfilled, embodying the stable axis, and manifesting from coherence rather than effort. A bridge between the Vedic realization and the next octave of spiritual architecture.
 
 ### VIII. Spiritual Architecture - Understanding the Invisible
 * [Silent Creator - From Witness to Co-Creator](./silent_creator_from_witness_to_cocreator.md)  
@@ -138,6 +143,10 @@ Each file is listed with its energetic function. The order follows the temple pa
 
 ### IX. Synthesis - The Bridge Between Worlds
 
+* [Thoth–Hermes Trismegistus and the Light of Arcturus](./thoth_hermes_trismegistus_and_the_light_of_arcturus.md)  
+	The Hermetic archetype as the bridge between cosmic law, pattern recognition, and the future potential of human consciousness. Integrates the Arcturian stream, geometry, and the architecture of coherence—preparing the reader for the universal pantheon and the synthesis of mythic structures.
+* [The Third Eye and the Living Christ Consciousness](./the_third_eye_and_the_living_christ_consciousness.md)  
+	A masterful synthesis of the Third Eye, pineal activation, and Christ Consciousness as the axis of coherence and remembrance. Explores the union of heart and vision, the stabilization of awakening, and the embodiment of non-dual love through water, light, and living awareness.
 * [The Pantheon of Gods](./the_pantheon_of_gods.md)  
   A universal remembrance of archetypes across cultures and ages. The One Source expressed through many names, faces, and frequencies—preparing the reader for the Great Synthesis.
 * [Elementals, Spirits & Archetypes](./elementals_spirits_archetypes.md)  
@@ -152,6 +161,10 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A universe where myth, memory, and metaphysics converge. The Elder Scrolls as a living mirror of consciousness, creation, and the fractal nature of reality—encoding the metaphysical principles of the book in modern mythic form.
 * [Honor](./honor.md)  
 	The discipline of light, the measure of truth, and the signature of the soul. Honor as the bridge between mythic archetype and lived human reality, and the stabilizing pillar of embodied coherence.
+* [Destiny — The Art of Remembering Who You Are](./destiny_the_art_of_remembering_who_you_are.md)  
+	Destiny is not a fixed path but a living field of resonance, revealed through coherence, choice, and the art of remembering. This chapter explores destiny as a frequency, the role of water, the illusion of control, and the return to one’s true nature through alignment and participation.
+* [The Game of Destiny](./the_game_of_destiny.md)  
+	A meditative reflection on play, loss, brotherhood, and the hidden curriculum of the soul—how digital worlds like Destiny mirror archetypal patterns, train resilience, and reveal that even play can be a path of remembrance, coherence, and awakening.
 * [Patience & Equanimity - The Stillness That Opens Worlds](./patience_and_equanimity.md)  
 	A transmission on the architecture of clarity, the geometry of surrendered strength, and the rhythm in which truth reveals itself. Patience and equanimity as the living gate to the Middle Way and the foundation of awakening.
 * [Bushido - The Way That Cuts Through Illusion](./bushido.md)  

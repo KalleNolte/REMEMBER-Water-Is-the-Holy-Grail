@@ -1,10 +1,15 @@
 # **Wilhelm Reich and the Stream of Orgone Energy**
 
+
 *The Forgotten Science of the Living*
 
-Some figures in history blaze across the sky like comets—persecuted, misunderstood, suppressed—yet their light never truly fades. Wilhelm Reich is one such figure. His name carries the tension of two worlds: the rigor of science and the wild freedom of life itself.
+There are lives that burn so fiercely, so uncomfortably bright, that the world cannot help but look away—at least for a time. Wilhelm Reich was such a life: a man who walked the razor’s edge between genius and heresy, between the cold certainties of science and the wild, untamable pulse of existence itself.
 
-Reich did not seek to found an esoteric school. He wanted to *understand* life—not philosophically, but **energetically**: in **movement**, **charge**, **expansion**, **contraction**. He searched for the living principle wherever it expressed itself: in the body, in breath, in the sky, in the atmosphere. In this quest, he touched a mystery that would later become both famous and infamous under his own term:
+Born into a world already trembling with the contradictions of the twentieth century, Reich was never content to accept the boundaries others drew. He was a student of Freud, but refused to remain a disciple. He was a scientist, but refused to amputate the soul from the body. He was a seeker, but refused to settle for metaphysics alone. What he wanted was something more dangerous, more radical: to *touch* the living principle—not as an idea, but as a force, a current, a field that moves through all things.
+
+Reich’s journey was not the founding of a school, but the pursuit of a question: What is it that animates the flesh, that breathes through the body, that stirs the sky and the blood and the longing for freedom? He sought this answer not in abstraction, but in the trembling of muscle, the rhythm of breath, the expansion and contraction of life itself. He followed the trail of aliveness wherever it led—into the body, into the weather, into the forbidden spaces between science and spirit.
+
+And in that search, he touched a mystery that would ignite both wonder and persecution, a word that would become a cipher for everything the world could not yet accept:
 
 **Orgone energy.**
 
