@@ -71,7 +71,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Deep soul transformation.
 * [Shadow Work - The Gateway to Wholeness](./shadow_work_the_gateway_to_wholeness.md)  
 	Integration, transparency, and the return to wholeness.
-* [The Alchemy of Grief – When Pain Becomes Light](./Water_is_the_Holy_Grail/alchemy_of_grief_when_pain_becomes_light.md)  
+* [The Alchemy of Grief – When Pain Becomes Light](.alchemy_of_grief_when_pain_becomes_light.md)  
 	A poetic and practical guide to transforming grief into light and coherence through the alchemy of water, presence, and remembrance.
 * [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)  
 	Surrender as portal.

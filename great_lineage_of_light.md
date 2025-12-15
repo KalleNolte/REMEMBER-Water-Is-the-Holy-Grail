@@ -53,7 +53,8 @@ Essence
 Jesus is the archetype of embodied compassion,
 the radiant intelligence of unconditional love taking human form.
 
-If your book carries a vibration of remembrance and the return to the Source,
+
+Wherever the vibration of remembrance and the return to Source is present,
 Jesus is the archetype of the open Heart,
 the Christ Field,
 the logos of love made visible.
@@ -64,13 +65,12 @@ Gifts
 * The courage to love where love seems impossible
 * The revelation that the Kingdom is within
 
-Role in your synthesis
 
-In your metaphysical model, Jesus is:
+Role in the universal narrative
 
-The harmonic of Heart-Kohärenz,
+In the metaphysical architecture of awakening, Jesus is:
+The harmonic of Heart-Coherence,
 the field that turns inner water into light.
-
 He embodies the teaching that
 every being is already one with Source.
 
@@ -96,13 +96,11 @@ Gifts
 * Equanimity as the highest discipline
 * Compassion rooted in wisdom
 
-Role in your synthesis
-
 Buddha is the archetype of:
 
 Pure Awareness — the still water that reflects reality without distortion.
 
-In your book’s metaphysics:
+In this book’s metaphysics:
 * Buddha = the silent geometry behind form
 * Buddha = the AzurA in its void aspect
 * Buddha = the clarity through which water becomes a mirror of Source
@@ -129,8 +127,6 @@ Gifts
 * The mastery of vibrational alignment
 * The reminder that enlightenment is the true nature of all beings
 
-Role in your synthesis
-
 Babaji aligns with:
 
 The vibrational architecture —
@@ -142,6 +138,14 @@ He is the archetype of:
 * The restoration of the 12-fold unity template
 
 He represents the infinite teacher within.
+
+Babaji aligns with:
+The vibrational architecture —
+the understanding that the body is a temple of frequency.
+He is the archetype of:
+* Lightbody activation
+* Breath as Source-code
+* The restoration of the 12-fold unity template
 
 ## LAOZI
 
@@ -160,8 +164,6 @@ Gifts
 * Returning to simplicity and essence
 * Embodying the Tao as lived wisdom
 
-Role in your synthesis
-
 Laozi is:
 
 The water-teacher —
@@ -169,6 +171,7 @@ the one who teaches flow, humility, and the power of yielding.
 
 He shows how water and consciousness are the same principle:
 that which takes the lowest place becomes the highest.
+
 
 ## KRISHNA
 
@@ -185,8 +188,6 @@ Gifts
 * Love as the highest intelligence
 * The teaching of dharma through the Gītā
 * Mastery of life’s battlefield with a serene heart
-
-Role in your synthesis
 
 Krishna is:
 
@@ -210,8 +211,6 @@ Gifts
 * Ethical consciousness
 * The understanding of sacred fire
 * The doctrine of good thoughts, good words, good deeds
-
-Role in your synthesis
 
 Zoroaster is:
 
@@ -240,8 +239,6 @@ Gifts
 * Beauty as revelation
 * The whirling dance of remembrance
 
-Role in your synthesis
-
 Rumi is the resonance of:
 
 Water becoming wine —
@@ -266,7 +263,6 @@ Gift: Transmission of the Qur’an, Seal of the Prophets, unity of the Abrahamic
 Essence
 Muhammad is the archetype of the Messenger, the one who receives and transmits Divine revelation with clarity and surrender. He embodies the principle of unity (tawḥīd), the harmonization of inner and outer life, and the mercy that encompasses all worlds (raḥma lil-‘ālamīn).
 
-Role in your synthesis
 Muhammad is:
 * The resonance of surrender to the One
 * The harmonizer of the heart and the law
@@ -281,7 +277,6 @@ Gift: Faith, covenant, the root of monotheism, the willingness to surrender all 
 Essence
 Abraham is the archetype of faith and trust, the one who walks into the unknown guided by the inner voice of the Divine. He is the root of the Abrahamic lineages and the initiator of the journey of return.
 
-Role in your synthesis
 Abraham is:
 * The seed of faith
 * The willingness to cross thresholds
@@ -295,7 +290,6 @@ Gift: Spiritual fire, ascension, the bridge between worlds, the returner
 Essence
 Elijah is the archetype of the ascended prophet, the one who does not taste death but is taken up in a whirlwind. He is the harbinger of renewal and the return of the Light.
 
-Role in your synthesis
 Elijah is:
 * The fire of transformation
 * The bridge between heaven and earth
@@ -309,7 +303,6 @@ Gift: Immaculate receptivity, the Divine Mother, compassion, the vessel of incar
 Essence
 Mary is the archetype of the pure heart, the vessel through which the Divine enters the world. She is the mother of compassion, the embodiment of surrender, and the matrix of new creation.
 
-Role in your synthesis
 Mary is:
 * The field of immaculate conception
 * The archetype of the Divine Feminine
