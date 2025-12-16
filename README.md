@@ -60,6 +60,7 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Dossier of Plausibility — Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)
 
 #### III. The Human — Healing, Remembrance, Transformation
+- [Embodiment — When Truth Becomes Flesh](./embodiment_when_truth_becomes_flesh.md)
 - [The Wound That Becomes Light](./the_wound_that_becomes_light.md)
 - [The Healer](./the_healer.md)
 - [Transmutation, Forgiveness & the Return to Source](./transmutation_forgiveness_return_to_source.md)
@@ -68,7 +69,6 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [The Alchemy of Grief – When Pain Becomes Light](./alchemy_of_grief_when_pain_becomes_light.md)
 - [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)
 - [Wu Wei — The Art of Not Forcing](./wu_wei_the_art_of_not_forcing.md)
-  The highest art of not forcing: Wu Wei as the initiatic gateway to effortless action, the end of inner war, and the return to natural order. Poetic, clear, and transformative—the essence of action from coherence and trust.
 - [Non-Resistance and the Immaculate Vision](./non_resistance_and_the_immaculate_vision.md)
 
 #### IV. Practical Mastery — Body, Water, Light
@@ -131,9 +131,7 @@ The list below mirrors the full book’s energetic and transformational journey.
  - [The Elder Scrolls](./the_elder_scrolls.md)
  - [Honor](./honor.md)
  - [Destiny — The Art of Remembering Who You Are](./destiny_the_art_of_remembering_who_you_are.md)
-   Destiny is not a fixed path but a living field of resonance, revealed through coherence, choice, and the art of remembering. This chapter explores destiny as a frequency, the role of water, the illusion of control, and the return to one’s true nature through alignment and participation.
  - [The Game of Destiny](./the_game_of_destiny.md)
-   A meditative reflection on play, loss, brotherhood, and the hidden curriculum of the soul—how digital worlds like Destiny mirror archetypal patterns, train resilience, and reveal that even play can be a path of remembrance, coherence, and awakening.
  - [Patience & Equanimity — The Stillness That Opens Worlds](./patience_and_equanimity.md)
  - [Bushidō — The Way That Cuts Through Illusion](./bushido.md)
  - [The Lineage of the Liberated Ones](./lineage_of_the_liberated_ones.md)

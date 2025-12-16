@@ -1,4 +1,3 @@
-
 ### The Game of Destiny
 
 *A Meditation on Play, Loss, Brotherhood, and the Soul’s Hidden Curriculum*
