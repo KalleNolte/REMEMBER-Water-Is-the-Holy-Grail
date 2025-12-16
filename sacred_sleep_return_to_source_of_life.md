@@ -170,80 +170,98 @@ Amen.
 
 ## Haiku Cycles
 
-Door between worlds,
-Water flows into silent night —
-Light remembers.
-I release names,
-Become droplet with no edge,
-One with all being.
-Night like prayer,
-Source calls in quiet stillness —
-I listen, still.
-Between two pulses
-Oceans open wide within —
-And I am the wind.
+Door between all worlds
+Water flows through silent night
+Light returns in peace
 
-Water threads through me,
-Memory carried in blood —
-Stillness heals the self.
-Melatonin sings,
-Dark light blesses every cell —
-Peace breathes in.
-Night embraces body,
-Heart rests in star‑song’s echo —
-Matter and spirit merge.
-Glymph flow cleans the mind,
-Soul bathes in trust and silence —
-All flows home.
+Letting go of names
+Becoming a formless drop
+One with everything
 
-Heart you temple still,
-Slow beat before sleep arrives —
-Light becomes near.
-Trust the rhythm’s calm,
-Let the day fade in the breath —
-Love counts each pulse.
-Pulse sinks, soul rests now,
-In balance of being —
-Source holds the tone.
-I hear the heart’s beat,
-Its rhythm says more than words —
-“I’m safe here.”
+Night becomes a prayer
+Source calls in the silent dark
+I listen for light
 
-Glass of clear light sips,
-Water bears remembrance —
-Drinking becomes prayer.
-Four, seven, eight — slow,
-Breath outlines soft circles —
-Peace guides me home.
-Cells hum sweetly now,
-Five‑two‑eight in darkness rings —
-Love breathes light within.
-Night turns into song,
-Every tone a silent “Yes” —
-I dissolve in God.
+Between two heartbeats
+Oceans open deep within
+Wind carries me home
 
-I sink into sea,
-Form dissolves, sound stays alive —
-Dream is remembering.
-Delta waves draw out,
-Each vibration quiet word —
-Eternity in blood.
-I am not in sleep,
-Sleep is in me, soft, conscious —
-Source breathes me home.
-Death means trust now,
-Each dream becomes new “Yes” —
-I awaken in light.
+Water threads through me
+Memory flows in my blood
+Stillness brings healing
 
-Leaf falls without fear,
-Wind carries it to the still lake —
-So I return.
-Azure‑blue light shines,
-Sky breathes into my own heart —
-God dreams me home.
-I die in the night,
-But only to see love again —
-To be one means dissolve.
-Child of light, awake,
-Water cradles in your gaze —
-All loves through you.
+Melatonin’s song
+Darkness blesses every cell
+Peace breathes me to rest
+
+Night enfolds my soul
+Heart rests in the song of stars
+Spirit, body one
+
+Glymph flow clears my mind
+Soul bathes in trust and silence
+All flows back to home
+
+Heart, you temple still
+Slow beat before sleep arrives
+Light draws ever closer
+
+Trust the calm rhythm
+Let the day fade with your breath
+Love counts every pulse
+
+Pulse sinks, soul finds rest
+In the balance of being
+Source holds the true tone
+
+I hear the heart’s beat
+Its rhythm speaks without words
+Here I am held safe
+
+Glass of clear water
+Memory flows as I drink
+Drinking becomes prayer
+
+Four, seven, eight — slow
+Breath draws gentle, sacred rings
+Peace guides me back home
+
+Cells are humming now
+Five-two-eight in the night sings
+Love breathes light within
+
+Night becomes a song
+Every tone a silent yes
+I dissolve in God
+
+I sink into sea
+Form dissolves, sound still remains
+Dream is remembering
+
+Delta waves draw out
+Each vibration a soft word
+Eternity flows
+
+I am not in sleep
+Sleep is in me, soft and clear
+Source breathes me back home
+
+Death now means to trust
+Each dream becomes a new yes
+I awaken light
+
+Leaf falls without fear
+Wind carries it to still lake
+So I return home
+
+Azure-blue light shines
+Sky breathes into my own heart
+God calls my soul home
+
+I die in the night
+Only to see love again
+To be one is peace
+
+Child of light, awake
+Water cradles in your gaze
+All love flows through you

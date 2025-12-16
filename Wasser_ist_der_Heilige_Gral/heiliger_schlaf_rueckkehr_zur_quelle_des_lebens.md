@@ -170,80 +170,98 @@ Amen.
 
 ## Haiku-Zyklen
 
-Tür zwischen den Welten,
-Wasser fließt in stille Nacht –
-Licht erinnert sich.
-Ich lasse Namen los,
-Werde Tropfen ohne Rand,
-Eins mit allem Sein.
-Nacht wie Gebet,
-Quelle ruft in stiller Stille –
-Ich lausche, still.
+Tor zwischen Welten
+Wasser fließt in tiefer Nacht
+Licht kehrt heim, ganz still
+
+Namen sinken fort
+Tropfen lösen Rand und Form
+Eins im weiten Sein
+
+Nacht, Gebet im Wind
+Quelle ruft im Herz der Stille
+Ich lausche dem Licht
+
 Zwischen zwei Pulsen
-Öffnen sich Ozeane weit –
-Und ich bin der Wind.
+Öffnet sich das Meer des Seins
+Wind trägt mich nach Haus
 
-Wasser zieht durch mich,
-Erinnerung im Blut getragen –
-Stille heilt das Selbst.
-Melatonin singt,
-Dunkles Licht segnet jede Zelle –
-Frieden atmet ein.
-Nacht umarmt den Körper,
-Herz ruht im Echo des Sternlieds –
-Materie und Geist verschmelzen.
-Glymphfluss reinigt den Geist,
-Seele badet in Vertrauen und Stille –
-Alles fließt heim.
+Wasser fließt durch mich
+Erinnerung singt im Blut
+Stille heilt das Selbst
 
-Herz, du Tempel still,
-Langsamer Schlag vor dem Schlaf –
-Licht wird nah.
-Vertraue dem Rhythmus,
-Lass den Tag im Atem vergehen –
-Liebe zählt jeden Puls.
-Puls sinkt, Seele ruht,
-Im Gleichgewicht des Seins –
-Quelle hält den Ton.
-Ich höre den Herzschlag,
-Sein Rhythmus sagt mehr als Worte –
-„Hier bin ich sicher.“
+Melatonin klingt
+Dunkles Licht segnet die Zelle
+Frieden atmet ein
 
-Glas aus klarem Licht,
-Wasser trägt Erinnerung –
-Trinken wird Gebet.
-Vier, sieben, acht – langsam,
-Atem zeichnet sanfte Kreise –
-Frieden führt mich heim.
-Zellen summen süß,
-Fünf-zwei-acht klingt in Dunkelheit –
-Liebe atmet Licht.
-Nacht wird zum Lied,
-Jeder Ton ein stilles „Ja“ –
-Ich löse mich in Gott.
+Nacht umarmt den Leib
+Herz ruht im Sternenlied sanft
+Geist und Körper eins
 
-Ich sinke ins Meer,
-Form löst sich, Klang bleibt lebendig –
-Traum ist Erinnerung.
-Delta-Wellen ziehen,
-Jede Schwingung leises Wort –
-Ewigkeit im Blut.
-Ich bin nicht im Schlaf,
-Schlaf ist in mir, sanft, bewusst –
-Quelle atmet mich heim.
-Tod heißt jetzt Vertrauen,
-Jeder Traum wird neues „Ja“ –
-Ich erwache im Licht.
+Glymphfluss reinigt sanft
+Seele badet im Vertrauen
+Alles strömt nach Haus
 
-Blatt fällt ohne Angst,
-Wind trägt es zum stillen See –
-So kehre ich heim.
-Azurblaues Licht leuchtet,
-Himmel atmet in mein Herz –
-Gott träumt mich heim.
-Ich sterbe in der Nacht,
-Nur um die Liebe wiederzusehen –
-Einssein heißt sich lösen.
-Kind des Lichts, erwache,
-Wasser wiegt in deinem Blick –
-Alles liebt durch dich.
+Herz, du Tempel still
+Langsamer Schlag vor dem Schlaf
+Licht wird innig nah
+
+Vertrau dem Rhythmus
+Lass den Tag im Atem ziehn
+Liebe zählt den Puls
+
+Puls sinkt, Seele ruht
+Im Gleichgewicht des Seins
+Quelle hält den Ton
+
+Ich höre das Herz
+Sein Rhythmus spricht ohne Wort
+Hier bin ich geborg’n
+
+Glas aus klarem Licht
+Wasser trägt Erinnerung
+Trinken wird Gebet
+
+Vier, sieben, acht – sacht
+Atem malt sanfte Kreise
+Frieden führt mich heim
+
+Zellen summen leis
+Fünf-zwei-acht klingt in der Nacht
+Liebe atmet Licht
+
+Nacht wird zum Gesang
+Jeder Ton ein stilles Ja
+Ich löse mich auf
+
+Ich sinke ins Meer
+Form vergeht, Klang bleibt lebend
+Traum ist Erinnerung
+
+Delta-Wellen ziehn
+Jede Schwingung leises Wort
+Ewigkeit im Blut
+
+Ich bin nicht im Schlaf
+Schlaf ist in mir, sanft und klar
+Quelle atmet heim
+
+Tod heißt jetzt Vertrauen
+Jeder Traum ein neues Ja
+Ich erwache Licht
+
+Blatt fällt ohne Angst
+Wind trägt es zum stillen See
+So kehr ich zurück
+
+Azurblaues Licht
+Himmel atmet in mein Herz
+Gott ruft mich nach Haus
+
+Ich sterbe bei Nacht
+Nur um Liebe zu erblicken
+Einssein heißt sich sein
+
+Kind des Lichts, erwach
+Wasser wiegt in deinem Blick
+Alles liebt durch dich
