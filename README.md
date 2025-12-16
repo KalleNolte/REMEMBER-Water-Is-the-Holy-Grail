@@ -72,6 +72,8 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Non-Resistance and the Immaculate Vision](./non_resistance_and_the_immaculate_vision.md)
 
 #### IV. Practical Mastery — Body, Water, Light
+- [The Regulated Nervous System](./the_regulated_nervous_system.md)  
+- [Patience & Equanimity - The Stillness That Opens Worlds](./patience_and_equanimity.md)  
  - [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)
  - [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)
  - [Wilhelm Reich and the Stream of Orgone Energy](./wilhelm_reich_and_the_stream_of_orgone_energy.md)
@@ -96,7 +98,7 @@ The list below mirrors the full book’s energetic and transformational journey.
 #### VI. Master Teachings of Consciousness
 - [The One Truth in Many Garments](./the_one_truth_in_many_garments.md)
 - [Abraham — The River of Alignment](./abraham_the_river_of_alignment.md)
-- [Bashar — The Frequency of True Alignment](./bashar_the_frequency_of_true_alignment.md)
+- [Bashar — The Frequency of Excitement](./bashar_the_frequency_of_excitement.md)
 - [Seth — The Architect of Inner Reality](./seth_the_architect_of_inner_reality.md)
 - [Extraterrestrials and Consciousness Streams](./extraterrestrials_and_consciousness_streams.md)
 - [Conversations with God](./conversations_with_god.md)

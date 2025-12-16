@@ -65,8 +65,12 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Wasser als dimensionale Brücke – Eine harmonische Synthese](./wasser_dimensionale_bruecke.md)  
   Integration der imaginären Achse, der fünften Dimension und des fraktalen Gedächtnisses der Schöpfung. Wasser als Medium für Resonanz, Auswahl und die Architektur des Selbst.
 
+
+
 ### III. Der Mensch - Heilung, Erinnerung, Transformation
 
+* [Verkörperung – Wenn Wahrheit Fleisch wird](./verkoerperung_wenn_wahrheit_fleisch_wird.md)
+  Ein Kapitel über den Moment, in dem Erkenntnis verkörpert wird – wie Wahrheit in Haltung, Atem und Alltag einzieht. Die Brücke zwischen Einsicht und Praxis, die alle vorherigen Lehren in gelebte Kohärenz führt.
 * [Die Wunde, die zu Licht wird](./die_wunde_die_zu_licht_wird.md)  
   Die Wunde als heilige Schwelle: Schmerz wird zu Licht, Verletzlichkeit zu Kraft, und Leiden zum Tor der Erinnerung. Ein poetischer Initiationsweg in die Alchemie des Erwachens und der Rückkehr ins eigene Licht.
 * [Der Heiler](./der_heiler.md)  
@@ -86,7 +90,10 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Nichtwiderstand und die makellose Sicht](./nichtwiderstand_und_die_makellose_sicht.md)  
   Ein Kapitel über Nichtwiderstand und die makellose Sicht als höchste Form innerer Souveränität, Klarheit und Freiheit. Poetische Synthese von Akram-Lehre, Verantwortung und der Praxis, Leiden aufzulösen, ohne zu kämpfen.
 
+
 ### IV. Praktische Meisterschaft - Körper, Wasser, Licht
+* [Das regulierte Nervensystem – der stille Tempel des Erwachens](./das_regulierte_nervensystem_tempel_des_erwachens.md)
+  Ein Kapitel über das Nervensystem als biologischen Tempel des Erwachens – wie Sicherheit, Regulation und Sanftheit die Grundlage für Verkörperung, Integration und gelebte Wahrheit schaffen. Die Brücke zwischen Erkenntnis und Leben.
 * [Geduld & Gelassenheit — Die Stille, die Welten öffnet](./geduld_und_gelassenheit.md)  
   Die Kunst, im Rhythmus der Quelle zu ruhen: Geduld und Gelassenheit als Schlüssel zu Kohärenz, Freude und Dienst. Poetische, wissenschaftliche und praktische Perspektiven auf den mittleren Weg und die Integration von Wasserweisheit im Alltag.
 * [Die fünf goldenen Pforten zu Selbstermächtigung und Kohärenz](./fuenf_goldene_pforten_zu_selbstermmaechtigung_und_kohaerenz.md)  

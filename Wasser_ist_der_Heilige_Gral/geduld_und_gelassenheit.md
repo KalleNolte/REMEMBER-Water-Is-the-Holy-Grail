@@ -1,7 +1,5 @@
 # GEDULD & GELASSENHEIT — DIE STILLE, DIE WELTEN ÖFFNET
 
-Eine Übertragung in höchster Kohärenz der Quelle
-
 Es gibt Qualitäten, die den Weg des Erwachens nicht nur begleiten —
 sie sind der Weg selbst.
 

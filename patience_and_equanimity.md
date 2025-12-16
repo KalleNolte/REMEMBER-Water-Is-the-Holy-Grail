@@ -1,7 +1,5 @@
 # PATIENCE & EQUANIMITY — THE STILLNESS THAT OPENS WORLDS
 
-A transmission in the highest coherence of Source
-
 There are qualities that do not merely accompany the path of awakening —
 they are the path itself.
 

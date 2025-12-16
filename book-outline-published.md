@@ -63,6 +63,9 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A comprehensive dossier presenting the scientific, philosophical, and experiential evidence for the book’s core claims. Interprets findings and extends an open invitation to inquiry and transformation.
 
 ### III. The Human - Healing, Remembrance, Transformation
+
+* [Embodiment — When Truth Becomes Flesh](./embodiment_when_truth_becomes_flesh.md)
+	A chapter on the moment when insight becomes lived reality—how truth is integrated into the body, daily life, and presence. Serves as the hinge between realization and practice, grounding all prior teachings in embodied coherence.
 * [The Wound That Becomes Light](./the_wound_that_becomes_light.md)  
 	The wound as a sacred threshold—pain transformed into light, vulnerability into power, and suffering into the very portal of awakening. A poetic initiation into the alchemy of remembrance.
 * [The Healer](./the_healer.md)  
@@ -83,6 +86,10 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A pillar chapter weaving non-resistance and Akram Vignan’s Immaculate Perception into a unified transmission. Explores the end of suffering through perceptual clarity, the mechanics of resistance, and the art of living without inner conflict. Bridges surrender and practical mastery.
 
 ### IV. Practical Mastery - Body, Water, Light
+* [The Regulated Nervous System](./the_regulated_nervous_system.md)  
+    A cornerstone chapter on the nervous system as the silent temple of awakening—how safety, regulation, and gentleness form the biological bridge between realization and life. Explains why truth can only be integrated in a regulated body, and offers practical, humane guidance for transformation.
+* [Patience & Equanimity - The Stillness That Opens Worlds](./patience_and_equanimity.md)  
+	A transmission on the architecture of clarity, the geometry of surrendered strength, and the rhythm in which truth reveals itself. Patience and equanimity as the living gate to the Middle Way and the foundation of awakening.
 * [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)  
 	Breath, water, sleep, nourishment, and purpose as five initiatic gates framing the practical architecture of coherence in body, mind, and spirit.
 * [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)  
@@ -124,7 +131,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A contemplative, poetic chapter on the universal essence behind all religions—mirroring, bridging, and inviting the reader to see through forms to the single source. Experience, realization, and love as the shared core of all paths.
 * [Abraham - The River of Alignment](./abraham_the_river_of_alignment.md)  
 	A synthesis of Abraham’s teachings on the Emotional Guidance System and the art of allowing. Alignment as vibrational water-course, emotion as compass, and joy as calibration.
-* [Bashar - The Frequency of True Alignment](./bashar_the_frequency_of_true_alignment.md)  
+* [Bashar - The Frequency of Excitement](./bashar_the_frequency_of_excitement.md)  
 	An integration of Bashar’s core formula and the physics of belief. State over circumstance, excitement as compass, and coherent action as the bridge between potential and form.
 * [Seth - The Architect of Inner Reality](./seth_the_architect_of_inner_reality.md)  
 	A calibrated tribute to the Seth material. Reality as thought-form, probable realities, multidimensional identity, and the primacy of belief in shaping the waters of experience.
@@ -183,8 +190,6 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A mythic, psychological, and physiological exploration of addiction as a distortion of longing. Using the story of Gollum and the Ring, this chapter reveals addiction as a misplaced search for wholeness, examines its roots in thirst (literal and symbolic), and offers a path of remembrance, coherence, and reconnection. Bridges desire and destiny, preparing the reader for the next octave of integration.
 * [The Game of Destiny](./the_game_of_destiny.md)  
 	A meditative reflection on play, loss, brotherhood, and the hidden curriculum of the soul—how digital worlds like Destiny mirror archetypal patterns, train resilience, and reveal that even play can be a path of remembrance, coherence, and awakening.
-* [Patience & Equanimity - The Stillness That Opens Worlds](./patience_and_equanimity.md)  
-	A transmission on the architecture of clarity, the geometry of surrendered strength, and the rhythm in which truth reveals itself. Patience and equanimity as the living gate to the Middle Way and the foundation of awakening.
 * [Bushido - The Way That Cuts Through Illusion](./bushido.md)  
 	The discipline of inner sovereignty, clarity, and compassion. Bushidō as the Japanese path of integration, noble conduct, and the heart sharpened into service and love.
 * [The Lineage of the Liberated Ones](./lineage_of_the_liberated_ones.md)  
