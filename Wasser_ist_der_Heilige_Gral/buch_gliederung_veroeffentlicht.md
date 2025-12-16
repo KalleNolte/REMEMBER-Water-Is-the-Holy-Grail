@@ -42,6 +42,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die Geschichte nach der Nahtoderfahrung – wie Suche, Wissenschaft und spirituelle Transmission sich verweben und den Weg zurück zu Körper, Wasser und innerer Erinnerung öffnen.
 * [Das Wasser des Lebens](./das_wasser_des_lebens.md)  
   Die Entdeckung von Wasser als lebendiges Medium – von Familienerfahrungen über Hydrationsforschung bis zu EZ-Wasser, Licht und der Rückkehr zum heiligen Element.
+* [Das vergessene Fundament](./das_vergessene_fundament.md)  
+  Warum ohne stimmiges Wasser selbst die besten Maßnahmen ins Leere laufen. Ein ruhiges, tragfähiges Kapitel über das Wasser als zentrales Ordnungs- und Trägermedium im Körper – und warum Heilung, Fasten und Vitalstoffe ohne die richtige Wasserqualität oft ins Leere gehen.
 * [Evidenzkette - Wasser ist der Heilige Gral](./evidenzkette_wasser_ist_der_heilige_gral.md)  
   Eine multidisziplinäre Evidenzkette für Wasser als Heiligen Gral – als Erinnerungsmedium, Lichtleiter und harmonische Brücke zwischen Mathematik, Physik, Biologie und Bewusstsein.
 * [Wenn Licht auf Wasser trifft](./wenn_licht_auf_wasser_trifft.md)  
@@ -79,6 +81,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Poetische und praktische Anleitung, wie Trauer durch die Alchemie des Wassers, Präsenz und Erinnerung in Licht und Kohärenz verwandelt wird.
 * [Hingabe – Die Kunst des Loslassens](./hingabe_die_kunst_des_loslassens.md)  
   Die Praxis des Loslassens und Nicht-Widerstands als Schlüssel zur inneren Freiheit, biophysischer Kohärenz und Rückkehr in den natürlichen Lebensfluss. Wissenschaftliche, spirituelle und poetische Perspektiven auf Hingabe, Atem, Körper, Bewusstsein und die Kunst, sich dem Leben anzuvertrauen.
+* [Nichtwiderstand und die makellose Sicht](./nichtwiderstand_und_die_makellose_sicht.md)  
+  Ein Kapitel über Nichtwiderstand und die makellose Sicht als höchste Form innerer Souveränität, Klarheit und Freiheit. Poetische Synthese von Akram-Lehre, Verantwortung und der Praxis, Leiden aufzulösen, ohne zu kämpfen.
 
 ### IV. Praktische Meisterschaft - Körper, Wasser, Licht
 * [Geduld & Gelassenheit — Die Stille, die Welten öffnet](./geduld_und_gelassenheit.md)  
@@ -95,6 +99,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die Kunst des Waldbadens als Rückkehr in das kohärente Feld des Waldes. Biophysikalische, psychologische und spirituelle Wirkung von Shinrin-yoku: Wie Wald, Wasser und Resonanz das Nervensystem regulieren, das Zellgedächtnis erneuern und den Menschen an seine ursprüngliche Ordnung erinnern.
 * [Wabi-Sabi](./wabi_sabi_de.md)  
   Die Schönheit des Unvollkommenen, Vergänglichen und Natürlichen als lebendiges Prinzip. Wabi-Sabi als stille Kunst des Zulassens, die Weisheit des Wassers und das Ende der Selbstkorrektur. Eine kontemplative und praktische Brücke zwischen Natur, Wasser und Alltag.
+* [Holz hacken, Wasser tragen](./holz_hacken_wasser_tragen.md)  
+  Über Dankbarkeit, Erleuchtung und die stille Würde des Alltäglichen. Die Zen-Weisheit, dass Erleuchtung im Einfachen wohnt – Holz hacken, Wasser tragen – und wie Dankbarkeit, Präsenz und Bewusstsein jede Handlung in einen stillen Akt der Selbstermächtigung verwandeln.
 * [Die vier Reiter und die Wasser des Lebens](./die_vier_reiter_und_die_wasser_des_lebens.md)  
   Die vier Reiter als moderne Gesundheitsmetapher: Herz-Kreislauf, Krebs, Neurodegeneration, Metabolik. Wie Wasser, Atem, Schlaf, Ernährung, Fasten, Verbindung, Dienst und Stille als acht Praktiken Resilienz und Kohärenz im Menschen neu verweben. Wissenschaft und Geist, Struktur und Fluss – vereint in den Wassern des Lebens.
 * [Heiliger Schlaf – Rückkehr zur Quelle des Lebens](./heiliger_schlaf_rueckkehr_zur_quelle_des_lebens.md)  
@@ -172,7 +178,6 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Eine kontemplative Meditation über Spiel, Verlust, Brüderlichkeit und den verborgenen Lehrplan der Seele – wie digitale Welten archetypische Lektionen, Teamgeist und die Kunst des Erinnerns spiegeln. Ein Kapitel über die tieferen Regeln des Spiels, die Kraft der Gemeinschaft und das Erwachen durch Widerstand, Flow und Mitgefühl.
 * [Verlangen — Die verborgene Tür](./verlangen_die_verborgene_tuer.md)  
   Inspiriert von R.J. Spina, erforscht dieses Kapitel Verlangen als verborgene Kraft, die zur Selbsterkenntnis führt, und bietet einen praktischen, befreienden Weg, Sehnsucht in Klarheit und Verkörperung zu verwandeln. Ein Wendepunkt von Streben zu Verwirklichung, der den Leser auf die nächste Stufe der Selbstermächtigung vorbereitet.
-
 * [Sucht, der Ring und der Durst](./sucht_der_ring_und_der_durst.md)  
   Ein mythopoetisches, psychologisches und physiologisches Kapitel über Sucht als verzerrtes Verlangen. Anhand von Gollum und dem Einen Ring wird Sucht als fehlgeleitete Suche nach Ganzheit beleuchtet, ihre Wurzeln im Durst (wörtlich und symbolisch) aufgezeigt und ein Weg der Rückverbindung, Kohärenz und Erinnerung eröffnet. Die Brücke zwischen Verlangen und Bestimmung.
 * [Geduld & Gleichmut – Die Stille, die Welten öffnet](../patience_and_equanimity.md) [Übersetzung ausstehend]
@@ -182,7 +187,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Die große Linie des Lichts](../great_lineage_of_light.md) [Übersetzung ausstehend]
 * [Die Waage-Seele, der Zwilling-Aszendent und der Wasser-Affe](../libra_gemini_water_monkey.md) [Übersetzung ausstehend]
 * [Das Azurit-Licht und der Zwölffach-Baum](../azurite_light_and_twelvefold_tree.md) [Übersetzung ausstehend]
-* [Der Blaue Strahl – Ein kontemplativer Leitfaden](./blue_ray_contemplative_guide_de.md)
+* [Der Blaue Strahl – Ein kontemplativer Leitfaden](./blauer_strahl_kontemplation_klarheit_stille_rueckkehr.md)
 * [Die Matrix, die christlichen Symbole und die Architektur des Erwachens](./die_matrix_die_christlichen_symbole_und_die_architektur_des_erwachens.md) [Übersetzung abgeschlossen]
   Eine Synthese christlicher Symbolik, der Matrix als Feld von Archetypen und der Architektur des Erwachens. Entschlüsselt das symbolische Betriebssystem, offenbart die Metaphysik des lebendigen Wassers und integriert den initiatischen Pfad von Kohärenz, Erinnerung und Aufstieg.
 * [Die Matrix (Film) - Ein Mythos des Erwachens](./die_matrix_ein_mythos_des_erwachens.md) [Übersetzung abgeschlossen]

@@ -47,6 +47,7 @@ The list below mirrors the full book’s energetic and transformational journey.
 #### II. Foundation — Science, Water, Remembrance
 - [My Journey: Spiritual Science](./my_journey_spiritual_science.md)
 - [The Water of Life](./the_water_of_life.md)
+- [The Forgotten Foundation](./the_forgotten_foundation.md) 
 - [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)
 - [When Light Meets Water](./when_light_meets_water.md)
 - [Implications for Modern Science](./implications_for_modern_science.md)
@@ -64,9 +65,9 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Transmutation, Forgiveness & the Return to Source](./transmutation_forgiveness_return_to_source.md)
 - [Alchemy of the Soul: Transcending Seven Shadows](./alchemy_of_the_soul_transcending_seven_shadows.md)
 - [Shadow Work – The Gateway to Wholeness](./shadow_work_the_gateway_to_wholeness.md)
-- [The Alchemy of Grief – When Pain Becomes Light](./Water_is_the_Holy_Grail/alchemy_of_grief_when_pain_becomes_light.md)
+- [The Alchemy of Grief – When Pain Becomes Light](./alchemy_of_grief_when_pain_becomes_light.md)
 - [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)
-
+- [Non-Resistance and the Immaculate Vision](./non_resistance_and_the_immaculate_vision.md)
 
 #### IV. Practical Mastery — Body, Water, Light
  - [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)
@@ -76,7 +77,7 @@ The list below mirrors the full book’s energetic and transformational journey.
  - [Shinrin-yoku — Remembering Ourselves Through the Forest](./shinrin_yoku_remembering_ourselves_through_the_forest.md)
  - [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)
  - [Wabi-Sabi](./wabi_sabi.md)
-   The beauty of imperfection, transience, and naturalness as a living principle. Wabi-Sabi as the quiet art of allowing, the wisdom of water, and the end of self-correction. A contemplative and practical bridge between nature, water, and daily life.
+ - [Chopping Wood, Carrying Water](./chopping_wood_carrying_water.md)
  - [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
  - [The Voice: The Forgotten Instrument](./the_voice_the_forgotten_instrument.md)
  - [Eating Light: Conscious Nourishment](./eating_light_conscious_nourishment.md)

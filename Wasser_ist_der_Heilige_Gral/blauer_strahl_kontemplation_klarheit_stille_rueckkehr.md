@@ -1,4 +1,4 @@
-# DER BLAUE STRAHL — EIN KONTEMPLATIVER LEITFADEN
+# DER BLAUE STRAHL – KONTEMPLATION, KLARHEIT UND STILLE RÜCKKEHR
 
 Es gibt eine Farbe, die sich wie ein Faden durch alle Traditionen zieht, eingewoben in das große Sehnen der Menschheit nach Wahrheit:
 ein stilles, leuchtendes, tiefes Azuritblau.

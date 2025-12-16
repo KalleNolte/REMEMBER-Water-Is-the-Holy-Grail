@@ -39,6 +39,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Your path. Science & mysticism. Opens understanding.
 * [The Water of Life](./the_water_of_life.md)  
 	The elemental mystery.
+* [The Forgotten Foundation](./the_forgotten_foundation.md)  
+	Why even the best measures fail without coherent water. A calm, clarifying chapter on water as the central medium of order and transport in the body—and why healing, fasting, and nutrients often fall short without the right water quality.
 * [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)  
 	Rational anchor. Builds trust.
 * [When Light Meets Water](./when_light_meets_water.md)  
@@ -75,6 +77,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A poetic and practical guide to transforming grief into light and coherence through the alchemy of water, presence, and remembrance.
 * [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)  
 	Surrender as portal.
+* [Non-Resistance and the Immaculate Vision](./non_resistance_and_the_immaculate_vision.md)  
+	A pillar chapter weaving non-resistance and Akram Vignan’s Immaculate Perception into a unified transmission. Explores the end of suffering through perceptual clarity, the mechanics of resistance, and the art of living without inner conflict. Bridges surrender and practical mastery.
 
 ### IV. Practical Mastery - Body, Water, Light
 * [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)  
@@ -89,6 +93,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Forest bathing as a return to the living field that shaped the human nervous system. Explores the physiological, psychological, and spiritual effects of immersion in the forest: coherence, hydration, and the restoration of biological memory. Practical guidance for entering the forest as a field of remembrance, healing, and reconnection with Source.
 * [Wabi-Sabi](./wabi_sabi.md)  
 	The beauty of imperfection, transience, and naturalness as a living principle. Wabi-Sabi as the quiet art of allowing, the wisdom of water, and the end of self-correction. A contemplative and practical bridge between nature, water, and daily life.
+* [Chopping Wood, Carrying Water](./chopping_wood_carrying_water.md)  
+	On gratitude, enlightenment, and the quiet dignity of the everyday. The Zen wisdom that enlightenment lives in the simple—chopping wood, carrying water—and how gratitude, presence, and awareness transform every act into a silent gesture of self-empowerment.
 * [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)  
 	Concrete application. Embodiment.
 * [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)  
@@ -167,7 +173,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Destiny is not a fixed path but a living field of resonance, revealed through coherence, choice, and the art of remembering. This chapter explores destiny as a frequency, the role of water, the illusion of control, and the return to one’s true nature through alignment and participation.
 * [Desire — The Hidden Doorway](./desire_the_hidden_doorway.md)  
 	A tribute to R.J. Spina and the art of tracing desire back to its Source. This chapter reveals desire as a misunderstood force, explores its true origin, and offers a practical, liberating method for transforming longing into clarity and embodiment. Serves as a pivotal turning point from striving to realization, preparing the reader for the next octave of self-empowerment.
-* [The Ring and the Thirst](./the_ring_and_the_thirst.md)  
+* [Addiction — The Ring and the Thirst](./addiction_the_ring_and_the_thirst.md)  
 	A mythic, psychological, and physiological exploration of addiction as a distortion of longing. Using the story of Gollum and the Ring, this chapter reveals addiction as a misplaced search for wholeness, examines its roots in thirst (literal and symbolic), and offers a path of remembrance, coherence, and reconnection. Bridges desire and destiny, preparing the reader for the next octave of integration.
 * [The Game of Destiny](./the_game_of_destiny.md)  
 	A meditative reflection on play, loss, brotherhood, and the hidden curriculum of the soul—how digital worlds like Destiny mirror archetypal patterns, train resilience, and reveal that even play can be a path of remembrance, coherence, and awakening.
