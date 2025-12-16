@@ -67,6 +67,8 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Shadow Work – The Gateway to Wholeness](./shadow_work_the_gateway_to_wholeness.md)
 - [The Alchemy of Grief – When Pain Becomes Light](./alchemy_of_grief_when_pain_becomes_light.md)
 - [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)
+- [Wu Wei — The Art of Not Forcing](./wu_wei_the_art_of_not_forcing.md)
+  The highest art of not forcing: Wu Wei as the initiatic gateway to effortless action, the end of inner war, and the return to natural order. Poetic, clear, and transformative—the essence of action from coherence and trust.
 - [Non-Resistance and the Immaculate Vision](./non_resistance_and_the_immaculate_vision.md)
 
 #### IV. Practical Mastery — Body, Water, Light

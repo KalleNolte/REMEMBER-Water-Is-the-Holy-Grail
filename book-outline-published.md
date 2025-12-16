@@ -64,19 +64,21 @@ Each file is listed with its energetic function. The order follows the temple pa
 
 ### III. The Human - Healing, Remembrance, Transformation
 * [The Wound That Becomes Light](./the_wound_that_becomes_light.md)  
-	The wound as gateway.
+	The wound as a sacred threshold—pain transformed into light, vulnerability into power, and suffering into the very portal of awakening. A poetic initiation into the alchemy of remembrance.
 * [The Healer](./the_healer.md)  
-	Release. Forgiveness. Inner alchemy.
+	The path of the true healer: Release, forgiveness, and the inner alchemy that transmutes shadow into light. A journey through the heart’s capacity to restore, reconcile, and renew.
 * [Transmutation, Forgiveness & the Return to Source](./transmutation_forgiveness_return_to_source.md)  
-	Sin as distortion, forgiveness as frequency correction, and sexual alchemy as service—an alchemical map of how water, memory, and love return the human to Source.
+	Sin as distortion, forgiveness as the frequency that restores harmony, and sexual alchemy as sacred service—an initiatic map of how water, memory, and love guide the soul’s return to Source.
 * [Alchemy of the Soul: Transcending Seven Shadows](./alchemy_of_the_soul_transcending_seven_shadows.md)  
-	Deep soul transformation.
+	A deep-dive into the soul’s metamorphosis—transcending the seven shadows through presence, courage, and the luminous art of inner transformation. A guide to reclaiming wholeness and radiance.
 * [Shadow Work - The Gateway to Wholeness](./shadow_work_the_gateway_to_wholeness.md)  
-	Integration, transparency, and the return to wholeness.
+	The art of integrating the shadow—transparency, radical honesty, and the return to wholeness. A practical and poetic invitation to embrace all that was hidden, and to become undivided.
 * [The Alchemy of Grief – When Pain Becomes Light](.alchemy_of_grief_when_pain_becomes_light.md)  
-	A poetic and practical guide to transforming grief into light and coherence through the alchemy of water, presence, and remembrance.
+	A poetic and initiatic guide to transmuting grief into radiant coherence—where sorrow becomes the crucible for light, and loss is alchemized through water, presence, and remembrance into a deeper wholeness. A chapter on the sacred art of letting pain become the very source of illumination.
 * [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)  
-	Surrender as portal.
+	The initiatic art of letting go: Surrender as the gateway to inner freedom, coherence, and the effortless flow of life. A poetic, practical, and spiritual exploration of trust, release, and the return to natural alignment with Source.
+* [Wu Wei — The Art of Not Forcing](./wu_wei_the_art_of_not_forcing.md)
+	The silent mastery of effortless action: Wu Wei reveals the end of inner struggle, the dissolution of resistance, and the art of moving in harmony with life’s current. A poetic, initiatic chapter on the power of alignment, surrender, and the freedom that arises when nothing is forced and nothing is withheld.
 * [Non-Resistance and the Immaculate Vision](./non_resistance_and_the_immaculate_vision.md)  
 	A pillar chapter weaving non-resistance and Akram Vignan’s Immaculate Perception into a unified transmission. Explores the end of suffering through perceptual clarity, the mechanics of resistance, and the art of living without inner conflict. Bridges surrender and practical mastery.
 
@@ -96,11 +98,11 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [Chopping Wood, Carrying Water](./chopping_wood_carrying_water.md)  
 	On gratitude, enlightenment, and the quiet dignity of the everyday. The Zen wisdom that enlightenment lives in the simple—chopping wood, carrying water—and how gratitude, presence, and awareness transform every act into a silent gesture of self-empowerment.
 * [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)  
-	Concrete application. Embodiment.
+	A living transmission of embodiment—how the four elemental riders guide the practical application of wisdom, anchoring spirit into matter and coherence into daily life. Water as the field in which archetype becomes action, and the sacred is made real.
 * [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)  
-	Regeneration. Nightly unfolding of the field.
+	The sacred art of sleep as nightly return to Source—regeneration, healing, and the unfolding of the luminous field. A chapter on the mysteries of rest, the intelligence of dreams, and the restoration of coherence through surrender to the night.
 * [The Voice: The Forgotten Instrument](./the_voice_the_forgotten_instrument.md)  
-	Voice as instrument of coherence.
+	The human voice as the original instrument of coherence—sound, resonance, and the power to shape reality. A poetic exploration of how speaking, singing, and silence become tools for healing, alignment, and remembrance.
 * [Eating Light: Conscious Nourishment](./eating_light_conscious_nourishment.md)  
 	Living on light in daily life.
 * [The Living Synergy](./the_living_synergy.md)  

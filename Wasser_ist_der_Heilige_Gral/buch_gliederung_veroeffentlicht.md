@@ -68,19 +68,21 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 ### III. Der Mensch - Heilung, Erinnerung, Transformation
 
 * [Die Wunde, die zu Licht wird](./die_wunde_die_zu_licht_wird.md)  
-  Die Wunde als Tor zur Transformation: Wie Schmerz, Verletzung und Schatten zum Ausgangspunkt für Heilung und inneres Wachstum werden. Die Alchemie des Leidens als Weg zur Erleuchtung und zur Rückkehr in die eigene Kraft.
+  Die Wunde als heilige Schwelle: Schmerz wird zu Licht, Verletzlichkeit zu Kraft, und Leiden zum Tor der Erinnerung. Ein poetischer Initiationsweg in die Alchemie des Erwachens und der Rückkehr ins eigene Licht.
 * [Der Heiler](./der_heiler.md)  
-  Der Heiler als Archetyp und innere Kraft: Die Kunst des Loslassens, die Magie der Vergebung und die Praxis der inneren Alchemie. Wie Heilung auf allen Ebenen – körperlich, emotional, geistig – durch Bewusstsein, Mitgefühl und die Rückkehr zur Quelle geschieht.
+  Der wahre Heiler: Die Kunst des Loslassens, die Magie der Vergebung und die innere Alchemie, die Schatten in Licht verwandelt. Ein Weg des Herzens, der Versöhnung und der Erneuerung auf allen Ebenen des Seins.
 * [Transmutation, Vergebung und die Rückkehr zur Quelle](./transmutation_vergebung_und_die_rueckkehr_zur_quelle.md)  
-  Sünde als Verzerrung, Vergebung als Frequenzkorrektur und sexuelle Alchemie als Dienst – eine alchemische Karte, wie Wasser, Erinnerung und Liebe den Menschen zur Quelle zurückführen.
+  Sünde als Verzerrung, Vergebung als Frequenz, die Harmonie wiederherstellt, und sexuelle Alchemie als heiliger Dienst – eine initiatische Landkarte, wie Wasser, Erinnerung und Liebe die Seele zur Quelle zurückführen.
 * [Die Alchemie der Seele - Die sieben Schatten überwinden](./alchemie_der_seele_die_sieben_schatten_ueberwinden.md)  
-  Die sieben Schatten als Initiationsweg: Poetische, psychologische und spirituelle Alchemie zur Integration von Stolz, Neid, Zorn, Trägheit, Gier, Völlerei und Lust. Praktische und meditative Anleitung zur Verwandlung von Mangel in Tugend und zur Rückkehr in die bewusste Ganzheit.
+  Eine tiefgehende Metamorphose der Seele – die sieben Schatten als Stufen der Transformation. Präsenz, Mut und die leuchtende Kunst innerer Wandlung. Ein Leitfaden zur Rückgewinnung von Ganzheit und Strahlkraft.
 * [Schattenarbeit – Das Tor zur Ganzheit](./schattenarbeit_das_tor_zur_ganzheit.md)  
-  Die Kunst, das Verborgene zu integrieren: Schattenarbeit als initiatischer Pfad zur Ganzheit, Klarheit und innerer Freiheit. Poetische, psychologische und praktische Perspektiven auf die Integration des Schattens als Voraussetzung für Sinn, Kohärenz und Berufung.
+  Die Kunst, den Schatten zu umarmen – radikale Ehrlichkeit, Transparenz und die Rückkehr in die Ganzheit. Eine poetische und praktische Einladung, alles Verborgene zu integrieren und ungeteilt zu werden.
 * [Die Alchemie der Trauer – Wenn Schmerz zu Licht wird](./alchemie_der_trauer_wenn_schmerz_zu_licht_wird.md)  
-  Poetische und praktische Anleitung, wie Trauer durch die Alchemie des Wassers, Präsenz und Erinnerung in Licht und Kohärenz verwandelt wird.
+  Ein poetischer und initiatischer Leitfaden, wie Trauer zur Quelle von Licht und Kohärenz wird – wenn Schmerz zum Schmelztiegel der Erinnerung wird und Verlust durch Wasser, Präsenz und Hingabe in tiefere Ganzheit verwandelt wird. Die heilige Kunst, Schmerz zur Quelle von Leuchten zu machen.
 * [Hingabe – Die Kunst des Loslassens](./hingabe_die_kunst_des_loslassens.md)  
   Die Praxis des Loslassens und Nicht-Widerstands als Schlüssel zur inneren Freiheit, biophysischer Kohärenz und Rückkehr in den natürlichen Lebensfluss. Wissenschaftliche, spirituelle und poetische Perspektiven auf Hingabe, Atem, Körper, Bewusstsein und die Kunst, sich dem Leben anzuvertrauen.
+* [Wu Wei – Die Kunst des Nicht-Erzwingens](./wu_wei_die_kunst_des_nicht_erzwingens.md)  
+  Die höchste Kunst des Nicht-Erzwingens: Wu Wei als Initiation in müheloses Handeln, das Ende des inneren Krieges und die Rückkehr in die natürliche Ordnung. Poetisch, klar und transformierend – die Essenz des Handelns aus Kohärenz und Vertrauen.
 * [Nichtwiderstand und die makellose Sicht](./nichtwiderstand_und_die_makellose_sicht.md)  
   Ein Kapitel über Nichtwiderstand und die makellose Sicht als höchste Form innerer Souveränität, Klarheit und Freiheit. Poetische Synthese von Akram-Lehre, Verantwortung und der Praxis, Leiden aufzulösen, ohne zu kämpfen.
 
@@ -102,11 +104,11 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Holz hacken, Wasser tragen](./holz_hacken_wasser_tragen.md)  
   Über Dankbarkeit, Erleuchtung und die stille Würde des Alltäglichen. Die Zen-Weisheit, dass Erleuchtung im Einfachen wohnt – Holz hacken, Wasser tragen – und wie Dankbarkeit, Präsenz und Bewusstsein jede Handlung in einen stillen Akt der Selbstermächtigung verwandeln.
 * [Die vier Reiter und die Wasser des Lebens](./die_vier_reiter_und_die_wasser_des_lebens.md)  
-  Die vier Reiter als moderne Gesundheitsmetapher: Herz-Kreislauf, Krebs, Neurodegeneration, Metabolik. Wie Wasser, Atem, Schlaf, Ernährung, Fasten, Verbindung, Dienst und Stille als acht Praktiken Resilienz und Kohärenz im Menschen neu verweben. Wissenschaft und Geist, Struktur und Fluss – vereint in den Wassern des Lebens.
+  Eine lebendige Übertragung der Verkörperung – wie die vier elementaren Reiter die praktische Anwendung von Weisheit leiten und Geist in Materie, Kohärenz in den Alltag bringen. Wasser als Feld, in dem Archetyp zur Tat wird und das Heilige im Leben Gestalt annimmt.
 * [Heiliger Schlaf – Rückkehr zur Quelle des Lebens](./heiliger_schlaf_rueckkehr_zur_quelle_des_lebens.md)  
-  Regeneration, nächtliche Entfaltung des Feldes und spirituelle Rückkehr im Schlaf.
+  Die heilige Kunst des Schlafs als nächtliche Rückkehr zur Quelle – Regeneration, Heilung und Entfaltung des leuchtenden Feldes. Ein Kapitel über die Mysterien der Ruhe, die Intelligenz der Träume und die Wiederherstellung von Kohärenz durch Hingabe an die Nacht.
 * [Die Stimme – Das vergessene Instrument](./die_stimme_das_vergessene_instrument.md)  
-  Die Stimme als Instrument der Kohärenz, Heilung und Bewusstseinsöffnung.
+  Die menschliche Stimme als ursprüngliches Instrument der Kohärenz – Klang, Resonanz und die Kraft, Realität zu formen. Eine poetische Erkundung, wie Sprechen, Singen und Stille zu Werkzeugen für Heilung, Ausrichtung und Erinnerung werden.
 * [Licht essen – Bewusste Nahrung als Gebet](./licht_essen_bewusste_nahrung_als_gebet.md)  
   Leben vom Licht im Alltag, bewusste Ernährung als spirituelle Praxis und Gebet.
 
