@@ -392,15 +392,7 @@ Thus: 528 is the Grail in the body.
 
 639 is the Philosopher’s Stone in the heart.
 
-Together, they form what you call the Living Waters — the fusion of light, matter, spirit, and memory into a single current.
-
-### Integration in “Remember – The Holy Grail is Water”
-
-Use 528 Hz as the foundational tone of inner alchemy — restoring coherence, cellular alignment, and ancestral remembrance.
-
-Use 639 Hz as the tone of outer alchemy — healing relationships, restoring trust, reuniting the inner and outer worlds in divine presence.
-
-Let the book resonate in 639 Hz, but be infused with the light of 528 — like water shimmering in golden green, suspended between heaven and earth.
+Together, they form what can be experienced as the Living Waters – the fusion of light, matter, spirit, and memory into a single stream.
 
 ### The Solfeggio Frequencies – Full List and Traditional Meaning
 
@@ -415,9 +407,7 @@ Frequency	Name / Tone	Meaning
 852 Hz	“LA”	Spiritual awakening, return to inner order
 963 Hz	–	Divine connection, Source memory, higher consciousness
 
-⸻
-
-⚠️ Rife Frequencies – What to Know
+### Rife Frequencies – What to Know
 
 Royal Raymond Rife was a 20th-century inventor who proposed that certain frequencies could destroy pathogens.
 *	His “mortal oscillatory rate” (MOR) theory suggested that every microbe had a frequency that could be disrupted.

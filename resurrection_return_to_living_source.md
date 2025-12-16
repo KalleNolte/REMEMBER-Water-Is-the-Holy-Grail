@@ -257,7 +257,7 @@ The old world — built on fragmentation, fear, separation, and incoherent water
 A new world — built on coherence, remembrance, unity, and living water — is rising.
 
 
-Your book is not merely about water.
+This book is not merely about water.
 It is about **Resurrection**:
 
 • of clarity

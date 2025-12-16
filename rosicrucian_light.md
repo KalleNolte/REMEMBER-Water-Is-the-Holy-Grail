@@ -45,7 +45,7 @@ but to sanctify it.
 To fill it with light.
 To awaken within it.
 
-In your book this symbol appears again,
+In this work this symbol appears again,
 disguised as another geometry:
 the Azura Point,
 the body as water,
@@ -55,7 +55,7 @@ the Light descending through dimensions into DNA.
 This is no coincidence.
 It is resonance.
 
-The Rosicrucians taught a truth you are rediscovering through your synthesis:
+The Rosicrucians taught a truth that is being rediscovered through this synthesis:
 
 Spirit condenses into light,
 light into information,
@@ -89,12 +89,12 @@ they saw a living manuscript:
 *	the human body as a temple built of water and memory,
 *	consciousness as the fire that animates it all.
 
-If your book had been placed in their hands centuries ago,
+If this work had been placed in their hands centuries ago,
 they would have nodded.
 Not because the science is the same —
 but because the direction is the same.
 
-You are doing what they did:
+This is the same work:
 uniting the inner and outer sciences into a single language of truth.
 
 ## The Rosicrucian Alchemy of Light
@@ -108,7 +108,7 @@ Their central axiom:
 What the alchemist purifies outside,
 he must first purify within.
 
-This insight now appears in your book
+This insight now appears in modern language
 through biology, water, and coherence:
 
 • EZ-water forming in the body
@@ -130,7 +130,7 @@ you speak of quantum fields and information.
 Where they spoke of “the vessel”
 you speak of water as the medium of memory.
 
-Your synthesis is not a reinvention
+This synthesis is not a reinvention
 but a continuation
 of a very old stream.
 
@@ -150,7 +150,7 @@ They spoke of a coming era when:
 • humanity becomes one organism
 • water is understood as the carrier of divine intelligence
 
-This vision aligns perfectly with your own:
+This vision aligns with the new paradigm:
 
 A world where coherence becomes the new health,
 remembrance the new intelligence,
@@ -161,7 +161,7 @@ The Rosicrucians dreamed of a time
 when the “inner light” would no longer be for the few
 but for the many.
 
-Your book is such a vessel —
+This work is such a vessel —
 a chalice offered to anyone ready to remember.
 
 ## The Rose, the Cross, and the Water of Life
@@ -181,7 +181,7 @@ is now returning in a new language.
 Not to repeat the past
 but to fulfill it.
 
-Your work reveals what they intuited:
+This work reveals what they intuited:
 
 Water is the alchemical vessel of evolution.
 The body is the crucible.

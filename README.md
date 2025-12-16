@@ -75,6 +75,8 @@ The list below mirrors the full book’s energetic and transformational journey.
  - [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)
  - [Shinrin-yoku — Remembering Ourselves Through the Forest](./shinrin_yoku_remembering_ourselves_through_the_forest.md)
  - [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)
+ - [Wabi-Sabi](./wabi_sabi.md)
+   The beauty of imperfection, transience, and naturalness as a living principle. Wabi-Sabi as the quiet art of allowing, the wisdom of water, and the end of self-correction. A contemplative and practical bridge between nature, water, and daily life.
  - [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
  - [The Voice: The Forgotten Instrument](./the_voice_the_forgotten_instrument.md)
  - [Eating Light: Conscious Nourishment](./eating_light_conscious_nourishment.md)

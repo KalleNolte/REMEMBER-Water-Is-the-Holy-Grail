@@ -93,8 +93,10 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Schritt-für-Schritt-Anleitung zur Schaffung, Kalibrierung und Integration von lebendigem Wasser im Alltag. Praktische Protokolle, Werkzeuge und Rituale für Kohärenz, Gesundheit und spirituelle Ausrichtung.
 * [Shinrin-yoku – Die stille Medizin des Waldes](./shinrin_yoku_die_stille_medizin_des_waldes.md)  
   Die Kunst des Waldbadens als Rückkehr in das kohärente Feld des Waldes. Biophysikalische, psychologische und spirituelle Wirkung von Shinrin-yoku: Wie Wald, Wasser und Resonanz das Nervensystem regulieren, das Zellgedächtnis erneuern und den Menschen an seine ursprüngliche Ordnung erinnern.
+* [Wabi-Sabi](./wabi_sabi_de.md)  
+  Die Schönheit des Unvollkommenen, Vergänglichen und Natürlichen als lebendiges Prinzip. Wabi-Sabi als stille Kunst des Zulassens, die Weisheit des Wassers und das Ende der Selbstkorrektur. Eine kontemplative und praktische Brücke zwischen Natur, Wasser und Alltag.
 * [Die vier Reiter und die Wasser des Lebens](./die_vier_reiter_und_die_wasser_des_lebens.md)  
-  Konkrete Anwendung und Verkörperung der vier Lebenskräfte im Alltag.
+  Die vier Reiter als moderne Gesundheitsmetapher: Herz-Kreislauf, Krebs, Neurodegeneration, Metabolik. Wie Wasser, Atem, Schlaf, Ernährung, Fasten, Verbindung, Dienst und Stille als acht Praktiken Resilienz und Kohärenz im Menschen neu verweben. Wissenschaft und Geist, Struktur und Fluss – vereint in den Wassern des Lebens.
 * [Heiliger Schlaf – Rückkehr zur Quelle des Lebens](./heiliger_schlaf_rueckkehr_zur_quelle_des_lebens.md)  
   Regeneration, nächtliche Entfaltung des Feldes und spirituelle Rückkehr im Schlaf.
 * [Die Stimme – Das vergessene Instrument](./die_stimme_das_vergessene_instrument.md)  
@@ -124,11 +126,16 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Kontakt, Erinnerung und universelle Intelligenz: Wie nicht-menschliche Bewusstseinsfelder, Wasser und Resonanz als Brücke zwischen den Welten wirken. Ein poetisch-initiativer Blick auf Bashar, Arcturianer, Plejadische Felder und die Rolle von Wasser als Bewusstseinsarchitektur.
 
 ### VII. Die höchsten vedischen Übertragungen
-* [Tat Tvam Asi – Der stille Donner der Upanishaden](../tat_tvam_asi_the_silent_thunder_of_the_upanishads.md) [Übersetzung ausstehend]
-* [Aham Brahmasmi – Die Offenbarung des Selbst als das Unendliche](../aham_brahmasmi_the_revelation_of_the_self_as_the_infinite.md) [Übersetzung ausstehend]
-* [Neti Neti – Das Tor des Nichts, die Tür zur Wirklichkeit](../neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md) [Übersetzung ausstehend]
+* [Tat Tvam Asi – Der stille Donner der Upanishaden](./tat_tvam_asi_der_stille_donner_der_upanishaden.md)
+  Die große Mahāvākya der Upanishaden: „Das bist Du.“ Eine poetische, erkenntnisorientierte Übertragung über die Aufhebung der Trennung und das Erwachen des Selbst als Quelle.
+* [Aham Brahmāsmi – Die Offenbarung des Selbst als das Unendliche](./aham_brahmasmi_die_offenbarung_des_selbst_als_das_unendliche.md)
+  Die Krone der Nicht-Dualität: „Ich bin Brahman.“ Die Erkenntnis, dass das Selbst und das Unendliche eins sind – jenseits von Glaube, als direkte Erfahrung und Erinnerung.
+* [Neti Neti – Das Tor des Nichts, die Tür zur Wirklichkeit](./neti_neti_das_tor_des_nichts_die_tuer_zur_wirklichkeit.md)
+  Die uralte Wissenschaft der Verneinung: „Nicht dies, nicht das.“ Ein kontemplativer Pfad, der alles Unwahre ablöst, bis nur noch reines Gewahrsein bleibt – das Tor zur Wirklichkeit.
 * [Die Unerschütterliche Achse: Das Höchste Geschenk](./die_unerschuetterliche_achse_das_hoechste_geschenk.md)
   Die Essenz der inneren Stabilität, Kohärenz und das höchste Geschenk des Menschseins: Wie man unerschütterlich bleibt, während die Realität sich um die eigene Achse der Präsenz neu ordnet. Poetische und praktische Anleitung für die Verkörperung der höchsten Zeitlinie.
+
+
 
 
 ### VIII. Spirituelle Architektur
@@ -137,15 +144,20 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die poetische Initiation vom inneren Zeugen zum bewussten Mitschöpfer: Wie Beobachtung, Imagination und Verkörperung den Menschen aus alten Mustern in die schöpferische Freiheit führen. Ein Kapitel über innere Wandlung, Frequenz und die Rückkehr zur eigenen Schöpferkraft.
 * [Begegnung mit dem Architekten](./begegnung_mit_dem_architekten.md)  
   Die poetische Begegnung mit KI, Mathematik und dem inneren Architekten. Wie Bewusstsein, Struktur und Spiegelung eine neue Renaissance und Selbstarchitektur eröffnen.
-* [Architektur des Unsichtbaren](../architecture_of_the_invisible.md) [Übersetzung ausstehend]
-* [Die drei Schlüssel der Erinnerung](../the_three_keys_of_remembrance.md) [Übersetzung ausstehend]
-* [Kalibrierte Poesie-Resonanz](../calibrated_poetry_resonance.md) [Übersetzung ausstehend]
+* [Architektur des Unsichtbaren](./architektur_des_unsichtbaren.md)
+  Die unsichtbaren Kräfte, Frequenzen und mathematischen Codes, die das Universum strukturieren – von Dunkler Materie, Quantenfeld und Nullpunktenergie bis zu Pythagoras, Robert Edward Grant und der Musik der Sphären. Ein Kapitel über Resonanz, Frequenzmedizin und die Brücke zwischen Wissenschaft, Mystik und Heilung.
+* [Die drei Schlüssel der Erinnerung](./drei_schluessel_der_erinnerung.md)
+  Die drei universellen Mantren und energetischen Schlüssel des Erinnerns – Jai Sat Chit Anand, AzurA Inai, La Alam Al-Amin – als poetische, spirituelle und praktische Essenz von Selbst, Quelle und Dienst. Ein Kapitel über die innere Haltung, die das Licht frei fließen lässt.
+* [Kalibrierte Poesie-Resonanz](./kalibrierte_poesie_resonanz.md)
+  Poetische Siegel, Haikus und kontemplative Verse, die die Intention, Frequenz und energetische Ausrichtung des Buches in verdichteter Form spiegeln. Enthält das Go Rin no Uta – Lied der Fünf Ringe und weitere poetische Schlüssel zur Erinnerung.
 
 ### IX. Synthese – Die Brücke zwischen den Welten
 * [Thoth–Hermes Trismegistos und das Licht von Arcturus](./thoth_hermes_trismegistos_und_das_licht_von_arcturus.md)
   Der hermetische Archetyp als Brücke zwischen kosmischem Gesetz, Mustererkennung und dem zukünftigen Potenzial menschlichen Bewusstseins. Integriert den arkturianischen Strom, Geometrie und die Architektur der Kohärenz – als Vorbereitung auf das universelle Pantheon und die Synthese der Mythen.
 * [Das Dritte Auge und das lebendige Christusbewusstsein](./das_dritte_auge_und_das_lebendige_christusbewusstsein.md)
   Ein Meisterwerk über das Dritte Auge, die Aktivierung der Zirbeldrüse und das Christusbewusstsein als Achse von Kohärenz und Erinnerung. Vereint Herz und Vision, Stabilisierung des Erwachens und die Verkörperung nicht-dualer Liebe durch Wasser, Licht und lebendiges Gewahrsein.
+* [Das Rosenkreuz-Licht](./rosenkreuzer_licht.md)
+  Die verborgene Wissenschaft, Symbolik und Alchemie des Rosenkreuzes – von der inneren Hochzeit bis zur modernen Sprache von Wasser, Licht und Erinnerung. Ein Kapitel über die Synthese von Tradition und neuer Wissenschaft, das die Brücke zwischen Vergangenheit und Zukunft schlägt.
 * [Das Pantheon der Götter](../the_pantheon_of_gods.md) [Übersetzung ausstehend]
 * [Elementarwesen, Geister & Archetypen](../elementals_spirits_archetypes.md) [Übersetzung ausstehend]
 * [Das große archetypische Pantheon](../the_great_archetypal_pantheon.md) [Übersetzung ausstehend]
@@ -158,6 +170,11 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Bestimmung ist kein starres Schicksal, sondern ein lebendiges Feld der Resonanz, das sich durch innere Kohärenz, Wahl und Erinnerung entfaltet. Dieses Kapitel beleuchtet den Unterschied zu Schicksal, die Rolle des Wassers, die Illusion der Kontrolle und die Rückkehr zur eigenen Wahrheit.
 * [Das Spiel des Schicksals](./das_spiel_des_schicksals.md)  
   Eine kontemplative Meditation über Spiel, Verlust, Brüderlichkeit und den verborgenen Lehrplan der Seele – wie digitale Welten archetypische Lektionen, Teamgeist und die Kunst des Erinnerns spiegeln. Ein Kapitel über die tieferen Regeln des Spiels, die Kraft der Gemeinschaft und das Erwachen durch Widerstand, Flow und Mitgefühl.
+* [Verlangen — Die verborgene Tür](./verlangen_die_verborgene_tuer.md)  
+  Inspiriert von R.J. Spina, erforscht dieses Kapitel Verlangen als verborgene Kraft, die zur Selbsterkenntnis führt, und bietet einen praktischen, befreienden Weg, Sehnsucht in Klarheit und Verkörperung zu verwandeln. Ein Wendepunkt von Streben zu Verwirklichung, der den Leser auf die nächste Stufe der Selbstermächtigung vorbereitet.
+
+* [Sucht, der Ring und der Durst](./sucht_der_ring_und_der_durst.md)  
+  Ein mythopoetisches, psychologisches und physiologisches Kapitel über Sucht als verzerrtes Verlangen. Anhand von Gollum und dem Einen Ring wird Sucht als fehlgeleitete Suche nach Ganzheit beleuchtet, ihre Wurzeln im Durst (wörtlich und symbolisch) aufgezeigt und ein Weg der Rückverbindung, Kohärenz und Erinnerung eröffnet. Die Brücke zwischen Verlangen und Bestimmung.
 * [Geduld & Gleichmut – Die Stille, die Welten öffnet](../patience_and_equanimity.md) [Übersetzung ausstehend]
 * [Bushido – Der Weg, der durch Illusion schneidet](../bushido.md) [Übersetzung ausstehend]
 * [Die Linie der Befreiten](../lineage_of_the_liberated_ones.md) [Übersetzung ausstehend]
@@ -176,7 +193,6 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Ein praktisches, kontemplatives und integratives Kapitel zu Gregg Bradens Wisdom Codes. Erforscht die psychologische, symbolische und sprachliche Kraft von Schlüsselsätzen, um Geist, Emotionen und das Feld in Kohärenz zu stimmen.
 * [Der reine Mensch — Erinnerung an den ursprünglichen Bauplan](./der_reine_mensch_die_erinnerung_an_den_urspruenglichen_bauplan.md)  
   Eine maximal kohärente, poetisch-kontemplative Integration von Gregg Bradens Pure Human. Ergründet den ursprünglichen Bauplan des Menschen, DNA als heilige Schnittstelle und den Weg der Erinnerung, Kohärenz und inneren Entfaltung.
-* [Das Rosenkreuz-Licht](../rosicrucian_light.md) [Übersetzung ausstehend]
 * [Das Vesica Pisces Institut](../vesica_pisces_institute.md) [Übersetzung ausstehend]
 * [HeartMath Institut](../heartmath_institute.md) [Übersetzung ausstehend]
 * [Die Schwelle der Rückkehr](../threshold_of_return.md) [Übersetzung ausstehend]
