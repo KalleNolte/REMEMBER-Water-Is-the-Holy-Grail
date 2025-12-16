@@ -1,6 +1,5 @@
 # Desire — The Doorway Beneath the Doorway
 
-
 *This chapter is inspired by the work of R.J. Spina, who understands desire as a guide to self-recognition—not as something to suppress or fight. The following thoughts and methods are an independent continuation of that inspiration.*
 
 Desire is one of the most misunderstood forces in human life.

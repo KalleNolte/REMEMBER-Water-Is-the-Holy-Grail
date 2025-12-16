@@ -118,6 +118,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 
 
 ### VI. Master Teachings of Consciousness
+* [The One Truth in Many Garments](./the_one_truth_in_many_garments.md)
+	A contemplative, poetic chapter on the universal essence behind all religions—mirroring, bridging, and inviting the reader to see through forms to the single source. Experience, realization, and love as the shared core of all paths.
 * [Abraham - The River of Alignment](./abraham_the_river_of_alignment.md)  
 	A synthesis of Abraham’s teachings on the Emotional Guidance System and the art of allowing. Alignment as vibrational water-course, emotion as compass, and joy as calibration.
 * [Bashar - The Frequency of True Alignment](./bashar_the_frequency_of_true_alignment.md)  
@@ -126,6 +128,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A calibrated tribute to the Seth material. Reality as thought-form, probable realities, multidimensional identity, and the primacy of belief in shaping the waters of experience.
 * [Extraterrestrials and Consciousness Streams](./extraterrestrials_and_consciousness_streams.md)
 	On Bashar, the nature of contact, and the many voices of awareness. Explores non-human intelligences, consciousness streams, and the role of water as a universal medium of coherence. A bridge between the master teachings and the supreme transmissions.
+* [Conversations with God](./conversations_with_god.md)
+	A literary, poetic reflection on the inner dialogue with Source—beyond dogma, as a living relationship of resonance, honesty, and remembrance. Integrates the teachings of Neale Donald Walsch with the book’s core synthesis of water, coherence, and consciousness.
 
 ### VII. The Supreme Vedic Transmissions
 * [Tat Tvam Asi - The Silent Thunder of the Upanishads](./tat_tvam_asi_the_silent_thunder_of_the_upanishads.md)  

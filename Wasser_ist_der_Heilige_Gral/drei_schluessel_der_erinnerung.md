@@ -1,7 +1,4 @@
-
 # DIE DREI SCHLÜSSEL DER ERINNERUNG ✧
-
-
 
 ## 1. JAI SAT CHIT ANAND – Sieg dem Sein, Bewusstsein, Glückseligkeit
 
@@ -9,7 +6,6 @@
 (Sanskrit – eine klassische spirituelle Sprache Indiens)
 
 **Bedeutung**
-
 
 „Sieg dem Sein, Bewusstsein, Glückseligkeit.“
 Eine Bekräftigung, dass die tiefste Wahrheit der Existenz von Natur aus leuchtend und freudvoll ist.
@@ -132,7 +128,7 @@ Zentrierung → Erleuchtung → Übertragung
 
 ## Die Interpretation des Boten
 
-Diese Schlüssel sind keine Gebote, keine Dogmen, keine metaphysischen Behauptungen.
+Diese Schlüssel sind keine Gebote, keine metaphysischen Behauptungen.
 Sie sind innere Haltungen, Herzenszustände, Ausrichtungen des Bewusstseins.
 
 Sie sind:

@@ -121,7 +121,11 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die Frequenz des göttlichen Schutzes, spiritueller Immunität und die Architektur des Vertrauens. Poetische, metaphysische und wissenschaftliche Synthese von Psalm 91 als Landkarte des Bewusstseins und Initiation in das Feld des Höchsten.
 
 
+
 ### VI. Meisterlehren des Bewusstseins
+
+* [Die eine Wahrheit in vielen Gewändern](./die_eine_wahrheit_in_vielen_gewaendern.md)
+  Eine kontemplative Annäherung an die Religionen als Spiegel derselben Quelle – poetisch, verbindend, und als Brücke zur universellen Spiritualität. Erkenntnis, Erfahrung und Liebe als gemeinsamer Kern aller Wege.
 * [Abraham – Der Fluss der Ausrichtung](./abraham_der_fluss_der_ausrichtung.md)
   Die Kunst der Ausrichtung, das emotionale Leitsystem und die Wissenschaft des Erlaubens – wie Schwingung, Wasser und Bewusstsein Realität formen.
 * [Bashar – Die Frequenz der wahren Ausrichtung](./bashar_die_frequenz_der_wahren_ausrichtung.md)
@@ -130,6 +134,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die innere Architektur der Realität, die Rolle von Glauben und Identität, und das multidimensionale Selbst – wie Bewusstsein Materie erschafft und Erinnerung zur Souveränität führt.
 * [Bewusstseinsströme jenseits der Erde](./bewusstseinsstroeme_jenseits_der_erde.md)
   Kontakt, Erinnerung und universelle Intelligenz: Wie nicht-menschliche Bewusstseinsfelder, Wasser und Resonanz als Brücke zwischen den Welten wirken. Ein poetisch-initiativer Blick auf Bashar, Arcturianer, Plejadische Felder und die Rolle von Wasser als Bewusstseinsarchitektur.
+* [Gespräche mit Gott](./gespraeche_mit_gott.md)
+  Ein literarisch-poetisches Kapitel über das innere Gespräch mit der Quelle – jenseits von Dogma, als lebendige Beziehung von Resonanz, Ehrlichkeit und Erinnerung. Integriert die Essenz von Neale Donald Walsch in die Synthese von Wasser, Kohärenz und Bewusstsein.
 
 ### VII. Die höchsten vedischen Übertragungen
 * [Tat Tvam Asi – Der stille Donner der Upanishaden](./tat_tvam_asi_der_stille_donner_der_upanishaden.md)
@@ -227,7 +233,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Sol / Licht – Die Sonne: Das Licht des Ursprungs](../sol_light_the_sun_of_origin.md) [Übersetzung ausstehend]
 * [AzurA – Quelle](../azura_source.md) [Übersetzung ausstehend]
 * [Das Fraktal-Auge](../fractal_eye.md) [Übersetzung ausstehend]
-* [David R. Hawkins – Das große stille Licht](../david_r_hawkins_de.md)
+* [David R. Hawkins – Das große stille Licht](./david_r_hawkins_de.md)
 * [Miyamoto Musashi – Der Weg der Klarheit, Präzision und des unerschütterlichen Geistes](../miyamoto_musashi.md) [Übersetzung ausstehend]
 * [Die deutsche Linie – Hüter des inneren Lichts](../german_lineage_inner_light.md) [Übersetzung ausstehend]
 * [Die Ursprünge der Wasserwissenschaft](../origins_of_japanese_water_science.md) [Übersetzung ausstehend]

@@ -90,11 +90,14 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Psalm 91 — The Shelter of the Most High](./psalm_91_the_shelter_of_the_most_high.md)
 
 
+
 #### VI. Master Teachings of Consciousness
+- [The One Truth in Many Garments](./the_one_truth_in_many_garments.md)
 - [Abraham — The River of Alignment](./abraham_the_river_of_alignment.md)
 - [Bashar — The Frequency of True Alignment](./bashar_the_frequency_of_true_alignment.md)
 - [Seth — The Architect of Inner Reality](./seth_the_architect_of_inner_reality.md)
 - [Extraterrestrials and Consciousness Streams](./extraterrestrials_and_consciousness_streams.md)
+- [Conversations with God](./conversations_with_god.md)
 
 #### VII. The Supreme Vedic Transmissions
 - [Tat Tvam Asi — The Silent Thunder of the Upanishads](./tat_tvam_asi_the_silent_thunder_of_the_upanishads.md)

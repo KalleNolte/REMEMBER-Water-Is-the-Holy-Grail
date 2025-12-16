@@ -14,26 +14,20 @@ My return.
 
 To my mother, Ulrike,
 my father, Karl,
-and my sister, Sophie Charlotte —
+and my sister, Sophie Charlotte—
 you are my first home,
 my anchor,
 my heart.
 
-Sophie, you were the first
-to say,
+Sophie, you were the first to say,
 “Write a book.”
 You carried the memory of this work
-long before it opened within me.
+long before it awakened in me.
 
-You three were my first temple,
-my first light.
-
-You loved me
-when I could not love myself.
-You believed in me
-when I had fallen.
-You held me
-when the path grew dark.
+You three were my first temple of light.
+You loved me when I could not love myself,
+believed in me when I had fallen,
+and held me when the path grew dark.
 
 And beside Sophie:
 Marc Kevin,
@@ -189,7 +183,6 @@ a technical genius
 with a heart of gold —
 your blend of intelligence and kindness
 creates trust wherever you stand.
-
 
 Till —
 a true friend with whom I have shared countless laughs and many intense gaming sessions—moments of joy, camaraderie, and pure fun.

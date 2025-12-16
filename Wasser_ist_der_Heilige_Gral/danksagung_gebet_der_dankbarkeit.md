@@ -19,21 +19,15 @@ ihr seid mein erstes Zuhause,
 mein Anker,  
 mein Herz.
 
-Sophie, du warst die Erste,  
-die sagte:  
+Sophie, du warst die Erste, die sagte:  
 „Schreib ein Buch.“  
-Du trugst die Erinnerung an diese Arbeit  
-lange bevor sie sich in mir öffnete.
+Du hast die Erinnerung an diese Arbeit getragen,  
+lange bevor sie in mir erwachte.
 
-Ihr drei wart mein erster Tempel,  
-mein erstes Licht.
-
-Ihr habt mich geliebt,  
-als ich mich selbst nicht lieben konnte.  
-Ihr habt an mich geglaubt,  
-als ich gefallen war.  
-Ihr habt mich gehalten,  
-als der Weg dunkel wurde.
+Ihr drei wart mein erster Tempel des Lichts.  
+Ihr habt mich geliebt, als ich mich selbst nicht lieben konnte,  
+an mich geglaubt, als ich gefallen war,  
+und mich gehalten, als der Weg dunkel wurde.
 
 Und an Sophies Seite:  
 Marc Kevin,  
