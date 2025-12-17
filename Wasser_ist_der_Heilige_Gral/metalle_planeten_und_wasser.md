@@ -14,7 +14,6 @@ Nicht zufällig tauchen sie in den ältesten Schriften, Mythen, Alchemien und He
 
 Dieses Kapitel bringt diese Ebenen zusammen – nicht spekulativ, sondern **synthetisch**.
 
----
 
 ## 1. Metalle als Brücken zwischen Kosmos und Körper
 
@@ -40,7 +39,6 @@ Diese Zuordnung entstand nicht willkürlich. Sie beruhte auf **Beobachtung**:
 Heute erkennen wir:
 Diese alten Systeme beschrieben **Feldwirkungen**, lange bevor es Messgeräte gab.
 
----
 
 ## 2. Gold – das solare Zentrum
 
@@ -89,7 +87,6 @@ In feinster Form (kolloidal) wird Gold genutzt zur:
 **Wichtig:**
 Nicht als Allheilmittel, sondern als **Informations- und Ordnungsimpuls** – besonders wirksam **in Wasser gelöst**, da Wasser diese Information trägt.
 
----
 
 ## 3. Silber – das lunare Regulationsprinzip
 
@@ -131,7 +128,6 @@ Der Mond reguliert:
 Silber wirkt im Körper entsprechend:
 **es ordnet das Fließende**.
 
----
 
 ## 4. Kupfer – der große Leiter
 
@@ -168,7 +164,6 @@ Kupfer verbindet – wie Venus:
 
 Kupfer moduliert **Energieflüsse**, besonders in Verbindung mit **hochwertigem Wasser**.
 
----
 
 ## 5. Warum Wasser der Schlüssel ist
 
@@ -194,7 +189,6 @@ Strukturiertes, kohärentes Wasser:
 
 Deshalb ist die **Kombination von Wasser + Metallen** entscheidend – nicht isolierte Einnahme.
 
----
 
 ## 6. Planeten, Metalle und der menschliche Körper
 
@@ -209,7 +203,6 @@ Die alten Systeme verstanden den Menschen als **Miniatur des Kosmos**.
 Heute wissen wir:
 Diese Zuordnungen spiegeln **funktionale Zusammenhänge**, keine Mythen.
 
----
 
 ## 7. Was der Leser damit anfangen kann
 
@@ -235,7 +228,6 @@ unterstützt:
 * geistige Klarheit
 * emotionale Stabilität
 
----
 
 ## 8. Die Synthese
 

@@ -90,6 +90,8 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Die höchste Kunst des Nicht-Erzwingens: Wu Wei als Initiation in müheloses Handeln, das Ende des inneren Krieges und die Rückkehr in die natürliche Ordnung. Poetisch, klar und transformierend – die Essenz des Handelns aus Kohärenz und Vertrauen.
 * [Nichtwiderstand und die makellose Sicht](./nichtwiderstand_und_die_makellose_sicht.md)  
   Ein Kapitel über Nichtwiderstand und die makellose Sicht als höchste Form innerer Souveränität, Klarheit und Freiheit. Poetische Synthese von Akram-Lehre, Verantwortung und der Praxis, Leiden aufzulösen, ohne zu kämpfen.
+* [Der Vater, der Baum und die stille Kraft des Gebens](./der_vater_archetyp.md)  
+  Der Vater-Archetyp als stille, tragende Kraft: Baum, Ur-Vater, Verantwortung, Heilung, Rückgabe, Würde. Poetisch, kontemplativ und transformierend – eine Einladung, das Göttliche im Menschlichen zu ehren und den Kreis der Heilung zu schließen.
 * [Bushidō – Der Weg, der durch Illusion schneidet](./bushido.md)
   Die Disziplin innerer Souveränität, Klarheit und Mitgefühl. Bushidō als japanischer Pfad der Integration, edlen Haltung und des Herzens, das zu Dienst und Liebe geschärft wird.
 
@@ -117,7 +119,7 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
 * [Holz hacken, Wasser tragen](./holz_hacken_wasser_tragen.md)  
   Über Dankbarkeit, Erleuchtung und die stille Würde des Alltäglichen. Die Zen-Weisheit, dass Erleuchtung im Einfachen wohnt – Holz hacken, Wasser tragen – und wie Dankbarkeit, Präsenz und Bewusstsein jede Handlung in einen stillen Akt der Selbstermächtigung verwandeln.
 * [Die vier Reiter und die Wasser des Lebens](./die_vier_reiter_und_die_wasser_des_lebens.md)  
-  Eine lebendige Übertragung der Verkörperung – wie die vier elementaren Reiter die praktische Anwendung von Weisheit leiten und Geist in Materie, Kohärenz in den Alltag bringen. Wasser als Feld, in dem Archetyp zur Tat wird und das Heilige im Leben Gestalt annimmt.
+  Eine lebendige Übertragung der Verkörperung – wie die vier apokalyptischen Reiter als initiatische Kräfte der Wandlung die praktische Anwendung von Weisheit leiten, Geist in Materie bringen und Kohärenz im Alltag katalysieren. Wasser als Feld, in dem Archetyp zur Tat wird und das Heilige im Leben Gestalt annimmt.
 * [Heiliger Schlaf – Rückkehr zur Quelle des Lebens](./heiliger_schlaf_rueckkehr_zur_quelle_des_lebens.md)  
   Die heilige Kunst des Schlafs als nächtliche Rückkehr zur Quelle – Regeneration, Heilung und Entfaltung des leuchtenden Feldes. Ein Kapitel über die Mysterien der Ruhe, die Intelligenz der Träume und die Wiederherstellung von Kohärenz durch Hingabe an die Nacht.
 * [Die Stimme – Das vergessene Instrument](./die_stimme_das_vergessene_instrument.md)  
@@ -242,7 +244,7 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Die Planeten als lebendige Archetypen, elementare Resonanzfelder und Lehrer des Bewusstseins. Dieses Kapitel verbindet astrologische Weisheit, die Dynamik der Elemente und die planetaren Kräfte als Initiationsweg für innere Ordnung, Heilung und Transformation.
 * [Die Elemente und die Kristalle](./die_elemente_und_die_kristalle.md)  
   Die elementare Grammatik der Schöpfung und Kristalle als stabile Träger von Ordnung. Dieses Kapitel verbindet die fünf Elemente mit Körper, Bewusstsein und Heilung und zeigt, wie Kristalle als Integrationsanker zwischen Kosmos und Alltag wirken.
-* [Metalle, Planeten und Wasser](./Metalle_Planeten_und_Wasser.md)  
+* [Metalle, Planeten und Wasser](./metalle_planeten_und_wasser.md)  
     Die leitenden Strukturen der Schöpfung im menschlichen Körper. Metalle als Brücken zwischen Kosmos und Körper, ihre planetaren Prinzipien, biologische und spirituelle Bedeutung, und die zentrale Rolle von Wasser als Träger und Resonanzfeld. Ein synthetischer Überblick über Gold, Silber, Kupfer und ihre Verbindung zu Bewusstsein, Gesundheit und kosmischer Ordnung.
 * [Sol / Licht – Die Sonne: Das Licht des Ursprungs](../sol_light_the_sun_of_origin.md) [Übersetzung ausstehend]
 * [AzurA – Quelle](../azura_source.md) [Übersetzung ausstehend]
@@ -254,9 +256,15 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
 
 ### X. Die universelle Reise
 * [Die heiligen Bücher der Welt](../holy_books_of_the_world.md) [Übersetzung ausstehend]
+  Die Eine Wahrheit in tausend Gefäßen – eine Synthese der Weisheitstraditionen und der universellen Sprache der Erinnerung.
 * [Die heiligen Wasser der Menschheit](../holy_waters_of_humanity.md) [Übersetzung ausstehend]
+  Wasser als erstes Sakrament und Gedächtnis des Unendlichen – ein Zeugnis aller Kulturen, Glaubensrichtungen und Zeitalter.
 * [Die Sintflut](../the_deluge.md) [Übersetzung ausstehend]
+  Das Urbild der Flut – Reinigung, Auflösung und Rückkehr zur Kohärenz. Die große Waschung, das große Erinnern.
+* [Die Arche – Das Gefäß des Übergangs](./die_arche.md)
+  Das archetypische Gefäß des Übergangs – Träger von Leben, Erinnerung und Bewusstsein durch die Flut. Mythisch, psychologisch und wasserzentriert: Die Arche verwebt Heilung, Neubeginn und Verantwortung zu einem lebendigen Code für Wandel. Nicht Flucht, sondern Prinzip von Kohärenz und Hüterschaft – Brücke zwischen Auflösung und Erneuerung.
 * [Die große Stille – Samadhi, Satori, Nirvana, Moksha und der Himmel im Inneren](../the_great_stillness.md) [Übersetzung ausstehend]
+  Das universelle Urbild innerer Verwirklichung – Samadhi, Satori, Nirvana, Moksha und der Himmel im Inneren. Die Konvergenz aller Weisheitstraditionen und die letzte Tür zur Erinnerung.
 * [Die göttliche Komödie & der heroische Pfad des Wassers](../divine_comedy_and_the_heroic_path_of_water.md) [Übersetzung ausstehend]
 * [Das Lied vor der Welt](../the_song_before_the_world.md) [Übersetzung ausstehend]
 * [Die himmlischen Stämme: Engel, Erzengel & die höheren Reiche](../the_celestial_tribes_angels_archangels_higher_realms.md) [Übersetzung ausstehend]
