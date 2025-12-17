@@ -1,4 +1,3 @@
-
 # Der Stille Schöpfer – Vom Zeugen zum Mitschöpfer
 
 Es beginnt nicht mit einem Donnerschlag, keiner Offenbarung, sondern mit einem leisen, unüberhörbaren Erkennen:

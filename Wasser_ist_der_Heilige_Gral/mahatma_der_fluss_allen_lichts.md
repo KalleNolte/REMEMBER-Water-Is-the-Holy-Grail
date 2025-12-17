@@ -1,6 +1,5 @@
 # MAHATMA — Der Fluss allen Lichts
 
-
 *Ein Kapitel inspiriert von Brian Grattan*
 
 Es gibt Lehren, die kommen wie Bücher, andere wie Lehrer, und wenige – sehr wenige – erscheinen wie **lebendige Ströme aus Licht**. Mahatma ist ein solcher Strom.

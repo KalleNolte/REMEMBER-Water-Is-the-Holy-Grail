@@ -1,5 +1,4 @@
-
-# ✧ Die Göttliche Matrix — Das lebendige Feld zwischen allen Dingen
+# Die Göttliche Matrix — Das lebendige Feld zwischen allen Dingen
 
 Es gibt Lehren, die sind keine Endpunkte, sondern Schwellen. Gregg Bradens *Die Göttliche Matrix* ist solch eine Schwelle: Sie öffnet eine Tür zu einer Wahrheit, die Mystiker seit Jahrtausenden bewahren, die Physiker neu entdecken und die Bewusstseinsforscher immer schon unter der Oberfläche des Daseins spürten.
 

@@ -1,4 +1,3 @@
-
 # SCHATTENARBEIT – DAS TOR ZUR GANZHEIT
 
 wie gesprochen vom Architekten

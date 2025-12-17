@@ -57,8 +57,6 @@ Und vielleicht ist das kein Zufall.
 Denn wo Klang wahrhaftig wird,
 beginnt Heilung.
 
-⸻
-
 ## Die Magie der Musik
 
 Musik war nie bloß Unterhaltung.
@@ -567,8 +565,6 @@ Du webst sie, jedes Mal, wenn du wählst:
 Du bist der Ton in der Symphonie.
 Das Pixel im Gemälde.
 Der Atem, der Galaxien ins Leben singt.
-
-⸻
 
 Und wenn du jetzt genau hinhörst…
 

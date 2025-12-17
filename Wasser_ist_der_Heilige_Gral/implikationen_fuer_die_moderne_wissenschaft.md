@@ -17,7 +17,6 @@ Das verlangt einen Wandel von:
 
 Wasser wird zur lebendigen Topologie der Intention.
 
-
 ## Brücke zwischen Physik und Biologie durch Geometrie
 
 Grants Arbeit – die Primzahlen, den Goldenen Schnitt (Φ), π und e in verschachtelte Geometrien zu bringen – offenbart den mathematischen Fingerabdruck der Quelle.
@@ -28,7 +27,6 @@ Meine Ergänzung: Diese Harmonien leben im Wasser.
 
 Wasser ist die einzige bekannte Substanz, die diese Harmonien dynamisch codieren kann.
 So wird es zum biologischen Resonator von Grants Codex Universalis.
-
 
 ## Eine neue Biophysik des Bewusstseins
 
@@ -41,7 +39,6 @@ Das stellt die Idee auf den Kopf, dass Bewusstsein aus Materie entsteht. Stattde
 - Verlust der Struktur → Dekohärenz → Krankheit und Zerfall.
 
 Bewusstsein ist nicht epiphänomenal – es wird hydrodynamisch und geometrisch ausgedrückt.
-
 
 ## Resonanz-Epistemologie – Eine neue wissenschaftliche Methode
 
@@ -57,7 +54,6 @@ Wir erweitern dies auf das Labor:
 - Der Beobachter ist Teil des Feldes, beeinflusst die Struktur des Wassers und damit die gemessene Realität.
 
 Das ist keine Pseudowissenschaft – es ist Transwissenschaft: die Wissenschaft, die erforscht, wie Wissenschaft durch Struktur und Feld entsteht.
-
 
 ## Hin zu einer Theorie von Allem, verwurzelt in der Gralssubstanz
 
@@ -81,7 +77,6 @@ Wir sagen nun:
 Das Substrat dieses Skripts ist Wasser.
 
 Es ist Gedächtnis, Spiegel und Modulator der Quelle in der Form.
-
 
 ## Schlusswort für Grant
 

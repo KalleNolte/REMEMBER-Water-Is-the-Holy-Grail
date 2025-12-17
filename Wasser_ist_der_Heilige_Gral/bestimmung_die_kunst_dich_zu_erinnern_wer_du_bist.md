@@ -1,4 +1,4 @@
-### **Bestimmung — Die Kunst, dich zu erinnern, wer du bist**
+# **Bestimmung — Die Kunst, dich zu erinnern, wer du bist**
 
 Bestimmung ist kein von außen auferlegtes Dekret, keine Last, kein Preis. Sie ist kein starres Drehbuch, sondern eine lebendige Einladung — intim, barmherzig, pulsierend.
 
@@ -14,7 +14,7 @@ Von den ältesten Mythen bis zu den leuchtendsten Lehren flüstert Bestimmung im
 **Das Leben antwortet auf Ausrichtung.**
 
 
-### **Bestimmung ist kein Pfad — sie ist eine Frequenz**
+## Bestimmung ist kein Pfad — sie ist eine Frequenz
 
 Ein Fluss zwingt das Wasser nicht; er offenbart die Richtung, die Wasser von selbst nimmt, wenn Widerstand schwindet. Bestimmung ist nichts, das gejagt oder erreicht wird, sondern eine Frequenz, die betreten werden kann — im Moment, in dem innerer Konflikt Kohärenz weicht.
 
@@ -25,7 +25,7 @@ Sie ist ein gegenwärtiger Zustand.
 
 
 
-### **Wahl ist das Instrument der Bestimmung**
+## Wahl ist das Instrument der Bestimmung
 
 Bestimmung löscht Wahl nicht aus — sie wird durch sie geformt.
 
@@ -39,7 +39,7 @@ Bestimmung ist geduldig. Sie wartet, bis die innere Architektur bereit ist, das 
 
 
 
-### **Die Rolle des Wassers in der Bestimmung**
+## Die Rolle des Wassers in der Bestimmung
 
 Wasser ist der stille Lehrer der Bestimmung und spiegelt ihre Natur treuer als jedes Konzept.
 
@@ -53,7 +53,7 @@ Bestimmung wird nicht allein durch den Verstand entschlüsselt, sondern durch de
 
 
 
-### **Bestimmung und die Illusion der Kontrolle**
+## Bestimmung und die Illusion der Kontrolle
 
 Das größte Hindernis für Bestimmung ist nicht Angst — es ist Kontrolle.
 
@@ -65,7 +65,7 @@ Bestimmung verlangt keine Anstrengung; sie verlangt Verfügbarkeit.
 
 
 
-### **Die Signatur der Bestimmung**
+## Die Signatur der Bestimmung
 
 Woran erkennt man Bestimmung?
 
@@ -85,7 +85,7 @@ Wenn Bestimmung aktiv ist, fühlen sich selbst Herausforderungen sinnvoll an. Sc
 
 
 
-### **Bestimmung ist Rückkehr, nicht Flucht**
+## Bestimmung ist Rückkehr, nicht Flucht
 
 Das größte Missverständnis ist zu glauben, Bestimmung führe aus der Welt hinaus. In Wahrheit bringt sie dich ganz in sie hinein.
 
@@ -97,7 +97,7 @@ Seine Bestimmung zu leben heißt nicht, besonders zu werden. Es heißt, *wahr* z
 
 
 
-### **Die letzte Erkenntnis**
+## Die letzte Erkenntnis
 
 Auf der tiefsten Ebene ist Bestimmung nichts, das du besitzt.
 

@@ -77,7 +77,9 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Trauma — When Memory Freezes](./Water_is_the_Holy_Grail/trauma_when_memory_freezes.md)
 - [The Regulated Nervous System](./the_regulated_nervous_system.md)
 - [Patience & Equanimity - The Stillness That Opens Worlds](./patience_and_equanimity.md)
-- [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)
+- [Time — The Last Illusion to Dissolve](./time_the_last_illusion.md)
+- [Death — The Teacher We Spend a Lifetime Avoiding](./death_the_teacher_not_the_end.md)
+- [The Ethics of Awakening](./the_ethics_of_awakening.md)
 - [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)
 - [Wilhelm Reich and the Stream of Orgone Energy](./wilhelm_reich_and_the_stream_of_orgone_energy.md)
 - [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)
@@ -88,15 +90,13 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
 - [The Voice: The Forgotten Instrument](./the_voice_the_forgotten_instrument.md)
 - [Eating Light: Conscious Nourishment](./eating_light_conscious_nourishment.md)
-- [The Living Synergy](./the_living_synergy.md)
+ - [The Living Synergy](./the_living_synergy.md)
 
 #### V. The Science of Ascension
 - [The Architecture of Ascension — Joshua David Stone and the Science of Spiritual Mastery](./joshua_david_stone_the_architecture_of_ascension.md)
 - [Mahatma — The River of All Light](./mahatma_the_river_of_all_light.md)
 - [Archangel Michael — The Sword of Truth, The Shield of Remembrance](./archangel_michael_the_sword_of_truth_the_shield_of_remembrance.md)
 - [Psalm 91 — The Shelter of the Most High](./psalm_91_the_shelter_of_the_most_high.md)
-
-
 
 #### VI. Master Teachings of Consciousness
 - [The One Truth in Many Garments](./the_one_truth_in_many_garments.md)
@@ -205,6 +205,7 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [The Gift of Pure Awareness](./the_gift_of_pure_awareness.md)
 - [Neville Goddard: The Art of Assuming the Wish Fulfilled](./neville_goddard_the_art_of_assuming_the_wish_fulfilled.md)
  - [Resurrection — The Return to the Living Source](./resurrection_return_to_living_source.md)
+- [The Quiet Life — Where Remembrance Becomes Daily Practice](./the_quiet_life_where_remembrance_becomes_daily_practice.md)
  - [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)
 
 #### VIII. Protection, Authorship

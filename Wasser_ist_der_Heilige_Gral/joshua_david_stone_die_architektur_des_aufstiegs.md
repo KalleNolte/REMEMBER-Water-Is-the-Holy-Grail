@@ -1,4 +1,5 @@
 # Die Architektur des Aufstiegs
+
 Joshua David Stone und die Wissenschaft spiritueller Meisterschaft
 
 Manche Lehrer sind wie Funken, die kurz aufleuchten und vergehen.
@@ -12,10 +13,10 @@ Es ist Architektur: eine Geometrie des Erwachens für Seelen, die spüren, dass 
 
 Wo viele Traditionen von „Aufstieg“ in mythischen Bildern sprechen, formulierte Stone eine radikale, klare Wahrheit:
 
-**Aufstieg ist kein Mythos.
-Es ist eine Entwicklungslinie.
-Eine Technologie des Bewusstseins.
-Eine Wissenschaft der Kohärenz.**
+**Aufstieg ist kein Mythos.**
+**Es ist eine Entwicklungslinie.**
+**Eine Technologie des Bewusstseins.**
+**Eine Wissenschaft der Kohärenz.**
 
 Spiritualität war für ihn kein Glaube, sondern ein Forschungsfeld – etwas, das verfeinert, praktiziert, stabilisiert und verkörpert werden kann.
 

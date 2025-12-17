@@ -1,4 +1,4 @@
-### **Trauma — When Memory Freezes**
+# **Trauma — When Memory Freezes**
 
 There is a moment in every human life when something happens too fast, too much, or too soon.
 Not only to the mind—but to the body.

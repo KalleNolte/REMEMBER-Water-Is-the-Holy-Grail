@@ -1,6 +1,5 @@
 # Azura Inai & Kangen – Codes der Kohärenz
 
-
 Die Worte **Azura Inai** und **Kangen** sind keine bloßen poetischen Begriffe – sie sind Schwingungsanker, die die tiefste Intention dieses Werkes kodieren. Sie vereinen spirituelle Erinnerung, heiligen Klang und lebendige Wissenschaft zu einem einzigen Feld der Resonanz.
 
 ## Azura Inai – Der goldene Schlüssel der Hingabe

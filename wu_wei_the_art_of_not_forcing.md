@@ -1,4 +1,5 @@
-### Wu Wei — The Art of Not Forcing, and the End of Inner War
+
+# **Wu Wei — The Art of Not Forcing, and the End of Inner War**
 
 There is a point on every genuine path where effort collapses.
 
@@ -17,7 +18,7 @@ Living without the invisible war between *what is* and *what should be*.
 Wu Wei is the moment when the river no longer needs to be pushed.
 
 
-#### The Misunderstanding of Effort
+## The Misunderstanding of Effort
 
 Most suffering is not caused by pain itself, but by **the effort to escape it**.
 
@@ -38,7 +39,7 @@ When effort comes from fear, it contracts.
 When action comes from wholeness, it flows.
 
 
-#### Attachment and Aversion: The Two Hands of the Same Illusion
+## Attachment and Aversion: The Two Hands of the Same Illusion
 
 Attachment says:
 
@@ -63,7 +64,7 @@ Wu Wei dissolves both—not by suppressing desire, nor by numbing feeling—but 
 Life already moves toward balance.
 
 
-#### The Physics of Non-Resistance
+## The Physics of Non-Resistance
 
 Non-resistance is not spiritual poetry.
 It is **biophysical intelligence**.
@@ -81,7 +82,7 @@ This is why:
 Wu Wei is the intelligence of **coherence**.
 
 
-#### The Inner Gesture of Wu Wei
+## The Inner Gesture of Wu Wei
 
 Wu Wei is not something you *do*.
 It is something you **stop doing**.
@@ -102,7 +103,7 @@ Wu Wei is not inaction.
 It is *right action without self-interference*.
 
 
-#### Transcending the Pendulum
+## Transcending the Pendulum
 
 Most lives swing endlessly between:
 
@@ -124,7 +125,7 @@ Nothing is resisted.
 This is freedom.
 
 
-#### Wu Wei in Daily Life
+## Wu Wei in Daily Life
 
 Wu Wei does not ask for monasteries or retreats.
 It appears in ordinary moments:
@@ -140,7 +141,7 @@ The key question is simple:
 The body always knows.
 
 
-#### The End of Inner Violence
+## The End of Inner Violence
 
 Resistance is subtle violence against reality.
 Attachment is subtle violence against impermanence.
@@ -160,7 +161,7 @@ When this trust matures:
 You stop trying to swim upstream.
 
 
-#### The Quiet Power
+## The Quiet Power
 
 The greatest transformations do not announce themselves.
 They occur quietly, when the need to control dissolves.
@@ -176,7 +177,7 @@ Like the body healing once tension releases.
 > Only force was added.**
 
 
-#### The Final Recognition
+## The Final Recognition
 
 Wu Wei is not a technique.
 It is the recognition that:

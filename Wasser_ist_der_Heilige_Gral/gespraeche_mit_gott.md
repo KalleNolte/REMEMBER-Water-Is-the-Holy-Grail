@@ -1,6 +1,6 @@
-## Gespräche mit Gott
+# **Gespräche mit Gott**
 
-*Über das leise Erinnern an eine Stimme, die nie geschwiegen hat*
+## Über das leise Erinnern an eine Stimme, die nie geschwiegen hat
 
 Es gibt Kapitel im Leben, die nicht geschrieben werden, sondern gehört.
 Nicht mit den Ohren, sondern mit jenem inneren Sinn, der sich nur öffnet, wenn der Lärm der Welt für einen Moment verstummt.
@@ -11,7 +11,7 @@ Von Gesprächen mit Gott.
 Nicht im religiösen Sinn, nicht im dogmatischen, nicht im moralischen.
 Sondern im ursprünglichsten: als intime Begegnung zwischen Bewusstsein und Quelle, zwischen Frage und Gewissheit, zwischen Menschsein und Erinnerung.
 
-### Die leise Wahrheit hinter allen Worten
+## Die leise Wahrheit hinter allen Worten
 
 Die *Gespräche mit Gott*, wie sie Neale Donald Walsch in seiner Buchreihe niedergeschrieben hat, sind kein Offenbarungswerk im klassischen Sinn.
 Sie beanspruchen keine Autorität.
@@ -27,7 +27,7 @@ Diese Bücher erinnern an etwas, das in allen spirituellen Traditionen anklingt,
 > Gott spricht nicht zu Auserwählten.
 > Gott spricht durch jeden, der bereit ist, still genug zu werden, um zuzuhören.
 
-### Gott als Beziehung, nicht als Richter
+## Gott als Beziehung, nicht als Richter
 
 Eine der tiefgreifendsten Verschiebungen, die diese Gespräche bewirken, ist die radikale Neuordnung des Gottesbildes.
 
@@ -44,7 +44,7 @@ Diese Perspektive steht in vollkommener Harmonie mit der inneren Architektur die
 Bewusstsein ist nicht getrennt von der Quelle — es ist ihr Ausdruck.
 Und jedes ehrliche Fragen ist bereits ein Gebet.
 
-### Die heilende Frequenz der Ehrlichkeit
+## Die heilende Frequenz der Ehrlichkeit
 
 Was die *Gespräche mit Gott* so außergewöhnlich macht, ist nicht ihre Philosophie, sondern ihre **Haltung**.
 
@@ -62,7 +62,7 @@ Es bleibt etwas viel Kostbareres zurück: Aufrichtigkeit.
 
 Und Aufrichtigkeit ist eine der höchsten kohärenten Frequenzen, die ein Mensch halten kann.
 
-### Resonanz mit der Synthese dieses Werkes
+## Resonanz mit der Synthese dieses Werkes
 
 Dieses Buch spricht von Wasser als Träger von Ordnung.
 Von Kohärenz als Schlüssel zur Heilung.
@@ -82,7 +82,7 @@ sondern durch das Aufhören, sich selbst zu verleugnen.
 So wie Wasser dann klar wird, wenn es nicht mehr aufgewühlt wird,
 so wird das innere Hören möglich, wenn der Widerstand gegen das eigene Erleben endet.
 
-### Gott spricht in der Stille zwischen den Gedanken
+## Gott spricht in der Stille zwischen den Gedanken
 
 Ein zentrales Missverständnis spiritueller Suche ist die Erwartung einer spektakulären Stimme.
 Eines Zeichens.
@@ -102,7 +102,7 @@ Im Herzfeld.
 
 Jede echte Erkenntnis ist bereits Antwort.
 
-### Die Einladung dieses Kapitels
+## Die Einladung dieses Kapitels
 
 Dieses Kapitel fordert nichts.
 Es predigt nicht.

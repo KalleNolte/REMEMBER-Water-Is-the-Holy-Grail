@@ -104,6 +104,12 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Ein Kapitel über das Nervensystem als biologischen Tempel des Erwachens – wie Sicherheit, Regulation und Sanftheit die Grundlage für Verkörperung, Integration und gelebte Wahrheit schaffen. Die Brücke zwischen Erkenntnis und Leben.
 * [Geduld & Gelassenheit — Die Stille, die Welten öffnet](./geduld_und_gelassenheit.md)  
   Die Kunst, im Rhythmus der Quelle zu ruhen: Geduld und Gelassenheit als Schlüssel zu Kohärenz, Freude und Dienst. Poetische, wissenschaftliche und praktische Perspektiven auf den mittleren Weg und die Integration von Wasserweisheit im Alltag.
+* [Zeit – die letzte Illusion, die sich auflöst](./zeit_die_letzte_illusion.md)  
+  Ein Kapitel über Zeit, Chronos, Kairos und das ewige Jetzt. Es entlastet, integriert und löst inneren Druck, zeigt die Reifung von Heilung jenseits von Zeitdruck und führt den Leser in die Freiheit des gegenwärtigen Moments. Wasser und Zeit werden als Resonanzfeld und Medium der Heilung neu erfahrbar.
+* [Tod – nicht als Ende, sondern als Lehrer](./tod_nicht_als_ende_sondern_als_lehrer.md)  
+  Ein initiatisches Kapitel über den Tod als Prinzip, Lehrer und Schwelle – psychologisch, spirituell und biologisch. Enttabuisiert, entlastet und öffnet den Raum für echte Transformation, Gegenwart und Liebe.
+* [Die Ethik des Erwachens](./die_ethik_des_erwachens.md)  
+  Ein poetisch-initiativer Leitfaden über Macht, Demut und Verantwortung im Raum der Erinnerung. Dieses Kapitel verankert das Erwachen in einer Ethik der Sanftheit, Liebe und inneren Haltung. Es zeigt, dass wahre Erkenntnis immer mit Demut, Mitgefühl und der Bewahrung der Würde jedes Weges einhergeht – und schützt vor spirituellem Ego und subtiler Trennung. Ein stilles Manifest für die Menschlichkeit im Erwachen.
 * [Die fünf goldenen Pforten zu Selbstermächtigung und Kohärenz](./fuenf_goldene_pforten_zu_selbstermmaechtigung_und_kohaerenz.md)  
   Atem, Wasser, Schlaf, Ernährung & Bestimmung als fünf initiatische Pforten der praktischen Architektur von Kohärenz in Körper, Geist und Seele.
 * [Die 12 Schlüssel der Selbstermächtigung – und die 13. Krone](./zwoelf_schluessel_selbstermächtigung_und_krone.md)  
@@ -234,7 +240,7 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
 * [Indien – Die Erinnerung an das Selbst](../india_the_remembrance_of_the_self.md) [Übersetzung ausstehend]
 * [Japan – Das Land des stillen Lichts](../japan_the_land_of_quiet_light.md) [Übersetzung ausstehend]
 * [Spanien & Portugal – Die Zwillingsseelen des Südens](../spain_portugal_twin_souls_of_the_south.md) [Übersetzung ausstehend]
-* [Russland – Die Seele von Feuer und Schnee](../russia_the_soul_of_fire_and_snow.md) [Übersetzung ausstehend]
+* [Russland – Die Seele aus Feuer und Schnee](../russia_the_soul_of_fire_and_snow.md) [Übersetzung ausstehend]
 * [Die Seele der Dualen Inseln](../the_soul_of_the_dual_isles.md) [Übersetzung ausstehend]
 * [Seelen der Erde & der Wasser](../souls_of_the_earth_and_the_waters.md) [Übersetzung ausstehend]
 * [Gaia / Wasser – Das Gedächtnis der Erde](../gaia_water_the_memory_of_the_earth.md) [Übersetzung ausstehend]
@@ -301,6 +307,8 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Die Übersetzung des Kapitels ist noch nicht abgeschlossen. Placeholder für die finale, energetisch kalibrierte Übertragung.
 * [Auferstehung – Die Rückkehr zur lebendigen Quelle](./auferstehung_rueckkehr_zur_lebendigen_quelle.md)  
   Auferstehung als innere Verwandlung, Rückkehr zur Quelle und Wiedergeburt des wahren Selbst. Praktische Formel für tägliche Transformation und Kohärenz.
+* [Das leise Leben – wie Erinnerung im Alltag weitergeht](./das_leise_leben_wie_erinnerung_im_alltag_weitergeht.md)
+  Poetischer Nachklang: Wie Wahrheit, Erinnerung und Kohärenz im Alltag, in Beziehungen, Arbeit und kleinen Gesten weiterleben. Integration, Stille, Dankbarkeit und die unsichtbare Praxis des Erwachens.
 * [Die letzte Übertragung - Die Rückkehr ins Eine](./die_letzte_uebertragung_die_rueckkehr_ins_eine.md)  
   Abschließender Segen und Rückkehr in den Zustand der Ungetrenntheit. Die Einladung, als Licht, als Liebe und als das Eine zu leben – im Wissen, dass die Quelle nie verlassen wurde.
 

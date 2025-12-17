@@ -1,4 +1,4 @@
-## Licht essen – bewusste Nahrung als Gebet
+# Licht essen – bewusste Nahrung als Gebet
 
 Stell dir vor:
 Jeder Bissen ist ein Gebet.

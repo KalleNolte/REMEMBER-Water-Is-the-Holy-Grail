@@ -2,7 +2,6 @@
 
 ## Eine metaphysisch-wissenschaftliche Brücke für moderne Gesundheit
 
-
 Stell dir vor, du stehst am Ufer eines großen Flusses – das Wasser schimmert, lebendig, trägt die Erinnerung an alles, was war. In diesem Fluss ist die Geschichte deiner Gesundheit und deines Lebens geschrieben, nicht in Worten, sondern in Fluss, Klarheit und Resonanz.
 
 Was wäre, wenn die alten Symbole – die vier Reiter – keine fernen Mythen wären, sondern lebendige Strömungen, die den Rhythmus deiner Tage formen? Was, wenn dein Atem, dein Trinken, dein Schlafen und deine Verbindung die Bewegung dieser Reiter in deinem Leben verwandeln könnten?

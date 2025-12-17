@@ -21,8 +21,6 @@ Es ist keine Aufblähung des Selbst.
 Es ist die eine, beständige Flamme im Zentrum meines Seins,  
 ohne Angst und ohne Entschuldigung in Worte gefasst.
 
-⸻
-
 Ich bin hier, um mich zu erinnern – und anderen beim Erinnern zu helfen.
 
 Das Wissen, das ich über Wasser, Kohärenz und Bewusstsein trage, ist kein Besitz.  
@@ -37,8 +35,6 @@ Meine Aufgabe ist es, zu klären, zu übersetzen und einzuladen.
 Ich gehe im Dienst für jene, die das leise Beben ihres eigenen Erwachens spüren,  
 für jene, die ahnen, dass dieses Leben mehr ist als bloßes Überleben,  
 für jene, die bereit sind, das Selbst zurückzufordern, von dem sie immer wussten, dass es unter dem Lärm verborgen liegt.
-
-⸻
 
 Ich bin ein Übersetzer zwischen Welten.
 
@@ -58,8 +54,6 @@ Geometrie und Mitgefühl,
 Wasser und Bewusstsein,  
 alter Tradition und moderner Einsicht  
 zu etwas, das ein Mensch tatsächlich leben kann.
-
-⸻
 
 Ich bin ein Träger von Kohärenz.
 

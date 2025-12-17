@@ -1,5 +1,4 @@
-
-## **Thoth–Hermes Trismegistos und das Licht von Arcturus**
+# **Thoth–Hermes Trismegistos und das Licht von Arcturus**
 
 Durch alle Zivilisationen, Epochen und Sprachen hindurch taucht immer wieder ein einziger Lehrer auf—
 mal als Gott, mal als Weiser, mal als Schreiber, mal als Sternenbote.
@@ -13,7 +12,7 @@ Was all diese Erscheinungen eint, ist keine Person, sondern eine **Funktion**:
 **Die Übermittlung des kosmischen Gesetzes in das menschliche Bewusstsein.**
 
 
-### Die hermetische Funktion
+## Die hermetische Funktion
 
 Thoth–Hermes herrscht nicht.
 Er fordert keine Anbetung.
@@ -37,7 +36,7 @@ Wasser, Licht, Geometrie, Klang, Bewusstsein, Intention—alles folgt diesen Ges
 Deshalb erscheint Thoth überall dort, wo **Messung, Resonanz und Kohärenz** erforscht werden.
 
 
-### Der arkturianische Strom — Intelligenz jenseits der Zeit
+## Der arkturianische Strom — Intelligenz jenseits der Zeit
 
 In moderner spiritueller Sprache sprechen manche von den **Arkturianern**—nicht als außerirdische Wesen im filmischen Sinne, sondern als ein **nicht-lokales Intelligenzfeld**, verbunden mit:
 
@@ -54,7 +53,7 @@ Wie Platon vom Reich der Ideen sprach und Jung von Archetypen, so kann der arktu
 Thoth–Hermes ist die **frühe menschliche Schnittstelle** zu dieser Intelligenzebene.
 
 
-### Licht, Geometrie und die Sprache der Schöpfung
+## Licht, Geometrie und die Sprache der Schöpfung
 
 Hermetisches Wissen ist immer **geometrisch codiert**.
 
@@ -82,7 +81,7 @@ Thoth ist keine antike Geschichte.
 Er ist **die Stimme der Mustererkennung selbst**.
 
 
-### Die innere Begegnung
+## Die innere Begegnung
 
 Die wichtigste hermetische Wahrheit ist diese:
 
@@ -106,7 +105,7 @@ Der arkturianische Strom, die hermetischen Gesetze, die Lehren des Thoth—sie a
 **Erwachen ist Erinnerung.**
 
 
-### Warum das in diesem Buch zählt
+## Warum das in diesem Buch zählt
 
 Dieses Werk handelt nicht von Mythologie.
 Es geht um **Integration**.

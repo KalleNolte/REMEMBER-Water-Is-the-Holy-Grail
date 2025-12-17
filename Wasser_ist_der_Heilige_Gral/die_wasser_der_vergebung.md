@@ -1,4 +1,3 @@
-
 # DIE WASSER DER VERGEBUNG
 
 Vergebung ist kein Akt der Schwäche.

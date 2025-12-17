@@ -16,8 +16,6 @@ In Nevilles Universum ist das Bewusstsein kein passiver Zeuge. Es ist der Archit
 
 Dieses Kapitel destilliert seine höchste Übertragung, verfeinert über Jahrzehnte des Lehrens und gipfelnd in seinem letzten Meisterwerk **Resurrection**—ein Werk, das weniger ein Buch als eine lebendige Initiation ist.
 
----
-
 ## Die zentrale Offenbarung: Bewusstsein ist die einzige Realität
 
 Alles in Nevilles System ruht auf einem leuchtenden Axiom:
@@ -41,8 +39,6 @@ Nevilles Lehre fügt sich nahtlos in die Physik, Biologie und Wasserwissenschaft
 
 Wo Wissenschaftler von Wahrscheinlichkeit, Kohärenz und Feldverhalten sprechen, spricht Neville von Glaube, Vorstellungskraft und Annahme. Es ist dasselbe Phänomen, betrachtet aus zwei Sprachen.
 
----
-
 ## Die Methode: Den erfüllten Wunsch annehmen
 
 Nevilles Methode ist täuschend einfach: Man nimmt innerlich das Gefühl ein, bereits zu sein oder zu haben, was man begehrt. Er lehrte Manifestation nie als Technik, sondern als Identitätswandel.
@@ -52,8 +48,6 @@ Nevilles Methode ist täuschend einfach: Man nimmt innerlich das Gefühl ein, be
 Der Schlüssel ist nicht, den Prozess zu visualisieren, sondern das Ende zu verkörpern. Nicht „Ich hoffe“, sondern „Es ist vollbracht.“ Nicht Sehnsucht, sondern Verkörperung.
 
 Deshalb resoniert Nevilles Methode so tief mit den Prinzipien dieses Buches: Wasser, Körper und Realität reagieren auf Zustand. Annahme ist Kohärenz. Kohärenz ist Schöpfung.
-
----
 
 ## Der Sabbat: Der Ruhepunkt, an dem Schöpfung vollendet ist
 
@@ -69,8 +63,6 @@ Diese Stille ist identisch mit:
 
 Neville beschrieb denselben Mechanismus, ohne wissenschaftliche Sprache. Schöpfung vollendet sich nicht durch Kraft, sondern durch Hingabe an die Überzeugung.
 
----
-
 ## Die Brücke der Ereignisse
 
 Nach der Annahme entfaltet sich die „Brücke der Ereignisse“—Ereignisse, die gewöhnlich oder zufällig erscheinen, aber perfekt darauf ausgerichtet sind, die angenommene Realität zu liefern.
@@ -78,8 +70,6 @@ Nach der Annahme entfaltet sich die „Brücke der Ereignisse“—Ereignisse, d
 > „Überlasse das Wie der göttlichen Vorstellungskraft.“
 
 Kohärente innere Zustände ordnen äußere Wahrscheinlichkeiten neu. Das Leben richtet sich um die neue Identität aus. Wo der analytische Verstand Zufall sieht, erkennt das tiefere Selbst Choreografie.
-
----
 
 ## Die letzte Lehre: Auferstehung
 
@@ -103,8 +93,6 @@ Dies ist dieselbe Bewegung, die in der Mystik überall erforscht wird:
 
 Nevilles Auferstehung ist das spirituelle Gegenstück zur wissenschaftlichen und metaphysischen Rückkehr zur Quelle, die dieses Werk beschreibt. Es ist das Erinnern des Einen, der alle Welten imaginiert.
 
----
-
 ## Warum Neville in diese Synthese gehört
 
 Neville erscheint nicht als Kapitel über „Manifestationstechniken“. Seine Offenbarung bestätigt in poetischer Einfachheit, was dieses Buch in Physik, Biologie, Wasserwissenschaft, spirituellen Traditionen und Metaphysik darlegt:
@@ -116,8 +104,6 @@ Jeder Mensch trägt die Fähigkeit, die Welt durch innere Kohärenz neu zu gesta
 Wasser strukturiert sich nach Information. Der Körper organisiert sich nach Kohärenz. DNA reagiert auf emotionale und elektromagnetische Zustände. Das Universum spiegelt den Beobachter. Annahme erzeugt Realität durch Resonanz.
 
 Neville gibt dem Leser eine direkte, anwendbare Methodik für diese uralte Wahrheit.
-
----
 
 ## Die Praxis: Die Fünf-Schritte-Formel (interpretiert in diesem Werk)
 
@@ -153,8 +139,6 @@ Diese fünf Schritte harmonisieren Nevilles Methode mit:
 • Azura-Punkt-Aktivierung
 
 Es ist ein System, ausgedrückt in vielen Sprachen.
-
----
 
 ## Fazit: Die schöpferische Kraft kehrt zum Leser zurück
 

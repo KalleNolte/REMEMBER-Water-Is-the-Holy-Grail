@@ -1,7 +1,6 @@
+# **Die eine Wahrheit in vielen Gewändern**
 
-### Die eine Wahrheit in vielen Gewändern
-
-*Eine kontemplative Annäherung an die Religionen als Spiegel derselben Quelle*
+## Eine kontemplative Annäherung an die Religionen als Spiegel derselben Quelle
 
 Religionen sind keine Mauern.  
 Sie sind Fenster – Öffnungen ins Unsichtbare.

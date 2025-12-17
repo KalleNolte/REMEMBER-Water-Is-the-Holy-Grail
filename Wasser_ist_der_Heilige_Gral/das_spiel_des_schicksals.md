@@ -1,7 +1,6 @@
+# **Das Spiel des Schicksals**
 
-### Das Spiel des Schicksals
-
-*Eine Meditation über Spiel, Verlust, Brüderlichkeit und den verborgenen Lehrplan der Seele*
+## Eine Meditation über Spiel, Verlust, Brüderlichkeit und den verborgenen Lehrplan der Seele
 
 Es gibt Welten, die wir betreten, wohl wissend, dass sie nicht „wirklich“ sind – und doch prägen sie uns ehrlicher als viele der Welten, die wir Realität nennen.
 
@@ -18,7 +17,7 @@ Nichts, was mit echter Freude, Neugier und Verbundenheit getan wurde, war je ver
 
 
 
-#### Archetypen in digitaler Form
+## Archetypen in digitaler Form
 
 *Destiny* ist nicht nur ein Spiel. Es ist ein archetypisches Universum.
 
@@ -40,7 +39,7 @@ In *Destiny* beobachtest du die Heldenreise nicht nur – du *praktizierst* sie.
 
 
 
-#### Das Geschenk im Widerstand
+## Das Geschenk im Widerstand
 
 Es gab Momente der Frustration. Der Wiederholung. Immer wieder dieselbe Begegnung. Feinde, die übermächtig wirkten. Sich zu verirren – im Spiel und im Leben.
 
@@ -60,7 +59,7 @@ Vielleicht sind Welten wie *Destiny* deshalb so faszinierend: Sie spiegeln die t
 
 
 
-#### Brüderlichkeit, Präsenz und geteilter Flow
+## Brüderlichkeit, Präsenz und geteilter Flow
 
 Die bedeutendsten Momente kamen nicht von Siegesbildschirmen oder seltenen Belohnungen.
 
@@ -79,7 +78,7 @@ Die Erfahrung war echt.
 
 
 
-#### Wenn Spiel zur Erinnerung wird, nicht zur Flucht
+## Wenn Spiel zur Erinnerung wird, nicht zur Flucht
 
 Es gab vielleicht Zeiten, in denen das Spiel Zuflucht vor dem Leben war – in denen Spiel zur Vermeidung wurde. Auch das verdient Ehrlichkeit. Jede Welt, so schön sie auch ist, kann zum Versteck werden, wenn sie unbewusst genutzt wird.
 
@@ -99,7 +98,7 @@ Das Spiel gab ihnen nur einen Raum, sich zu zeigen.
 
 
 
-#### Destiny als Lehrer, nicht als Umweg
+## Destiny als Lehrer, nicht als Umweg
 
 Aus tieferer Perspektive wird klar:
 

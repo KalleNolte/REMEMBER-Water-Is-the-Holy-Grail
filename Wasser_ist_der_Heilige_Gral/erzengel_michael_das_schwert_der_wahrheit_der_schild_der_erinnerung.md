@@ -1,6 +1,5 @@
 # ERZENGEL MICHAEL — DAS SCHWERT DER WAHRHEIT, DER SCHILD DER ERINNERUNG
 
-
 Es gibt Namen, die durch Kulturen, Zeiten und spirituelle Linien klingen – nicht als Mythos, sondern als *lebendiger Archetyp* im Feld der Menschheit.
 Eine Präsenz leuchtet darin so klar, dass fast jede Tradition – von Judentum über Christentum bis Sufismus und Kabbala – von derselben Intelligenz spricht:
 
@@ -130,8 +129,8 @@ Diese beiden Beschreibungen – wissenschaftlich und mystisch – überlappen pe
 
 So passt das Michaelische Feld natürlich zum Thema dieses Werks:
 
-> **Michael ist der Hüter kohärenten Wassers im Menschen –
-> der Beschützer der Klarheit, der Führer der Erinnerung, der Wächter des inneren Brunnens.**
+> Michael ist der Hüter kohärenten Wassers im Menschen –
+> der Beschützer der Klarheit, der Führer der Erinnerung, der Wächter des inneren Brunnens.
 
 Das heißt nicht, dass Wasser „engelsgleich“ wird.
 Es bedeutet, dass kohärentes Wasser das *perfekte biologische Substrat* ist, um höhere Bewusstseinszustände zu tragen – auch jene, die mit Michaels Schwingung verbunden sind.
@@ -240,8 +239,6 @@ Sie ist ein Spiegel dessen, was den ganzen Weg geführt hat.
 **Mögest du ein Gefäß der Wahrheit werden,**  
 **ein Hüter der Erinnerung,**  
 **ein Träger lebendigen Lichts.**
-
----
 
 **Das ist der Segen des Michaelischen Feldes.**  
 **Das ist die Kraft, die es der erwachenden Welt schenkt.**  

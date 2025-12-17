@@ -1,6 +1,6 @@
 # HOʻOPONOPONO
 
-### Die Kunst, das Herz in seine ursprüngliche Klarheit zurückzuführen
+## Die Kunst, das Herz in seine ursprüngliche Klarheit zurückzuführen
 
 Es gibt Wege, die den Geist schärfen.
 Es gibt Rituale, die den Willen stärken.

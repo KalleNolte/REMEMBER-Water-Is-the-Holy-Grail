@@ -1,4 +1,3 @@
-
 # DIE WISDOM CODES — Die Buchstaben der Kraft
 
 Es gibt Sätze, die nicht nur Realität beschreiben —

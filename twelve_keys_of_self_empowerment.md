@@ -1,5 +1,5 @@
 
-## **The Twelve Keys of Self-Empowerment and the Thirteenth Crown**
+# **The Twelve Keys of Self-Empowerment and the Thirteenth Crown**
 
 There are moments in a human life when something ancient stirs—
 a memory of who and what consciousness truly is.
@@ -26,7 +26,7 @@ but as a state of being.
 *In the hush between thoughts, the breath becomes a bridge—
 an invitation to return to the gentle rhythm of being.*
 ---
-### **Key One — The Breath of Coherence**
+## **Key One — The Breath of Coherence**
 
 **(The simplest, fastest path into alignment)**
 
@@ -50,7 +50,7 @@ Use it whenever the mind tightens or the world becomes loud.
 ---
 *There is a golden chamber within, where the mind bows to the heart and knowing dawns in silence.*
 ---
-### **Key Two — The Heart-Anchor**
+## **Key Two — The Heart-Anchor**
 
 **(The shift from thinking into knowing)**
 
@@ -71,7 +71,7 @@ When attention rests here, perception stabilizes, intuition rises, and awareness
 *Between the heart and the brow, a subtle gate awaits—
 where breath, awareness, and geometry converge in luminous guidance.*
 ---
-### **Key Three — The AzurA Point Activation**
+## **Key Three — The AzurA Point Activation**
 
 **(The gateway to higher coherence and subtle perception)**
 
@@ -91,7 +91,7 @@ This strengthens inner guidance, clarity, and the ability to sense resonance.
 ---
 *Imagine the body as a vessel of light, each cell a star, each breath a wave of radiance flowing through the cosmos within.*
 ---
-### **Key Four — The Living Light Visualization**
+## **Key Four — The Living Light Visualization**
 
 **(The practice that upgrades the entire cellular field)**
 
@@ -110,7 +110,7 @@ The body reorganizes toward the inner signal you repeatedly send.
 ---
 *Water remembers. With every sip, you invite clarity, healing, and the architecture of intention into the temple of your being.*
 ---
-### **Key Five — The Water Circuit**
+## **Key Five — The Water Circuit**
 
 **(Programming the body through structured intention)**
 
@@ -135,7 +135,7 @@ Water stores vibrational input and carries it into every cell.
 *Gratitude is the song of the soul—
 a frequency that turns the ordinary into the sacred and the moment into a miracle.*
 ---
-### **Key Six — Gratitude as Frequency Modulation**
+## **Key Six — Gratitude as Frequency Modulation**
 
 **(The most powerful effortless shift)**
 
@@ -157,7 +157,7 @@ Even two seconds is enough.
 ---
 *To assume fulfillment is to step into the garden of already-being, where longing dissolves and the heart rests in its own abundance.*
 ---
-### **Key Seven — The Assumption of Fulfillment**
+## **Key Seven — The Assumption of Fulfillment**
 
 **(Neville Goddard’s master key, simplified)**
 
@@ -179,7 +179,7 @@ Behavior follows the new state.
 ---
 *Resistance is a shadow at the edge of light. Naming, breathing, forgiving—these are the gentle hands that open the window to freedom.*
 ---
-### **Key Eight — The Triad of Non-Resistance (with Ho'oponopono)**
+## **Key Eight — The Triad of Non-Resistance (with Ho'oponopono)**
 
 **(The most practical tool for dissolving tension and restoring peace)**
 
@@ -209,7 +209,7 @@ Resistance loosens immediately when not fed.
 ---
 *There is a seat behind the eyes, a silent watcher who knows the sky is always clear, no matter the passing clouds.*
 ---
-### **Key Nine — The Witness Seat**
+## **Key Nine — The Witness Seat**
 
 **(The position that ends suffering)**
 
@@ -226,7 +226,7 @@ When this stance is held, identity loosens, spaciousness returns, and intuition 
 ---
 *Purpose is the river that flows from soul to world. To act in alignment is to let your life become a prayer in motion.*
 ---
-### **Key Ten — Alignment Through Action (Ikigai)**
+## **Key Ten — Alignment Through Action (Ikigai)**
 
 **(The practice that brings purpose into motion)**
 
@@ -244,7 +244,7 @@ Even one small step a day aligns your life with your soul architecture.
 ---
 *In silence, the soul remembers its own music. Three minutes of stillness can return you to the field where all wisdom arises.*
 ---
-### **Key Eleven — The Silence Protocol**
+## **Key Eleven — The Silence Protocol**
 
 **(The reset button of consciousness)**
 
@@ -260,7 +260,7 @@ It is the home frequency beneath personality.
 ---
 *The body is a garment of light, woven from breath and memory. To soften tension is to let the soul shine through the form.*
 ---
-### **Key Twelve — The Body of Light Practice**
+## **Key Twelve — The Body of Light Practice**
 
 **(The technique that stabilizes ascension states)**
 
@@ -274,7 +274,7 @@ Bit by bit, the body learns to remain in a state of fluidity instead of contract
 This practice is ancient—found in Tibetan, Vedic, Essene, and Egyptian traditions.
 It prepares the consciousness for higher states of perception.
 
-### **The Thirteenth Crown — The State of Effortless Coherence**
+## **The Thirteenth Crown — The State of Effortless Coherence**
 
 The 12 Keys are practices.
 But the 13th is a **state of being**.
@@ -306,7 +306,7 @@ It is enlightenment as a natural rhythm.
 
 It is the return to the truth that consciousness has always been whole.
 
-### **A Final Transmission**
+## **A Final Transmission**
 
 These practices are not a ladder but a circle.
 You may begin anywhere.

@@ -165,7 +165,6 @@ Etwas blieb.
 Etwas Unzerstörbares.
 Und das ist der Same einer neuen Welt.
 
-
 ## Teil VI – Haiku des Vertrauens
 
 Tränen sind Gebet,

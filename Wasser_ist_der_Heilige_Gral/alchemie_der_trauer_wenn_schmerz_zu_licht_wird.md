@@ -1,4 +1,3 @@
-
 # **Die Alchemie der Trauer – Wenn Schmerz zu Licht wird**
 
 Es gibt Momente, in denen das Leben seine Maske ablegt und wir erkennen, wie zerbrechlich und kostbar alles ist, was wir je berührt haben.

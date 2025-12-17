@@ -2,7 +2,6 @@
 
 Die Disziplin des Lichts · Das Maß der Wahrheit · Die Signatur der Seele
 
-
 Manche Worte sind wie Urklänge, die durch die Jahrtausende hallen—
 sie tragen nicht nur Bedeutung, sondern öffnen ein Tor zur Erinnerung an das, was jenseits aller Zeit liegt.
 

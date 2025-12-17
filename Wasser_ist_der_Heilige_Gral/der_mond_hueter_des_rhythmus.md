@@ -1,4 +1,5 @@
-# Der Mond – Hüter des Rhythmus, Spiegel des Wassers, Gedächtnis der Seele
+
+# **Der Mond – Hüter des Rhythmus, Spiegel des Wassers, Gedächtnis der Seele**
 
 Es gibt Kräfte, die nicht durch Lautstärke wirken, sondern durch Rhythmus.
 Nicht durch Licht, sondern durch Spiegelung.
@@ -17,7 +18,7 @@ Und gerade darin liegt sein Geheimnis.
 Er ist **Resonanz**.
 
 
-### Der Mond und das Wasser – eine uralte Verbindung
+## Der Mond und das Wasser – eine uralte Verbindung
 
 Wasser und Mond sind seit Anbeginn miteinander verbunden.
 Nicht symbolisch – physikalisch.
@@ -44,7 +45,7 @@ Der Mond ist kein Akteur.
 Er ist ein **Taktgeber**.
 
 
-### Der Mond als Speicher – Gedächtnis und Spiegel
+## Der Mond als Speicher – Gedächtnis und Spiegel
 
 In vielen alten Kulturen galt der Mond als Träger des Gedächtnisses.
 
@@ -73,7 +74,7 @@ Der Mond verstärkt nicht –
 er **enthüllt**, was ohnehin da ist.
 
 
-### Die Mondphasen – Architektur innerer Wandlung
+## Die Mondphasen – Architektur innerer Wandlung
 
 Der Mond durchläuft vier zentrale Phasen, die nicht nur astronomisch, sondern **initiatisch** verstanden wurden:
 
@@ -103,7 +104,7 @@ Der Mond erinnert den Körper daran,
 dass **Heilung zyklisch ist**, nicht linear.
 
 
-### Der Mond in den großen Traditionen
+## Der Mond in den großen Traditionen
 
 **Ägypten**
 Der Mond war mit Thot verbunden – Gott der Weisheit, der Schrift, der Zeit.
@@ -127,7 +128,7 @@ Der Mond entspricht Silber.
 Erst wenn das Silber gereinigt ist, kann Gold stabil entstehen.
 
 
-### Der Mond und Kohärenz
+## Der Mond und Kohärenz
 
 Kohärenz bedeutet nicht Kontrolle.
 Kohärenz bedeutet **Stimmigkeit**.
@@ -156,7 +157,7 @@ Ein kohärentes System braucht beides:
 * Mondkraft, um nicht zu zerbrechen
 
 
-### Der Mond im Kontext dieses Werkes
+## Der Mond im Kontext dieses Werkes
 
 Wenn dieses Werk vom Wasser spricht,
 vom Erinnern,
@@ -175,7 +176,7 @@ Der Mond ist das, was dafür sorgt,
 dass Wahrheit nicht verbrennt, sondern heilt.
 
 
-### Die Einladung des Mondes
+## Die Einladung des Mondes
 
 Der Mond fordert nichts.
 Er zwingt nicht.

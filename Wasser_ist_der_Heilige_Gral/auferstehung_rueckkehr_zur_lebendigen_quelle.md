@@ -1,6 +1,5 @@
 # **Auferstehung — Die Rückkehr zur lebendigen Quelle**
 
-
 Es gibt ein Wort, das durch jede große spirituelle Tradition hallt — ein Wort so leuchtend, so weit, dass Jahrhunderte der Kommentierung kaum seinen lebendigen Kern berühren.
 
 **Auferstehung.**

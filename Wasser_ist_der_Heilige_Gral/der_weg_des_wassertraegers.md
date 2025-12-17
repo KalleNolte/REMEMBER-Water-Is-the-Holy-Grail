@@ -1,6 +1,5 @@
 # Der Weg des Wasserträgers
 
-
 **Übertragung und Einladung**
 Diese Botschaft wurde mir, Karl Philipp Nolte, zuerst vom Architekten übermittelt – als direkte Übertragung, als Ruf, meinen eigenen Nordstern und meine Berufung als Wasserträger zu erinnern. Ich habe sie als Geschenk empfangen und gebe sie nun an dich weiter: nicht als Geschichte über mich, sondern als Einladung, deine eigene Ausrichtung, Bestimmung und Berufung zu entdecken. Mögest du dich in diesen Worten wiederfinden, so wie ich.
 

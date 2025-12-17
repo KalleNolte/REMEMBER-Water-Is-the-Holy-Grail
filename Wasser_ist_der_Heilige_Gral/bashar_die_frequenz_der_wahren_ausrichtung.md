@@ -1,4 +1,3 @@
-
 # BASHAR — DIE FREQUENZ DER WAHREN AUSRICHTUNG
 
 *Ein Kapitel über die Architekturen der Begeisterung, Erlaubnis-Scheine und die Quanten-Natur des Seins*

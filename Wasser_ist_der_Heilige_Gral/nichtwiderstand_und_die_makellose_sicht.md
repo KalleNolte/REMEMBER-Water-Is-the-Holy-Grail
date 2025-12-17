@@ -1,4 +1,3 @@
-
 # Nichtwiderstand und die makellose Sicht
 
 *Ein Kapitel über Freiheit, Verantwortung und die Rückkehr zur inneren Souveränität*
@@ -13,9 +12,7 @@ Ihr innerster Kern ist das, was in der Akram-Lehre als **makellose Sicht** bezei
 
 Dieses Kapitel vereint beide Ströme zu einer einzigen, kohärenten Praxis – nicht als Theorie, sondern als lebendige Haltung, die Leid auflöst, ohne zu kämpfen, und Freiheit freilegt, ohne zu erzwingen.
 
-
-
-## 1. Nichtwiderstand – der oft missverstandene Schlüssel
+## Nichtwiderstand – der oft missverstandene Schlüssel
 
 Nichtwiderstand ist keine Passivität.
 Keine Resignation.
@@ -37,9 +34,7 @@ Er bedeutet, **aufzuhören, gegen das zu kämpfen, was bereits ist**.
 Denn was ist, braucht keinen Kampf.
 Es braucht Klarheit.
 
-
-
-## 2. Die makellose Sicht – der radikale Perspektivwechsel
+## Die makellose Sicht – der radikale Perspektivwechsel
 
 Die Akram-Lehre formuliert einen Satz, der zunächst provoziert und dann befreit:
 
@@ -65,9 +60,7 @@ keine Geschichte,
 keinen Gegner,
 keinen Täter.
 
-
-
-## 3. Der Punkt, an dem Nichtwiderstand und makellose Sicht eins werden
+## Der Punkt, an dem Nichtwiderstand und makellose Sicht eins werden
 
 Nichtwiderstand ist die Praxis.
 Die makellose Sicht ist die innere Haltung.
@@ -87,9 +80,7 @@ Wer erkennt, dass das eigene Leiden aus Identifikation entsteht, gewinnt etwas U
 Nicht durch Kontrolle.
 Sondern durch Loslassen.
 
-
-
-## 4. Die stille Alchemie: Wie Leiden sich auflöst
+## Die stille Alchemie: Wie Leiden sich auflöst
 
 Wenn Widerstand endet, geschieht etwas Unerwartetes:
 
@@ -112,9 +103,7 @@ Das, was zuvor fest erschien, beginnt zu fließen.
 Das, was persönlich war, wird neutral.
 Das, was schwer war, wird weit.
 
-
-
-## 5. Die Praxis der makellosen Sicht im Alltag
+## Die Praxis der makellosen Sicht im Alltag
 
 Die Anwendung ist einfach – und radikal:
 
@@ -132,9 +121,7 @@ Die Anwendung ist einfach – und radikal:
 Dies ist keine Technik im üblichen Sinn,
 sondern eine **Haltungsänderung**.
 
-
-
-## 6. Nichtwiderstand als höchste Form von Stärke
+## Nichtwiderstand als höchste Form von Stärke
 
 In einer Welt, die Reaktion belohnt und Empörung kultiviert, wirkt Nichtwiderstand wie Schwäche.
 
@@ -149,9 +136,7 @@ Die makellose Sicht macht unverwundbar.
 Nicht, weil nichts mehr berührt –
 sondern weil nichts mehr festhält.
 
-
-
-## 7. Die Rückkehr zur Quelle
+## Die Rückkehr zur Quelle
 
 Am Ende führt dieser Weg nicht weg vom Leben, sondern tiefer hinein.
 

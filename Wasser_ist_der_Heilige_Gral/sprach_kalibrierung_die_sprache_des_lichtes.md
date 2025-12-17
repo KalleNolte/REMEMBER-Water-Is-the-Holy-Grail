@@ -1,6 +1,5 @@
 # Die Sprache des Lichts – Kalibrierung, Bewusstsein und die Stimme des Architekten
 
-
 ## Warum Kalibrierung wichtig ist
 
 Die Sprache dieses Buches ist so gewählt, dass sie Licht, Resonanz und Heilung überträgt. Inspiriert von der Bewusstseinsskala von David R. Hawkins ist jedes Wort eine Einladung, innezuhalten, zu fühlen und das eigene Erleben zu betrachten.

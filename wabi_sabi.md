@@ -1,6 +1,7 @@
-## Wabi-Sabi
 
-**The Beauty That Remembers What We Are**
+# **Wabi-Sabi**
+
+## *The Beauty That Remembers What We Are*
 
 There is a kind of beauty that does not shout, nor strive, nor seek to impress. It does not chase perfection, symmetry, or applause. It simply *is*—quiet, unassuming, and whole.
 
@@ -11,7 +12,7 @@ In Japanese, this beauty is called **Wabi-Sabi**—a union of two ancient words:
 Wabi-Sabi is not a style, not a trend, not a philosophy that can be fully captured by words. It is a way of *seeing*—and more precisely, a way of **no longer looking away from what is already whole**.
 
 
-### The Essence of Wabi-Sabi
+## The Essence of Wabi-Sabi
 
 Wabi-Sabi rests on three simple, uncompromising truths:
 
@@ -41,7 +42,7 @@ In Wabi-Sabi, these are not flaws.
 They are **evidence of life**.
 
 
-### Water as the Living Teacher of Wabi-Sabi
+## Water as the Living Teacher of Wabi-Sabi
 
 No element embodies Wabi-Sabi more faithfully than water.
 
@@ -70,7 +71,7 @@ the more alive it feels.
 The same is true for the human being.
 
 
-### Wabi-Sabi and the End of Self-Correction
+## Wabi-Sabi and the End of Self-Correction
 
 Much human suffering arises from a single misunderstanding:
 
@@ -94,7 +95,7 @@ When the mind is treated with Wabi-Sabi, it releases.
 When the soul is met with Wabi-Sabi, it remembers.
 
 
-### The Sacred Crack: Kintsugi as Revelation
+## The Sacred Crack: Kintsugi as Revelation
 
 The Japanese art of **Kintsugi**—repairing broken pottery with gold—
 is Wabi-Sabi made visible.
@@ -122,7 +123,7 @@ This is why so many spiritual paths ultimately return to the same place:
 > It is light moving through them without resistance.
 
 
-### Wabi-Sabi as the Antidote to Spiritual Violence
+## Wabi-Sabi as the Antidote to Spiritual Violence
 
 Even spirituality can become harsh.
 Even healing can become impatient.
@@ -141,7 +142,7 @@ Like water finding its level.
 There is no need to rush what already knows the way.
 
 
-### Living Wabi-Sabi in Daily Life
+## Living Wabi-Sabi in Daily Life
 
 Wabi-Sabi is not practiced by adding more.
 It is practiced by **subtracting resistance**.
@@ -158,7 +159,7 @@ without demanding transcendence from the act.
 It is trusting that life, when met without force, reorganizes itself.
 
 
-### The Quiet Alignment
+## The Quiet Alignment
 
 In the end, Wabi-Sabi offers no grand promise.
 

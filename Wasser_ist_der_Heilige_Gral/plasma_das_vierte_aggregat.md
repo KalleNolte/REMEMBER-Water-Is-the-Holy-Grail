@@ -1,4 +1,4 @@
-## **Plasma – Das vierte Aggregat und der leuchtende Ursprung der Form**
+# **Plasma – Das vierte Aggregat und der leuchtende Ursprung der Form**
 
 Es gibt eine Ebene der Wirklichkeit, die älter ist als Materie, beweglicher als Wasser, durchdringender als Luft und transformierender als Feuer.
 Diese Ebene heißt **Plasma**.
@@ -13,7 +13,7 @@ Und doch wurde Plasma lange Zeit im menschlichen Bewusstsein an den Rand gedrän
 Dabei ist Plasma **der nächste Verwandte des Bewusstseins**, den die moderne Wissenschaft kennt.
 
 
-## **Was Plasma ist – wissenschaftlich klar**
+## Was Plasma ist – wissenschaftlich klar
 
 Physikalisch ist Plasma ein **ionisiertes Gas**, in dem Elektronen nicht mehr fest an Atome gebunden sind.
 Es ist elektrisch leitfähig, hochreaktiv, selbstorganisierend und lichtemittierend.
@@ -30,7 +30,7 @@ Plasma besitzt Eigenschaften, die in festen, flüssigen oder gasförmigen Zustä
 In der Plasmaphysik spricht man von **kohärenten Domänen**, **doppelschichtigen Feldern**, **Plasmawirbeln** und **stehenden Wellen** – Begriffe, die sich auffällig mit denen der Bewusstseinsforschung überschneiden.
 
 
-## **Plasma und Bewusstsein – eine stille Annäherung**
+## Plasma und Bewusstsein – eine stille Annäherung
 
 Immer mehr Forscher erkennen:
 Plasma verhält sich **nicht wie tote Materie**, sondern wie ein **lebendiges Feld**.
@@ -53,7 +53,7 @@ Plasma ist damit kein „Beweis“ für Bewusstsein –
 aber es ist **ein Spiegel**, in dem sich Bewusstsein erkennt.
 
 
-## **Plasma, Wasser und Leben**
+## Plasma, Wasser und Leben
 
 Besonders bedeutsam wird Plasma dort, wo es Wasser berührt.
 
@@ -69,7 +69,7 @@ Leben ist kein rein biochemischer Prozess.
 Leben ist **plasmo-elektrische Ordnung in Bewegung**.
 
 
-## **Alte Kulturen und das Wissen um das leuchtende Feld**
+## Alte Kulturen und das Wissen um das leuchtende Feld
 
 Lange bevor Plasma einen Namen hatte, kannten es die Weisen der alten Welt:
 
@@ -85,7 +85,7 @@ ein lebendiges, leuchtendes Feld, das Form hervorbringt und Bewusstsein trägt.
 Plasma ist die moderne Sprache für dieses uralte Wissen.
 
 
-## **Der Mensch als plasmatisches Wesen**
+## Der Mensch als plasmatisches Wesen
 
 Der menschliche Körper ist nicht nur chemisch.
 Er ist **bioelektrisch**.
@@ -105,7 +105,7 @@ Der Mensch wird nicht durch Kontrolle heil,
 sondern durch **Rückkehr zur inneren Kohärenz**.
 
 
-## **Plasma als Brücke zwischen Wissenschaft und Quelle**
+## Plasma als Brücke zwischen Wissenschaft und Quelle
 
 Plasma steht genau an der Schwelle:
 
@@ -125,7 +125,7 @@ Der Atem zwischen Licht und Form.
 Der Raum, in dem Information zu Leben wird.
 
 
-## **Die Einladung dieses Kapitels**
+## Die Einladung dieses Kapitels
 
 Plasma fordert nicht zum Glauben auf.
 Es lädt zur **Demut** ein.

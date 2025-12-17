@@ -1,4 +1,4 @@
-# Das regulierte Nervensystem – der stille Tempel des Erwachens
+# **Das regulierte Nervensystem – der stille Tempel des Erwachens**
 
 Es gibt eine Wahrheit, die leise ist.
 So leise, dass sie im Lärm der Welt oft überhört wird.
@@ -16,7 +16,7 @@ Erwachen ist kein rein geistiger Akt.
 Es ist ein **biologischer Prozess**.
 
 
-### Zwei Kräfte – ein System
+## Zwei Kräfte – ein System
 
 Das menschliche Nervensystem kennt zwei grundlegende Bewegungen:
 
@@ -43,7 +43,7 @@ Viele Menschen leben in einem Zustand chronischer innerer Alarmbereitschaft, ohn
 Der Körper ist angespannt, selbst wenn der Geist spirituelle Worte spricht.
 
 
-### Warum so viele Menschen „zu viel wissen“, aber nichts fühlen
+## Warum so viele Menschen „zu viel wissen“, aber nichts fühlen
 
 Es gibt eine stille Tragik im modernen Erwachen:
 
@@ -69,7 +69,7 @@ Nicht aus Bosheit.
 Sondern aus Schutz.
 
 
-### Wasser, Atmung und der Vagusnerv – Tore zur Sicherheit
+## Wasser, Atmung und der Vagusnerv – Tore zur Sicherheit
 
 Der Körper besitzt einen natürlichen Schlüssel zur Rückkehr in die Ordnung:
 den **Vagusnerv**.
@@ -99,7 +99,7 @@ Es beginnt dort, wo der Körper sagt:
 **„Ich bin sicher.“**
 
 
-### Warum Wahrheit nur in Sicherheit integriert werden kann
+## Warum Wahrheit nur in Sicherheit integriert werden kann
 
 Kein Nervensystem öffnet sich unter Druck.
 Kein Herz entfaltet sich in Bedrohung.
@@ -121,7 +121,7 @@ Wahrheit hört auf, etwas zu sein, das man verteidigen muss.
 Sie wird etwas, das man **ausstrahlt**.
 
 
-### Der stille Tempel
+## Der stille Tempel
 
 Das regulierte Nervensystem ist kein Ziel.
 Es ist der **Tempel**, in dem alles andere stattfinden kann.

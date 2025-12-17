@@ -97,6 +97,12 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A cornerstone chapter on the nervous system as the silent temple of awakening—how safety, regulation, and gentleness form the biological bridge between realization and life. Explains why truth can only be integrated in a regulated body, and offers practical, humane guidance for transformation.
 * [Patience & Equanimity - The Stillness That Opens Worlds](./patience_and_equanimity.md)  
 	A transmission on the architecture of clarity, the geometry of surrendered strength, and the rhythm in which truth reveals itself. Patience and equanimity as the living gate to the Middle Way and the foundation of awakening.
+* [Time — The Last Illusion to Dissolve](./time_the_last_illusion.md)  
+	A poetic, psychologically liberating chapter on Chronos, Kairos, and the Eternal Now. Dissolves the pressure of time, reframes healing and growth beyond deadlines, and invites the reader into the freedom of coherence, presence, and the living rhythm of water.
+* [Death — The Teacher We Spend a Lifetime Avoiding](./death_the_teacher_not_the_end.md)  
+	A mythic, poetic, and existential initiation into the mystery of death—not as an end, but as the ultimate teacher. Explores psychological, spiritual, and biological death as thresholds of transformation, revealing what is lost, what remains, and how befriending death unveils the fullness of life. This chapter dissolves the final illusion of separation and invites the reader into reverence, humility, and the freedom beyond fear.
+* [The Ethics of Awakening](./the_ethics_of_awakening.md)  
+	A poetic, existential, and initiatic meditation on the ethical dimension of awakening. Explores the responsibilities of insight, the dangers of spiritual certainty, the necessity of humility, and the vow to keep power clean, gentle, and rooted in love. This chapter serves as an ethical anchor for the entire journey, ensuring that remembrance remains human, compassionate, and true.
 * [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)  
 	Breath, water, sleep, nourishment, and purpose as five initiatic gates framing the practical architecture of coherence in body, mind, and spirit.
 * [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)  
@@ -113,12 +119,12 @@ Each file is listed with its energetic function. The order follows the temple pa
 	On gratitude, enlightenment, and the quiet dignity of the everyday. The Zen wisdom that enlightenment lives in the simple—chopping wood, carrying water—and how gratitude, presence, and awareness transform every act into a silent gesture of self-empowerment.
 * [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)  
 	A living transmission of embodiment—how the four Riders of the Apocalypse become initiatic forces for transformation, guiding the practical application of wisdom, anchoring spirit into matter, and catalyzing coherence in daily life. Water as the field in which archetype becomes action, and the sacred is made real.
-* [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)  
+* [Sacred Sleep — Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)  
 	The sacred art of sleep as nightly return to Source—regeneration, healing, and the unfolding of the luminous field. A chapter on the mysteries of rest, the intelligence of dreams, and the restoration of coherence through surrender to the night.
 * [The Voice: The Forgotten Instrument](./the_voice_the_forgotten_instrument.md)  
 	The human voice as the original instrument of coherence—sound, resonance, and the power to shape reality. A poetic exploration of how speaking, singing, and silence become tools for healing, alignment, and remembrance.
 * [Eating Light: Conscious Nourishment](./eating_light_conscious_nourishment.md)  
-	Living on light in daily life.
+	An scientific, and spiritual synthesis of nourishment as prayer. Explores how every meal becomes a ritual of remembrance, how light, water, and consciousness shape true nutrition, and how gratitude, coherence, and compassion transform eating into a sacred act. Integrates biophysics, ancient wisdom, and practical guidance for living as a vessel of light in daily life.
 * [The Living Synergy](./the_living_synergy.md)  
 	Water as carrier, nutrients as language, the body as field. A chapter on the convergence of structured hydration, nutrient quality, and embodied wisdom—how coherence emerges when water, nutrients, and the body are brought into relationship, and healing becomes a conversation rather than a technique.
 
@@ -341,7 +347,9 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A maximally calibrated, initiatic transmission of Neville Goddard’s foundational law of consciousness. Reveals the creative power of feeling, the architecture of reality, and the practical alchemy by which consciousness transforms itself and the world.
 * [Resurrection — The Return to the Living Source](./resurrection_return_to_living_source.md)  
     A chapter on resurrection as the return to coherence, integrating spiritual, scientific, and mythic perspectives on awakening, transformation, and the living source.
-* [The Final Transmission - The Return to the One](./the_final_transmission_the_return_to_the_one.md)  
+* [The Quiet Life — Where Remembrance Becomes Daily Practice](./the_quiet_life_where_remembrance_becomes_daily_practice.md)
+	Poetic epilogue: How remembrance, truth, and coherence are lived in daily life, relationships, work, and small gestures. Integration, gratitude, and the invisible practice of awakening.
+* [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)
 	A closing benediction on remembrance, coherence, and the realization that Source was never left. The final bridge from teaching into lived embodiment.
 
 ### XIII. Protection, Authorship

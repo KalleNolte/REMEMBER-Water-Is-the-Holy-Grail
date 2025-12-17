@@ -1,5 +1,4 @@
-## **Shinrin-yoku – Die stille Medizin des Waldes**
-
+# **Shinrin-yoku – Die stille Medizin des Waldes**
 
 Unterhalb aller Sprache erinnert sich der Körper an das, was der Verstand längst vergessen hat.
 
@@ -8,7 +7,7 @@ und der Wald ist der älteste dieser Orte.
 
 Shinrin-yoku – wörtlich „Eintauchen in die Waldatmosphäre“ – ist keine Metapher, sondern eine messbare Realität. Eine Praxis, die in Japan seit den 1980er-Jahren systematisch erforscht wird und heute als medizinisch anerkanntes Gesundheitsinstrument gilt. Doch in Wahrheit ist Shinrin-yoku viel älter als jede Studie: Es ist die Rückkehr des Menschen in sein ursprüngliches Resonanzfeld.
 
-### **Der Wald als kohärentes Feld**
+## Der Wald als kohärentes Feld
 
 Wälder sind hochorganisierte, lebendige Systeme.
 Sie bestehen nicht nur aus Bäumen, sondern aus **Netzwerken**:
@@ -28,7 +27,7 @@ Warum?
 
 Weil er **aus demselben Bauplan** stammt.
 
-### **Die biophysikalische Wirkung – was im Körper geschieht**
+## Die biophysikalische Wirkung – was im Körper geschieht
 
 Moderne Studien zeigen eindeutig:
 
@@ -50,7 +49,7 @@ Ein zentraler Faktor dabei sind die **Phytonzide** – flüchtige Pflanzenstoffe
 
 Der Wald **programmiert den Körper neu**, nicht über Denken, sondern über **Resonanz**.
 
-### **Wasser, Wald und das Gedächtnis der Zellen**
+## Wasser, Wald und das Gedächtnis der Zellen
 
 Bäume bestehen – wie Menschen – zu einem großen Teil aus Wasser.
 Doch dieses Wasser ist:
@@ -71,7 +70,7 @@ Das ist der tiefere Zusammenhang zwischen Waldbaden und den Themen dieses Buches
 Wasser ist das Medium der Erinnerung.
 Der Wald ist ein Archiv dieser Erinnerung.
 
-### **Der psychologische Effekt – Entlastung des Ichs**
+## Der psychologische Effekt – Entlastung des Ichs
 
 Der moderne Mensch ist dauerhaft im Modus der Bewertung:
 schneller, besser, weiter, mehr.
@@ -94,7 +93,7 @@ Viele Menschen berichten beim Waldbaden spontan von:
 Das Ich tritt zurück.
 Das Leben übernimmt wieder Führung.
 
-### **Shinrin-yoku als Praxis – einfach, aber präzise**
+## Shinrin-yoku als Praxis – einfach, aber präzise
 
 Waldbaden ist **kein Spaziergang** und kein Sport.
 
@@ -121,7 +120,7 @@ Es ist eine Haltung.
 20–60 Minuten genügen.
 Regelmäßigkeit ist wichtiger als Dauer.
 
-### **Der größere Zusammenhang – Rückkehr in den lebendigen Raum**
+## Der größere Zusammenhang – Rückkehr in den lebendigen Raum
 
 Shinrin-yoku ist kein Rückzug aus der Welt.
 Es ist **Neukalibrierung**, um ihr wieder begegnen zu können.
