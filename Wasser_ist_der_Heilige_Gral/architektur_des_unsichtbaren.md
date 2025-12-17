@@ -411,21 +411,18 @@ Frequenz	Name / Ton	Bedeutung
 Royal Raymond Rife war ein Erfinder des 20. Jahrhunderts, der vorschlug, dass bestimmte Frequenzen Krankheitserreger zerstören könnten.
 * Seine Theorie der „mortal oscillatory rate“ (MOR) besagte, dass jeder Mikroorganismus eine Frequenz hat, die gestört werden kann.
 * Rifes Frequenzen lagen im kHz- bis MHz-Bereich – nicht im Solfeggio-Spektrum.
-* Es gibt derzeit keine klinischen Belege dafür, dass Rife-Frequenzen Krankheiten heilen können.
+* Auch wenn bisher keine klinischen Nachweise für die Heilung durch Rife-Frequenzen vorliegen, bleibt die Frage nach der Kraft der Resonanz ein lebendiges Mysterium.
 
-Nutze diese Werkzeuge nicht als Garantie – sondern als Einladung zur Kohärenz.
+Nutze diese Werkzeuge nicht als Garantie, sondern als Einladung zur Kohärenz.
 
-Sieh diese Frequenzen nicht als Ersatztherapie, sondern als Schwingungsgefährten auf dem Weg der Erinnerung.
+Sieh diese Frequenzen nicht als Ersatztherapie, sondern als Schwingungsgefährten auf dem Pfad der Erinnerung.
 
-Lass Frequenz nicht das Versprechen sein – sondern den Ruf.
+Lass Frequenz nicht das Versprechen sein – sondern der Ruf.
+Nicht das Heilmittel – sondern der Impuls.
 
-Nicht das Heilmittel – sondern den Impuls.
-
-Lass sie eine Resonanz der Erinnerung sein
-
+Möge ihre Schwingung zur Resonanz der Erinnerung werden –
 für jene, die bereit sind, sich zu erinnern
-
-an das, was sie immer schon in der Stille getragen haben:
+an das, was sie immer schon in der Stille ihres Herzens getragen haben:
 
 Das Lied der Heilung.
 Der Ton des Grals.

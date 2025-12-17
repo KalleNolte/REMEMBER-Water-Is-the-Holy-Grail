@@ -72,6 +72,8 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Non-Resistance and the Immaculate Vision](./non_resistance_and_the_immaculate_vision.md)
 
 #### IV. Practical Mastery — Body, Water, Light
+- [Trauma — When Memory Freezes](./Water_is_the_Holy_Grail/trauma_when_memory_freezes.md)  
+	A poetic, scientific, and practical transmission on trauma as interrupted coherence—how the body, water, and memory freeze to protect life, and how gentleness, safety, and rehydration restore flow, presence, and integration. For those who have searched deeply, learned much, and still felt unsafe.
 - [The Regulated Nervous System](./the_regulated_nervous_system.md)  
 - [Patience & Equanimity - The Stillness That Opens Worlds](./patience_and_equanimity.md)  
  - [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)

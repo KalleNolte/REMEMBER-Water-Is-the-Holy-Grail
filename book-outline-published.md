@@ -86,8 +86,10 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A pillar chapter weaving non-resistance and Akram Vignan’s Immaculate Perception into a unified transmission. Explores the end of suffering through perceptual clarity, the mechanics of resistance, and the art of living without inner conflict. Bridges surrender and practical mastery.
 
 ### IV. Practical Mastery - Body, Water, Light
+* [Trauma — When Memory Freezes](./Water_is_the_Holy_Grail/trauma_when_memory_freezes.md)  
+	A poetic, scientific, and practical transmission on trauma as interrupted coherence—how the body, water, and memory freeze to protect life, and how gentleness, safety, and rehydration restore flow, presence, and integration. For those who have searched deeply, learned much, and still felt unsafe.
 * [The Regulated Nervous System](./the_regulated_nervous_system.md)  
-    A cornerstone chapter on the nervous system as the silent temple of awakening—how safety, regulation, and gentleness form the biological bridge between realization and life. Explains why truth can only be integrated in a regulated body, and offers practical, humane guidance for transformation.
+	A cornerstone chapter on the nervous system as the silent temple of awakening—how safety, regulation, and gentleness form the biological bridge between realization and life. Explains why truth can only be integrated in a regulated body, and offers practical, humane guidance for transformation.
 * [Patience & Equanimity - The Stillness That Opens Worlds](./patience_and_equanimity.md)  
 	A transmission on the architecture of clarity, the geometry of surrendered strength, and the rhythm in which truth reveals itself. Patience and equanimity as the living gate to the Middle Way and the foundation of awakening.
 * [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)  

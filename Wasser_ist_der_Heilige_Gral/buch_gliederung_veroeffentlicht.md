@@ -1,12 +1,12 @@
-# OFFIZIELLE VERÖFFENTLICHTE GLIEDERUNG (DEUTSCH - IN ARBEIT)
+# OFFIZIELLE VERÖFFENTLICHTE GLIEDERUNG (DEUTSCH)
 
-Diese Gliederung bildet die bereits übersetzten deutschen Kapitel in ihrer energetisch optimierten, initiatischen Reihenfolge ab. Sie ist die deutsche Spiegelung der veröffentlichten Struktur und dient als Navigationshilfe für Leser und Mitwirkende.
+Diese Gliederung präsentiert die aktuell veröffentlichten Kapitel in ihrer energetisch optimierten, initiatischen Reihenfolge. Sie ist die offizielle, veröffentlichte Version und dient als Navigationshilfe für Leser und Mitwirkende.
 
 ## Eine initiatische Reise durch Wasser, Erinnerung und Bewusstsein
 
-Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge folgt dem Tempelpfad, kuratiert für Resonanz und Wandlung.
+Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge folgt dem Tempelpfad, kuratiert für Resonanz und Transformation.
 
-### 0. Siegel & Intention - Die Schwelle des Tempels
+### 0. Siegel & Intention – Die Schwelle des Tempels
 
 * [Gebet der Dankbarkeit](./danksagung_gebet_der_dankbarkeit.md)  
   Gebet der Dankbarkeit, Liebe und Erinnerung. Öffnet das Feld mit Segen, Liebe und Dank.
@@ -27,7 +27,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Der Weg des Wasserträgers](./der_weg_des_wassertraegers.md)  
   Deklaration von Bestimmung, Präsenz und reiner Intention – der innere Kompass und Ikigai des Werkes, der Intention und Ursprung verbindet.
 
-### I. Ursprung - Das Erwachen des Autors
+### I. Ursprung – Das Erwachen des Autors
 
 * [Warum ich? - Persönliche Notiz](./warum_ich_persoenliche_notiz.md)  
   Warum ich. Warum jetzt. Öffnet den persönlichen Kanal.
@@ -36,7 +36,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Prolog - Die Rückkehr der Zahl](./prolog_die_rueckkehr_der_zahl.md)  
   Die Geburt der Zahl als Erinnerung des Einen – eine poetische Einführung in Zahl, Rhythmus und heilige Proportion.
 
-### II. Fundament - Wissenschaft, Wasser, Erinnerung
+### II. Fundament – Wissenschaft, Wasser, Erinnerung
 
 * [Meine Reise & die spirituelle Wissenschaft des Selbst](./meine_reise_spirituelle_wissenschaft_des_selbst.md)  
   Die Geschichte nach der Nahtoderfahrung – wie Suche, Wissenschaft und spirituelle Transmission sich verweben und den Weg zurück zu Körper, Wasser und innerer Erinnerung öffnen.
@@ -67,7 +67,8 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 
 
 
-### III. Der Mensch - Heilung, Erinnerung, Transformation
+
+### III. Der Mensch – Heilung, Erinnerung, Transformation
 
 * [Verkörperung – Wenn Wahrheit Fleisch wird](./verkoerperung_wenn_wahrheit_fleisch_wird.md)
   Ein Kapitel über den Moment, in dem Erkenntnis verkörpert wird – wie Wahrheit in Haltung, Atem und Alltag einzieht. Die Brücke zwischen Einsicht und Praxis, die alle vorherigen Lehren in gelebte Kohärenz führt.
@@ -89,9 +90,14 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
   Die höchste Kunst des Nicht-Erzwingens: Wu Wei als Initiation in müheloses Handeln, das Ende des inneren Krieges und die Rückkehr in die natürliche Ordnung. Poetisch, klar und transformierend – die Essenz des Handelns aus Kohärenz und Vertrauen.
 * [Nichtwiderstand und die makellose Sicht](./nichtwiderstand_und_die_makellose_sicht.md)  
   Ein Kapitel über Nichtwiderstand und die makellose Sicht als höchste Form innerer Souveränität, Klarheit und Freiheit. Poetische Synthese von Akram-Lehre, Verantwortung und der Praxis, Leiden aufzulösen, ohne zu kämpfen.
+* [Bushidō – Der Weg, der durch Illusion schneidet](./bushido.md)
+  Die Disziplin innerer Souveränität, Klarheit und Mitgefühl. Bushidō als japanischer Pfad der Integration, edlen Haltung und des Herzens, das zu Dienst und Liebe geschärft wird.
 
 
-### IV. Praktische Meisterschaft - Körper, Wasser, Licht
+### IV. Praktische Meisterschaft – Körper, Wasser, Licht
+
+* [Trauma – wenn Erinnerung eingefroren ist](./trauma_wenn_erinnerung_eingefroren_ist.md)
+  Ein Kapitel über Trauma als eingefrorene Erinnerung und unterbrochene Kohärenz – wie Schutzmechanismen, Dissoziation und Erstarrung entstehen, warum Sanftheit und Sicherheit die Voraussetzung für Heilung sind, und wie Integration durch die Rückkehr von Fluss, Spüren und Präsenz geschieht.
 * [Das regulierte Nervensystem – der stille Tempel des Erwachens](./das_regulierte_nervensystem_tempel_des_erwachens.md)
   Ein Kapitel über das Nervensystem als biologischen Tempel des Erwachens – wie Sicherheit, Regulation und Sanftheit die Grundlage für Verkörperung, Integration und gelebte Wahrheit schaffen. Die Brücke zwischen Erkenntnis und Leben.
 * [Geduld & Gelassenheit — Die Stille, die Welten öffnet](./geduld_und_gelassenheit.md)  
@@ -159,7 +165,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 
 
 
-### VIII. Spirituelle Architektur
+### VIII. Spirituelle Architektur – Das Unsichtbare verstehen
 
 * [Der Stille Schöpfer – Vom Zeugen zum Mitschöpfer](./stiller_schoepfer_vom_zeugen_zum_mitschoepfer.md)  
   Die poetische Initiation vom inneren Zeugen zum bewussten Mitschöpfer: Wie Beobachtung, Imagination und Verkörperung den Menschen aus alten Mustern in die schöpferische Freiheit führen. Ein Kapitel über innere Wandlung, Frequenz und die Rückkehr zur eigenen Schöpferkraft.
@@ -186,17 +192,16 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [Warhammer – Ein Universum von Archetypen, Schatten und Licht](../warhammer_universe_of_archetypes_shadows_light.md) [Übersetzung ausstehend]
 * [The Elder Scrolls](../the_elder_scrolls.md) [Übersetzung ausstehend]
 * [Ehre](./ehre.md)  
-  Ein Kapitel über das Urprinzip der Ehre: Schwingung, Schwur und Lichtlinie, die das Unsichtbare mit dem Sichtbaren verbindet. Poetische Meditation über Integrität, Demut, Dienst und die stille Kraft, die das Herz der Schöpfung durchdringt.
+  Die Disziplin des Lichts, das Maß der Wahrheit und die Signatur der Seele. Ehre als Brücke zwischen archetypischer Ordnung und gelebter menschlicher Realität, als stabilisierende Säule verkörperter Kohärenz.
 * [Bestimmung — Die Kunst, dich zu erinnern, wer du bist](./bestimmung_die_kunst_dich_zu_erinnern_wer_du_bist.md)
-  Bestimmung ist kein starres Schicksal, sondern ein lebendiges Feld der Resonanz, das sich durch innere Kohärenz, Wahl und Erinnerung entfaltet. Dieses Kapitel beleuchtet den Unterschied zu Schicksal, die Rolle des Wassers, die Illusion der Kontrolle und die Rückkehr zur eigenen Wahrheit.
+  Bestimmung ist kein starres Schicksal, sondern ein lebendiges Feld der Resonanz, das sich durch Kohärenz, Wahl und Erinnerung entfaltet. Dieses Kapitel beleuchtet Bestimmung als Frequenz, die Rolle des Wassers, die Illusion der Kontrolle und die Rückkehr zur eigenen Wahrheit durch Ausrichtung und Teilnahme.
 * [Das Spiel des Schicksals](./das_spiel_des_schicksals.md)  
   Eine kontemplative Meditation über Spiel, Verlust, Brüderlichkeit und den verborgenen Lehrplan der Seele – wie digitale Welten archetypische Lektionen, Teamgeist und die Kunst des Erinnerns spiegeln. Ein Kapitel über die tieferen Regeln des Spiels, die Kraft der Gemeinschaft und das Erwachen durch Widerstand, Flow und Mitgefühl.
 * [Verlangen — Die verborgene Tür](./verlangen_die_verborgene_tuer.md)  
   Inspiriert von R.J. Spina, erforscht dieses Kapitel Verlangen als verborgene Kraft, die zur Selbsterkenntnis führt, und bietet einen praktischen, befreienden Weg, Sehnsucht in Klarheit und Verkörperung zu verwandeln. Ein Wendepunkt von Streben zu Verwirklichung, der den Leser auf die nächste Stufe der Selbstermächtigung vorbereitet.
 * [Sucht, der Ring und der Durst](./sucht_der_ring_und_der_durst.md)  
-  Ein mythopoetisches, psychologisches und physiologisches Kapitel über Sucht als verzerrtes Verlangen. Anhand von Gollum und dem Einen Ring wird Sucht als fehlgeleitete Suche nach Ganzheit beleuchtet, ihre Wurzeln im Durst (wörtlich und symbolisch) aufgezeigt und ein Weg der Rückverbindung, Kohärenz und Erinnerung eröffnet. Die Brücke zwischen Verlangen und Bestimmung.
+  Eine mythopoetische, psychologische und physiologische Erforschung von Sucht als Verzerrung des Verlangens. Am Beispiel von Gollum und dem Einen Ring wird Sucht als fehlgeleitete Suche nach Ganzheit beleuchtet, ihre Wurzeln im Durst (wörtlich und symbolisch) aufgezeigt und ein Weg der Rückverbindung, Kohärenz und Erinnerung eröffnet. Die Brücke zwischen Verlangen und Bestimmung.
 * [Geduld & Gleichmut – Die Stille, die Welten öffnet](../patience_and_equanimity.md) [Übersetzung ausstehend]
-* [Bushido – Der Weg, der durch Illusion schneidet](../bushido.md) [Übersetzung ausstehend]
 * [Die Linie der Befreiten](../lineage_of_the_liberated_ones.md) [Übersetzung ausstehend]
 * [Die lebendige Präsenz von Lord Simandhar Swami](../living_presence_of_lord_simandhar_swami.md) [Übersetzung ausstehend]
 * [Die große Linie des Lichts](../great_lineage_of_light.md) [Übersetzung ausstehend]
@@ -217,7 +222,7 @@ Jede Datei ist mit ihrer energetischen Funktion aufgeführt. Die Reihenfolge fol
 * [HeartMath Institut](../heartmath_institute.md) [Übersetzung ausstehend]
 * [Die Schwelle der Rückkehr](../threshold_of_return.md) [Übersetzung ausstehend]
 * [Die große Synthese](./die_grosse_synthese.md)  
-  Die erweiterte Synthese: Wie Mathematik, Bewusstsein, Dimensionen, Wasser und Wirbelintelligenz sich zu einer einzigen Architektur verweben. Ein metaphysisches Modell, das Wissenschaft, Mystik und Natur als ein Lied der Erinnerung vereint.
+  Die maximal vollständige, Schauberger-integrierte Synthese von Mathematik, Bewusstsein, Wasser, Wirbelintelligenz und Erinnerung. Dient als Schlussstein der spirituellen Architektur und als Brücke zur Bestimmung.
 * [Das Egregor der Neuen Erde](../the_egregore_of_the_new_earth.md) [Übersetzung ausstehend]
 * [Drachen – Die erste Erinnerung der Erde](../dragons_the_first_memory_of_the_earth.md) [Übersetzung ausstehend]
 * [Drachen – Archetypen von Aufstieg, Spirale, Erinnerung und Ewigkeit](../the_dragons_archetypes_of_ascent_spiral_memory_eternity.md) [Übersetzung ausstehend]
