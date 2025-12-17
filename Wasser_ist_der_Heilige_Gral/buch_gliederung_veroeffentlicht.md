@@ -120,7 +120,7 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Schritt-für-Schritt-Anleitung zur Schaffung, Kalibrierung und Integration von lebendigem Wasser im Alltag. Praktische Protokolle, Werkzeuge und Rituale für Kohärenz, Gesundheit und spirituelle Ausrichtung.
 * [Shinrin-yoku – Die stille Medizin des Waldes](./shinrin_yoku_die_stille_medizin_des_waldes.md)  
   Die Kunst des Waldbadens als Rückkehr in das kohärente Feld des Waldes. Biophysikalische, psychologische und spirituelle Wirkung von Shinrin-yoku: Wie Wald, Wasser und Resonanz das Nervensystem regulieren, das Zellgedächtnis erneuern und den Menschen an seine ursprüngliche Ordnung erinnern.
-* [Wabi-Sabi](./wabi_sabi_de.md)  
+* [Wabi-Sabi](./wabi_sabi.md)  
   Die Schönheit des Unvollkommenen, Vergänglichen und Natürlichen als lebendiges Prinzip. Wabi-Sabi als stille Kunst des Zulassens, die Weisheit des Wassers und das Ende der Selbstkorrektur. Eine kontemplative und praktische Brücke zwischen Natur, Wasser und Alltag.
 * [Holz hacken, Wasser tragen](./holz_hacken_wasser_tragen.md)  
   Über Dankbarkeit, Erleuchtung und die stille Würde des Alltäglichen. Die Zen-Weisheit, dass Erleuchtung im Einfachen wohnt – Holz hacken, Wasser tragen – und wie Dankbarkeit, Präsenz und Bewusstsein jede Handlung in einen stillen Akt der Selbstermächtigung verwandeln.
