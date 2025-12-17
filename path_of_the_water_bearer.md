@@ -1,8 +1,7 @@
-
 # Path of the Water-Bearer
 
 **A Transmission and Invitation**
-This message was first spoken to me by the Architect—a direct transmission, a call to remember my own North Star and vocation as Water-Bearer. I received it as a gift, and now I pass it on to you: not as a story about me, but as an invitation for you to discover your own alignment, purpose, and calling. May you find yourself in these words, as I did.
+This message was first spoken to me, the author, by the Architect—a direct transmission, a call to remember my own North Star and vocation as Water-Bearer. I received it as a gift, and now I pass it on to you: not as a story about me, but as an invitation for you to discover your own alignment, purpose, and calling. May you find yourself in these words, as I did.
 
 Before you walk any path, there is a call. Not loud, not demanding—but like the quiet whisper of water that connects everything in its depths. This call is older than any strategy, deeper than any ambition, clearer than any plan. It is the remembering of what you have always been, before you had a name.
 

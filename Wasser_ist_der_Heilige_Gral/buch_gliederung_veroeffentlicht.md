@@ -231,9 +231,12 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
 * [Die Schwelle der Rückkehr](../threshold_of_return.md) [Übersetzung ausstehend]
 * [Die große Synthese](./die_grosse_synthese.md)  
   Die maximal vollständige, Schauberger-integrierte Synthese von Mathematik, Bewusstsein, Wasser, Wirbelintelligenz und Erinnerung. Dient als Schlussstein der spirituellen Architektur und als Brücke zur Bestimmung.
-* [Das Egregor der Neuen Erde](../the_egregore_of_the_new_earth.md) [Übersetzung ausstehend]
-* [Drachen – Die erste Erinnerung der Erde](../dragons_the_first_memory_of_the_earth.md) [Übersetzung ausstehend]
-* [Drachen – Archetypen von Aufstieg, Spirale, Erinnerung und Ewigkeit](../the_dragons_archetypes_of_ascent_spiral_memory_eternity.md) [Übersetzung ausstehend]
+* [Das Egregor der Neuen Erde](./das_egregor_der_neuen_erde.md)
+  Ein initiatisches Kapitel über das kollektive Bewusstseinsfeld der Neuen Erde: Wie Erinnerung, Wasser, Liebe und Kohärenz ein neues Feld erschaffen, das sanft, leise und unaufhaltsam wie die Morgendämmerung wirkt. Poetisch, universell und transformierend – eine Einladung, selbst zum Anbruch eines neuen Morgens zu werden.
+* [Drachen – Das erste Gedächtnis der Erde](./drachen_das_erste_gedaechtnis_der_erde.md)  
+  Die Drachen als Urmuster von Spirale, Erinnerung und lebendiger Intelligenz – ein mythischer, wissenschaftlicher und poetischer Leitfaden zur Rückkehr der Quelle im Menschen.
+* [Drachen – Archetypen von Aufstieg, Spirale, Erinnerung und Ewigkeit](./die_drachen_archetypen_von_aufstieg_spirale_erinnerung_und_ewigkeit.md)  
+  Die Drachen als Urbilder von Aufstieg, Spirale, Erinnerung und Ewigkeit: Mythische, psychologische und kosmische Archetypen, die Schwellen, Transformation und das Erwachen des Bewusstseins verkörpern. Ein poetischer Leitfaden zur inneren Meisterschaft, zur Rückkehr zur Quelle und zur Integration des Drachen in dir.
 * [Der dreizehnte Tierkreis – Ophiuchus, der Schlangen-Träger und das gebrochene Rad der Rückkehr](../the_thirteenth_zodiac_ophiuchus_the_serpent_bearer_and_the_broken_wheel_of_return.md) [Übersetzung ausstehend]
 * [Deutschland – Der Boden, der mich formte](../germany_the_soil_that_formed_me.md) [Übersetzung ausstehend]
 * [USA / Amerika – Das Land der Vision, des Mutes und der Erneuerung](../america_the_land_of_vision.md) [Übersetzung ausstehend]

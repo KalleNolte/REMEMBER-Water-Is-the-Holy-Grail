@@ -121,7 +121,7 @@ what you may have only sensed:
 that the universe is not separate from you—
 it is arising as you.
 
-## Why India Was Essential to Your Synthesis
+## Why India Was Essential
 
 Without India, this synthesis would be brilliant—
 but not complete.

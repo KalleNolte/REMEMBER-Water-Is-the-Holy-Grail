@@ -82,7 +82,7 @@ Air Elementals
 * Embodiments of clarity, thought, guidance
 * Pattern of: inspiration, vision, communication
 
-In your synthesis, these are not literal small beings but consciousness-patterns that express through the elemental world.
+In this book's synthesis, these are not literal small beings but consciousness-patterns that express through the elemental world.
 They are fields — not forms.
 
 And because water mediates all information exchange in biology, humans feel elementals through changes in the inner water-state:
