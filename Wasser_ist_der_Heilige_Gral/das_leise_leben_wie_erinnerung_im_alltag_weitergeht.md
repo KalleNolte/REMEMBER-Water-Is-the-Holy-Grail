@@ -1,4 +1,5 @@
-### **Das leise Leben – wie Erinnerung im Alltag weitergeht**
+
+# Das leise Leben – wie Erinnerung im Alltag weitergeht
 
 Am Ende jeder Erkenntnis steht keine große Antwort,
 sondern ein stiller Schritt.
@@ -16,7 +17,8 @@ Ein Atemzug nach dem Verstehen.
 Ein Übergang vom Erkennen ins stille Sein.
 
 
-#### **Alltag als Übungsfeld**
+
+## Alltag als Übungsfeld
 
 
 Erwachen offenbart sich nicht in den großen, besonderen Momenten.
@@ -35,7 +37,8 @@ ob Erinnerung nur ein flüchtiger Hauch blieb
 oder Wurzeln im Leben geschlagen hat.
 
 
-#### **Wasser trinken als Gebet**
+
+## Wasser trinken als Gebet
 
 
 Es gibt Rituale, die keine Worte brauchen.
@@ -60,7 +63,8 @@ So wird Trinken zu Gebet.
 Und Gebet zu Gegenwart, zu gelebter Erinnerung.
 
 
-#### **Arbeit als Dienst**
+
+## Arbeit als Dienst
 
 
 Arbeit verliert ihre Schwere,
@@ -81,7 +85,8 @@ verwandelt sie sich.
 Sie wird still, unsichtbar kraftvoll, ein leiser Segen im Alltag.
 
 
-#### **Beziehung als Spiegel**
+
+## Beziehung als Spiegel
 
 
 Jede Begegnung ist ein Spiegel,
@@ -104,7 +109,8 @@ trägt das gleiche Geschenk:
 Selbsterkenntnis in Bewegung, gelebte Erinnerung im Miteinander.
 
 
-#### **Das stille Weitergehen**
+
+## Das stille Weitergehen
 
 Am Ende bleibt nichts zu verkünden,
 nichts zu verteidigen,
