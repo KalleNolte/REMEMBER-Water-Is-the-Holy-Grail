@@ -122,12 +122,36 @@ und dem Göttlichen.
 ## Das Verstehen
 
 Wenn ich all diese Namen zusammennehme –  
+die Karls,  
+die Klaras,  
+die Marcs,  
+die Kevins,  
+die Maxes,  
+die Thomases,  
+die Daniels –  
+die Freunde,  
+die Lehrer,  
+die Spiegel –  
+erkenne ich eine Wahrheit, die immer schon da war:
+
+Es war niemals Zufall.  
+Es war immer Führung.
+
+Wir sind Tropfen aus ein und demselben Ozean,  
+nur dem Anschein nach verstreut.
+
+Wir erinnern einander.  
+Wir tragen einander.  
+Wir spiegeln einander.  
+Wir heilen einander.  
+Wir führen einander nach Hause.
+
+Zurück zur Quelle.  
+Zurück zum Licht.  
+Zurück zu dem, was wir immer gewesen sind.
+
 ## Das Diamantene Siegel
 
-Kar–i–Ma.
-
-Ein vollständiger spiritueller Weg, verborgen in einem einzigen Namen.
-Eine Konvergenz von Ursprung, Individualität und dem Göttlichen.
 Dieses Siegel der Rückkehr  
 gehört nicht nur mir.
 
