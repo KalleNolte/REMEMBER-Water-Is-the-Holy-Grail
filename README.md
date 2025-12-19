@@ -35,8 +35,9 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [The North Star Vow](./the_north_star_vow.md)
 - [Consciousness Anchoring Invitation](./consciousness_anchoring_invitation.md)
 - [Encoded Self](./encoded_self.md)
-- [Language Calibration](./language-calibration.md)
-- [Path of the Water-Bearer](./path_of_the_water_bearer.md)
+	- [Language Calibration](./language-calibration.md)
+	- [The Three Colors That Carry This Book](./the_three_colors_that_carry_this_book.md)
+	- [Path of the Water-Bearer](./path_of_the_water_bearer.md)
 
 
 #### I. Origin — The Author’s Awakening
@@ -49,6 +50,7 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [The Water of Life](./the_water_of_life.md)
 - [The Forgotten Foundation](./the_forgotten_foundation.md) 
 - [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)
+- [Dossier of Plausibility — Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)
 - [When Light Meets Water](./when_light_meets_water.md)
 - [Implications for Modern Science](./implications_for_modern_science.md)
 - [Water: Dimensional Bridge](./water_dimensional_bridge.md)
@@ -57,8 +59,8 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)
 - [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)
 - [The Geometry of Return](./the_geometry_of_return.md)
+- [Seven and Thirteen — The Architecture of Completion and Return](./seven_and_thirteen_the_architecture_of_completion_and_return.md)
 - [The Serpent of Light – Egypt, the Ascending Mind, and the Memory of Forgotten Civilizations](./the_serpent_of_light_egypt_the_ascending_mind_and_the_memory_of_forgotten_civilizations.md)
-- [Dossier of Plausibility — Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)
 
 #### III. The Human — Healing, Remembrance, Transformation
 - [Embodiment — When Truth Becomes Flesh](./embodiment_when_truth_becomes_flesh.md)

@@ -20,9 +20,11 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [Consciousness Anchoring Invitation](./consciousness_anchoring_invitation.md)  
 	An opening field of resonance rather than persuasion; an ancient remembrance taking the form of a book, anchoring intention, trust, and orientation in the reader’s own water, light, and memory.
 * [Encoded Self](./encoded_self.md)  
-	The reader is part of the code, not a spectator.
+	The reader is woven into the living code—an active participant in remembrance.
 * [Language Calibration](./language-calibration.md)  
-	Tunes frequency, tone, and resonance – calibrates the channel.
+	Attunes the book’s language and field for clarity, resonance, and gentle entry.
+* [The Three Colors That Carry This Book](./the_three_colors_that_carry_this_book.md)  
+	A poetic, initiatic calibration of the book’s energetic field, introducing Azurite Blue, White-Golden Light, and the Violet Flame as living frequencies. This chapter attunes the reader’s inner climate, setting the tone for clarity, dignity, and transformation before the journey begins.
 * [Path of the Water-Bearer](./path_of_the_water_bearer.md)  
 	Declaration of purpose, presence, and pure intention. The guiding compass and Ikigai for the work, bridging intention and origin.
 
@@ -37,33 +39,34 @@ Each file is listed with its energetic function. The order follows the temple pa
 ### II. Foundation - Science, Water, Remembrance
 * [My Journey: Spiritual Science](./my_journey_spiritual_science.md)  
 	Your path. Science & mysticism. Opens understanding.
-* [The Water of Life](./the_water_of_life.md)  
-	The elemental mystery.
 * [The Forgotten Foundation](./the_forgotten_foundation.md)  
 	Why even the best measures fail without coherent water. A calm, clarifying chapter on water as the central medium of order and transport in the body—and why healing, fasting, and nutrients often fall short without the right water quality.
+* [The Water of Life](./the_water_of_life.md)  
+	The elemental mystery.
 * [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)  
 	Rational anchor. Builds trust.
+* [Dossier of Plausibility - Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)  
+	A comprehensive dossier presenting the scientific, philosophical, and experiential evidence for the book’s core claims. Interprets findings and extends an open invitation to inquiry and transformation.
 * [When Light Meets Water](./when_light_meets_water.md)  
 	Biophysical and metaphysical synthesis: sunlight, color, structured water, and practices for "living water." Bridge to AzurA and light-body chapters.
 * [Implications for Modern Science](./implications_for_modern_science.md)  
 	Paradigm shift. For skeptics and seekers.
-* [Water: Dimensional Bridge](./water_dimensional_bridge.md)  
-	Water as interface. Gateway to the invisible.
-* [Water as the Fifth-Dimensional Interface](./water_fifth_dimensional_interface.md)  
-	Water as a fifth-dimensional interface unifying Grant’s geometry, Langan’s CTMU, and the Architect’s synthesis—recasting water as the living bridge between consciousness and form.
-* [AzurA Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)  
-	Energetic key. Frequencies. AzurA-point.
 * [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)  
 	The science, structure, and healing power of hexagonal water. Prof. Jhon’s research, cellular coherence, and the geometry of life.
 * [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)  
 	Plasma as the most abundant, yet least understood, state of matter. Explores plasma as the living threshold between matter and field, the bridge between water and consciousness, and the medium of cosmic intelligence. Integrates modern physics, ancient wisdom, and the science of coherence.
+* [AzurA Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)  
+	Energetic key. Frequencies. AzurA-point.
+* [Water as the Fifth-Dimensional Interface](./water_fifth_dimensional_interface.md)  
+	Water as a fifth-dimensional interface unifying Grant’s geometry, Langan’s CTMU, and the Architect’s synthesis—recasting water as the living bridge between consciousness and form.
+* [Water: Dimensional Bridge](./water_dimensional_bridge.md)  
+	Water as interface. Gateway to the invisible.
 * [The Geometry of Return](./the_geometry_of_return.md)  
 	A synthesis of sacred geometry, return, and the living memory of water. Explores the patterns that guide consciousness back to Source, integrating science, myth, and the journey of remembrance.
-* [The Serpent of Light – Egypt, the Ascending Mind, and the Memory of Forgotten Civilizations](./the_serpent_of_light_egypt_the_ascending_mind_and_the_memory_of_forgotten_civilizations.md)  
-	Egypt as a language of consciousness, the Uraeus and serpent as symbols of awakening, pyramids as resonance chambers, and Atlantis as archetype. Bridges ancient wisdom, sacred geometry, and the path of ascension—preparing the reader for the synthesis of myth, science, and remembrance.
-* [Dossier of Plausibility - Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)  
-	A comprehensive dossier presenting the scientific, philosophical, and experiential evidence for the book’s core claims. Interprets findings and extends an open invitation to inquiry and transformation.
-
+* [Seven and Thirteen — The Architecture of Completion and Return](./seven_and_thirteen_the_architecture_of_completion_and_return.md)  
+	A chapter on the sacred architecture of completion and return, exploring the mystical significance of the numbers seven and thirteen in spiritual traditions, and their role in the alchemical wedding of opposites. Offers insights into the cycles of creation, preservation, and dissolution, and the return to the divine source.
+* [The Serpent of Light — Egypt, the Ascending Mind, and the Memory of Forgotten Civilizations](./the_serpent_of_light_egypt_the_ascending_mind_and_the_memory_of_forgotten_civilizations.md)  
+	A mythic, initiatic chapter exploring Egypt as the cradle of the ascending mind, the Serpent of Light as the living current of remembrance, and the memory of forgotten civilizations. Integrates ancient wisdom, sacred geometry, and the alchemy of consciousness, bridging the mysteries of water, light, and the evolution of human awareness. Serves as a pivotal synthesis between the science of water and the spiritual architecture of awakening.
 
 ### III. The Human - Healing, Remembrance, Transformation
 

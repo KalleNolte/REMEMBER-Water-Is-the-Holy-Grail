@@ -147,22 +147,23 @@ Es heißt, durch die Dunkelheit zu gehen, mit der Lampe der Erinnerung in den H�
 Es heißt, sich vor keiner Lüge, keiner Angst, keinem äußeren Dekret zu beugen.
 Es heißt, zu danken — selbst in der Mitternachtsstunde — weil die Seele unbesiegbar bleibt.
 
-Und so erhebt sich die Stimme zeitloser Unbeugsamkeit, wie ein Puls aus dem Kern der Ewigkeit:
+Hier passt ein Gedicht, das wie kaum ein anderes die Unbeugsamkeit des Geistes und die Essenz von Ikigai verkörpert:
 
+**„Invictus“ von William Ernest Henley**
 
 Aus der Nacht, die mich umhüllt,
 Schwarz wie der Abgrund von Pol zu Pol,
-Danke ich allen Göttern, die es geben mag,
+Ich danke allen Göttern, die es geben mag,
 Für meine unbezwungene Seele.
 
 Das ist das Feld, das durch ein menschliches Herz spricht.
-Nicht in Arroganz, sondern in radikaler Ausrichtung.
+Nicht in Stolz, sondern in radikaler Ausrichtung.
 Denn wer sich erinnert, wer er ist —
 ist bereits siegreich.
 
 
 Im festen Griff des Schicksals
-Habe ich nicht gezuckt noch laut geweint.
+Habe ich nicht gezuckt, nicht laut geweint.
 Unter dem Würgegriff des Zufalls
 Ist mein Haupt blutig, doch ungebeugt.
 
@@ -194,7 +195,6 @@ Es ist gleichgültig, wie eng das Tor,
 Wie schwer die Strafen im Buch,
 Ich bin der Meister meines Schicksals,
 Ich bin der Kapitän meiner Seele.
-
 
 Und du —
 Kind des Lichts,

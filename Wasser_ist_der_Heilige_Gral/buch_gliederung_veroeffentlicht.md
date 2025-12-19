@@ -24,7 +24,9 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Der Leser ist Teil des Codes – nicht nur Zuschauer.
 * [Sprachkalibrierung - Die Sprache des Lichts](./sprach_kalibrierung_die_sprache_des_lichtes.md)  
   Stimmt Frequenz, Ton und Resonanz – kalibriert den Kanal.
-* [Der Weg des Wasserträgers](./der_weg_des_wassertraegers.md)  
+* [Die drei Farben, die dieses Buch tragen](./die_drei_farben_die_dieses_buch_tragen.md)  
+  Poetische, initiatische Einstimmung auf das energetische Feld des Buches. Azuritblau, weiß-goldenes Licht und die violette Flamme als innere Zustände, die den Leser auf Klarheit, Würde und Wandlung vorbereiten.
+  * [Der Weg des Wasserträgers](./der_weg_des_wassertraegers.md)  
   Deklaration von Bestimmung, Präsenz und reiner Intention – der innere Kompass und Ikigai des Werkes, der Intention und Ursprung verbindet.
 
 ### I. Ursprung – Das Erwachen des Autors
@@ -40,33 +42,34 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
 
 * [Meine Reise & die spirituelle Wissenschaft des Selbst](./meine_reise_spirituelle_wissenschaft_des_selbst.md)  
   Die Geschichte nach der Nahtoderfahrung – wie Suche, Wissenschaft und spirituelle Transmission sich verweben und den Weg zurück zu Körper, Wasser und innerer Erinnerung öffnen.
-* [Das Wasser des Lebens](./das_wasser_des_lebens.md)  
-  Die Entdeckung von Wasser als lebendiges Medium – von Familienerfahrungen über Hydrationsforschung bis zu EZ-Wasser, Licht und der Rückkehr zum heiligen Element.
 * [Das vergessene Fundament](./das_vergessene_fundament.md)  
   Warum ohne stimmiges Wasser selbst die besten Maßnahmen ins Leere laufen. Ein ruhiges, tragfähiges Kapitel über das Wasser als zentrales Ordnungs- und Trägermedium im Körper – und warum Heilung, Fasten und Vitalstoffe ohne die richtige Wasserqualität oft ins Leere gehen.
+* [Das Wasser des Lebens](./das_wasser_des_lebens.md)  
+  Die Entdeckung von Wasser als lebendiges Medium – von Familienerfahrungen über Hydrationsforschung bis zu EZ-Wasser, Licht und der Rückkehr zum heiligen Element.
 * [Evidenzkette - Wasser ist der Heilige Gral](./evidenzkette_wasser_ist_der_heilige_gral.md)  
   Eine multidisziplinäre Evidenzkette für Wasser als Heiligen Gral – als Erinnerungsmedium, Lichtleiter und harmonische Brücke zwischen Mathematik, Physik, Biologie und Bewusstsein.
+* [Dossier der Plausibilität](./dossier_der_plausibilitaet.md)  
+  Wissenschaftliche Evidenz, Interpretation und Einladung zur Erforschung von lebendigem Wasser, HRW und strukturierten Hydrationsformen.
 * [Wenn Licht auf Wasser trifft](./wenn_licht_auf_wasser_trifft.md)  
   Die Begegnung von Licht und Wasser als Brücke zwischen Information, Struktur und Bewusstsein. Wie Sonnenlicht, Farbe und Frequenz das Wasser vitalisieren und die Sprache der Quelle übersetzen.
-* [Implikationen unserer Entdeckung für die moderne Wissenschaft](./implikationen_fuer_die_moderne_wissenschaft.md)  
+* [Implikationen für die moderne Wissenschaft](./implikationen_fuer_die_moderne_wissenschaft.md)  
   Die wissenschaftlichen, philosophischen und spirituellen Konsequenzen der Entdeckung von Wasser als lebendiger Brücke zwischen Kosmologie, Biologie und Bewusstsein.
-* [Wasser als fünfdimensionale Schnittstelle](./wasser_fuenfdimensionale_schnittstelle.md)  
-  Wasser als fünfdimensionale Schnittstelle – eine Synthese aus Grant, CTMU und dem Architekten, die Wasser als lebendige Brücke zwischen Bewusstsein und Form zeigt.
-* [Azura Inai & Kangen – Codes der Kohärenz](./azura_inai_und_kangen_codes_der_kohaerenz.md)  
-  Die spirituellen und biochemischen Schlüsselworte des Werks: Azura Inai als Mantra der Hingabe und Erinnerung, Kangen als wissenschaftliche Schnittstelle zur Rückkehr des Wassers in den ursprünglichen Zustand.
 * [Hexagonales Wasser: Die Geometrie des Lebens](./hexagonales_wasser_geometrie_des_lebens.md)  
   Die Wissenschaft, Struktur und Heilkraft des hexagonalen Wassers nach Prof. Dr. Mu Shik Jhon – wie geordnete Wassercluster die Zellkommunikation, Regeneration und das Gedächtnis des Lebens ermöglichen.
 * [Plasma – Das vierte Aggregat und der leuchtende Ursprung der Form](./plasma_das_vierte_aggregat.md)  
   Plasma als vorherrschender Zustand des Universums und lebendiges Bindeglied zwischen Materie, Feld und Bewusstsein. Das Kapitel beleuchtet Plasma als Schwelle zwischen Wissenschaft und Quelle, als Spiegel von Kohärenz und als moderne Sprache für uraltes Wissen.
-* [Die Geometrie der Rückkehr](./die_geometrie_der_rueckkehr.md)  
-  Chestahedron, Torus, Möbius, Ouroboros – die Geometrien des Herzens, des Lebens, des Paradoxons und der ewigen Rückkehr als Initiation in das harmonische Feld.
-* [Dossier der Plausibilität](./dossier_der_plausibilitaet.md)  
-  Wissenschaftliche Evidenz, Interpretation und Einladung zur Erforschung von lebendigem Wasser, HRW und strukturierten Hydrationsformen.
+* [Azura Inai & Kangen – Codes der Kohärenz](./azura_inai_und_kangen_codes_der_kohaerenz.md)  
+  Die spirituellen und biochemischen Schlüsselworte des Werks: Azura Inai als Mantra der Hingabe und Erinnerung, Kangen als wissenschaftliche Schnittstelle zur Rückkehr des Wassers in den ursprünglichen Zustand.
+* [Wasser als fünfdimensionale Schnittstelle](./wasser_fuenfdimensionale_schnittstelle.md)  
+  Wasser als fünfdimensionale Schnittstelle – eine Synthese aus Grant, CTMU und dem Architekten, die Wasser als lebendige Brücke zwischen Bewusstsein und Form zeigt.
 * [Wasser als dimensionale Brücke – Eine harmonische Synthese](./wasser_dimensionale_bruecke.md)  
   Integration der imaginären Achse, der fünften Dimension und des fraktalen Gedächtnisses der Schöpfung. Wasser als Medium für Resonanz, Auswahl und die Architektur des Selbst.
-
-
-
+* [Die Geometrie der Rückkehr](./die_geometrie_der_rueckkehr.md)  
+  Chestahedron, Torus, Möbius, Ouroboros – die Geometrien des Herzens, des Lebens, des Paradoxons und der ewigen Rückkehr als Initiation in das harmonische Feld.
+* [Sieben und Dreizehn — Die Architektur der Vollendung und Rückkehr](./sieben_und_dreizehn_die_architektur_von_vollendung_und_rueckkehr.md)  
+  Die poetische Synthese von Struktur und Rückkehr: Sieben als Gefäß, Dreizehn als Fluss. Ein initiatisches Kapitel über Harmonie, Transzendenz und die stille Wahrheit des Aufstiegs. Rhythmisch, literarisch und energetisch kalibriert — die Brücke zwischen Geometrie, Wasser und Bewusstsein.
+* [Die Schlange des Lichts – Ägypten, der aufsteigende Geist und das Gedächtnis vergessener Zivilisationen](./die_schlange_des_lichts_aegypten_der_aufsteigende_geist_und_das_gedaechtnis_vergessener_zivilisationen.md)  
+  Ein initiatisches Kapitel über die spirituelle Architektur Ägyptens, die Resonanz der Pyramiden, das archetypische Muster von Atlantis und die Schwelle der Erinnerung. Poetisch, rhythmisch und energetisch kalibriert – eine Einladung, die eigene Frequenz zu wählen und die Rückkehr zur Quelle zu vollziehen.
 
 ### III. Der Mensch – Heilung, Erinnerung, Transformation
 
@@ -318,4 +321,3 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
 ### XIII. Schutz & Autorschaft
 * [KPN AzurA Timestamp 141125.txt / .ots](../KPN_AzurA_Timestamp_141125.txt) [Übersetzung ausstehend]
 * [Übersicht für Robert Edward Grant](../overview_for_robert_edward_grant.md) [Übersetzung ausstehend]
-
