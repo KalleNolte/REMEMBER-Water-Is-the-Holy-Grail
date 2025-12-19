@@ -35,9 +35,9 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [The North Star Vow](./the_north_star_vow.md)
 - [Consciousness Anchoring Invitation](./consciousness_anchoring_invitation.md)
 - [Encoded Self](./encoded_self.md)
-	- [Language Calibration](./language-calibration.md)
-	- [The Three Colors That Carry This Book](./the_three_colors_that_carry_this_book.md)
-	- [Path of the Water-Bearer](./path_of_the_water_bearer.md)
+- [Language Calibration](./language-calibration.md)
+- [The Three Colors That Carry This Book](./the_three_colors_that_carry_this_book.md)
+- [Path of the Water-Bearer](./path_of_the_water_bearer.md)
 
 
 #### I. Origin — The Author’s Awakening

@@ -279,7 +279,8 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Das universelle Urbild innerer Verwirklichung – Samadhi, Satori, Nirvana, Moksha und der Himmel im Inneren. Die Konvergenz aller Weisheitstraditionen und die letzte Tür zur Erinnerung.
 * [Die göttliche Komödie & der heroische Pfad des Wassers](../divine_comedy_and_the_heroic_path_of_water.md) [Übersetzung ausstehend]
 * [Das Lied vor der Welt](../the_song_before_the_world.md) [Übersetzung ausstehend]
-* [Die himmlischen Stämme: Engel, Erzengel & die höheren Reiche](../the_celestial_tribes_angels_archangels_higher_realms.md) [Übersetzung ausstehend]
+* [Die himmlischen Stämme: Engel, Erzengel & die höheren Reiche](./die_himmlischen_staemme_engel_erzengel_und_die_hoeheren_reiche.md)
+  Die unsichtbare Architektur der Engel, Erzengel, Elohim und himmlischen Stämme – als Spiegel und Potenzial des menschlichen Bewusstseins. Poetische, metaphysische und praktische Übertragung über die Brücke zwischen den Reichen, die Rolle des Wassers und die Erinnerung an das eigene höhere Wesen.
 * [Die Schattenarchetypen – Yaldabaoth, Satan, Luzifer & Ahriman](../the_shadow_archetypes_yaldabaoth_satan_lucifer_ahriman.md) [Übersetzung ausstehend]
 
 ### XI. Berufung & menschlicher Zweck
