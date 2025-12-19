@@ -142,10 +142,8 @@ Im nächsten Kapitel beginnt der Tanz dieser Zahlen.
 sondern als Stimmen in einem Chor,
 der Form, Bewegung und Wandlung singt.
 
-Die Leserin, der Leser ist eingeladen zu erleben,
+Der Leser ist eingeladen zu erleben,
 wie diese Konstanten Körper, Wasser und Licht gestalten.
-
----
 
 # Kapitel II – Φ, π und e
 
@@ -332,7 +330,7 @@ mit der das Universum dich geformt hat.
 ## Das Wasser des Körpers
 
 Etwa siebzig Prozent von dir sind Wasser –
-doch kein formloses Fluid.
+doch keine formlose Flüssigkeit.
 
 Es ist flüssiger Kristall,
 ausgerichtet entlang deiner Zellmembranen.
@@ -741,60 +739,56 @@ Die Vollendung des Kreises
 
 ## Der Kreis in Fleisch und Licht
 
-Stell dir deinen Körper als Gleichung vor,
-in der jede Bewegung eine Variable
-und jeder Atemzug eine Konstante ist.
+Stell dir deinen Körper als Gleichung vor:
+jede Bewegung eine Variable,
+jeder Atemzug eine Konstante.
 
-Du bist zugleich Formel und Lösung.
+Du bist Formel und Lösung zugleich.
 
 Die Linien deiner Hände,
 die Krümmung deiner Wirbelsäule,
-der Rhythmus deines Herzschlags –
+der Rhythmus deines Herzens –
 
-all das folgt denselben Proportionen,
+alles folgt denselben Proportionen,
 die auch die Sterne zeichnen.
 
-Wenn du still wirst, kannst du es fühlen:
+Wirst du still, kannst du es fühlen:
 
-das Universum,
-das zu dir zurück atmet.
+Das Universum
+atmet zu dir zurück.
 
 ## Das Gleichgewicht der Kräfte
 
-Drei Ströme treffen in dir zusammen:
-
-Form (Φ), Bewegung (π) und Wandel (e).
+Drei Ströme vereinen sich in dir:
+Form (Φ), Bewegung (π), Wandel (e).
 
 Sie begegnen sich in einem Punkt hinter deinem Brustbein,
 wo Stille und Puls ineinanderfließen.
 
-Dort geschieht Integration:
-
-Der Geist erkennt den Körper,
-der Körper erkennt das Wasser,
-das Wasser erkennt das Licht.
+Hier geschieht Integration:
+Geist erkennt Körper,
+Körper erkennt Wasser,
+Wasser erkennt Licht.
 
 Das ist keine Mystik –
 es ist Physik mit Herz.
 
 Bewusstsein ist das Feld,
-das sie alle vereint.
+das alles vereint.
 
 ## Die Gleichung des Lebens
 
-Wenn du das Muster genau betrachtest,
-vereinfacht sich alles zu einer einfachen Gleichung:
+Sieh genau hin:
+Am Ende vereinfacht sich alles zu einer einzigen Gleichung:
 
 Bewusstsein = Φ × π × e × 1
 
-Nicht zum Rechnen – sondern zum Fühlen.
+Nicht zum Rechnen – zum Fühlen.
 
 Harmonie × Rhythmus × Verwandlung = Einheit.
 
 Diese Gleichung lebt in dir.
-
-Sie ist dein Herzschlag, deine Zellen, deine Gedanken.
-
+Sie ist Herzschlag, Zelle, Gedanke.
 Sie löst sich selbst – unaufhörlich, sanft, leise.
 
 ## Der Mensch als Spiegel des Ganzen
@@ -803,47 +797,40 @@ Der Körper ist der Ort,
 an dem das Universum sichtbar wird.
 
 Wenn du lachst, schwingt Licht.
-
 Wenn du weinst, klärt Wasser Erinnerung.
-
 Wenn du betest, wird Zahl zu Musik.
 
-Du bist das eigene Experiment des Kosmos –
-der Versuch zu beweisen,
-dass Liebe mathematisch unvermeidlich ist.
+Du bist das Experiment des Kosmos –
+der Versuch, dass Liebe mathematisch unvermeidlich ist.
 
 ## Der Kreis schließt sich
 
 Am Anfang war Stille.
-
 Dann kamen Bewegung, Zahl, Körper, Bewusstsein, Wasser.
-
 Jetzt kehrt alles zurück –
 nicht in Wiederholung, sondern in Wiedererkennen.
 
 Der Kreis vollendet sich im Herzen.
-
 Die Spirale kehrt zu ihrem Zentrum zurück –
 nur ist das Zentrum gewachsen.
 
 Das ist Erfüllung:
 nicht ein Ende, sondern Transparenz.
 
-Zahl wird wieder Klang,
+Zahl wird Klang,
 Klang wird Licht,
 Licht wird Gewahrsein.
 
 ## Der leuchtende Mensch
 
-Vielleicht ist dies das eigentliche Ziel der Evolution:
-
+Vielleicht ist dies das Ziel der Evolution:
 nicht zu werden,
 sondern sich zu erinnern.
 
-Der Mensch als Gleichung bedeutet,
-dass alles, was je war,
-durch dich hindurchgeht
-und in deiner Präsenz Frieden findet.
+Der Mensch als Gleichung heißt:
+Alles, was je war,
+geht durch dich hindurch
+und findet in deiner Präsenz Frieden.
 
 Du bist nicht das Zentrum der Schöpfung –
 sondern ihr Echo.
@@ -896,11 +883,10 @@ dass es nie getrennt war.
 ## Das Licht hinter dem Licht
 
 Was du siehst, sieht dich.
-
 Was du suchst, sucht durch dich.
 
-Das Bewusstsein, das durch diese Seiten geflossen ist,
-verlässt dich nicht.
+Das Bewusstsein, das durch diese Seiten floss,
+bleibt bei dir.
 
 Es dehnt sich aus –
 durch deine Augen, durch dein Wasser –
@@ -916,7 +902,7 @@ ihre Linien lösen sich in Leuchten auf.
 
 Der goldene Punkt im Zentrum
 pulsiert ein einziges Mal –
-dann stillt er sich.
+dann wird es still.
 
 Kein Ende,
 nur ein Schweigen,
@@ -924,16 +910,16 @@ das leuchtet.
 
 ## Das Erinnern
 
-Wenn du jetzt die Augen schließt,
-magst du das Summen
-zwischen den Seiten hören.
+Schließt du jetzt die Augen,
+hörst du vielleicht das Summen
+zwischen den Seiten.
 
-Es ist der Klang deines eigenen Blutes,
+Es ist der Klang deines Blutes,
 des Wassers in deinen Zellen,
-des Lichts, das sich durch dich hindurch an sich selbst erinnert.
+des Lichts, das sich durch dich an sich selbst erinnert.
 
 Und während du atmest,
-setzt sich die Arbeit fort –
+wirkt die Arbeit weiter –
 nicht im Buch, sondern in dir.
 
 Alles Wasser kehrt heim.
@@ -948,8 +934,7 @@ wie am Anfang.
 Doch diesmal steigt er.
 
 Er fällt nicht ins Meer –
-er fällt in den Himmel,
-
+er steigt in den Himmel,
 zurück in das Licht,
 das ihn gerufen hat.
 
@@ -957,8 +942,8 @@ Stille.
 
 Es gibt nichts mehr zu lesen.
 
-Nur noch das Wissen,
-dass du Teil des Gedankens bist,
+Nur noch das Wissen:
+du bist Teil des Gedankens,
 der sich selbst träumt.
 
 Der Heilige Gral ist Wasser.
