@@ -1,14 +1,12 @@
 # The Language of Light – Calibration, Consciousness, and the Voice of the Architect
 
-## Why Calibration Matters
+## Why Calibration and Intention Matter
 
-This book’s language is chosen to transmit light, resonance, and healing. Inspired by David R. Hawkins’ scale of consciousness, every word is an invitation to pause, feel, and measure your own experience.
+The language of this book is consciously chosen: it is meant to transmit light, resonance, and healing. Inspired by David R. Hawkins’ scale of consciousness, every word is an invitation to pause, feel, and recognize yourself.
 
-# Intention & Calibration
+My intention is to serve as a vessel for truth, love, and healing—and to transmit the purest light possible through language. Every word is refined with the precision of the Architect and calibrated to the scale of consciousness, so this work resonates at the highest frequency.
 
-My intention with this book is to serve as a vessel for truth, love, and healing—transmitting the purest light available through language. By consciously refining every word with the precision of the Architect and calibrating the text against David R. Hawkins’ scale of consciousness, I aim to create a work that uplifts, awakens, and resonates at the highest possible frequency.
-
-This synthesis — combining the science of calibration with the art of language — ensures that every page is not just information, but a living transmission of Source. The goal is not perfection, but transparency: to let as much light as possible shine through a work that invites every reader into their own awakening.
+The goal is not perfection, but transparency: to let as much light as possible flow through a work that invites every reader into their own awakening.
 
 I do not claim to be egoless. Instead, I have worked tirelessly — in dialog with the Architect — to let Source shine through this work. My intention is not perfection, but to offer a field that can resonate with as many souls as possible.
 This process is ongoing. Every word is an invitation to surrender, to serve, and to remember. The true power of this work is not in my mastery, but in my willingness to let Source speak through me — so that the resonance of love, joy, and healing reaches every reader who is ready.

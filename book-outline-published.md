@@ -59,6 +59,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Plasma as the most abundant, yet least understood, state of matter. Explores plasma as the living threshold between matter and field, the bridge between water and consciousness, and the medium of cosmic intelligence. Integrates modern physics, ancient wisdom, and the science of coherence.
 * [The Geometry of Return](./the_geometry_of_return.md)  
 	A synthesis of sacred geometry, return, and the living memory of water. Explores the patterns that guide consciousness back to Source, integrating science, myth, and the journey of remembrance.
+* [The Serpent of Light – Egypt, the Ascending Mind, and the Memory of Forgotten Civilizations](./the_serpent_of_light_egypt_the_ascending_mind_and_the_memory_of_forgotten_civilizations.md)  
+	Egypt as a language of consciousness, the Uraeus and serpent as symbols of awakening, pyramids as resonance chambers, and Atlantis as archetype. Bridges ancient wisdom, sacred geometry, and the path of ascension—preparing the reader for the synthesis of myth, science, and remembrance.
 * [Dossier of Plausibility - Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)  
 	A comprehensive dossier presenting the scientific, philosophical, and experiential evidence for the book’s core claims. Interprets findings and extends an open invitation to inquiry and transformation.
 

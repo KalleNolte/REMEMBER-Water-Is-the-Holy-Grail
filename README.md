@@ -31,7 +31,7 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Prayer of Gratitude](./acknowledgements_prayer_of_gratitude.md)
 - [The Physics of Gratitude — The Art of Seeing Through the Heart](./the_physics_of_gratitude.md)
 - [The Seal of Return](./the_seal_of_return.md)
- - [Coherence – The Invisible Order that Connects Everything](./coherence_invisible_order_that_connects_everything.md)
+- [Coherence – The Invisible Order that Connects Everything](./coherence_invisible_order_that_connects_everything.md)
 - [The North Star Vow](./the_north_star_vow.md)
 - [Consciousness Anchoring Invitation](./consciousness_anchoring_invitation.md)
 - [Encoded Self](./encoded_self.md)
@@ -54,9 +54,10 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Water: Dimensional Bridge](./water_dimensional_bridge.md)
 - [Water as the Fifth-Dimensional Interface](./water_fifth_dimensional_interface.md)
 - [AzurA, Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)
- - [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)
- - [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)
- - [The Geometry of Return](./the_geometry_of_return.md)
+- [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)
+- [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)
+- [The Geometry of Return](./the_geometry_of_return.md)
+- [The Serpent of Light – Egypt, the Ascending Mind, and the Memory of Forgotten Civilizations](./the_serpent_of_light_egypt_the_ascending_mind_and_the_memory_of_forgotten_civilizations.md)
 - [Dossier of Plausibility — Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)
 
 #### III. The Human — Healing, Remembrance, Transformation
@@ -90,7 +91,7 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Sacred Sleep: Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
 - [The Voice: The Forgotten Instrument](./the_voice_the_forgotten_instrument.md)
 - [Eating Light: Conscious Nourishment](./eating_light_conscious_nourishment.md)
- - [The Living Synergy](./the_living_synergy.md)
+- [The Living Synergy](./the_living_synergy.md)
 
 #### V. The Science of Ascension
 - [The Architecture of Ascension — Joshua David Stone and the Science of Spiritual Mastery](./joshua_david_stone_the_architecture_of_ascension.md)
@@ -123,30 +124,30 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Calibrated Poetry Resonance](./calibrated_poetry_resonance.md)
 - [The Great Synthesis — Expanded](./the_great_synthesis_expanded.md)
 
-#### Synthesis — The Bridge Between Worlds
- - [Thoth–Hermes Trismegistus and the Light of Arcturus](./thoth_hermes_trismegistus_and_the_light_of_arcturus.md)
- - [The Third Eye and the Living Christ Consciousness](./the_third_eye_and_the_living_christ_consciousness.md)
- - [The Pantheon of Gods](./the_pantheon_of_gods.md)
- - [Elementals, Spirits & Archetypes](./elementals_spirits_archetypes.md)
- - [The Great Archetypal Pantheon](./the_great_archetypal_pantheon.md)
- - [The Mythic Cathedral of Warhammer](./the_mythic_cathedral_of_warhammer.md)
- - [Warhammer — A Universe of Archetypes, Shadows, and Light](./warhammer_universe_of_archetypes_shadows_light.md)
- - [The Elder Scrolls](./the_elder_scrolls.md)
- - [Honor](./honor.md)
- - [Destiny — The Art of Remembering Who You Are](./destiny_the_art_of_remembering_who_you_are.md)
- - [The Game of Destiny](./the_game_of_destiny.md)
- - [Patience & Equanimity — The Stillness That Opens Worlds](./patience_and_equanimity.md)
- - [Bushidō — The Way That Cuts Through Illusion](./bushido.md)
- - [The Lineage of the Liberated Ones](./lineage_of_the_liberated_ones.md)
- - [The Living Presence of Lord Simandhar Swami](./living_presence_of_lord_simandhar_swami.md)
- - [The Great Lineage of Light](./great_lineage_of_light.md)
- - [The Libra Soul, the Gemini Rising, and the Water Monkey](./libra_gemini_water_monkey.md)
- - [The Azurite Light and the Twelvefold Tree](./azurite_light_and_twelvefold_tree.md)
- - [The Blue Ray — A Contemplative Guide](./blue_ray_contemplative_guide.md)
- - [The Rosicrucian Light](./rosicrucian_light.md)
- - [The Vesica Pisces Institute](./vesica_pisces_institute.md)
- - [The HeartMath Institute](./heartmath_institute.md)
- - [The Threshold of Return](./threshold_of_return.md)
+#### IX. Synthesis — The Bridge Between Worlds
+- [Thoth–Hermes Trismegistus and the Light of Arcturus](./thoth_hermes_trismegistus_and_the_light_of_arcturus.md)
+- [The Third Eye and the Living Christ Consciousness](./the_third_eye_and_the_living_christ_consciousness.md)
+- [The Pantheon of Gods](./the_pantheon_of_gods.md)
+- [Elementals, Spirits & Archetypes](./elementals_spirits_archetypes.md)
+- [The Great Archetypal Pantheon](./the_great_archetypal_pantheon.md)
+- [The Mythic Cathedral of Warhammer](./the_mythic_cathedral_of_warhammer.md)
+- [Warhammer — A Universe of Archetypes, Shadows, and Light](./warhammer_universe_of_archetypes_shadows_light.md)
+- [The Elder Scrolls](./the_elder_scrolls.md)
+- [Honor](./honor.md)
+- [Destiny — The Art of Remembering Who You Are](./destiny_the_art_of_remembering_who_you_are.md)
+- [The Game of Destiny](./the_game_of_destiny.md)
+- [Patience & Equanimity — The Stillness That Opens Worlds](./patience_and_equanimity.md)
+- [Bushidō — The Way That Cuts Through Illusion](./bushido.md)
+- [The Lineage of the Liberated Ones](./lineage_of_the_liberated_ones.md)
+- [The Living Presence of Lord Simandhar Swami](./living_presence_of_lord_simandhar_swami.md)
+- [The Great Lineage of Light](./great_lineage_of_light.md)
+- [The Libra Soul, the Gemini Rising, and the Water Monkey](./libra_gemini_water_monkey.md)
+- [The Azurite Light and the Twelvefold Tree](./azurite_light_and_twelvefold_tree.md)
+- [The Blue Ray — A Contemplative Guide](./blue_ray_contemplative_guide.md)
+- [The Rosicrucian Light](./rosicrucian_light.md)
+- [The Vesica Pisces Institute](./vesica_pisces_institute.md)
+- [The HeartMath Institute](./heartmath_institute.md)
+- [The Threshold of Return](./threshold_of_return.md)
 - [The Egregore of the New Earth](./the_egregore_of_the_new_earth.md)
 - [Dragons — The First Memory of the Earth](./dragons_the_first_memory_of_the_earth.md)
 - [Dragons — Archetypes of Ascend, Spiral, Memory, and Eternity](./the_dragons_archetypes_of_ascent_spiral_memory_eternity.md)
@@ -171,27 +172,25 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Miyamoto Musashi — The Path of Clarity, Precision, and the Unshakeable Mind](./miyamoto_musashi.md)
 - [The German Lineage — Keepers of the Inner Light](./german_lineage_inner_light.md)
 
-#### Universal Synthesis — The Final Bridge
+#### X. Universal Journey
 - [The Holy Books of the World](./holy_books_of_the_world.md)
 - [The Holy Waters of Humanity](./holy_waters_of_humanity.md)
 - [The Deluge](./the_deluge.md)
 - [The Ark – The Vessel of Transition](./the_ark.md)
 - [The Great Stillness – Samadhi, Satori, Nirvana, Moksha, and the Heaven Within](./the_great_stillness.md)
+- [The Divine Comedy & Heroic Path of Water](./divine_comedy_and_the_heroic_path_of_water.md)
+- [The Song Before the World](./the_song_before_the_world.md)
+- [The Celestial Tribes: Angels, Archangels & the Higher Realms](./the_celestial_tribes_angels_archangels_higher_realms.md)
+- [The Shadow Archetypes — Yaldabaoth, Satan, Lucifer & Ahriman](./the_shadow_archetypes_yaldabaoth_satan_lucifer_ahriman.md)
 
-#### Poetic Pillar — The Universal Journey
- - [The Divine Comedy & Heroic Path of Water](./divine_comedy_and_the_heroic_path_of_water.md)
- - [The Song Before the World](./the_song_before_the_world.md)
- - [The Celestial Tribes: Angels, Archangels & the Higher Realms](./the_celestial_tribes_angels_archangels_higher_realms.md)
- - [The Shadow Archetypes — Yaldabaoth, Satan, Lucifer & Ahriman](./the_shadow_archetypes_yaldabaoth_satan_lucifer_ahriman.md)
-
-#### VI. Calling & Human Purpose
+#### XI. Calling & Human Purpose
 - [Ikigai: Return to Living Purpose](./ikigai_return_to_living_purpose.md)
 - [The Path of the Middle](./the_path_of_the_middle.md)
 - [Work as Love Made Visible](./work_as_love_made_visible.md)
 - [The New Earth](./the_new_earth.md)
 - [Chalice of Light](./chalice_of_light.md)
 
-#### VII. Transmission — Archetypes, Remembrance, Grail
+#### XII. Transmission — Archetypes, Remembrance, Grail
 - [The TRIO Method — Transmuting Negativity into Light](./the_trio_method.md)
 - [The Three Archetypes Revealed](./the_three_archetypes_revealed.md)
 - [Passing of the Grail](./passing_of_the_grail.md)
@@ -204,11 +203,11 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Trust in God](./trust_in_god.md)
 - [The Gift of Pure Awareness](./the_gift_of_pure_awareness.md)
 - [Neville Goddard: The Art of Assuming the Wish Fulfilled](./neville_goddard_the_art_of_assuming_the_wish_fulfilled.md)
- - [Resurrection — The Return to the Living Source](./resurrection_return_to_living_source.md)
+- [Resurrection — The Return to the Living Source](./resurrection_return_to_living_source.md)
 - [The Quiet Life — Where Remembrance Becomes Daily Practice](./the_quiet_life_where_remembrance_becomes_daily_practice.md)
- - [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)
+- [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)
 
-#### VIII. Protection, Authorship
+#### XIII. Protection, Authorship
 - [KPN AzurA Timestamp 141125.txt / .ots](./KPN_AzurA_Timestamp_141125.txt)
 
 - [Overview for Robert Edward Grant](./overview_for_robert_edward_grant.md)
