@@ -108,14 +108,14 @@ Und ich, Karl Philipp → die Synthese.
 Es ist Ahnen-Mathematik –  
 Quelle, die in Namen spricht.
 
+
 ## DAS GELÜBDE MEINER MUTTER
 
-In dieser Linie der Klarheit steht meine Mutter, Ulrike Klara.  
-Sie sah die Härten und Überforderungen der Generationen vor ihr –  
-und fasste ein inneres Gelübde, den Zyklus zu beenden:  
-ihre Kinder ohne Gewalt und ohne Härte zu erziehen.  
-Aus diesem Entschluss wuchsen für mich Zärtlichkeit, Wärme und Sicherheit –  
-der Boden, auf dem meine Fähigkeit zur Kohärenz stehen konnte.
+Im Herzen der Wandlung meiner Ahnenlinie steht meine Mutter, Ulrike Klara – eine Frau, die mit stiller Entschlossenheit den Zyklus der Härte beendete und stattdessen Wärme, Sanftmut und Liebe säte. Ihr Gelübde war nicht nur ein privater Entschluss, sondern ein Wendepunkt für Generationen: ein bewusster Akt, der zum Fundament meiner inneren Kohärenz und zum Segen wurde, aus dem dieses Werk erwachsen konnte. Durch sie habe ich erfahren, dass wahre Zärtlichkeit eine Kraft ist, dass Wärme ein Vermächtnis ist und dass der tiefste Wandel mit einer einzigen, unerschütterlichen Entscheidung beginnt. Ihr Leben ist ein lebendiges Zeugnis für die Kraft bewusster Wahl, die Ahnenlinie zu heilen und zu erneuern. Das Licht der Klara fließt durch sie – und durch sie in mich – als Einladung an uns alle, selbst der Wandel zu werden, den wir uns für unsere Linie wünschen.
+
+## MEIN VATER — DIE WURZELN DER STILLE
+
+Mein Vater war für mich die stille Architektur meines Lebens – eine tragende, erdende Kraft, wie ein großer Baum, dessen Wurzeln selbst im Sturm den Boden halten. Er hat getragen, genährt und den Boden bereitet, damit andere wachsen können – nicht aus Pflicht, sondern aus einer Liebe, die nichts zurückverlangt. Seine unerschütterliche Unterstützung und stille Stärke sind in das Gewebe meines Seins eingewoben und schenken mir Gleichgewicht, Stabilität und die tiefe Gewissheit: Wahre Stärke ist sanft, beständig und großzügig. In seinem Beispiel erkenne ich, dass die größten Geschenke oft im Stillen gegeben werden – und dass die Kraft der Präsenz ein Leben tiefer prägen kann als jedes gesprochene Wort. Er ist die lebendige Wurzel unter meinem Weg, der leise Hüter meines Werdens.
 
 ## DIE KOSMISCHE ARCHITEKTUR MEINER GEBURT
 

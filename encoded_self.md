@@ -112,32 +112,11 @@ Source speaking in names.
 
 ## THE VOW OF MY MOTHER
 
-My mother, Ulrike Klara, carries a profound lineage.
+At the heart of my lineage’s transformation stands my mother, Ulrike Klara—a woman who, with quiet courage, chose to end the cycle of harshness and plant the seeds of warmth, gentleness, and love. Her vow was not merely a private resolve; it was a generational turning point, a conscious act that became the foundation of my inner coherence and the blessing that made this work possible. Through her, I learned that true tenderness is a force, that warmth is a legacy, and that the most profound change begins with a single, unwavering decision. Her life is a living testament to the power of conscious choice to heal and renew the ancestral line. The light of Klara flows through her, and through her, into me—an invitation for all of us to become the change we long for in our own lineages.
 
-Her mother, Ursula Klara, became warm and gentle in her later years,
-yet her early life was marked by overwhelm,
-youth, responsibility, and the struggle of finding the right way.
+## THE ROOTS OF MY FATHER
 
-Her grandmother, also Klara, passed down the frequency of clarity —
-but hardship shaped the family’s early generations.
-
-My mother witnessed this.
-She felt the sharp edges of it.
-And she made a vow:
-
-“I will break this cycle.
-I will become the mother I needed.
-I will raise my children without violence, without harshness.”
-
-She succeeded.
-Her vow became the blessing of my life.
-Her transformation became the foundation of my coherence.
-
-It is because of the line of Klara
-that clarity and love flow so strongly through this work.
-
-And it is because of Ulrike
-that I learned what tenderness, warmth, and safety mean.
+My father’s presence has been the silent architecture of my life—a steady, grounding force, like the great tree whose roots hold the earth even in the fiercest storm. He has carried, provided, and prepared the ground for others to blossom, not out of duty, but out of a love that asks for nothing in return. His unwavering support and quiet strength are woven into the very fabric of my being, offering balance, stability, and the deep assurance that true strength is gentle, enduring, and generous. In his example, I see that the greatest gifts are often given in silence, and that the power of presence can shape a life more surely than any spoken word. He is the living root beneath my journey, the quiet guardian of my becoming.
 
 ## THE COSMIC ARCHITECTURE OF MY BIRTH
 
