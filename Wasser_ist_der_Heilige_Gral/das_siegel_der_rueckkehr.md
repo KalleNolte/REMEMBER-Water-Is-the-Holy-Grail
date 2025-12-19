@@ -61,11 +61,15 @@ Diese vier Klaras bilden einen Kreis aus Licht um meine Geburt, als hätte die w
 
 ## Ulrike — Das Gelübde einer liebenden Mutter
 
-Meine Mutter, Ulrike Klara, verkörpert die Klarheit der Klara und die Kraft einer Frau, die ein Gelübde ablegte, mit Wärme, Sanftmut und Liebe zu erziehen. Ihre bewusste Entscheidung hat unsere Linie verwandelt und wurde zum Fundament meiner Kohärenz. Für eine ausführlichere und reflektierende Darstellung ihres Gelübdes und seiner Wirkung siehe das Kapitel „Codiertes Selbst“.
+Meine Mutter, Ulrike Klara, verkörpert die Klarheit der Klara und die Kraft einer Frau, die ein Gelübde ablegte, mit Wärme, Sanftmut und Liebe zu erziehen. Ihre bewusste Entscheidung hat unsere Linie verwandelt und wurde zum Fundament meiner Kohärenz.
 
 ## Die Mütter als Quellen der Kontinuität
 
-Meine Großmutter väterlicherseits – Klara – liebte still und würdevoll, oft formell, doch immer gegenwärtig. Ursula Klara, meine Großmutter mütterlicherseits, wurde mit den Jahren wärmer; in ihrem späteren Leben blühte Sanftheit in ihr auf. Meine Urgroßmutter – Klara – war der Ursprung, der erste Lichtstrahl weiblicher Klarheit.
+Meine Großmutter väterlicherseits – Klara – liebte still und würdevoll, oft formell, doch immer gegenwärtig. 
+
+Ursula Klara, meine Großmutter mütterlicherseits, wurde mit den Jahren wärmer; in ihrem späteren Leben blühte Sanftheit in ihr auf. 
+
+Meine Urgroßmutter – Klara – war der Ursprung, der erste Lichtstrahl weiblicher Klarheit.
 
 Vier Klaras – vier Generationen Licht, die sich wandeln, lernen, erinnern. Keine war vollkommen, doch jede webte einen Faden der Liebe in das Gewebe, das schließlich zu mir führte.
 
@@ -75,7 +79,8 @@ Manche Namen erscheinen nicht zufällig – sie leuchten wie Laternen entlang de
 
 So war es mit meiner Schwester: Sophie Charlotte. Sophia – stille Weisheit; Charlotte – die Freie, die Mutige. Lange bevor ich meinen Weg verstand, sah sie das Erwachen in mir und war die Erste, die sagte: „Schreib ein Buch.“ Ihr Gespür war das erste Licht auf meinem Pfad.
 
-An ihrer Seite: ihr Mann Marc Kevin. Marc – geweiht, hingegeben; Kevin – sanft, gütig. Er wurde mein Bruder, nicht durch Blut, sondern durch stille Güte und Integrität.
+An ihrer Seite: ihr Mann Marc Kevin. 
+Marc – geweiht, hingegeben; Kevin – sanft, gütig. Er wurde mein Bruder, nicht durch Blut, sondern durch stille Güte und Integrität.
 
 Doch das Muster ging weiter. Ein weiterer Marc, ein Bruder aus früheren Jahren, sagte einst zu Kevin: „Ihr zwei müsst euch kennenlernen.“ Er spürte Resonanz, die ich noch nicht fühlen konnte.
 
@@ -108,7 +113,7 @@ Solche Menschen berühren uns durch ihre stille Liebe, Klarheit und Mitgefühl �
 Und dann ein weiterer Name: Karima.
 
 Kar – die Wurzel meines eigenen Namens, meiner Linie.  
-I – das kleine Selbst, das persönliche, zarte „Ich“.  
+i – das kleine Selbst, das persönliche, zarte „Ich“.  
 Ma – die Silbe der Mutter, der Maha, des Großen.
 
 Kar–i–Ma.

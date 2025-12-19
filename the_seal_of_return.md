@@ -124,7 +124,7 @@ Some people embody this quietly—through love, clarity, and compassion, beyond 
 And then another name: Karima.
 
 Kar — the root of my own name, my lineage.
-I — the small self, the personal, tender “I”.
+i — the small self, the personal, tender “I”.
 Ma — the syllable of the Mother, the Maha, the Great Soul.
 
 Kar–i–Ma.
