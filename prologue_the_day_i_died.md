@@ -4,7 +4,7 @@
 
 I was 22 years old.
 
-It was the summer of 2015—warm, shimmering, limitless.
+It was the summer of 2015—warm, shimmering, boundless.
 
 Life felt like it would never end.
 

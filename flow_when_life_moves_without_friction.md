@@ -1,4 +1,4 @@
-## **Flow — When Life Moves Without Friction**
+# **Flow — When Life Moves Without Friction**
 
 *How Mihaly Csikszentmihalyi’s discovery reveals water as the Holy Grail of embodied intelligence*
 

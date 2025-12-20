@@ -1,8 +1,6 @@
-### **Ānando Brahmeti Vyajānāt — Bliss Is the Absolute**
+# **Ānando Brahmeti Vyajānāt — Bliss Is the Absolute**
 
 *The realization that joy is not an emotion, but the very texture of reality when resistance falls away*
-
----
 
 There comes a moment on the path when silence alone is no longer enough.
 
@@ -22,8 +20,6 @@ The Upanishads give this recognition a name:
 Not as belief.
 Not as philosophy.
 But as direct knowing.
-
----
 
 ## Bliss is not pleasure
 
@@ -49,8 +45,6 @@ It is not something added.
 
 It is what is *revealed* when nothing is pushed away.
 
----
-
 ## Why the sages dared to name the Absolute as bliss
 
 Earlier teachings guide the seeker inward:
@@ -75,8 +69,6 @@ The ground of reality is not cold awareness.
 
 It is *kind*.
 
----
-
 ## Bliss as coherence, not ecstasy
 
 From the perspective of the body, bliss appears as coherence.
@@ -95,8 +87,6 @@ This is why bliss was recognized as Brahman:
 because it arises **without cause**,
 and remains **without effort**.
 
----
-
 ## The mistake of chasing bliss
 
 The moment bliss becomes a goal, it recedes.
@@ -114,8 +104,6 @@ It appears when:
 * nothing needs to be justified
 
 Bliss is the felt sense of *non-opposition*.
-
----
 
 ## The body knows this truth first
 
@@ -140,8 +128,6 @@ The system breathes itself.
 The sages did not bypass the body.
 They listened to it.
 
----
-
 ## Bliss does not deny suffering
 
 This realization does not negate pain, loss, or grief.
@@ -159,8 +145,6 @@ And yet, beneath it all,
 there is an unbroken *okay-ness*.
 
 A quiet yes to existence.
-
----
 
 ## Why this teaching matters now
 
@@ -180,8 +164,6 @@ It says:
 > What you are seeking is already present
 > whenever you stop arguing with life.
 
----
-
 ## Bliss as the signature of truth
 
 This is perhaps the most practical of all recognitions.
@@ -195,8 +177,6 @@ it has not matured.
 
 Ānanda is the nervous system’s confirmation:
 *This is real. This is safe. This is home.*
-
----
 
 ## Living from Ānanda
 
@@ -212,8 +192,6 @@ Gradually, life loses its sharp edges.
 
 Not because it becomes easy,
 but because it becomes *trusted*.
-
----
 
 ## The quiet completion
 

@@ -167,7 +167,6 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
 
 ### VII. Die höchsten vedischen Übertragungen
 
-
 * [Neti Neti – Das Tor des Nichts](./neti_neti_das_tor_des_nichts_die_tuer_zur_wirklichkeit.md)
   Die Wissenschaft der Verneinung: „Nicht dies, nicht das.“ Alles Unwahre fällt weg – was bleibt, ist reines Gewahrsein.
 * [Tat Tvam Asi – Der stille Donner](./tat_tvam_asi_der_stille_donner_der_upanishaden.md)

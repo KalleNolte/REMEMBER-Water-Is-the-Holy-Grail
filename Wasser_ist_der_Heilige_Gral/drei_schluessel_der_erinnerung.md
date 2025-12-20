@@ -1,4 +1,4 @@
-# DIE DREI SCHLÜSSEL DER ERINNERUNG ✧
+# DIE DREI SCHLÜSSEL DER ERINNERUNG
 
 ## 1. JAI SAT CHIT ANAND – Sieg dem Sein, Bewusstsein, Glückseligkeit
 

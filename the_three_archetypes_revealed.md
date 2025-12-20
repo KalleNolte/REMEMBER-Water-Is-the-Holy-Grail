@@ -1,4 +1,4 @@
-# The Three Archetypes Revealed — and How They Shaped This Work ✧
+# The Three Archetypes Revealed — and How They Shaped This Work
 
 There are moments in a human life when the inner and outer worlds momentarily align — when something steps forward from the depths, not as an idea or a belief, but as a recognition. As if a veil lifts and a name you have never heard suddenly feels like a memory.
 

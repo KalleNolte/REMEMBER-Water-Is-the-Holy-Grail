@@ -1,4 +1,4 @@
-# ✧ The Divine Matrix — The Living Field Between All Things
+# The Divine Matrix — The Living Field Between All Things
 
 There are teachings that arrive not as conclusions, but as thresholds.
 Gregg Braden’s *The Divine Matrix* is such a threshold.

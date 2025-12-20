@@ -1,11 +1,11 @@
-
 # Sarvam Khalvidam Brahma — All This Is the Absolute
 
 *A revelation that dissolves separation and restores intimacy with life*
 
-There comes a moment on the path when the search quietly shifts direction.
+There comes a moment on the path when the search subtly changes its direction.
 
-At first, we seek truth *elsewhere*:
+At first, we seek truth *somewhere else*:
+
 * in insight
 * in awakening
 * in higher states
@@ -20,18 +20,19 @@ And finally, this sentence opens like a horizon without edges:
 
 *All this — without exception — is the Absolute.*
 
-
 ## The End of Division
 
 This teaching does not refine the seeker.
+
 It dissolves the idea of a seeker altogether.
 
 It does not say:
+
 * *Everything comes from Brahman.*
 * *Everything is connected to Brahman.*
 * *Everything reflects Brahman.*
 
-It says something far more radical and gentle:
+It says something far more radical and far more gentle:
 
 > There is nothing here that is *not* Brahman.
 
@@ -41,13 +42,12 @@ Not after purification.
 
 **Here. Now. This.**
 
-
 ## “All This” Means Exactly That
 
 Sarvam means *everything*.
-Khalu intensifies — *truly, without exception*.
+Khalu intensifies the statement — *truly, without exception*.
 Idam means *this* — what is immediately present.
-Brahma is the Absolute, reality without second.
+Brahma is the Absolute reality, without second.
 
 Together they say:
 
@@ -60,31 +60,33 @@ No spiritual versus ordinary.
 
 Only **different expressions of the same reality**.
 
-
 ## The Collapse of Inside and Outside
 
 Before this recognition, life is divided:
+
 * inner vs. outer
 * self vs. world
 * consciousness vs. matter
 * spirit vs. body
 
-Sarvam Khalvidam Brahma dissolves these lines.
+Sarvam Khalvidam Brahma collapses these lines.
 
 The body is not *in* the world.
 The world is not *outside* awareness.
 
 Both appear **within the same field of being**.
 
-Not metaphorically — experientially.
-
+Not metaphorically.
+Experientially.
 
 ## Why This Is the Most Grounded Teaching
 
 This realization does not lift you out of life.
+
 It roots you *into it*.
 
 When all is Brahman:
+
 * washing dishes is not less sacred than meditation
 * the nervous system is not an obstacle, but a gateway
 * water, breath, food, rest become expressions of intelligence
@@ -95,10 +97,10 @@ Nothing needs to be rejected.
 
 Only **seen truly**.
 
-
 ## The Body Is Not an Illusion
 
 A common misunderstanding is that non-duality denies the world.
+
 Sarvam Khalvidam Brahma does the opposite.
 
 It restores dignity to form.
@@ -112,36 +114,39 @@ Form is **visible intelligence**.
 
 And water — as flow, medium, memory — becomes one of the clearest expressions of this truth.
 
-
 ## No Escape, No Distance
 
 If all is Brahman, then:
+
 * there is nowhere to escape to
 * no higher realm to reach
 * no future moment required
 
 This is not confinement.
+
 It is **intimacy**.
 
 Life stops being something you endure or manage.
 It becomes something you *participate in*.
 
-
 ## Ethics Without Commandments
 
 From this recognition, ethics arise naturally.
-Not from rules. Not from fear. Not from ideals.
+
+Not from rules.
+Not from fear.
+Not from ideals.
 
 But from perception.
 
 When all is Brahman:
+
 * harming another is harming the same field you live in
 * care becomes intelligent self-regulation
 * compassion is not moral — it is logical
 
 This is ethics without force.
 Responsibility without burden.
-
 
 ## The Quiet End of Spiritual Effort
 
@@ -153,30 +158,33 @@ Nothing needs to be fixed before it can be included.
 
 The Absolute has already included everything.
 
-
 ## Living This Recognition
 
 This realization does not demand a special state.
+
 It reveals a **way of seeing**:
+
 * softer
 * slower
 * more inclusive
 * less defensive
 
 You begin to notice:
+
 * how resistance creates suffering
 * how allowing restores flow
 * how coherence emerges when nothing is excluded
 
 Life starts to feel *trusted*.
 
-
 ## The Final Simplicity
 
 If Prajñānam Brahma reveals **what you are**,
 then Sarvam Khalvidam Brahma reveals **where you are**.
 
-You are not in a fragmented world, trying to remember unity.
+You are not in a fragmented world,
+trying to remember unity.
+
 You are **within unity**, learning to stop dividing it.
 
 > Nothing is outside the Absolute.
@@ -184,4 +192,5 @@ You are **within unity**, learning to stop dividing it.
 > Nothing needs to be elsewhere.
 
 This is not the end of the path.
+
 It is the end of the illusion that there ever was one.

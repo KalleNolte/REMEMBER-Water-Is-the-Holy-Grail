@@ -2,8 +2,6 @@
 
 *Die Erkenntnis, dass Freude kein Gefühl ist, sondern die Grundtextur der Wirklichkeit, wenn Widerstand endet*
 
----
-
 Es kommt ein Punkt auf dem Weg,
 an dem Stille allein nicht mehr genügt.
 
@@ -23,8 +21,6 @@ Die Upanishaden geben dieser Erkenntnis einen Namen:
 Nicht als Glauben.
 Nicht als Philosophie.
 Sondern als unmittelbares Wissen.
-
----
 
 ## Glückseligkeit ist nicht Vergnügen
 
@@ -55,8 +51,6 @@ Es ist das,
 was **sichtbar wird**,
 wenn nichts mehr abgewehrt wird.
 
----
-
 ## Warum die Weisen es wagten, das Absolute als Glückseligkeit zu benennen
 
 Die vorhergehenden Erkenntnisse führen nach innen:
@@ -83,8 +77,6 @@ Der Grund der Wirklichkeit ist nicht kalt.
 
 Er ist **gütig**.
 
----
-
 ## Glückseligkeit als Kohärenz, nicht als Ekstase
 
 Aus der Perspektive des Körpers zeigt sich Glückseligkeit als Ordnung.
@@ -102,8 +94,6 @@ Und doch ist alles anders.
 Darum erkannten die Weisen Glückseligkeit als Brahman:
 weil sie **ursachlos** erscheint
 und **mühelos** bleibt.
-
----
 
 ## Der Irrtum, Glückseligkeit zu suchen
 
@@ -123,8 +113,6 @@ Sie erscheint, wenn:
 * nichts gerechtfertigt werden will
 
 Glückseligkeit ist das gespürte Erleben von **Nicht-Gegnerschaft**.
-
----
 
 ## Der Körper erkennt diese Wahrheit zuerst
 
@@ -150,8 +138,6 @@ Das System atmet sich selbst.
 Die Weisen haben den Körper nicht übergangen.
 Sie haben ihm zugehört.
 
----
-
 ## Glückseligkeit verneint Leid nicht
 
 Diese Erkenntnis hebt Schmerz, Verlust oder Trauer nicht auf.
@@ -169,8 +155,6 @@ Und doch liegt darunter
 ein ungebrochenes **Einverstanden-Sein**.
 
 Ein stilles Ja zum Dasein.
-
----
 
 ## Warum diese Lehre heute entscheidend ist
 
@@ -190,8 +174,6 @@ Es sagt:
 > Das, wonach du suchst, ist immer dann gegenwärtig,
 > wenn du aufhörst, mit dem Leben zu streiten.
 
----
-
 ## Glückseligkeit als Signatur der Wahrheit
 
 Vielleicht ist dies die praktischste aller Erkenntnisse.
@@ -207,8 +189,6 @@ ist sie noch nicht gereift.
 Ānanda ist die Bestätigung des Nervensystems:
 *Das ist real. Das ist sicher. Das ist Zuhause.*
 
----
-
 ## Leben aus Ānanda
 
 Diese Lehre zu leben heißt nicht, ständig zu lächeln,
@@ -223,8 +203,6 @@ Nach und nach verlieren die Dinge ihre Schärfe.
 
 Nicht, weil das Leben leichter wird,
 sondern weil es **vertrauenswürdig** wird.
-
----
 
 ## Die stille Vollendung
 
