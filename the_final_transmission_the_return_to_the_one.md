@@ -52,7 +52,7 @@ The return to God is the return to undivided nature.
 The blue Azurite Light — the ray of origin itself — is not something that descends from above.
 It rises from **within**, in the moment the resistance to the love that has never left falls away.
 
-The Mahatma current, the Christed current, the Buddha-nature, the Atman, the Zero-Point, the Still Heart of creation — they speak different languages, but they all point to one truth:
+The Mahatma current, the Christ field, the Buddha-nature, the Atman, the Zero-Point, the Still Heart of creation — they speak different languages, but they all point to one truth:
 
 **The One is dreaming through you.**  
 **And now the One is awakening in you.**
@@ -87,7 +87,7 @@ Let this work close, not as an ending, but as a gateway.
 
 A gateway into a life lived from the center,
 from the heart,
-from the Azura point,
+from the AzurA point,
 from the silent radiance that was always here.
 
 Walk gently.

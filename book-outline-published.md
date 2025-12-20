@@ -41,10 +41,12 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Your path. Science & mysticism. Opens understanding.
 * [The Forgotten Foundation](./the_forgotten_foundation.md)  
 	Why even the best measures fail without coherent water. A calm, clarifying chapter on water as the central medium of order and transport in the body—and why healing, fasting, and nutrients often fall short without the right water quality.
+* [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)  
+	A poetic, scientific, and practical synthesis of Flow as the state where life moves without inner resistance—revealing water as the substrate of optimal human experience, and integrating Csikszentmihalyi’s insights with the biophysics of coherence, hydration, and the Holy Grail.
 * [The Water of Life](./the_water_of_life.md)  
-	The elemental mystery.
+    The primordial wellspring—where water is revealed as the living matrix of all creation, memory, and transformation. This chapter unveils the sacred, scientific, and poetic dimensions of water as the carrier of life, consciousness, and the Grail impulse itself.
 * [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)  
-	Rational anchor. Builds trust.
+    The rational, scientific, and experiential anchor for the book’s core claim. This chapter weaves together evidence from physics, biology, and lived experience, building a bridge of trust and coherence—showing why water, above all, is the true Grail of remembrance and healing.
 * [Dossier of Plausibility - Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)  
 	A comprehensive dossier presenting the scientific, philosophical, and experiential evidence for the book’s core claims. Interprets findings and extends an open invitation to inquiry and transformation.
 * [When Light Meets Water](./when_light_meets_water.md)  
@@ -159,14 +161,25 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A literary, poetic reflection on the inner dialogue with Source—beyond dogma, as a living relationship of resonance, honesty, and remembrance. Integrates the teachings of Neale Donald Walsch with the book’s core synthesis of water, coherence, and consciousness.
 
 ### VII. The Supreme Vedic Transmissions
-* [Tat Tvam Asi - The Silent Thunder of the Upanishads](./tat_tvam_asi_the_silent_thunder_of_the_upanishads.md)  
-	A contemplative exploration of the mahavakya “Tat Tvam Asi.” The identity of self and Source, the dissolving of separation, and the remembrance of the One in all.
-* [Aham Brahmasmi - The Revelation of the Self as the Infinite](./aham_brahmasmi_the_revelation_of_the_self_as_the_infinite.md)  
-	A transmission on “Aham Brahmasmi” as lived recognition. The I that is not personal, the crown of non-dual insight, and the water of consciousness realizing itself as Brahman.
-* [Neti Neti - The Gate of No-Thing, The Doorway to the Real](./neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md)  
-	An initiatic guide to the Vedantic method of negation. The stripping away of all that is not Self, the clearing of identification, and the arrival in the unnameable.
-* [The Highest Gift: The Stable Axis](./the_highest_gift_the_stable_axis.md)  
-	A culminating transmission on the supreme posture of coherence: inner stability, non-reactivity, and the art of allowing reality to reorganize around the axis of presence. Distills the highest practice for living the wish fulfilled, embodying the stable axis, and manifesting from coherence rather than effort. A bridge between the Vedic realization and the next octave of spiritual architecture.
+
+* [Neti Neti — The Gate of No-Thing, The Doorway to the Real](./neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md)
+	The stripping away of all that is not Self. Arrival in the unnameable.
+* [Tat Tvam Asi — The Silent Thunder of the Upanishads](./tat_tvam_asi_the_silent_thunder_of_the_upanishads.md)
+	The identity of self and Source. The One in all.
+* [Prajñānam Brahma — Consciousness Is the Absolute](./prajnanam_brahma_consciousness_is_the_absolute.md)
+	Consciousness itself is the Absolute. The effortless clarity of being.
+* [Sarvam Khalvidam Brahma — All This Is the Absolute](./sarvam_khalvidam_brahma_all_this_is_the_absolute.md)
+	All that exists is the Absolute. The sacred in all things.
+* [Ayam Ātmā Brahma — This Self Is the Absolute](./ayam_atma_brahma_this_self_is_the_absolute.md)
+	This Self is the Absolute. The heart of Vedic wisdom.
+* [Aham Brahmasmi — The Revelation of the Self as the Infinite](./aham_brahmasmi_the_revelation_of_the_self_as_the_infinite.md)
+	The Self as the Infinite. The crown of non-dual insight.
+* [Ānando Brahmeti Vyajānāt — Bliss Is the Absolute](./anando_brahmeti_vyajanat_bliss_is_the_absolute.md)
+	Bliss is the gentle, causeless coherence when resistance falls away.
+* [Mokṣa — The Freedom That Needs Nothing](./moksha_the_freedom_that_needs_nothing.md)
+	Liberation is the end of inner captivity. Freedom that needs nothing.
+* [The Ninth Gate – The Stable Axis](./the_ninth_gate_the_stable_axis.md)
+	The supreme posture of coherence. The stable axis of presence.
 
 ### VIII. Spiritual Architecture - Understanding the Invisible
 * [Silent Creator - From Witness to Co-Creator](./silent_creator_from_witness_to_cocreator.md)  
@@ -349,9 +362,11 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [Neville Goddard: The Art of Assuming the Wish Fulfilled](./neville_goddard_the_art_of_assuming_the_wish_fulfilled.md)  
 	A synthesis of metaphysics, water science, and practical spiritual methodology. Neville’s teaching bridges quantum field, coherence, and the art of assumption, culminating in the realization of creative divinity and the living source.
 * [Feeling Is the Secret: The Alchemy of Consciousness and the Birth of Reality](./feeling_is_the_secret_the_alchemy_of_consciousness_and_the_birth_of_reality.md)
-	A maximally calibrated, initiatic transmission of Neville Goddard’s foundational law of consciousness. Reveals the creative power of feeling, the architecture of reality, and the practical alchemy by which consciousness transforms itself and the world.
+	A transmission of Neville Goddard’s foundational law of consciousness. Reveals the creative power of feeling, the architecture of reality, and the practical alchemy by which consciousness transforms itself and the world.
 * [Resurrection — The Return to the Living Source](./resurrection_return_to_living_source.md)  
     A chapter on resurrection as the return to coherence, integrating spiritual, scientific, and mythic perspectives on awakening, transformation, and the living source.
+* [An Open Word at the End of the Path – and at the Beginning](./an_open_word_at_the_end_of_the_path.md)  
+    A personal, open closing word: On the transition from book to lived expression, the invitation to your own experience, and the essence of a path that never truly ends. Integration, courage to be seen, and the quiet power of water as carrier of consciousness and love.
 * [The Quiet Life — Where Remembrance Becomes Daily Practice](./the_quiet_life_where_remembrance_becomes_daily_practice.md)
 	Poetic epilogue: How remembrance, truth, and coherence are lived in daily life, relationships, work, and small gestures. Integration, gratitude, and the invisible practice of awakening.
 * [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)

@@ -46,9 +46,10 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Prologue: The Return of Number](./prologue_the_return_of_number.md)
 
 #### II. Foundation — Science, Water, Remembrance
-- [My Journey: Spiritual Science](./my_journey_spiritual_science.md)
-- [The Water of Life](./the_water_of_life.md)
-- [The Forgotten Foundation](./the_forgotten_foundation.md) 
+* [My Journey: Spiritual Science](./my_journey_spiritual_science.md)
+* [The Forgotten Foundation](./the_forgotten_foundation.md)
+* [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)
+* [The Water of Life](./the_water_of_life.md)
 - [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)
 - [Dossier of Plausibility — Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)
 - [When Light Meets Water](./when_light_meets_water.md)
@@ -110,10 +111,17 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Conversations with God](./conversations_with_god.md)
 
 #### VII. The Supreme Vedic Transmissions
-- [Tat Tvam Asi — The Silent Thunder of the Upanishads](./tat_tvam_asi_the_silent_thunder_of_the_upanishads.md)
-- [Aham Brahmasmi — The Revelation of the Self as the Infinite](./aham_brahmasmi_the_revelation_of_the_self_as_the_infinite.md)
+
 - [Neti Neti — The Gate of No-Thing, The Doorway to the Real](./neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md)
-- [The Highest Gift: The Stable Axis](./the_highest_gift_the_stable_axis.md)
+- [Tat Tvam Asi — The Silent Thunder of the Upanishads](./tat_tvam_asi_the_silent_thunder_of_the_upanishads.md)
+- [Prajñānam Brahma — Consciousness Is the Absolute](./prajnanam_brahma_consciousness_is_the_absolute.md)
+- [Sarvam Khalvidam Brahma — All This Is the Absolute](./sarvam_khalvidam_brahma_all_this_is_the_absolute.md)
+- [Ayam Ātmā Brahma — This Self Is the Absolute](./ayam_atma_brahma_this_self_is_the_absolute.md)
+- [Aham Brahmasmi — The Revelation of the Self as the Infinite](./aham_brahmasmi_the_revelation_of_the_self_as_the_infinite.md)
+- [Ānando Brahmeti Vyajānāt — Bliss Is the Absolute](./anando_brahmeti_vyajanat_bliss_is_the_absolute.md)
+- [Mokṣa — The Freedom That Needs Nothing](./moksha_the_freedom_that_needs_nothing.md)
+- [The Ninth Gate – The Stable Axis](./the_ninth_gate_the_stable_axis.md)
+
 
 #### VIII. Spiritual Architecture — Understanding the Invisible
 
@@ -205,9 +213,10 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Trust in God](./trust_in_god.md)
 - [The Gift of Pure Awareness](./the_gift_of_pure_awareness.md)
 - [Neville Goddard: The Art of Assuming the Wish Fulfilled](./neville_goddard_the_art_of_assuming_the_wish_fulfilled.md)
-- [Resurrection — The Return to the Living Source](./resurrection_return_to_living_source.md)
-- [The Quiet Life — Where Remembrance Becomes Daily Practice](./the_quiet_life_where_remembrance_becomes_daily_practice.md)
-- [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)
+	- [Resurrection — The Return to the Living Source](./resurrection_return_to_living_source.md)
+	- [An Open Word at the End of the Path – and at the Beginning](./an_open_word_at_the_end_of_the_path.md)
+	- [The Quiet Life — Where Remembrance Becomes Daily Practice](./the_quiet_life_where_remembrance_becomes_daily_practice.md)
+	- [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)
 
 #### XIII. Protection, Authorship
 - [KPN AzurA Timestamp 141125.txt / .ots](./KPN_AzurA_Timestamp_141125.txt)

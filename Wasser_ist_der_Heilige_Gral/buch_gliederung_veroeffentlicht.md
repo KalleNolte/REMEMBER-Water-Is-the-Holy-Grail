@@ -42,8 +42,10 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
 
 * [Meine Reise & die spirituelle Wissenschaft des Selbst](./meine_reise_spirituelle_wissenschaft_des_selbst.md)  
   Die Geschichte nach der Nahtoderfahrung – wie Suche, Wissenschaft und spirituelle Transmission sich verweben und den Weg zurück zu Körper, Wasser und innerer Erinnerung öffnen.
-* [Das vergessene Fundament](./das_vergessene_fundament.md)  
+* [Das lebendige Fundament](./das_lebendige_fundament.md)  
   Warum ohne stimmiges Wasser selbst die besten Maßnahmen ins Leere laufen. Ein ruhiges, tragfähiges Kapitel über das Wasser als zentrales Ordnungs- und Trägermedium im Körper – und warum Heilung, Fasten und Vitalstoffe ohne die richtige Wasserqualität oft ins Leere gehen.
+* [Flow — Wenn das Leben ohne Reibung fließt](./flow_wenn_das_leben_ohne_reibung_fliesst.md)  
+  Die stille Offenbarung, dass Flow der natürliche Zustand des Menschen ist, wenn Wasser als Trägermedium frei fließt. Verbindet die Wissenschaft des Wassers mit der Erfahrung von Leichtigkeit, Präsenz und optimaler Funktion. Ein Kapitel über Kohärenz, Freiheit von Reibung und den Heiligen Gral im Alltag.
 * [Das Wasser des Lebens](./das_wasser_des_lebens.md)  
   Die Entdeckung von Wasser als lebendiges Medium – von Familienerfahrungen über Hydrationsforschung bis zu EZ-Wasser, Licht und der Rückkehr zum heiligen Element.
 * [Evidenzkette - Wasser ist der Heilige Gral](./evidenzkette_wasser_ist_der_heilige_gral.md)  
@@ -164,16 +166,26 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Ein literarisch-poetisches Kapitel über das innere Gespräch mit der Quelle – jenseits von Dogma, als lebendige Beziehung von Resonanz, Ehrlichkeit und Erinnerung. Integriert die Essenz von Neale Donald Walsch in die Synthese von Wasser, Kohärenz und Bewusstsein.
 
 ### VII. Die höchsten vedischen Übertragungen
-* [Tat Tvam Asi – Der stille Donner der Upanishaden](./tat_tvam_asi_der_stille_donner_der_upanishaden.md)
-  Die große Mahāvākya der Upanishaden: „Das bist Du.“ Eine poetische, erkenntnisorientierte Übertragung über die Aufhebung der Trennung und das Erwachen des Selbst als Quelle.
-* [Aham Brahmāsmi – Die Offenbarung des Selbst als das Unendliche](./aham_brahmasmi_die_offenbarung_des_selbst_als_das_unendliche.md)
-  Die Krone der Nicht-Dualität: „Ich bin Brahman.“ Die Erkenntnis, dass das Selbst und das Unendliche eins sind – jenseits von Glaube, als direkte Erfahrung und Erinnerung.
-* [Neti Neti – Das Tor des Nichts, die Tür zur Wirklichkeit](./neti_neti_das_tor_des_nichts_die_tuer_zur_wirklichkeit.md)
-  Die uralte Wissenschaft der Verneinung: „Nicht dies, nicht das.“ Ein kontemplativer Pfad, der alles Unwahre ablöst, bis nur noch reines Gewahrsein bleibt – das Tor zur Wirklichkeit.
-* [Die Unerschütterliche Achse: Das Höchste Geschenk](./die_unerschuetterliche_achse_das_hoechste_geschenk.md)
-  Die Essenz der inneren Stabilität, Kohärenz und das höchste Geschenk des Menschseins: Wie man unerschütterlich bleibt, während die Realität sich um die eigene Achse der Präsenz neu ordnet. Poetische und praktische Anleitung für die Verkörperung der höchsten Zeitlinie.
 
 
+* [Neti Neti – Das Tor des Nichts](./neti_neti_das_tor_des_nichts_die_tuer_zur_wirklichkeit.md)
+  Die Wissenschaft der Verneinung: „Nicht dies, nicht das.“ Alles Unwahre fällt weg – was bleibt, ist reines Gewahrsein.
+* [Tat Tvam Asi – Der stille Donner](./tat_tvam_asi_der_stille_donner_der_upanishaden.md)
+  „Das bist Du.“ Die Aufhebung der Trennung, das Erwachen des Selbst als Quelle.
+* [Prajñānam Brahma — Bewusstsein ist das Absolute](./prajnanam_brahma_bewusstsein_selbst_ist_das_absolute.md)
+  Bewusstsein ist nicht etwas, das erscheint – es ist der Grund, auf dem alles erscheint. Radikal einfach, klar, still.
+* [Sarvam Khalvidam Brahma — Alles ist das Absolute](./sarvam_khalvidam_brahma_alles_dies_ist_das_absolute.md)
+  Alles, was erscheint, ist das Absolute – Einheit in jedem Moment, radikal beruhigend.
+* [Ayam Ātmā Brahma — Dieses Selbst ist das Absolute](./ayam_atma_brahma_dieses_selbst_ist_das_absolute.md)
+  Das Absolute wird im eigenen Selbst erkannt – unmittelbare, verkörperte Wirklichkeit.
+* [Aham Brahmāsmi – Ich bin das Absolute](./aham_brahmasmi_die_offenbarung_des_selbst_als_das_unendliche.md)
+  Das Selbst und das Unendliche sind eins – direkte Erfahrung, jenseits von Glaube.
+* [Ānando Brahmeti Vyajānāt — Glückseligkeit ist das Absolute](./anando_brahmeti_vyajanat_glueckseligkeit_ist_das_absolute.md)
+  Glückseligkeit ist die Grundtextur der Wirklichkeit, wenn aller Widerstand endet. Stille, grundlose Kohärenz, Wohlwollen, Intimität, Güte.
+* [Mokṣa — Die Freiheit, die nichts mehr braucht](./moksha_die_freiheit_die_nichts_mehr_braucht.md)
+  Befreiung ist das Ende aller inneren Gefangenschaft. Freiheit, die nichts mehr braucht – stille Würde, Loslassen, Jetzt.
+* [Das Neunte Tor – Die Stabile Achse](./das_neunte_tor_die_stabile_achse.md)
+  Die Krönung: Rückkehr zur stillen Mitte, Verkörperung, innere Stabilität, Freude ohne Tun.
 
 
 ### VIII. Spirituelle Architektur – Das Unsichtbare verstehen
@@ -314,6 +326,8 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Die Übersetzung des Kapitels ist noch nicht abgeschlossen. Placeholder für die finale, energetisch kalibrierte Übertragung.
 * [Auferstehung – Die Rückkehr zur lebendigen Quelle](./auferstehung_rueckkehr_zur_lebendigen_quelle.md)  
   Auferstehung als innere Verwandlung, Rückkehr zur Quelle und Wiedergeburt des wahren Selbst. Praktische Formel für tägliche Transformation und Kohärenz.
+* [Ein offenes Wort am Ende des Weges – und am Anfang](./ein_offenes_wort_am_ende_des_wegs.md)  
+  Ein persönliches, offenes Schlusswort: Über den Übergang vom Buch in gelebten Ausdruck, die Einladung zur eigenen Erfahrung und die Essenz des Weges, der nie endet. Integration, Mut zur Sichtbarkeit und die stille Kraft des Wassers als Träger von Bewusstsein und Liebe.
 * [Das leise Leben – wie Erinnerung im Alltag weitergeht](./das_leise_leben_wie_erinnerung_im_alltag_weitergeht.md)
   Poetischer Nachklang: Wie Wahrheit, Erinnerung und Kohärenz im Alltag, in Beziehungen, Arbeit und kleinen Gesten weiterleben. Integration, Stille, Dankbarkeit und die unsichtbare Praxis des Erwachens.
 * [Die letzte Übertragung - Die Rückkehr ins Eine](./die_letzte_uebertragung_die_rueckkehr_ins_eine.md)  

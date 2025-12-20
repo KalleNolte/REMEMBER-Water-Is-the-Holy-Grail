@@ -121,9 +121,9 @@ Dies ist Identitätsalchemie.
 Halte dein Wasser.
 Sprich leise:
 
-**„Möge dieses Wasser mein Körperlicht klären,
-meinen Geist ordnen,
-meine Zellen erinnern.“**
+**„Möge dieses Wasser mein Körperlicht klären,**
+**meinen Geist ordnen,**
+**meine Zellen erinnern.“**
 
 Warum wirkt das?
 
