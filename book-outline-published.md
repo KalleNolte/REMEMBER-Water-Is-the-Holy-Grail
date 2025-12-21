@@ -38,15 +38,15 @@ Each file is listed with its energetic function. The order follows the temple pa
 
 ### II. Foundation - Science, Water, Remembrance
 * [My Journey: Spiritual Science](./my_journey_spiritual_science.md)  
-	Your path. Science & mysticism. Opens understanding.
+	A deeply personal and initiatic account of awakening after a near-death experience—tracing the path from self-doubt and disconnection through science, health, and spiritual inquiry, to the living synthesis of remembrance. This chapter weaves together the search for meaning, the healing of body and mind, and the realization that true science and spirituality are not opposites, but partners in the art of becoming whole. It invites the reader to witness how coherence emerges when insight is embodied, and how the journey of the self becomes a living bridge between knowledge, love, and the memory of Source.
 * [The Forgotten Foundation](./the_forgotten_foundation.md)  
 	Why even the best measures fail without coherent water. A calm, clarifying chapter on water as the central medium of order and transport in the body—and why healing, fasting, and nutrients often fall short without the right water quality.
 * [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)  
 	A poetic, scientific, and practical synthesis of Flow as the state where life moves without inner resistance—revealing water as the substrate of optimal human experience, and integrating Csikszentmihalyi’s insights with the biophysics of coherence, hydration, and the Holy Grail.
 * [Salt and Covenant](./salt_and_covenant.md)  
-	A poetic, scientific, and initiatic exploration of salt as the sacred stabilizer of water, the keeper of boundaries, and the ancient symbol of covenant, fidelity, and coherence. Reveals why the right salt matters for living water, ritual, and the restoration of relationship—at the table, in the body, and in the field of life.
+	An exploration of salt as the sacred stabilizer of water, the keeper of boundaries, and the ancient symbol of covenant, fidelity, and coherence. Reveals why the right salt matters for living water, ritual, and the restoration of relationship—at the table, in the body, and in the field of life.
 * [Blood, Iron, and the Breath of God](./blood_iron_and_the_breath_of_god.md)  
-	A literary, scientific, and initiatic chapter weaving blood, iron, breath, water, and consciousness into a living circuit. Reveals blood as the sacred interface where water, air, and minerals become life, and how the breath of God is not myth but the living coherence of body, mind, and spirit. Explores the deep relationship between structured water, iron metabolism, and the breath as the bridge between heaven and earth—grounded, reverent, and intelligible.
+	A chapter weaving blood, iron, breath, water, and consciousness into a living circuit. Reveals blood as the sacred interface where water, air, and minerals become life, and how the breath of God is not myth but the living coherence of body, mind, and spirit. Explores the deep relationship between structured water, iron metabolism, and the breath as the bridge between heaven and earth—grounded, reverent, and intelligible.
 * [The Water of Life](./the_water_of_life.md)  
     The primordial wellspring—where water is revealed as the living matrix of all creation, memory, and transformation. This chapter unveils the sacred, scientific, and poetic dimensions of water as the carrier of life, consciousness, and the Grail impulse itself.
 * [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)  
