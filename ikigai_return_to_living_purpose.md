@@ -48,8 +48,6 @@ It can start with just this:
 - Because your friends remember your light, even when you forget.
 - Because we are built for reflection — and recognition.
 
-⸻
-
 ## When Passion Becomes Service
 
 The deepest passion a human being can feel
@@ -66,8 +64,6 @@ When you do what you love,
 you give your essence back to the Source.
 You become the wave no longer resisting the ocean – but embodying it.
 
-⸻
-
 ## The Logic of the Field
 
 If the field is intelligent, conscious, and alive,
@@ -83,8 +79,6 @@ They keep you locked in outdated timelines — loops of scarcity.
 But once you begin to trust your heart’s voice,
 the field becomes coherent.
 Reality begins to move — in resonance with your frequency.
-
-⸻
 
 ## Reality Becomes a Mirror
 
@@ -106,8 +100,6 @@ Just true.
 Then the universe becomes transparent.
 The world mirrors your devotion.
 You step into the current of your true path.
-
-⸻
 
 ## Reality Transurfing: Choosing the Golden Line
 
