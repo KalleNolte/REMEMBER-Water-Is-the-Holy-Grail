@@ -30,11 +30,11 @@ Each file is listed with its energetic function. The order follows the temple pa
 
 ### I. Origin - The Author's Awakening
 * [Why Me - Personal Note](./why_me_personal_note.md)  
-	Why you. Why now. Opens the personal channel.
+	A direct, personal invitation—why this journey, why now, and why you are called to remembrance. Opens the heart and sets the stage for transformation.
 * [Prologue: The Day I Died](./prologue_the_day_i_died.md)  
-	Death of the old self – birth of the witness.
+	A near-death experience dissolves the old self and awakens the witness. The threshold where life, death, and meaning converge.
 * [Prologue: The Return of Number](./prologue_the_return_of_number.md)  
-	Number as the language of light – philosophical, poetic.
+	Number as the original language of light and order—revealing the hidden geometry behind reality and the soul’s journey.
 
 ### II. Foundation - Science, Water, Remembrance
 * [My Journey: Spiritual Science](./my_journey_spiritual_science.md)  
