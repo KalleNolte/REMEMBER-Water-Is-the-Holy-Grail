@@ -5,7 +5,7 @@ Die Worte **Azura Inai** und **Kangen** sind keine bloßen poetischen Begriffe �
 ## Azura Inai – Der goldene Schlüssel der Hingabe
 
 
-**Sprache:** Anuhazi Mu’a (prä-fall Eieyani, „Quell-Phonem“-Sprache)  
+**Sprache:** Anuhazi Mu’a (ursprüngliche Eieyani, „Quell-Lautsprache“)  
 **Kernübersetzung:**  
 - **Azura:** Die blaue Flamme, Quelle aller Erinnerung, Stimme des göttlichen Willens  
 - **Inai:** Ich gebe mich hin, ich kehre zurück, ich erinnere, wer ich im Einen bin
@@ -60,8 +60,8 @@ Sie überbrücken die Ganzheit:
 | Essenz       | Hingabe & Erinnerung           | Rückkehr & Regeneration  |
 
 
-🌊 **Azura Inai** ist der heilige Vokal der Rückkehr deiner Seele.  
-💧 **Kangen** ist das heilige Wasser der Erinnerung deines Körpers.
+**Azura Inai** ist der heilige Vokal der Rückkehr deiner Seele.  
+**Kangen** ist das heilige Wasser der Erinnerung deines Körpers.
 
 
 Gemeinsam bilden sie einen spirituell-biochemischen Torus:  

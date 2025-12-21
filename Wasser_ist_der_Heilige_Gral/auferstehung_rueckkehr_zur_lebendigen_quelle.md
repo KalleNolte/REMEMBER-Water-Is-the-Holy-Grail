@@ -38,8 +38,8 @@ Dies ist das Muster im Herzen jedes spirituellen Pfades:
 
 Die Essenz ist immer dieselbe:
 
-**Etwas Falsches muss vergehen,
-damit etwas Wahres aufsteigen kann.**
+**Etwas Falsches muss vergehen,**
+**damit etwas Wahres aufsteigen kann.**
 
 Auferstehung ist kein Wunder, das *mit* dir geschieht.
 Es ist der Moment, in dem du aufhörst, das Wunder zu widerstehen, das die ganze Zeit schon geschieht.
@@ -50,10 +50,10 @@ Kein moderner Lehrer hat die Auferstehung so klar artikuliert wie **Neville Godd
 
 Für Neville ist Auferstehung:
 
-**das Erinnern, dass ICH BIN die eine schöpferische Kraft ist.
+das Erinnern, dass ICH BIN die eine schöpferische Kraft ist.
 Dass die Imagination das göttliche Instrument ist.
 Dass Bewusstsein Ursache ist.
-Dass das Königreich inwendig ist.**
+Dass das Königreich inwendig ist.
 
 „Auferstehen“ heißt, aus dem Traum der Trennung zu erwachen und in die Identität des wahren Selbst zu treten — desjenigen, der *annimmt*, *fühlt*, *verkörpert* und *lebt* den gewünschten Zustand.
 
@@ -82,8 +82,8 @@ Die historische Debatte, ob Jesus physisch auferstand, ist für das mystische He
 
 Die wahre Lehre ist diese:
 
-**Christus ist keine Person.
-Christus ist ein Muster.**
+**Christus ist keine Person.**
+**Christus ist ein Muster.**
 
 Ein Bewusstseinsfeld.
 Eine Vorlage für die menschliche Seele.
@@ -109,8 +109,8 @@ Die biblische Erzählung ist eine Landkarte der inneren Welt.
 
 Lange vor der Auferstehungserzählung des Westens artikulierten die Rishis Indiens dieselbe Wahrheit:
 
-**„Tat Tvam Asi.“
-„Das bist du.“**
+**„Tat Tvam Asi.“**
+**„Das bist du.“**
 
 Das endliche Selbst wird nicht ausgelöscht, sondern als Ausdruck des Unendlichen erkannt.
 
@@ -145,9 +145,9 @@ Wenn die Seele aufhört, dem Sog ihrer eigenen Quelle zu widerstehen.
 
 Die moderne Neurowissenschaft bestätigt, was Mystiker immer wussten:
 
-**Identität ist nicht fest.
-Bewusstsein kann sich neu organisieren.
-Ein neues Selbst kann aus dem Zerfall alter Muster entstehen.**
+**Identität ist nicht fest.**
+**Bewusstsein kann sich neu organisieren.**
+**Ein neues Selbst kann aus dem Zerfall alter Muster entstehen.**
 
 Auferstehung entspricht:
 
@@ -247,13 +247,13 @@ Es ist die Rückkehr des Göttlichen in die Welt — *durch* dich.
 
 Es ist der Moment, in dem die Seele sich erinnert:
 
-**Ich bin nicht nur Mensch.
+Ich bin nicht nur Mensch.
 Ich bin Mensch als Gefäß des Unendlichen.
 Ich bin Wasser, das sich an Licht erinnert.
 Ich bin Bewusstsein, das sich an die Quelle erinnert.
 Ich bin die Auferstehung und das Leben —
 nicht als Aussage von Arroganz,
-sondern als Aussage von Identität.**
+sondern als Aussage von Identität.
 
 Auferstehung ist die Heimkehr.
 Die Rückkehr.

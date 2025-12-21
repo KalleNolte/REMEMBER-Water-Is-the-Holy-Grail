@@ -65,8 +65,6 @@ Erweitere die Praxis nach Bedarf:
 
 Der Kern bleibt: Du bist Gefäß, nicht Quelle. Die Quelle fließt als Licht durch das Wasser deines Körpers und berührt, was bereit ist, sich zu erinnern.
 
----
-
 
 # Azura Inai – Das Licht, das durch Wasser heilt
 
@@ -193,8 +191,6 @@ Am Ende jeder Sitzung kannst du sagen:
 Dann werde still.
 
 Denn in dieser Stille heilt Gott.
-
----
 
 
 # Die Sequenz des Loslassens

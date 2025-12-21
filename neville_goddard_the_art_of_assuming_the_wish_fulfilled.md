@@ -18,8 +18,6 @@ It is the architect, the sculptor, the dreamer who becomes the dream.
 
 This chapter distills his highest transmission, refined across decades of teaching, culminating in his final masterpiece, **Resurrection**—a work that is less a book and more a living initiation.
 
----
-
 ## The Central Revelation: Consciousness Is the Only Reality
 
 Everything in Neville’s system rests on one radiant axiom:
@@ -48,8 +46,6 @@ Neville’s teaching aligns seamlessly with the physics, biology, and water-scie
 
 Where scientists speak of probability, coherence, and field behavior, Neville speaks of faith, imagination, and assumption. It is the same phenomenon viewed from two languages.
 
----
-
 ## The Method: Assuming the Wish Fulfilled
 
 Neville’s method is deceptively simple: One occupies, inwardly, the feeling of already being or having what is desired. He never taught manifestation as a technique; he taught a shift of identity.
@@ -59,8 +55,6 @@ Neville’s method is deceptively simple: One occupies, inwardly, the feeling of
 The key is not visualizing the process, but inhabiting the end. Not “I hope,” but “It is done.” Not longing, but embodiment.
 
 This is why Neville’s method resonates so deeply with the principles in this book: Water, body, and reality respond to state. Assumption is coherence. Coherence is creation.
-
----
 
 ## The Sabbath: The Still Point Where Creation Completes
 
@@ -75,8 +69,6 @@ This stillness is identical to:
 
 Neville, without scientific language, described the same mechanism. Creation completes not by force, but by surrender into conviction.
 
----
-
 ## The Bridge of Incidents
 
 After assumption, Neville describes an elegant unfolding called the “Bridge of Incidents”—events that seem ordinary, even random, yet align perfectly to deliver the assumed reality.
@@ -84,8 +76,6 @@ After assumption, Neville describes an elegant unfolding called the “Bridge of
 > “Leave the how to the Divine Imagination.”
 
 Coherent inner states reorganize external probabilities. Life arranges itself around the new identity. Where the analytical mind sees coincidence, the deeper self recognizes choreography.
-
----
 
 ## The Final Teaching: Resurrection
 
@@ -108,8 +98,6 @@ This is the same movement explored across mysticism:
 
 Neville’s Resurrection is the spiritual counterpart to the scientific and metaphysical return-to-source described throughout this work. It is the remembering of the One who imagines all worlds.
 
----
-
 ## Why Neville Belongs in This Synthesis
 
 Neville is not here as a chapter of “manifestation teaching.” His revelation confirms, in poetic simplicity, what this book establishes across physics, biology, water science, spiritual traditions, and metaphysics:
@@ -121,8 +109,6 @@ Most importantly, every human being carries the capacity to reshape the world th
 Water structures itself according to information. The body organizes itself according to coherence. DNA responds to emotional and electromagnetic states. The universe mirrors the observer. Assumption generates reality through resonance.
 
 Neville gives the reader a direct, usable methodology for this ancient truth.
-
----
 
 ## The Practice: The Five Step Formula (Interpreted in This Work)
 
@@ -157,8 +143,6 @@ These five steps harmonize Neville’s method with:
 • The Azura Point activation
 
 It is one system expressed through many languages.
-
----
 
 ## Conclusion: The Creative Power Returned to the Reader
 

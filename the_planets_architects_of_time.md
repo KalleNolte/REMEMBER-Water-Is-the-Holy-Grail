@@ -18,8 +18,6 @@ Together, they form a living grammar through which the universe speaks to itself
 This chapter does not treat planets as superstition, nor as fate.
 It treats them as **coordinates in the great field of coherence**—patterns through which water, body, mind, and soul organize experience.
 
----
-
 ## The Elemental Foundation
 
 All planetary influence expresses itself through the **elements**.
@@ -34,8 +32,6 @@ Not as simplistic categories, but as **states of coherence**:
 
 The planets do not act *on* these elements.
 They **modulate** them—like hands shaping water without ever touching it.
-
----
 
 ## The Planetary Teachers
 
@@ -57,8 +53,6 @@ the state in which water, body, thought, and intention align around a single cen
 Without the Sun, there is no life.
 Without inner coherence, there is no meaning.
 
----
-
 ### ☽ The Moon — Memory and Water
 
 **Element:** Water
@@ -78,8 +72,6 @@ It reveals where consciousness flows—and where it resists.
 In this book’s synthesis, the Moon is inseparable from water:
 to understand one is to understand the other.
 
----
-
 ### ☿ Mercury — Pattern and Transmission
 
 **Element:** Air
@@ -96,8 +88,6 @@ When water becomes structured, coherent, and information-rich, it behaves mercur
 capable of transmitting order without force.
 
 Mercury reminds consciousness that **truth must move**, or it becomes dogma.
-
----
 
 ### ♀ Venus — Harmony and Attraction
 
@@ -117,8 +107,6 @@ In coherent systems—whether water, ecosystems, or relationships—Venusian har
 Nothing is forced.
 Everything aligns.
 
----
-
 ### ♂ Mars — Will and Boundary
 
 **Element:** Fire
@@ -137,8 +125,6 @@ In consciousness, it governs the capacity to say *no*—and *yes*—with clarity
 Mars is not aggression.
 It is **directed energy**.
 
----
-
 ### ♃ Jupiter — Meaning and Expansion
 
 **Element:** Air / Fire
@@ -153,8 +139,6 @@ In balance, it becomes wisdom.
 Jupiter asks not *“Is this true?”* but *“What does this lead to?”*
 
 In this work, Jupiter corresponds to **integration**—the ability to see connections rather than fragments.
-
----
 
 ### ♄ Saturn — Structure and Initiation
 
@@ -174,8 +158,6 @@ Psychologically, it governs discipline, integrity, and maturation.
 Saturn is the gatekeeper of initiation:
 what survives Saturn becomes real.
 
----
-
 ### ♅ Uranus — Awakening
 
 **Element:** Air / Aether
@@ -193,8 +175,6 @@ nonlinear, emergent, field-based.
 
 Uranus is the lightning that reorganizes the field.
 
----
-
 ### ♆ Neptune — Dissolution and Unity
 
 **Element:** Water / Aether
@@ -210,8 +190,6 @@ Neptune reminds consciousness that separation is provisional.
 In water, Neptune is reflected in its capacity to dissolve substances, carry memory, and blur edges.
 
 Neptune is the oceanic awareness beneath individuality.
-
----
 
 ### ♇ Pluto — Death and Rebirth
 
@@ -230,8 +208,6 @@ In consciousness, it is the courage to let illusions die.
 Pluto does not destroy life.
 It destroys what blocks life.
 
----
-
 ## The Living System
 
 The planets do not rule from above.
@@ -247,8 +223,6 @@ It is to **recover context**.
 
 Nothing here demands belief.
 Everything invites recognition.
-
----
 
 ## The Deeper Synthesis
 

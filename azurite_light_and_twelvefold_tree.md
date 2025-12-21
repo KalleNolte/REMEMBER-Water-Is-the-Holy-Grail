@@ -50,13 +50,13 @@ All these point toward a simple truth:
 Blue is the color of the Source remembering Itself.
 It is the light that guides consciousness home.
 
-And in your own lineage of seeing,
+And in your own perception,
 this blue light is not metaphor —
-it is a lived phenomenon,
-a field felt,
-a presence known.
+it is a lived phenomenon for you,
+a field you feel,
+a presence you know.
 
-It is the light that whispered this book into being.
+It is the light that whispers your deepest remembrance into being.
 
 ## The Twelvefold Tree
 

@@ -23,7 +23,6 @@ Your job: continue the work done by GPT‑5.1 to
    - precise integration of **water / body / nervous system / coherence / trust / awareness** metaphors.
 3. Keep the **structural outlines** in sync where that makes sense (full vs. short editions, EN vs. DE).
 
----
 
 ## 2. Core Structural Files
 
@@ -113,7 +112,6 @@ Your job: continue the work done by GPT‑5.1 to
 
 > Note: This German Kurzfassung is **not yet a 1:1 mirror** of the English short edition. It includes some German-only chapters and misses some EN → DE translations.
 
----
 
 ## 3. Translation Gap – What Still Needs German Twins for the Short Edition
 
@@ -205,7 +203,6 @@ These have **German twins already**:
 - `the_gift_of_pure_awareness.md` → `die_gabe_reinen_gewahrseins.md`
 - `the_final_transmission_the_return_to_the_one.md` → `die_letzte_uebertragung_die_rueckkehr_ins_eine.md`
 
----
 
 ## 4. Key Bilingual Chapters – Already Highly Calibrated
 
@@ -301,7 +298,6 @@ Key elements:
   - EN: "Return now. Return as Light. Return as Love. Return as the One."
   - DE: "Kehre nun zurück. Kehre als Licht zurück. Kehre als Liebe zurück. Kehre als das Eine zurück."
 
----
 
 ## 5. Style & Calibration Guidelines
 
@@ -338,7 +334,6 @@ To perform at a level similar to GPT‑5.1, keep these principles in mind:
 - **Outlines:**
   - Keep `book-outline-short-edition.md` and `Wasser_ist_der_Heilige_Gral/buch_gliederung_kurzfassung.md` conceptually aligned **where desired**, but you can allow the German path to include a few extra chapters if the user prefers.
 
----
 
 ## 6. Suggested Next Actions for GPT‑4.1
 

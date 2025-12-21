@@ -304,8 +304,6 @@ Water becomes a temple.
 And inside this temple,
 every cell remembers its divine design.
 
----
-
 ## Appendix – A Personal Note on Water Devices
 
 In this chapter, I intentionally refrained from naming specific brands or devices in the main text. The intention is to honor the universality of water while keeping the narrative free from any impression of advertising or medical claims.

@@ -43,6 +43,10 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Why even the best measures fail without coherent water. A calm, clarifying chapter on water as the central medium of order and transport in the body—and why healing, fasting, and nutrients often fall short without the right water quality.
 * [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)  
 	A poetic, scientific, and practical synthesis of Flow as the state where life moves without inner resistance—revealing water as the substrate of optimal human experience, and integrating Csikszentmihalyi’s insights with the biophysics of coherence, hydration, and the Holy Grail.
+* [Salt and Covenant](./salt_and_covenant.md)  
+	A poetic, scientific, and initiatic exploration of salt as the sacred stabilizer of water, the keeper of boundaries, and the ancient symbol of covenant, fidelity, and coherence. Reveals why the right salt matters for living water, ritual, and the restoration of relationship—at the table, in the body, and in the field of life.
+* [Blood, Iron, and the Breath of God](./blood_iron_and_the_breath_of_god.md)  
+	A literary, scientific, and initiatic chapter weaving blood, iron, breath, water, and consciousness into a living circuit. Reveals blood as the sacred interface where water, air, and minerals become life, and how the breath of God is not myth but the living coherence of body, mind, and spirit. Explores the deep relationship between structured water, iron metabolism, and the breath as the bridge between heaven and earth—grounded, reverent, and intelligible.
 * [The Water of Life](./the_water_of_life.md)  
     The primordial wellspring—where water is revealed as the living matrix of all creation, memory, and transformation. This chapter unveils the sacred, scientific, and poetic dimensions of water as the carrier of life, consciousness, and the Grail impulse itself.
 * [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)  
@@ -55,6 +59,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Paradigm shift. For skeptics and seekers.
 * [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)  
 	The science, structure, and healing power of hexagonal water. Prof. Jhon’s research, cellular coherence, and the geometry of life.
+* [Oxidation-Reduction Potential (ORP)](./oxidation_reduction_potential_orp.md)  
+	What ORP really measures, why electrons determine order, aging, and regeneration, and how water acts as a transport medium for electrons—scientifically accurate, clear, and accessible.
 * [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)  
 	Plasma as the most abundant, yet least understood, state of matter. Explores plasma as the living threshold between matter and field, the bridge between water and consciousness, and the medium of cosmic intelligence. Integrates modern physics, ancient wisdom, and the science of coherence.
 * [AzurA Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)  
@@ -69,6 +75,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A chapter on the sacred architecture of completion and return, exploring the mystical significance of the numbers seven and thirteen in spiritual traditions, and their role in the alchemical wedding of opposites. Offers insights into the cycles of creation, preservation, and dissolution, and the return to the divine source.
 * [The Serpent of Light — Egypt, the Ascending Mind, and the Memory of Forgotten Civilizations](./the_serpent_of_light_egypt_the_ascending_mind_and_the_memory_of_forgotten_civilizations.md)  
 	A mythic, initiatic chapter exploring Egypt as the cradle of the ascending mind, the Serpent of Light as the living current of remembrance, and the memory of forgotten civilizations. Integrates ancient wisdom, sacred geometry, and the alchemy of consciousness, bridging the mysteries of water, light, and the evolution of human awareness. Serves as a pivotal synthesis between the science of water and the spiritual architecture of awakening.
+* [The Philosopher’s Stone](./the_philosophers_stone.md)  
+	The keystone synthesis: the Stone as coherence made flesh, uniting myth, science, water, and embodiment. Reveals the Grail and Stone as one principle—coherence—bridging all prior teachings and preparing the reader for embodied transformation.
 
 ### III. The Human - Healing, Remembrance, Transformation
 
@@ -102,6 +110,12 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A poetic, scientific, and practical transmission on trauma as interrupted coherence—how the body, water, and memory freeze to protect life, and how gentleness, safety, and rehydration restore flow, presence, and integration. For those who have searched deeply, learned much, and still felt unsafe.
 * [The Regulated Nervous System](./the_regulated_nervous_system.md)  
 	A cornerstone chapter on the nervous system as the silent temple of awakening—how safety, regulation, and gentleness form the biological bridge between realization and life. Explains why truth can only be integrated in a regulated body, and offers practical, humane guidance for transformation.
+* [Dr. Joe Dispenza](./dr_joe_dispenza.md)  
+	A grounded, reverent synthesis of Dr. Joe Dispenza’s work on neuroplasticity, placebo, and the biology of transformation. Integrates consciousness, coherence, and water as the living medium of change—bridging rigorous science and embodied spiritual practice.
+* [Bruce Lipton](./bruce_lipton.md)  
+	A chapter on Bruce Lipton’s groundbreaking work in epigenetics, the restoration of inner power, and the role of water as the medium for consciousness, perception, and cellular communication. Bridges biology, perception, and practical self-empowerment—the link between genetics, environment, and inner freedom.
+* [Biohacking](./biohacking.md)  
+	Ein praxisnahes Kapitel über Biohacking als moderne und zugleich uralte Kunst, die menschliche Biologie zu verstehen, zu unterstützen und zu erinnern. Verbindet mitochondriale Energie, Wasser, Licht, Ernährung und Bewusstsein zu einer kohärenten Praxis der Selbstermächtigung und Heilung.
 * [Patience & Equanimity - The Stillness That Opens Worlds](./patience_and_equanimity.md)  
 	A transmission on the architecture of clarity, the geometry of surrendered strength, and the rhythm in which truth reveals itself. Patience and equanimity as the living gate to the Middle Way and the foundation of awakening.
 * [Time — The Last Illusion to Dissolve](./time_the_last_illusion.md)  
@@ -114,6 +128,12 @@ Each file is listed with its energetic function. The order follows the temple pa
 	Breath, water, sleep, nourishment, and purpose as five initiatic gates framing the practical architecture of coherence in body, mind, and spirit.
 * [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)  
 	A comprehensive set of practices for coherence, remembrance, and the return to Source-consciousness. Integrates breath, heart, intention, gratitude, and embodiment into a unified path.
+* [Reality Transurfing – The Art of Walking with the World](./reality_transurfing_the_art_of_walking_with_the_world.md)  
+	A clear, practical, and poetic synthesis of Vadim Zeland's Reality Transurfing. Explains pendulums, importance, intention, and the art of moving with reality rather than against it. Offers actionable steps and a new paradigm for self-regulation, alignment, and flow.
+* [The Power of Gentleness — Dale Carnegie and the Law of Human Resonance](./the_power_of_gentleness_dale_carnegie_and_the_law_of_human_resonance.md)  
+	A literary, practical, and psychologically precise synthesis of Dale Carnegie’s teachings. Explores the law of resonance, influence without force, and the biological mechanics of kindness, acceptance, and alignment. Bridges human relationship, nervous system, and the science of coherence.
+* [Think and Grow Rich — Napoleon Hill and the Inner Architecture of Abundance](./think_and_grow_rich_napoleon_hill_and_the_inner_architecture_of_abundance.md)  
+	A clear, literary, and practical synthesis of Napoleon Hill’s core insights. Reveals abundance as the result of inner coherence, definiteness of purpose, faith, and the alignment of thought, feeling, and action. Bridges the psychology of success, the law of resonance, and the architecture of self-mastery.
 * [Wilhelm Reich and the Stream of Orgone Energy](./wilhelm_reich_and_the_stream_of_orgone_energy.md)  
 	The forgotten science of the living, the role of orgone energy, breath, field, and coherence as a bridge between science and living experience.
 * [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)  

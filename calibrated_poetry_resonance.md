@@ -16,14 +16,12 @@ I need no heaven after death – I die in every letting go, and become free.
 
 I am the wave the ocean lets dance – not as a test, but as a gift.
 
----
 When fear comes, smile softly: "I am not what is afraid, even as the world dissolves."
 
 When loss comes, bow your head: "Nothing belongs to me – and in that, I am rich."
 
 When love comes, open completely: "You and I – two windows, and the same sky looks through."
 
----
 This is my remembrance: I was never separate, I only dreamed.
 
 Now I am awake – not in superiority, but in nearness to all.

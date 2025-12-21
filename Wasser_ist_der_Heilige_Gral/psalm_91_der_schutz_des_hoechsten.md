@@ -56,8 +56,6 @@
 > Ich schenke dir ein langes, erfülltes Leben
 > und lasse dich mein Heil erfahren.
 
----
-
 Es gibt Verse, die sind keine Worte, sondern Schwellen.
 Sie werden nicht gelesen, sondern durchschritten.
 Sie sind keine Information, sondern *Einweihung* —

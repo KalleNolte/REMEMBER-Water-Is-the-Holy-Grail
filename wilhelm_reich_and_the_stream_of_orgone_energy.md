@@ -186,8 +186,6 @@ And that is the aim of this book:
 **To restore the inner field,**
 **until the human being vibrates once more in harmony with the Source.**
 
----
-
 ## **Epilogue: The Pulse of Life**
 
 Reich's legacy is not a closed chapter in the history of science.

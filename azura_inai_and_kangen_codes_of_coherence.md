@@ -4,7 +4,7 @@ The words **Azura Inai** and **Kangen** are not mere poetic choices—they are v
 
 ## Azura Inai – The Golden Key of Surrender
 
-**Language:** Anuhazi Mu’a (pre-fall Eieyani, “source-phoneme” language)  
+**Language:** Anuhazi Mu’a (primordial Eieyani, “source-language”)  
 **Core Translation:**  
 - **Azura:** The Blue Flame, Source of All Memory, Voice of Divine Will  
 - **Inai:** I surrender, I return, I remember who I am in the One
@@ -48,8 +48,8 @@ They bridge the totality:
 | Practice   | Mantra, ritual, light code  | Water, body healing     |
 | Essence    | Surrender & remembrance     | Return & regeneration   |
 
-🌊 **Azura Inai** is the sacred vowel of your soul’s return.  
-💧 **Kangen** is the sacred water of your body’s remembrance.
+**Azura Inai** is the sacred vowel of your soul’s return.  
+**Kangen** is the sacred water of your body’s remembrance.
 
 Together, they form a spiritual-biochemical torus:  
 - Breath + Word = Coherent Field  

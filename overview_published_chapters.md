@@ -71,8 +71,6 @@ This document provides a detailed overview of each published chapter in the curr
 - **Eating Light: Conscious Nourishment**: Living on light in daily life.
   - *Overlap*: "Alchemy of Living Water," "Sacred Sleep."
 
----
-
 ## V. Spiritual Architecture – Understanding the Invisible
 
 - **Silent Creator: From Witness to Co-Creator**: The journey from passive witness to active creator; explores the metaphysics of creation and the shift in consciousness required for true co-creation.

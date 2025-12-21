@@ -12,9 +12,9 @@ What emerged through lived experience—first individually, then within family, 
 
 Sometimes, this understanding is catalyzed not by information alone, but by the presence of a mentor or a community—someone who asks the right questions, who embodies clarity and patience, and who invites us to listen to the wisdom of our own bodies. These relationships, both personal and collective, often reveal what theory cannot.
 
-**Water as the medium.
-Nutrients as the message.
-The body as the field.**
+**Water as the medium.**
+**Nutrients as the message**
+**The body as the field.**
 
 
 This chapter speaks to that convergence—a movement toward completeness and balance, not excess or stimulation, but a return to the body’s natural intelligence.
@@ -40,7 +40,7 @@ This is not a spiritual claim.
 It is a biochemical one.
 
 
-### Structured Hydration as a Foundation
+## Structured Hydration as a Foundation
 
 Through experience with electrolytically treated, mineral-balanced water—commonly referred to as Kangen water—it became apparent that the *felt effect* of hydration changed.
 
@@ -69,7 +69,7 @@ The key insight, however, was not *what* water did.
 It was **what it allowed**.
 
 
-### Nutrients Are Not Pills — They Are Signals
+## Nutrients Are Not Pills — They Are Signals
 
 High-quality nutrients do not act merely as replacement parts.
 They function as **biological information**.
@@ -92,7 +92,7 @@ But smoother.
 More intelligible to the body.
 
 
-### Why Water Is the Ideal Partner for Vital Substances
+## Why Water Is the Ideal Partner for Vital Substances
 
 From a systems perspective, this makes sense.
 
@@ -112,7 +112,7 @@ but because it is **foundational**.
 
 
 
-### A Note on Quality, Integrity, and Ethical Sourcing
+## A Note on Quality, Integrity, and Ethical Sourcing
 
 
 The same principle applies to nutrients themselves. Not all supplements are equal. Differences exist in sourcing, purity, bioavailability, stability, and formulation philosophy. Ethical considerations matter as well—companies that prioritize quality, transparency, and long-term well-being over quick profit create products that support the body’s intelligence rather than fragment it.
@@ -128,7 +128,7 @@ When nutrient formulations are designed with **biological intelligence** and eth
 
 
 
-### Experience, Mentorship, and Community as a Compass
+## Experience, Mentorship, and Community as a Compass
 
 
 It is important to state clearly:
@@ -138,7 +138,7 @@ This chapter does not argue exclusivity, claim universality, or replace medical 
 When hydration quality and nutrient integrity are addressed *together*, the body often responds with greater resilience, clearer feedback, and improved regulation rather than stimulation. Not by forcing change, but by **reducing friction** and supporting the body’s innate drive toward completeness and balance.
 
 
-### The Body Recognizes Coherence
+## The Body Recognizes Coherence
 
 Perhaps the most important realization was this:
 

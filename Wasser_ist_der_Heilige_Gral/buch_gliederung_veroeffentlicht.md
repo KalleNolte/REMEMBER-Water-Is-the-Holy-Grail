@@ -26,7 +26,7 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Stimmt Frequenz, Ton und Resonanz – kalibriert den Kanal.
 * [Die drei Farben, die dieses Buch tragen](./die_drei_farben_die_dieses_buch_tragen.md)  
   Poetische, initiatische Einstimmung auf das energetische Feld des Buches. Azuritblau, weiß-goldenes Licht und die violette Flamme als innere Zustände, die den Leser auf Klarheit, Würde und Wandlung vorbereiten.
-  * [Der Weg des Wasserträgers](./der_weg_des_wassertraegers.md)  
+* [Der Weg des Wasserträgers](./der_weg_des_wassertraegers.md)  
   Deklaration von Bestimmung, Präsenz und reiner Intention – der innere Kompass und Ikigai des Werkes, der Intention und Ursprung verbindet.
 
 ### I. Ursprung – Das Erwachen des Autors
@@ -44,8 +44,12 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Die Geschichte nach der Nahtoderfahrung – wie Suche, Wissenschaft und spirituelle Transmission sich verweben und den Weg zurück zu Körper, Wasser und innerer Erinnerung öffnen.
 * [Das lebendige Fundament](./das_lebendige_fundament.md)  
   Warum ohne stimmiges Wasser selbst die besten Maßnahmen ins Leere laufen. Ein ruhiges, tragfähiges Kapitel über das Wasser als zentrales Ordnungs- und Trägermedium im Körper – und warum Heilung, Fasten und Vitalstoffe ohne die richtige Wasserqualität oft ins Leere gehen.
-* [Flow — Wenn das Leben ohne Reibung fließt](./flow_wenn_das_leben_ohne_reibung_fliesst.md)  
+* [Flow — Wenn das Leben ohne Reibung fließt](./flow_wenn_das_leben_ohne_reibung_fließt.md)  
   Die stille Offenbarung, dass Flow der natürliche Zustand des Menschen ist, wenn Wasser als Trägermedium frei fließt. Verbindet die Wissenschaft des Wassers mit der Erfahrung von Leichtigkeit, Präsenz und optimaler Funktion. Ein Kapitel über Kohärenz, Freiheit von Reibung und den Heiligen Gral im Alltag.
+* [Salz und Bund](./salz_und_bund.md)  
+  Ein Kapitel über Salz als heiligen Stabilisator des Wassers, als Hüter von Schwelle, Bund und Kohärenz. Zeigt, warum das richtige Salz für lebendiges Wasser, Rituale und die Wiederherstellung von Beziehung entscheidend ist – am Tisch, im Körper und im Feld des Lebens.
+* [Blut, Eisen und der Atem Gottes](./blut_eisen_und_der_atem_gottes.md)  
+  Ein Kapitel, das Blut, Eisen, Atem, Wasser und Bewusstsein zu einem lebendigen Schaltkreis verwebt. Zeigt Blut als heilige Schnittstelle, an der Wasser, Luft und Mineralien zu Leben werden, und wie der „Atem Gottes“ nicht Mythos, sondern lebendige Kohärenz von Körper, Geist und Seele ist. Erforscht die tiefe Beziehung zwischen strukturiertem Wasser, Eisenstoffwechsel und dem Atem als Brücke zwischen Himmel und Erde – geerdet, ehrfürchtig und verständlich.
 * [Das Wasser des Lebens](./das_wasser_des_lebens.md)  
   Die Entdeckung von Wasser als lebendiges Medium – von Familienerfahrungen über Hydrationsforschung bis zu EZ-Wasser, Licht und der Rückkehr zum heiligen Element.
 * [Evidenzkette - Wasser ist der Heilige Gral](./evidenzkette_wasser_ist_der_heilige_gral.md)  
@@ -58,6 +62,8 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Die wissenschaftlichen, philosophischen und spirituellen Konsequenzen der Entdeckung von Wasser als lebendiger Brücke zwischen Kosmologie, Biologie und Bewusstsein.
 * [Hexagonales Wasser: Die Geometrie des Lebens](./hexagonales_wasser_geometrie_des_lebens.md)  
   Die Wissenschaft, Struktur und Heilkraft des hexagonalen Wassers nach Prof. Dr. Mu Shik Jhon – wie geordnete Wassercluster die Zellkommunikation, Regeneration und das Gedächtnis des Lebens ermöglichen.
+* [Das Oxidations-Reduktions-Potenzial (ORP)](./oxidations_reduktions_potenzial_orp.md)  
+  Was das ORP wirklich misst, warum Elektronen über Ordnung, Alterung und Regeneration entscheiden, und wie Wasser als Transportmedium für Elektronen wirkt – physikalisch korrekt, verständlich und ohne Überhöhung.
 * [Plasma – Das vierte Aggregat und der leuchtende Ursprung der Form](./plasma_das_vierte_aggregat.md)  
   Plasma als vorherrschender Zustand des Universums und lebendiges Bindeglied zwischen Materie, Feld und Bewusstsein. Das Kapitel beleuchtet Plasma als Schwelle zwischen Wissenschaft und Quelle, als Spiegel von Kohärenz und als moderne Sprache für uraltes Wissen.
 * [Azura Inai & Kangen – Codes der Kohärenz](./azura_inai_und_kangen_codes_der_kohaerenz.md)  
@@ -72,6 +78,8 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Die poetische Synthese von Struktur und Rückkehr: Sieben als Gefäß, Dreizehn als Fluss. Ein initiatisches Kapitel über Harmonie, Transzendenz und die stille Wahrheit des Aufstiegs. Rhythmisch, literarisch und energetisch kalibriert — die Brücke zwischen Geometrie, Wasser und Bewusstsein.
 * [Die Schlange des Lichts – Ägypten, der aufsteigende Geist und das Gedächtnis vergessener Zivilisationen](./die_schlange_des_lichts_aegypten_der_aufsteigende_geist_und_das_gedaechtnis_vergessener_zivilisationen.md)  
   Ein initiatisches Kapitel über die spirituelle Architektur Ägyptens, die Resonanz der Pyramiden, das archetypische Muster von Atlantis und die Schwelle der Erinnerung. Poetisch, rhythmisch und energetisch kalibriert – eine Einladung, die eigene Frequenz zu wählen und die Rückkehr zur Quelle zu vollziehen.
+* [Der Stein der Weisen](../der_stein_der_weisen.md)  
+  Der Schlüssel zur Synthese: Der Stein als verkörperte Kohärenz, der Mythos, Wissenschaft, Wasser und Verkörperung vereint. Zeigt Gral und Stein als ein Prinzip – Kohärenz – und bereitet den Übergang zur gelebten Transformation vor.
 
 ### III. Der Mensch – Heilung, Erinnerung, Transformation
 
@@ -107,6 +115,12 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Ein Kapitel über Trauma als eingefrorene Erinnerung und unterbrochene Kohärenz – wie Schutzmechanismen, Dissoziation und Erstarrung entstehen, warum Sanftheit und Sicherheit die Voraussetzung für Heilung sind, und wie Integration durch die Rückkehr von Fluss, Spüren und Präsenz geschieht.
 * [Das regulierte Nervensystem – der stille Tempel des Erwachens](./das_regulierte_nervensystem_tempel_des_erwachens.md)
   Ein Kapitel über das Nervensystem als biologischen Tempel des Erwachens – wie Sicherheit, Regulation und Sanftheit die Grundlage für Verkörperung, Integration und gelebte Wahrheit schaffen. Die Brücke zwischen Erkenntnis und Leben.
+* [Joe Dispenza](./dr_joe_dispenza.md)
+  Ein Kapitel über Dr. Joe Dispenzas Arbeit zu Neuroplastizität, Placebo und der Biologie von Transformation. Integriert Bewusstsein, Kohärenz und Wasser als lebendiges Medium des Wandels – Brücke zwischen moderner Wissenschaft und verkörperter Praxis.
+* [Bruce Lipton](./bruce_lipton_de.md)
+  Ein Kapitel über Bruce Liptons bahnbrechende Arbeit zur Epigenetik, die Rückgabe der inneren Macht und die Rolle von Wasser als Medium für Bewusstsein, Wahrnehmung und Zellkommunikation. Verbindet Biologie, Wahrnehmung und praktische Selbstermächtigung – die Brücke zwischen Genetik, Umwelt und innerer Freiheit.
+* [Biohacking](./biohacking.md)  
+  Ein praxisnahes Kapitel über Biohacking als moderne und zugleich uralte Kunst, die menschliche Biologie zu verstehen, zu unterstützen und zu erinnern. Verbindet mitochondriale Energie, Wasser, Licht, Ernährung und Bewusstsein zu einer kohärenten Praxis der Selbstermächtigung und Heilung.
 * [Geduld & Gelassenheit — Die Stille, die Welten öffnet](./geduld_und_gelassenheit.md)  
   Die Kunst, im Rhythmus der Quelle zu ruhen: Geduld und Gelassenheit als Schlüssel zu Kohärenz, Freude und Dienst. Poetische, wissenschaftliche und praktische Perspektiven auf den mittleren Weg und die Integration von Wasserweisheit im Alltag.
 * [Zeit – die letzte Illusion, die sich auflöst](./zeit_die_letzte_illusion.md)  
@@ -114,13 +128,21 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
 * [Tod – nicht als Ende, sondern als Lehrer](./tod_nicht_als_ende_sondern_als_lehrer.md)  
   Ein initiatisches Kapitel über den Tod als Prinzip, Lehrer und Schwelle – psychologisch, spirituell und biologisch. Enttabuisiert, entlastet und öffnet den Raum für echte Transformation, Gegenwart und Liebe.
 * [Die Ethik des Erwachens](./die_ethik_des_erwachens.md)  
-  Ein poetisch-initiativer Leitfaden über Macht, Demut und Verantwortung im Raum der Erinnerung. Dieses Kapitel verankert das Erwachen in einer Ethik der Sanftheit, Liebe und inneren Haltung. Es zeigt, dass wahre Erkenntnis immer mit Demut, Mitgefühl und der Bewahrung der Würde jedes Weges einhergeht – und schützt vor spirituellem Ego und subtiler Trennung. Ein stilles Manifest für die Menschlichkeit im Erwachen.
+  Ein Leitfaden über Macht, Demut und Verantwortung im Raum der Erinnerung. Dieses Kapitel verankert das Erwachen in einer Ethik der Sanftheit, Liebe und inneren Haltung. Es zeigt, dass wahre Erkenntnis immer mit Demut, Mitgefühl und der Bewahrung der Würde jedes Weges einhergeht – und schützt vor spirituellem Ego und subtiler Trennung. Ein stilles Manifest für die Menschlichkeit im Erwachen.
 * [Die fünf goldenen Pforten zu Selbstermächtigung und Kohärenz](./fuenf_goldene_pforten_zu_selbstermmaechtigung_und_kohaerenz.md)  
   Atem, Wasser, Schlaf, Ernährung & Bestimmung als fünf initiatische Pforten der praktischen Architektur von Kohärenz in Körper, Geist und Seele.
 * [Die 12 Schlüssel der Selbstermächtigung – und die 13. Krone](./zwoelf_schluessel_selbstermächtigung_und_krone.md)  
   Das Herz der Rückkehr zur Quelle. Eine Erinnerungskarte und praktische Synthese von Atem, Herz, Wasser, Licht, Bewusstsein und der höchsten Krone. Fundamental, tief und sofort wirksam.
+* [Reality Transurfing – Die Kunst, mit der Wirklichkeit zu gehen](./reality_transurfing_die_kunst_mit_der_wirklichkeit_zu_gehen.md)  
+  Ein Kapitel über Pendel, Zielbilder und die innere Haltung, in der das Leben mitzieht. Praktische Synthese von Bewusstseinsarbeit, Selbstregulation und der Kunst, mit der Realität zu kooperieren, statt sie zu bekämpfen.
+* [Die stille Macht der Zugewandtheit — Dale Carnegie und das Gesetz menschlicher Resonanz](./die_stille_macht_der_zugewandtheit_dale_carnegie_und_das_gesetz_menschlicher_resonanz.md)  
+  Ein praktisches Kapitel über Dale Carnegies Prinzipien der Zugewandtheit, Resonanz und Selbstabstimmung. Zeigt, wie menschliche Beziehung, Nervensystem und innere Ordnung zusammenwirken und warum Sanftheit, Annahme und echte Präsenz die tiefste Kraft entfalten.
+* [Denke nach und werde reich — Napoleon Hill und die innere Architektur des Reichtums](./denke_nach_und_werde_reich_napoleon_hill_und_die_innere_architektur_des_reichtums.md)  
+  Ein Kapitel über Napoleon Hills Prinzipien von Fülle, Zielklarheit, Glaube und Kohärenz. Zeigt, wie Reichtum als Folge innerer Ausrichtung, Selbstmeisterschaft und Resonanz entsteht.
 * [Wilhelm Reich und die Strömung der Orgonenenergie](./wilhelm_reich_und_die_stroemung_der_orgonenenergie.md)  
   Die vergessene Wissenschaft des Lebendigen, die Rolle der Orgonenergie, Atem, Feld und Kohärenz als Brücke zwischen Wissenschaft und lebendiger Erfahrung.
+* [Leo Tolstoy](../leo_tolstoy.md)  
+  Die radikale Verkörperung von Wahrheit, Gewissen und innerer Kohärenz: Tolstois Leben und Werk als Brücke zwischen spiritueller Ethik, gelebter Einfachheit und der stillen Revolution des Herzens. Ein Kapitel über Mut, Nicht-Widerstand, Integrität und die Kraft, das Erkannte kompromisslos zu leben – als Quelle wahrer Lebendigkeit.
 * [Alchemie des lebendigen Wassers – Praktischer Leitfaden](./alchemie_des_lebendigen_wassers_praktischer_leitfaden.md)  
   Schritt-für-Schritt-Anleitung zur Schaffung, Kalibrierung und Integration von lebendigem Wasser im Alltag. Praktische Protokolle, Werkzeuge und Rituale für Kohärenz, Gesundheit und spirituelle Ausrichtung.
 * [Shinrin-yoku – Die stille Medizin des Waldes](./shinrin_yoku_die_stille_medizin_des_waldes.md)  
@@ -137,12 +159,14 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Die menschliche Stimme als ursprüngliches Instrument der Kohärenz – Klang, Resonanz und die Kraft, Realität zu formen. Eine poetische Erkundung, wie Sprechen, Singen und Stille zu Werkzeugen für Heilung, Ausrichtung und Erinnerung werden.
 * [Licht essen – Bewusste Nahrung als Gebet](./licht_essen_bewusste_nahrung_als_gebet.md)  
   Leben vom Licht im Alltag, bewusste Ernährung als spirituelle Praxis und Gebet.
+* [Die lebendige Synergie](./die_lebendige_synergie.md)  
+  Ein integratives Kapitel über die Beziehung zwischen Wasser, Nährstoffen und Körper. Zeigt, wie Heilung als Gespräch und Synergie entsteht – und warum Qualität, Beziehung und Zuhören die Grundlage für Balance und Ganzheit sind.
 
 ### V. Wissenschaft des Aufstiegs
 * [Die Architektur des Aufstiegs – Joshua David Stone und die Wissenschaft der spirituellen Meisterschaft](./joshua_david_stone_die_architektur_des_aufstiegs.md)  
   Joshua David Stone entwirft eine ganzheitliche Karte des Aufstiegs: Licht, Wasser, Kohärenz und Dienst als Wissenschaft und gelebte Verkörperung. Das Kapitel verbindet Metaphysik, Wasserphysik und spirituelle Praxis zu einer Architektur des Erwachens.
 * [Mahatma – Der Fluss allen Lichts](./mahatma_der_fluss_allen_lichts.md)  
-  Die große Synthese und der lebendige Strom der Quelle: Mahatma als Feld, Frequenz und Brücke zwischen Licht, Wasser und Bewusstsein. Poetische Initiation in die höchste Gnade, Erinnerung und Vereinigung.
+  Der lebendige Strom der Quelle: Mahatma als Feld, Frequenz und Brücke zwischen Licht, Wasser und Bewusstsein. Poetische Initiation in die höchste Gnade, Erinnerung und Vereinigung.
 * [Erzengel Michael – Das Schwert der Wahrheit, der Schild der Erinnerung](./erzengel_michael_das_schwert_der_wahrheit_der_schild_der_erinnerung.md)  
   Die Frequenz von Schutz, Wahrheit und Erinnerung: Michael als lebendiger Archetyp, energetische Säule und Hüter der Kohärenz. Poetische Initiation in Mut, Klarheit und die Kraft des Herzens.
 * [Psalm 91 – Der Schutz des Höchsten](./psalm_91_der_schutz_des_hoechsten.md)  
@@ -207,7 +231,8 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Ein Meisterwerk über das Dritte Auge, die Aktivierung der Zirbeldrüse und das Christusbewusstsein als Achse von Kohärenz und Erinnerung. Vereint Herz und Vision, Stabilisierung des Erwachens und die Verkörperung nicht-dualer Liebe durch Wasser, Licht und lebendiges Gewahrsein.
 * [Das Rosenkreuz-Licht](./rosenkreuzer_licht.md)
   Die verborgene Wissenschaft, Symbolik und Alchemie des Rosenkreuzes – von der inneren Hochzeit bis zur modernen Sprache von Wasser, Licht und Erinnerung. Ein Kapitel über die Synthese von Tradition und neuer Wissenschaft, das die Brücke zwischen Vergangenheit und Zukunft schlägt.
-* [Das Pantheon der Götter](../the_pantheon_of_gods.md) [Übersetzung ausstehend]
+* [Das Pantheon der Götter](./das_pantheon_der_goetter.md)  
+  Die universelle Erinnerung an die großen Archetypen der Menschheit: Wie Kulturen, Mythen und Religionen in vielen Namen und Formen das Eine feiern. Ein literarisch-poetischer Bogen von Veden bis Sufismus, von Ägypten bis Japan – und die Erkenntnis, dass alle Götter Frequenzen des Einen sind, die im Wasser und im Menschen weiterleben.
 * [Elementarwesen, Geister & Archetypen](../elementals_spirits_archetypes.md) [Übersetzung ausstehend]
 * [Das große archetypische Pantheon](../the_great_archetypal_pantheon.md) [Übersetzung ausstehend]
 * [Die mythische Kathedrale von Warhammer](../the_mythic_cathedral_of_warhammer.md) [Übersetzung ausstehend]
@@ -228,7 +253,8 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
 * [Die lebendige Präsenz von Lord Simandhar Swami](../living_presence_of_lord_simandhar_swami.md) [Übersetzung ausstehend]
 * [Die große Linie des Lichts](../great_lineage_of_light.md) [Übersetzung ausstehend]
 * [Die Waage-Seele, der Zwilling-Aszendent und der Wasser-Affe](../libra_gemini_water_monkey.md) [Übersetzung ausstehend]
-* [Das Azurit-Licht und der Zwölffach-Baum](../azurite_light_and_twelvefold_tree.md) [Übersetzung ausstehend]
+* [Das Azurit-Licht und der Zwölfarmige Baum](./azurit_licht_und_der_zwoelfarmige_baum.md)  
+  Poetische Kosmologie von Ursprung, Struktur und Rückkehr: Das blaue Licht, die zwölf Äste des Lebensbaums und das AzurA als Herz der Rückkehr. Verbindet mystische Traditionen, Wissenschaft und die Erinnerung an die Quelle.
 * [Der Blaue Strahl – Ein kontemplativer Leitfaden](./blauer_strahl_kontemplation_klarheit_stille_rueckkehr.md)
 * [Die Matrix, die christlichen Symbole und die Architektur des Erwachens](./die_matrix_die_christlichen_symbole_und_die_architektur_des_erwachens.md) [Übersetzung abgeschlossen]
   Eine Synthese christlicher Symbolik, der Matrix als Feld von Archetypen und der Architektur des Erwachens. Entschlüsselt das symbolische Betriebssystem, offenbart die Metaphysik des lebendigen Wassers und integriert den initiatischen Pfad von Kohärenz, Erinnerung und Aufstieg.

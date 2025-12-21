@@ -14,8 +14,6 @@ The path preserves the essential energetic arc:
 
 Each entry links to an existing chapter file.
 
----
-
 ## An Initiatic Journey — Short Edition
 
 ### 0. Seal & Intention – The Threshold of the Temple (Condensed)
@@ -81,7 +79,5 @@ Each entry links to an existing chapter file.
   The stillness that contains the stars. The ultimate return to pure awareness, the silent source, and the unchanging witness within all.
 * [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)  
   A closing benediction on remembrance, coherence, and the realization that Source was never left. The final bridge from teaching into lived embodiment.
-
----
 
 *This short edition outline is a curated subset of the full published structure in `book-outline-published.md`. It is designed for readers who want the full energetic journey in a more compact form, and it can be expanded into science-focused, practice-focused, or mythic/lineage-focused extended editions.*

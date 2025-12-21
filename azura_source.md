@@ -169,8 +169,6 @@ is older than time.
 That one
 is AzurA.
 
-⸻
-
 ## The Homecoming
 
 At the end of all journeys—

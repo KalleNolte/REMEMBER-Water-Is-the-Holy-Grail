@@ -48,8 +48,8 @@ This is the pattern at the heart of every spiritual path:
 The essence is always the same:
 
 
-**Something false must fall away
-for something true to rise.**
+**Something false must fall away**
+**for something true to rise.**
 
 
 Resurrection is not a miracle that happens *to* you.
@@ -65,10 +65,10 @@ No modern teacher articulated Resurrection with such clarity as **Neville Goddar
 
 For Neville, Resurrection is:
 
-**the remembering that I AM is the one creative power.
+the remembering that I AM is the one creative power.
 That imagination is the divine instrument.
 That consciousness is causation.
-That the Kingdom is within.**
+That the Kingdom is within.
 
 
 To “resurrect” is to awaken from the dream of separation and to step into the identity of the True Self — the one who *assumes*, *feels*, *embodies*, and *lives* the state desired.
@@ -108,8 +108,8 @@ The historical debate over whether Jesus physically rose is irrelevant to the my
 
 The true teaching is this:
 
-**Christ is not a person.
-Christ is a pattern.**
+**Christ is not a person.**
+**Christ is a pattern.**
 
 
 A field of consciousness.
@@ -191,9 +191,9 @@ When the soul stops resisting the pull of its own Source.
 
 Modern neuroscience confirms what mystics have always known:
 
-**Identity is not fixed.
-Consciousness can reorganize itself.
-A new self can emerge from the dissolution of old patterns.**
+**Identity is not fixed.**
+**Consciousness can reorganize itself.**
+**A new self can emerge from the dissolution of old patterns.**
 
 
 Resurrection corresponds to:
@@ -226,9 +226,9 @@ Resurrection requires coherence.
 Coherence requires order.
 Order requires a carrier medium.
 
-**Water is the carrier.
-Light is the activator.
-Consciousness is the organizing principle.**
+**Water is the carrier.**
+**Light is the activator.**
+**Consciousness is the organizing principle.**
 
 
 When the waters of the body become structured, hexagonal, crystalline, the nervous system is capable of sustaining higher states of awareness.
@@ -324,13 +324,13 @@ It is the return of the divine into the world — *through* you.
 
 It is the moment the soul remembers:
 
-**I am not merely human.
+I am not merely human.
 I am human as a vessel of the Infinite.
 I am water remembering Light.
 I am consciousness remembering Source.
 I am the resurrection and the life —
 not as a statement of arrogance,
-but as a statement of identity.**
+but as a statement of identity.
 
 
 Resurrection is the homecoming.
