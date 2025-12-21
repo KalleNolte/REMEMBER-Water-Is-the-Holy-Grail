@@ -61,6 +61,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The science, structure, and healing power of hexagonal water. Prof. Jhon’s research, cellular coherence, and the geometry of life.
 * [Oxidation-Reduction Potential (ORP)](./oxidation_reduction_potential_orp.md)  
 	What ORP really measures, why electrons determine order, aging, and regeneration, and how water acts as a transport medium for electrons—scientifically accurate, clear, and accessible.
+* [Antioxidants — The Art of Giving Electrons Back to Life](./antioxidants_the_art_of_giving_electrons_back_to_life.md)  
+	A clear, practical, and integrative chapter on antioxidants as the art of restoring electrical order to life. Explains the true context of antioxidants, the primacy of water as an electron carrier, the role of molecular hydrogen, negative ions, and key nutrients. Shows why antioxidants support, but cannot substitute for, coherent water and integration. Practical, accessible, and foundational for understanding health as an electrical phenomenon.
 * [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)  
 	Plasma as the most abundant, yet least understood, state of matter. Explores plasma as the living threshold between matter and field, the bridge between water and consciousness, and the medium of cosmic intelligence. Integrates modern physics, ancient wisdom, and the science of coherence.
 * [AzurA Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)  
@@ -92,18 +94,22 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A deep-dive into the soul’s metamorphosis—transcending the seven shadows through presence, courage, and the luminous art of inner transformation. A guide to reclaiming wholeness and radiance.
 * [Shadow Work - The Gateway to Wholeness](./shadow_work_the_gateway_to_wholeness.md)  
 	The art of integrating the shadow—transparency, radical honesty, and the return to wholeness. A practical and poetic invitation to embrace all that was hidden, and to become undivided.
+* [Lilith](./lilith.md)  
+	A mythic, psychological, and initiatic exploration of Lilith as the archetype of exiled feminine sovereignty, boundaries, and the refusal to be erased. This chapter reveals Lilith not as enemy but as guardian—inviting the reader to integrate untamed intelligence, honest desire, and power without domination. It restores dignity to the shadow, coherence to the body, and clarity to the field of relationship.
+* [The Devil](./the_devil.md)
+	The Teacher We Tried to Banish: The Devil as the misunderstood archetype of friction, consequence, and the final gatekeeper before liberation. This chapter explores the Devil not as evil, but as the function of separation, resistance, and the mirror of unconscious contracts. It invites the reader to integrate shadow, reclaim coherence, and recognize the Devil as the last teacher before return to Source. Literary, initiatic, and transformative—this is the reconciliation of all things.
+* [The Myth of the Prison and the Return to Coherence](./the_myth_of_the_prison_and_the_return_to_coherence.md)
+	A calm, clarifying, and integrative teaching on the "false matrix," sacred geometry, and the nature of Source. This chapter dispels fear-based narratives, reframes the "soul prison" as a state of perception, and restores the primacy of coherence, embodiment, and relationship. It bridges mystical inquiry with grounded practice, showing that liberation is not escape but the return to wholeness through water, body, and breath. Essential for readers navigating modern myth and seeking a non-sensational, unifying perspective.
 * [The Alchemy of Grief – When Pain Becomes Light](.alchemy_of_grief_when_pain_becomes_light.md)  
 	A poetic and initiatic guide to transmuting grief into radiant coherence—where sorrow becomes the crucible for light, and loss is alchemized through water, presence, and remembrance into a deeper wholeness. A chapter on the sacred art of letting pain become the very source of illumination.
 * [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)  
 	The initiatic art of letting go: Surrender as the gateway to inner freedom, coherence, and the effortless flow of life. A poetic, practical, and spiritual exploration of trust, release, and the return to natural alignment with Source.
 * [Wu Wei — The Art of Not Forcing](./wu_wei_the_art_of_not_forcing.md)
 	The silent mastery of effortless action: Wu Wei reveals the end of inner struggle, the dissolution of resistance, and the art of moving in harmony with life’s current. A poetic, initiatic chapter on the power of alignment, surrender, and the freedom that arises when nothing is forced and nothing is withheld.
-* [Non-Resistance and the Immaculate Vision](./non_resistance_and_the_immaculate_vision.md)  
-	A pillar chapter weaving non-resistance and Akram Vignan’s Immaculate Perception into a unified transmission. Explores the end of suffering through perceptual clarity, the mechanics of resistance, and the art of living without inner conflict. Bridges surrender and practical mastery.
 * [The Father, the Tree, and the Silent Power of Giving](./the_father_archetype.md)  
 	A poetic, initiatic chapter on the father archetype as the silent, grounding force—tree, primordial father, responsibility, healing, restoration, and dignity. This chapter roots the divine in the human and closes an archetypal gap left open by many spiritual works. It bridges the path from inner transformation to embodied integration.
-* [Bushido - The Way That Cuts Through Illusion](./bushido.md)  
-	The discipline of inner sovereignty, clarity, and compassion. Bushidō as the Japanese path of integration, noble conduct, and the heart sharpened into service and love.
+* [Chakras and Archons](./chakras_and_archons.md)  
+	An integrative chapter on chakras, archons, and states of consciousness—how spiritual, psychological, and somatic perspectives interweave, how blockages arise, and how they can be met and released through witnessing, embodiment, and Christic presence. Practical, clear, and psychologically precise—a guide to returning to the seat of the Witness and living coherence.
 
 ### IV. Practical Mastery - Body, Water, Light
 * [Trauma — When Memory Freezes](./Water_is_the_Holy_Grail/trauma_when_memory_freezes.md)  
@@ -150,6 +156,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 	The sacred art of sleep as nightly return to Source—regeneration, healing, and the unfolding of the luminous field. A chapter on the mysteries of rest, the intelligence of dreams, and the restoration of coherence through surrender to the night.
 * [The Voice: The Forgotten Instrument](./the_voice_the_forgotten_instrument.md)  
 	The human voice as the original instrument of coherence—sound, resonance, and the power to shape reality. A poetic exploration of how speaking, singing, and silence become tools for healing, alignment, and remembrance.
+* [Chanting — When Consciousness Becomes Sound](./chanting_when_consciousness_becomes_sound.md)  
+	A literary-practical chapter on chanting as the oldest technology of consciousness. Shows how sound, vibration, and voice organize the body from within, harmonize water and the nervous system, and return awareness to its source. Practical, somatic, and spiritual—a direct invitation to return to presence and coherence through sound.
 * [Eating Light: Conscious Nourishment](./eating_light_conscious_nourishment.md)  
 	An scientific, and spiritual synthesis of nourishment as prayer. Explores how every meal becomes a ritual of remembrance, how light, water, and consciousness shape true nutrition, and how gratitude, coherence, and compassion transform eating into a sacred act. Integrates biophysics, ancient wisdom, and practical guidance for living as a vessel of light in daily life.
 * [The Living Synergy](./the_living_synergy.md)  
@@ -179,8 +187,14 @@ Each file is listed with its energetic function. The order follows the temple pa
 	On Bashar, the nature of contact, and the many voices of awareness. Explores non-human intelligences, consciousness streams, and the role of water as a universal medium of coherence. A bridge between the master teachings and the supreme transmissions.
 * [Conversations with God](./conversations_with_god.md)
 	A literary, poetic reflection on the inner dialogue with Source—beyond dogma, as a living relationship of resonance, honesty, and remembrance. Integrates the teachings of Neale Donald Walsch with the book’s core synthesis of water, coherence, and consciousness.
+* [Non-Resistance and Flawless Vision](./non_resistance_and_the_immaculate_vision.md)
+	A pillar chapter on the art of seeing the world as flawless. Weaves non-resistance and Akram Vignan’s Immaculate Perception into a unified transmission. Explores the end of suffering through perceptual clarity, the mechanics of resistance, and the art of living without inner conflict. Bridges surrender, practical mastery, and the foundation for the step-less path of Akram Vignan.
+
+* [Akram Vignan](./akram_vignan.md)
+	The Spiritual Science of Instant Liberation: Akram Vignan offers a step-less, grace-based path to Self-realization and the art of living free. This chapter introduces the Five Agnas—living principles for sustaining freedom in daily life—and explores the tenacity of decision, the power of sincere intent, and the naturalness of liberation without renunciation. A practical, compassionate guide to awakening as the Witness, dissolving karma, and embodying equanimity in all circumstances. Integrates the wisdom of non-doership, pratikraman, and the restoration of dignity through grace, clarity, and the return to the Self.
 
 ### VII. The Supreme Vedic Transmissions
+
 
 * [Neti Neti — The Gate of No-Thing, The Doorway to the Real](./neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md)
 	The stripping away of all that is not Self. Arrival in the unnameable.

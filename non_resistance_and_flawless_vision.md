@@ -1,4 +1,4 @@
-# Non-Resistance and the Immaculate Vision
+# Non-Resistance and Flawless Vision
 
 ### The Art of Ending Suffering Without Ending Life
 
@@ -13,7 +13,7 @@ It is not weakness.
 
 Non-resistance is alignment with Reality as it is, rather than as the mind insists it should be.
 
-In the Akram Vignan tradition, this clarity is called **the Immaculate Vision**—a way of seeing in which the world is no longer divided into offenders and victims, right and wrong, enemies and saviors. Instead, everything is perceived as lawful, precise, and unfolding according to causes already set into motion.
+In the Akram Vignan tradition, this clarity is called **the Flawless Vision**—a way of seeing in which the world is no longer divided into offenders and victims, right and wrong, enemies and saviors. Instead, everything is perceived as lawful, precise, and unfolding according to causes already set into motion.
 
 From this view, one radical insight emerges:
 
@@ -38,7 +38,7 @@ A refusal to allow what is.
 
 In Akram Vignan, this refusal is understood as the activity of the **egoic doer**, the false center that claims authorship over thoughts, actions, and outcomes. When life unfolds in ways that threaten this imagined control, the ego reacts with tension, judgment, and emotional charge.
 
-The Immaculate Vision reveals something quietly revolutionary:
+The Flawless Vision reveals something quietly revolutionary:
 
 > No one is truly doing anything to anyone.
 > All events are the result of prior causes.
@@ -66,9 +66,9 @@ When an event is perceived without adding judgment, blame, or story, it complete
 What resists, persists.
 
 
-## The Immaculate Vision: Seeing Without Error
+## The Flawless Vision: Seeing Without Error
 
-The Immaculate Vision is not a philosophy.
+The Flawless Vision is not a philosophy.
 It is a perceptual correction.
 
 It is the recognition that every person encountered is acting from their level of awareness, conditioning, and unresolved impressions. No one is capable of acting outside their current state of consciousness.
@@ -82,7 +82,7 @@ What remains is understanding.
 This does not mean approving of harmful behavior.
 It means no longer internalizing it as a personal offense.
 
-When perception becomes immaculate, the world does not need to change for peace to arise. Peace appears because perception is no longer distorted.
+When perception becomes flawless, the world does not need to change for peace to arise. Peace appears because perception is no longer distorted.
 
 
 ## The End of Inner Conflict
@@ -123,7 +123,7 @@ Suffering ends not through struggle, but through understanding.
 
 ## Integration: Living Without Inner Friction
 
-To live from non-resistance and immaculate perception does not mean withdrawing from the world. It means moving through it without inner abrasion.
+To live from non-resistance and Flawless perception does not mean withdrawing from the world. It means moving through it without inner abrasion.
 
 Life is met as it arrives.
 Events are allowed to complete themselves.
@@ -147,5 +147,5 @@ When resistance ends, the search ends.
 When the search ends, presence remains.
 
 This is the gift of non-resistance.
-This is the power of immaculate vision.
+This is the power of flawless vision.
 This is the end of suffering—without ending life.

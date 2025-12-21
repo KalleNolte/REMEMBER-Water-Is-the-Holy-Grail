@@ -1,4 +1,3 @@
-
 # **Time — The Last Illusion to Dissolve**
 
 There comes a moment—quiet, almost imperceptible—when the pressure within softens.

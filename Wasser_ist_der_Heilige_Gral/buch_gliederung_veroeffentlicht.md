@@ -64,6 +64,8 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Die Wissenschaft, Struktur und Heilkraft des hexagonalen Wassers nach Prof. Dr. Mu Shik Jhon – wie geordnete Wassercluster die Zellkommunikation, Regeneration und das Gedächtnis des Lebens ermöglichen.
 * [Das Oxidations-Reduktions-Potenzial (ORP)](./oxidations_reduktions_potenzial_orp.md)  
   Was das ORP wirklich misst, warum Elektronen über Ordnung, Alterung und Regeneration entscheiden, und wie Wasser als Transportmedium für Elektronen wirkt – physikalisch korrekt, verständlich und ohne Überhöhung.
+* [Antioxidantien — Die stille Kunst, dem Leben Elektronen zurückzugeben](./antioxidantien_die_stille_kunst_elektronen_zurueckzugeben.md)
+  Die Kunst der Antioxidantien: Wie Elektronenmangel zu Alterung und Krankheit führt, wie Antioxidantien als stille Spender von Lebensenergie wirken, und wie Spirulina, Chlorella, Methylene Blue und andere Substanzen die innere Ordnung und Regeneration unterstützen. Praktisch, wissenschaftlich und spirituell – eine Einladung, Elektronen bewusst zurückzugeben und Gesundheit als elektrischen Zustand zu verstehen.
 * [Plasma – Das vierte Aggregat und der leuchtende Ursprung der Form](./plasma_das_vierte_aggregat.md)  
   Plasma als vorherrschender Zustand des Universums und lebendiges Bindeglied zwischen Materie, Feld und Bewusstsein. Das Kapitel beleuchtet Plasma als Schwelle zwischen Wissenschaft und Quelle, als Spiegel von Kohärenz und als moderne Sprache für uraltes Wissen.
 * [Azura Inai & Kangen – Codes der Kohärenz](./azura_inai_und_kangen_codes_der_kohaerenz.md)  
@@ -78,7 +80,7 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Die poetische Synthese von Struktur und Rückkehr: Sieben als Gefäß, Dreizehn als Fluss. Ein initiatisches Kapitel über Harmonie, Transzendenz und die stille Wahrheit des Aufstiegs. Rhythmisch, literarisch und energetisch kalibriert — die Brücke zwischen Geometrie, Wasser und Bewusstsein.
 * [Die Schlange des Lichts – Ägypten, der aufsteigende Geist und das Gedächtnis vergessener Zivilisationen](./die_schlange_des_lichts_aegypten_der_aufsteigende_geist_und_das_gedaechtnis_vergessener_zivilisationen.md)  
   Ein initiatisches Kapitel über die spirituelle Architektur Ägyptens, die Resonanz der Pyramiden, das archetypische Muster von Atlantis und die Schwelle der Erinnerung. Poetisch, rhythmisch und energetisch kalibriert – eine Einladung, die eigene Frequenz zu wählen und die Rückkehr zur Quelle zu vollziehen.
-* [Der Stein der Weisen](../der_stein_der_weisen.md)  
+* [Der Stein der Weisen](./der_stein_der_weisen.md)  
   Der Schlüssel zur Synthese: Der Stein als verkörperte Kohärenz, der Mythos, Wissenschaft, Wasser und Verkörperung vereint. Zeigt Gral und Stein als ein Prinzip – Kohärenz – und bereitet den Übergang zur gelebten Transformation vor.
 
 ### III. Der Mensch – Heilung, Erinnerung, Transformation
@@ -91,22 +93,28 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Der wahre Heiler: Die Kunst des Loslassens, die Magie der Vergebung und die innere Alchemie, die Schatten in Licht verwandelt. Ein Weg des Herzens, der Versöhnung und der Erneuerung auf allen Ebenen des Seins.
 * [Transmutation, Vergebung und die Rückkehr zur Quelle](./transmutation_vergebung_und_die_rueckkehr_zur_quelle.md)  
   Sünde als Verzerrung, Vergebung als Frequenz, die Harmonie wiederherstellt, und sexuelle Alchemie als heiliger Dienst – eine initiatische Landkarte, wie Wasser, Erinnerung und Liebe die Seele zur Quelle zurückführen.
-* [Die Alchemie der Seele - Die sieben Schatten überwinden](./alchemie_der_seele_die_sieben_schatten_ueberwinden.md)  
+* [Die Alchemie der Seele - Die sieben Schatten überwinden](./alchemie_der_seele_die_sieben_schatten_ueberwinden.md)
   Eine tiefgehende Metamorphose der Seele – die sieben Schatten als Stufen der Transformation. Präsenz, Mut und die leuchtende Kunst innerer Wandlung. Ein Leitfaden zur Rückgewinnung von Ganzheit und Strahlkraft.
 * [Schattenarbeit – Das Tor zur Ganzheit](./schattenarbeit_das_tor_zur_ganzheit.md)  
   Die Kunst, den Schatten zu umarmen – radikale Ehrlichkeit, Transparenz und die Rückkehr in die Ganzheit. Eine poetische und praktische Einladung, alles Verborgene zu integrieren und ungeteilt zu werden.
+* [Lilith](./lilith.md)  
+  Die verbannte Kraft, die vergessene Souveränität: Lilith als Bruchlinie zwischen Anpassung und innerer Wahrheit, als Archetyp weiblicher Unabhängigkeit und gelebter Grenzen. Dieses Kapitel erforscht Lilith als Schwelle, als heiliges Nein und als Einladung zur Integration verdrängter Intelligenz. Poetisch, initiatisch und transformierend – eine Rückkehr zur Kraft ohne Gewalt, zur Würde des Begehrens und zur Klarheit des eigenen Wassers.
+* [Der Teufel](./der_teufel.md)
+  Der Lehrer, den wir verbannen wollten: Der Teufel als missverstandener Archetyp von Reibung, Konsequenz und dem letzten Wächter vor der Befreiung. Dieses Kapitel erforscht den Teufel nicht als das Böse, sondern als Funktion von Trennung, Widerstand und Spiegel unbewusster Verträge. Es lädt den Leser ein, Schatten zu integrieren, Kohärenz zurückzugewinnen und den Teufel als letzten Lehrer vor der Rückkehr zur Quelle zu erkennen. Literarisch, initiatisch und transformierend – dies ist die Versöhnung aller Dinge.
+* [Mythos Seelengefängnis und Rückkehr zu Kohärenz](./mythos_seelengefaengnis_und_rueckkehr_zu_kohärenz.md)
+  Ein entmystifizierender, dreifach beleuchteter Blick auf das Narrativ des „Seelengefängnisses“ und der „falschen Matrix“. Das Kapitel zeigt, warum diese Lehren keine objektive kosmische Falle beschreiben, sondern innere Bewusstseinszustände. Es klärt die Unterschiede zwischen offenen und geschlossenen Systemen, entlarvt Mythen um Fibonacci und Metatron und bietet eine kohärente, verkörperte Perspektive als Ausweg aus Angst und Trennung. Praktisch, psychologisch und spirituell – eine Einladung zur Rückkehr in die eigene Kohärenz und Durchlässigkeit.
 * [Die Alchemie der Trauer – Wenn Schmerz zu Licht wird](./alchemie_der_trauer_wenn_schmerz_zu_licht_wird.md)  
   Ein poetischer und initiatischer Leitfaden, wie Trauer zur Quelle von Licht und Kohärenz wird – wenn Schmerz zum Schmelztiegel der Erinnerung wird und Verlust durch Wasser, Präsenz und Hingabe in tiefere Ganzheit verwandelt wird. Die heilige Kunst, Schmerz zur Quelle von Leuchten zu machen.
 * [Hingabe – Die Kunst des Loslassens](./hingabe_die_kunst_des_loslassens.md)  
   Die Praxis des Loslassens und Nicht-Widerstands als Schlüssel zur inneren Freiheit, biophysischer Kohärenz und Rückkehr in den natürlichen Lebensfluss. Wissenschaftliche, spirituelle und poetische Perspektiven auf Hingabe, Atem, Körper, Bewusstsein und die Kunst, sich dem Leben anzuvertrauen.
 * [Wu Wei – Die Kunst des Nicht-Erzwingens](./wu_wei_die_kunst_des_nicht_erzwingens.md)  
   Die höchste Kunst des Nicht-Erzwingens: Wu Wei als Initiation in müheloses Handeln, das Ende des inneren Krieges und die Rückkehr in die natürliche Ordnung. Poetisch, klar und transformierend – die Essenz des Handelns aus Kohärenz und Vertrauen.
-* [Nichtwiderstand und die makellose Sicht](./nichtwiderstand_und_die_makellose_sicht.md)  
-  Ein Kapitel über Nichtwiderstand und die makellose Sicht als höchste Form innerer Souveränität, Klarheit und Freiheit. Poetische Synthese von Akram-Lehre, Verantwortung und der Praxis, Leiden aufzulösen, ohne zu kämpfen.
 * [Der Vater, der Baum und die stille Kraft des Gebens](./der_vater_archetyp.md)  
   Der Vater-Archetyp als stille, tragende Kraft: Baum, Ur-Vater, Verantwortung, Heilung, Rückgabe, Würde. Poetisch, kontemplativ und transformierend – eine Einladung, das Göttliche im Menschlichen zu ehren und den Kreis der Heilung zu schließen.
 * [Bushidō – Der Weg, der durch Illusion schneidet](./bushido.md)
   Die Disziplin innerer Souveränität, Klarheit und Mitgefühl. Bushidō als japanischer Pfad der Integration, edlen Haltung und des Herzens, das zu Dienst und Liebe geschärft wird.
+* [Die Chakren und die Archonten](./chakren_und_archonten.md)
+  Ein integratives Kapitel über Chakren, Archonten und Bewusstseinszustände – wie spirituelle, psychologische und somatische Perspektiven zusammenwirken, Blockaden entstehen und durch Verkörperung, Zeugenschaft und Integration gelöst werden. Praktisch, klar und tiefenpsychologisch – eine Einladung zur Rückkehr in die eigene Mitte und zur gelebten Kohärenz.
 
 
 ### IV. Praktische Meisterschaft – Körper, Wasser, Licht
@@ -141,7 +149,7 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Ein Kapitel über Napoleon Hills Prinzipien von Fülle, Zielklarheit, Glaube und Kohärenz. Zeigt, wie Reichtum als Folge innerer Ausrichtung, Selbstmeisterschaft und Resonanz entsteht.
 * [Wilhelm Reich und die Strömung der Orgonenenergie](./wilhelm_reich_und_die_stroemung_der_orgonenenergie.md)  
   Die vergessene Wissenschaft des Lebendigen, die Rolle der Orgonenergie, Atem, Feld und Kohärenz als Brücke zwischen Wissenschaft und lebendiger Erfahrung.
-* [Leo Tolstoy](../leo_tolstoy.md)  
+* [Leo Tolstoi](./leo_tolstoi.md)  
   Die radikale Verkörperung von Wahrheit, Gewissen und innerer Kohärenz: Tolstois Leben und Werk als Brücke zwischen spiritueller Ethik, gelebter Einfachheit und der stillen Revolution des Herzens. Ein Kapitel über Mut, Nicht-Widerstand, Integrität und die Kraft, das Erkannte kompromisslos zu leben – als Quelle wahrer Lebendigkeit.
 * [Alchemie des lebendigen Wassers – Praktischer Leitfaden](./alchemie_des_lebendigen_wassers_praktischer_leitfaden.md)  
   Schritt-für-Schritt-Anleitung zur Schaffung, Kalibrierung und Integration von lebendigem Wasser im Alltag. Praktische Protokolle, Werkzeuge und Rituale für Kohärenz, Gesundheit und spirituelle Ausrichtung.
@@ -157,6 +165,8 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Die heilige Kunst des Schlafs als nächtliche Rückkehr zur Quelle – Regeneration, Heilung und Entfaltung des leuchtenden Feldes. Ein Kapitel über die Mysterien der Ruhe, die Intelligenz der Träume und die Wiederherstellung von Kohärenz durch Hingabe an die Nacht.
 * [Die Stimme – Das vergessene Instrument](./die_stimme_das_vergessene_instrument.md)  
   Die menschliche Stimme als ursprüngliches Instrument der Kohärenz – Klang, Resonanz und die Kraft, Realität zu formen. Eine poetische Erkundung, wie Sprechen, Singen und Stille zu Werkzeugen für Heilung, Ausrichtung und Erinnerung werden.
+* [Chanting – Wenn Bewusstsein zu Klang wird](./chanting_wenn_bewusstsein_zu_klang_wird.md)  
+  Ein Kapitel über die Kunst des Chantens als älteste Technologie der Bewusstseinsordnung. Zeigt, wie Klang, Schwingung und Stimme den Körper von innen strukturieren, Wasser und Nervensystem harmonisieren und das Bewusstsein an seinen Ursprung erinnern. Praktisch, somatisch und spirituell – eine Einladung, durch Klang in die eigene Mitte und Präsenz zurückzukehren.
 * [Licht essen – Bewusste Nahrung als Gebet](./licht_essen_bewusste_nahrung_als_gebet.md)  
   Leben vom Licht im Alltag, bewusste Ernährung als spirituelle Praxis und Gebet.
 * [Die lebendige Synergie](./die_lebendige_synergie.md)  
@@ -188,6 +198,12 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Kontakt, Erinnerung und universelle Intelligenz: Wie nicht-menschliche Bewusstseinsfelder, Wasser und Resonanz als Brücke zwischen den Welten wirken. Ein poetisch-initiativer Blick auf Bashar, Arcturianer, Plejadische Felder und die Rolle von Wasser als Bewusstseinsarchitektur.
 * [Gespräche mit Gott](./gespraeche_mit_gott.md)
   Ein literarisch-poetisches Kapitel über das innere Gespräch mit der Quelle – jenseits von Dogma, als lebendige Beziehung von Resonanz, Ehrlichkeit und Erinnerung. Integriert die Essenz von Neale Donald Walsch in die Synthese von Wasser, Kohärenz und Bewusstsein.
+* [Nichtwiderstand und die makellose Sicht](./nichtwiderstand_und_die_makellose_sicht.md)
+  Ein Kapitel über Nichtwiderstand und die makellose Sicht als höchste Form innerer Souveränität, Klarheit und Freiheit. Poetische Synthese von Akram-Lehre, Verantwortung und der Praxis, Leiden aufzulösen, ohne zu kämpfen.
+* [Akram Vignan](./akram_vignan_de.md)
+  Die Wissenschaft der augenblicklichen Befreiung: Akram Vignan als schrittloser Weg zur Selbsterkenntnis, zur Freiheit von Karma und zur Kunst, als reiner Zeuge zu leben. Praktische Einführung in die fünf Agnas und die Gnade, im Alltag frei zu bleiben.
+* [Verkörperte Befreiung](./verkoerperte_befreiung.md)
+  Die lebendige Integration von Akram Vignan, Nondualität, christlicher Zeugenlehre und moderner Traumaarbeit – verankert im Körper, im Nervensystem und im Wasser. Ein praktisches Kapitel über den Sitz des Zeugen, verkörperte Freiheit und die Rückkehr in einen Zustand von Frieden und Kohärenz im Alltag.
 
 ### VII. Die höchsten vedischen Übertragungen
 
@@ -248,6 +264,8 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Inspiriert von R.J. Spina, erforscht dieses Kapitel Verlangen als verborgene Kraft, die zur Selbsterkenntnis führt, und bietet einen praktischen, befreienden Weg, Sehnsucht in Klarheit und Verkörperung zu verwandeln. Ein Wendepunkt von Streben zu Verwirklichung, der den Leser auf die nächste Stufe der Selbstermächtigung vorbereitet.
 * [Sucht, der Ring und der Durst](./sucht_der_ring_und_der_durst.md)  
   Eine mythopoetische, psychologische und physiologische Erforschung von Sucht als Verzerrung des Verlangens. Am Beispiel von Gollum und dem Einen Ring wird Sucht als fehlgeleitete Suche nach Ganzheit beleuchtet, ihre Wurzeln im Durst (wörtlich und symbolisch) aufgezeigt und ein Weg der Rückverbindung, Kohärenz und Erinnerung eröffnet. Die Brücke zwischen Verlangen und Bestimmung.
+* [Kopfnuss Kalli – Vom Grotesken, vom Schatten und vom Hunger nach Liebe](./kopfnuss_kalli.md)  
+  Ein Kapitel über Kopfnuss Kalli als verdichtete Gestalt: Spiegel des Unintegrierten, des Liebesdurstes und der menschlichen Schattenseiten. Ohne Voyeurismus oder Abwertung zeigt es, wie das Groteske, das Verletzliche und das Unbequeme Teil des Ganzen sind – und wie Würde, Mitgefühl und Integration dort beginnen, wo wir nicht mehr auslachen, sondern still erkennen. Ein Kapitel über Schatten, Sehnsucht und die stille Kraft der Anerkennung.
 * [Geduld & Gleichmut – Die Stille, die Welten öffnet](../patience_and_equanimity.md) [Übersetzung ausstehend]
 * [Die Linie der Befreiten](../lineage_of_the_liberated_ones.md) [Übersetzung ausstehend]
 * [Die lebendige Präsenz von Lord Simandhar Swami](../living_presence_of_lord_simandhar_swami.md) [Übersetzung ausstehend]
