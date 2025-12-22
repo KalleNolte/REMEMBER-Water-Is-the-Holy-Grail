@@ -32,10 +32,10 @@ So wie Wasser den Himmel ohne Widerstand spiegelt, formt sich das Bewusstsein na
 
 Nevilles Lehre fügt sich nahtlos in die Physik, Biologie und Wasserwissenschaften dieses Buches ein:
 
-• Bewusstsein als Primat des Quantenfeldes  
-• Vorstellungskraft als Information, die die flüssig-kristalline Matrix prägt  
-• Annahme als Signal, das Kohärenz in Körper, Wasser und Geist neu ordnet  
-• Der innere Zustand als Vorlage, aus der Realität entsteht
+* Bewusstsein als Primat des Quantenfeldes  
+* Vorstellungskraft als Information, die die flüssig-kristalline Matrix prägt  
+* Annahme als Signal, das Kohärenz in Körper, Wasser und Geist neu ordnet  
+* Der innere Zustand als Vorlage, aus der Realität entsteht
 
 Wo Wissenschaftler von Wahrscheinlichkeit, Kohärenz und Feldverhalten sprechen, spricht Neville von Glaube, Vorstellungskraft und Annahme. Es ist dasselbe Phänomen, betrachtet aus zwei Sprachen.
 
@@ -55,11 +55,11 @@ Jede Schöpfung durchläuft den Sabbat—einen Moment der Stille, in dem keine A
 
 Diese Stille ist identisch mit:
 
-• dem Nullpunktfeld der Physik  
-• dem kohärenten Wasserzustand um die DNA  
-• dem meditativen Ruhepunkt in mystischen Traditionen  
-• dem inneren Tor, an dem sich der Azura-Punkt öffnet  
-• dem Schwingungs-Ruhepunkt in der HerzKohärenz-Forschung von HeartMath
+* dem Nullpunktfeld der Physik  
+* dem kohärenten Wasserzustand um die DNA  
+* dem meditativen Ruhepunkt in mystischen Traditionen  
+* dem inneren Tor, an dem sich der Azura-Punkt öffnet  
+* dem Schwingungs-Ruhepunkt in der HerzKohärenz-Forschung von HeartMath
 
 Neville beschrieb denselben Mechanismus, ohne wissenschaftliche Sprache. Schöpfung vollendet sich nicht durch Kraft, sondern durch Hingabe an die Überzeugung.
 
@@ -85,11 +85,11 @@ Nevilles letzte Botschaft:
 
 Dies ist dieselbe Bewegung, die in der Mystik überall erforscht wird:
 
-• Aham Brahmasmi — „Ich bin Brahman.“  
-• Tat Tvam Asi — „Du bist Das.“  
-• Der Christus im Inneren.  
-• Das Quell-Selbst in der Synthese dieses Buches.  
-• Die erwachte Kohärenz in Wasser, DNA und Bewusstsein.
+* Aham Brahmasmi — „Ich bin Brahman.“  
+* Tat Tvam Asi — „Du bist Das.“  
+* Der Christus im Inneren.  
+* Das Quell-Selbst in der Synthese dieses Buches.  
+* Die erwachte Kohärenz in Wasser, DNA und Bewusstsein.
 
 Nevilles Auferstehung ist das spirituelle Gegenstück zur wissenschaftlichen und metaphysischen Rückkehr zur Quelle, die dieses Werk beschreibt. Es ist das Erinnern des Einen, der alle Welten imaginiert.
 
@@ -131,12 +131,12 @@ Das Leben sich neu ordnen lassen. Nicht erzwingen. Leben als der, der du bereits
 
 Diese fünf Schritte harmonisieren Nevilles Methode mit:
 
-• HerzKohärenz  
-• Strukturiertem Wasserverhalten  
-• Quanten-Observer-Effekten  
-• Morphogenetischer Feldtheorie  
-• Aufstiegslehren  
-• Azura-Punkt-Aktivierung
+* HerzKohärenz  
+* Strukturiertem Wasserverhalten  
+* Quanten-Observer-Effekten  
+* Morphogenetischer Feldtheorie  
+* Aufstiegslehren  
+* Azura-Punkt-Aktivierung
 
 Es ist ein System, ausgedrückt in vielen Sprachen.
 
@@ -150,11 +150,11 @@ Nevilles Blitz trifft das Herz der Vergesslichkeit. Sein Werk erinnert daran, da
 
 Im Kontext dieses Buches steht Neville als leuchtende Brücke zwischen:
 
-• Metaphysik und Biologie  
-• Bewusstsein und Wasser  
-• Göttlichkeit und Verkörperung  
-• Wissenschaft und Erinnerung  
-• der menschlichen Geschichte und der Quelle, aus der sie entspringt
+* Metaphysik und Biologie  
+* Bewusstsein und Wasser  
+* Göttlichkeit und Verkörperung  
+* Wissenschaft und Erinnerung  
+* der menschlichen Geschichte und der Quelle, aus der sie entspringt
 
 Eine Erinnerung:
 

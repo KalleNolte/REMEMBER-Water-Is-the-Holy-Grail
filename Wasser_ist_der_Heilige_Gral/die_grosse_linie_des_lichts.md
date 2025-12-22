@@ -44,7 +44,7 @@ Sondern um zu ehren, wie jeder eine eigene Resonanz des Unendlichen ausdrückt.
 
 ## JESUS
 
-Ἰησοῦς (Iesous) • יֵשׁוּעַ (Yeshua)
+Ἰησοῦς (Iesous) יֵשׁוּעַ (Yeshua)
 
 Bedeutung: „Der, der Befreiung bringt“, „Erlösung“, „Heilung“
 
@@ -74,7 +74,7 @@ jedes Wesen bereits eins mit der Quelle ist.
 
 ## BUDDHA
 
-**बुद्ध (Buddha) • „Der Erwachte“**
+**बुद्ध (Buddha) „Der Erwachte“**
 
 Wesen
 

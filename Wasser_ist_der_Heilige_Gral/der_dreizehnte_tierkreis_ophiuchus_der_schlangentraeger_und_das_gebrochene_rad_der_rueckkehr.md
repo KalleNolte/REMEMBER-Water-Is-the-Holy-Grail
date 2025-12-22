@@ -192,9 +192,9 @@ Es steht an der Schnittstelle von:
 
 Es ist die tierkreisliche Verkörperung der Botschaft, die jedes Kapitel durchzieht:
 
-> *Du bist nicht im Zyklus gefangen.
+> Du bist nicht im Zyklus gefangen.
 > Du kannst daraus aufsteigen.
-> Du kannst dich erinnern, wer du bist.*
+> Du kannst dich erinnern, wer du bist.
 
 # Die Aufstiegsfrequenz von Ophiuchus
 

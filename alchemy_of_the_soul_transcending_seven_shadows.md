@@ -11,9 +11,9 @@ In this modern, spiritually mature reinterpretation we weave the ancient moral m
 The Shadow: Pride is the fear of appearing small. It protects the fragile Self through exaggeration.
 The Virtue: Humility is not denying oneself, but recognizing the Whole.
 The Masters:
-    • Jesus: “Whoever humbles himself will be exalted.”
-    • Marcus Aurelius: “Remember you are part of the world‑soul.”
-    • Covey: “Begin with the End in mind” – orienting to purpose beyond ego.
+* Jesus: “Whoever humbles himself will be exalted.”
+* Marcus Aurelius: “Remember you are part of the world‑soul.”
+* Covey: “Begin with the End in mind” – orienting to purpose beyond ego.
 The Transcendence: Authenticity – you need no image when you rest in truth.
 
 2. Envy → Admiration → Inspiration
@@ -21,8 +21,8 @@ The Transcendence: Authenticity – you need no image when you rest in truth.
 The Shadow: Envy desires belonging, yet confuses it with possession.
 The Virtue: Admiration honours greatness without claiming it.
 The Masters:
-    • Buddha: “Comparison is the root of suffering.”
-    • Jim Rohn: “Let yourself be inspired, not irritated.”
+* Buddha: “Comparison is the root of suffering.”
+* Jim Rohn: “Let yourself be inspired, not irritated.”
 The Transcendence: Inspiration – what you see in another is the call of your own becoming.
 
 3. Wrath → Meekness → Clarity
@@ -30,8 +30,8 @@ The Transcendence: Inspiration – what you see in another is the call of your o
 The Shadow: Wrath is pain unseated, unrecognized.
 The Virtue: Meekness is not weakness, but conscious energy.
 The Masters:
-    • The Stoics: “Do not react, but choose.”
-    • Tony Robbins: “Emotion follows motion” – channel energy rather than suppress it.
+* The Stoics: “Do not react, but choose.”
+* Tony Robbins: “Emotion follows motion” – channel energy rather than suppress it.
 The Transcendence: Clarity – the power to steer emotion into intentional direction.
 
 4. Sloth → Mindfulness → Presence
@@ -39,8 +39,8 @@ The Transcendence: Clarity – the power to steer emotion into intentional direc
 The Shadow: Sloth is not mere inaction, but the loss of meaning.
 The Virtue: Mindfulness awakens the inner motor of purpose.
 The Masters:
-    • Buddha: “Awake!” – the eternal mantra of awakening.
-    • Covey: “Be proactive.”
+* Buddha: “Awake!” – the eternal mantra of awakening.
+* Covey: “Be proactive.”
 The Transcendence: Presence – every movement arising from the Now is alive.
 
 5. Greed → Generosity → Abundance
@@ -48,8 +48,8 @@ The Transcendence: Presence – every movement arising from the Now is alive.
 The Shadow: Greed is the fear of lack, disguised as accumulation.
 The Virtue: Generosity opens the flow of giving and receiving.
 The Masters:
-    • Jesus: “Give, and it will be given to you.”
-    • Napoleon Hill: “Wealth flows to those who create value.”
+* Jesus: “Give, and it will be given to you.”
+* Napoleon Hill: “Wealth flows to those who create value.”
 The Transcendence: Abundance – realising that giving is the highest form of possession.
 
 6. Gluttony → Moderation → Enjoyment
@@ -57,8 +57,8 @@ The Transcendence: Abundance – realising that giving is the highest form of po
 The Shadow: Excess arises when emptiness seeks to be filled.
 The Virtue: Moderation is the art of balance.
 The Masters:
-    • Epictetus: “Master your desires or they will master you.”
-    • Babaji: Yoga as discipline of energy, not mere renunciation.
+* Epictetus: “Master your desires or they will master you.”
+* Babaji: Yoga as discipline of energy, not mere renunciation.
 The Transcendence: Enjoyment – conscious fullness without greed, celebration of life in measure and gratitude.
 
 7. Lust → Purity → Love
@@ -66,12 +66,12 @@ The Transcendence: Enjoyment – conscious fullness without greed, celebration o
 The Shadow: Lust seeks fusion without self‑foundness.
 The Virtue: Purity is transparency of heart—love without possession.
 The Masters:
-    • Jesus: “Blessed are the pure in heart, for they will see God.”
-    • Buddha: Compassion is the highest form of love.
-    • Robbins: True intimacy arises when energy flows freely.
+* Jesus: “Blessed are the pure in heart, for they will see God.”
+* Buddha: Compassion is the highest form of love.
+* Robbins: True intimacy arises when energy flows freely.
 The Transcendence: Love – the primal substance, carrying all and needing none.
 
-The Essence: The Spiral of Awakening
+## The Essence: The Spiral of Awakening
 
 Level    State                Movement
 Shadow   Unconscious lack     Separation

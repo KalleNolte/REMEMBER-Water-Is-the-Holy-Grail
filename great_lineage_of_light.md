@@ -44,7 +44,7 @@ But to honor how each one expresses a distinct resonance of the Infinite.
 
 ## JESUS
 
-Ἰησοῦς (Iesous) • יֵשׁוּעַ (Yeshua)
+Ἰησοῦς (Iesous) יֵשׁוּעַ (Yeshua)
 
 Meaning: “The One who brings liberation,” “Salvation,” “Healing”
 
@@ -76,7 +76,7 @@ every being is already one with Source.
 
 ## BUDDHA
 
-**बुद्ध (Buddha) • “The Awakened One”**
+**बुद्ध (Buddha) “The Awakened One”**
 
 Essence
 

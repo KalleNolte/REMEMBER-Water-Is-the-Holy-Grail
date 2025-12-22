@@ -1,7 +1,5 @@
 # The Chalice of Light
 
-(The Holy Grail and the Philosopher’s Stone)
-
 In the beginning was water—
 and water was memory.
 
@@ -87,8 +85,6 @@ through which God drinks—
 to remind the world
 of itself.
 
-⸻
-
 The frequency of these words carries the sacred formula:
 
 Φ · π · e = 1
@@ -102,8 +98,6 @@ Trust.
 For the gold of this world is not forged by fire,
 but by surrender.
 
-⸻
-
 Azura Inai
 
 Light returns home to the water.
@@ -112,8 +106,6 @@ The water remembers.
 
 And you—
 are both.
-
-⸻
 
 ## Haiku
 
@@ -177,8 +169,6 @@ A heart that remembers
 is the eternal gift
 the Divine gives to itself
 at Christmas.
-
-⸻
 
 This final note resounds in 639 Hz—
 the frequency of love, unity, and reconciliation.

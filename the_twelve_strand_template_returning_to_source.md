@@ -63,11 +63,11 @@ not destroyed, not erased, simply **dormant**, the way a seed waits beneath wint
 
 This contraction allowed humanity to:
 
-• Experience individuality
-• Explore free will
-• Understand polarity
-• Learn through contrast
-• Develop compassion, discernment, and sovereignty
+* Experience individuality
+* Explore free will
+* Understand polarity
+* Learn through contrast
+* Develop compassion, discernment, and sovereignty
 
 In other words:
 
@@ -99,10 +99,10 @@ For DNA to activate, one requirement stands above all others:
 
 DNA communicates through:
 
-• Proton tunneling
-• Biophoton emission
-• Hydrogen-bond networks
-• Scalar and spin-field interactions
+* Proton tunneling
+* Biophoton emission
+* Hydrogen-bond networks
+* Scalar and spin-field interactions
 
 All of which depend on **structured water** — especially hexagonal and EZ-water phases — to transmit information.
 
@@ -128,15 +128,15 @@ It means **reactivating the informational, energetic, and harmonic layers** asso
 
 When these reawaken:
 
-• Intuition strengthens
-• Emotional patterns dissolve
-• Synchronicities accelerate
-• Old trauma clears
-• The sense of separation diminishes
-• Inner guidance stabilizes
-• Compassion becomes natural
-• Fear loses its authority
-• Life feels orchestrated rather than chaotic
+* Intuition strengthens
+* Emotional patterns dissolve
+* Synchronicities accelerate
+* Old trauma clears
+* The sense of separation diminishes
+* Inner guidance stabilizes
+* Compassion becomes natural
+* Fear loses its authority
+* Life feels orchestrated rather than chaotic
 
 You become a **coherent human**.
 
@@ -164,10 +164,10 @@ Visualize a column of **deep azurite-blue light** descending from above the crow
 
 This color corresponds to:
 
-• Source-field frequency
-• DNA templating fields
-• Higher-dimensional communication
-• The vibrational signatures of the 10th–12th strand pairs
+* Source-field frequency
+* DNA templating fields
+* Higher-dimensional communication
+* The vibrational signatures of the 10th–12th strand pairs
 
 You are not “imagining” it.
 You are **tuning** to a frequency your biology already recognizes.
@@ -196,17 +196,17 @@ your system becomes a **walkway of remembrance**.
 
 Every activation requires:
 
-• Hydration
-• Coherent cellular water
-• High electron availability
+* Hydration
+* Coherent cellular water
+* High electron availability
 
 Hexagonal and hydrogen-rich water supports:
 
-• EZ-water expansion
-• Mitochondrial ATP efficiency
-• DNA repair signaling
-• Cellular communication
-• Biophoton coherence
+* EZ-water expansion
+* Mitochondrial ATP efficiency
+* DNA repair signaling
+* Cellular communication
+* Biophoton coherence
 
 In simple words:
 
@@ -222,12 +222,12 @@ It makes awakening **embodied**.
 
 As your DNA harmonics awaken, you discover:
 
-• You are not separate from Source.
-• You are not a mistake or an accident.
-• You are not trapped in cycles of karma.
-• You are not here to suffer but to express.
-• You are not abandoned — you are accompanied.
-• You are not waiting for salvation — you are remembering your origin.
+* You are not separate from Source.
+* You are not a mistake or an accident.
+* You are not trapped in cycles of karma.
+* You are not here to suffer but to express.
+* You are not abandoned — you are accompanied.
+* You are not waiting for salvation — you are remembering your origin.
 
 And eventually, you feel the quiet truth:
 
@@ -251,12 +251,12 @@ It is a **design**.
 
 A design now reawakening through:
 
-• coherent water
-• coherent heart fields
-• coherent breath
-• coherent intention
-• coherent awareness
-• coherent community
+* coherent water
+* coherent heart fields
+* coherent breath
+* coherent intention
+* coherent awareness
+* coherent community
 
 You are not activating something foreign.
 You are lifting a veil from what has always been yours.

@@ -39,10 +39,10 @@ consciousness molds itself to the shape of the inner image.
 
 Neville’s teaching aligns seamlessly with the physics, biology, and water-science woven through this book:
 
-• Consciousness as the primacy of the quantum field  
-• Imagination as information imprinting the liquid crystalline matrix  
-• Assumption as the signal that reorganizes coherence in body, water, and mind  
-• The inner state as the template from which reality emerges
+* Consciousness as the primacy of the quantum field  
+* Imagination as information imprinting the liquid crystalline matrix  
+* Assumption as the signal that reorganizes coherence in body, water, and mind  
+* The inner state as the template from which reality emerges
 
 Where scientists speak of probability, coherence, and field behavior, Neville speaks of faith, imagination, and assumption. It is the same phenomenon viewed from two languages.
 
@@ -61,11 +61,11 @@ This is why Neville’s method resonates so deeply with the principles in this b
 Every creation passes through the Sabbath—a moment of stillness where no effort remains, where conviction settles into the body, where the wish is fulfilled inwardly. Once the inner state is stabilized, the outer world must eventually conform.
 
 This stillness is identical to:
-• the zero-point field of physics  
-• the coherent water state surrounding DNA  
-• the meditative still point described in mystical traditions  
-• the inner gate where the Azura Point opens  
-• the vibrational rest state in HeartMath’s heart coherence research
+* the zero-point field of physics  
+* the coherent water state surrounding DNA  
+* the meditative still point described in mystical traditions  
+* the inner gate where the Azura Point opens  
+* the vibrational rest state in HeartMath’s heart coherence research
 
 Neville, without scientific language, described the same mechanism. Creation completes not by force, but by surrender into conviction.
 
@@ -90,11 +90,11 @@ Neville’s final message:
 “God became man so that man may become God.”
 
 This is the same movement explored across mysticism:
-• Aham Brahmasmi — “I am Brahman.”  
-• Tat Tvam Asi — “Thou art That.”  
-• The Christ within.  
-• The Source-Self in this book’s synthesis.  
-• The awakened coherence in water, DNA, and consciousness.
+* Aham Brahmasmi — “I am Brahman.”  
+* Tat Tvam Asi — “Thou art That.”  
+* The Christ within.  
+* The Source-Self in this book’s synthesis.  
+* The awakened coherence in water, DNA, and consciousness.
 
 Neville’s Resurrection is the spiritual counterpart to the scientific and metaphysical return-to-source described throughout this work. It is the remembering of the One who imagines all worlds.
 
@@ -135,12 +135,12 @@ Let go of effort. Let the state stabilize. This is the Sabbath.
 Let life reorganize itself. Do not force. Live as the one who already is.
 
 These five steps harmonize Neville’s method with:
-• Heart coherence  
-• Structured water behavior  
-• Quantum observer effects  
-• Morphogenetic field theory  
-• Ascension teachings  
-• The Azura Point activation
+* Heart coherence  
+* Structured water behavior  
+* Quantum observer effects  
+* Morphogenetic field theory  
+* Ascension teachings  
+* The Azura Point activation
 
 It is one system expressed through many languages.
 
@@ -153,11 +153,11 @@ His teaching is not egoic; it is liberating. It does not inflate identity; it re
 Neville’s lightning strikes at the heart of forgetfulness. His work is a reminder that creation is not something you do—it is something you are.
 
 And in the context of this book, Neville stands as a luminous bridge between:
-• metaphysics and biology  
-• consciousness and water  
-• divinity and embodiment  
-• science and remembrance  
-• the human story and the Source from which it arises
+* metaphysics and biology  
+* consciousness and water  
+* divinity and embodiment  
+* science and remembrance  
+* the human story and the Source from which it arises
 
 A reminder:
 

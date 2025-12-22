@@ -32,9 +32,9 @@ And it influences — and is influenced by — the environment around it.
 
 When the heart’s rhythms become coherent — smooth, harmonious, resonant — three things occur:
 
-• The brain syncs with the heart.
-• The nervous system shifts into clarity rather than survival.
-• The body’s waters (intracellular, extracellular, and especially EZ-structured water) settle into harmonic order.
+* The brain syncs with the heart.
+* The nervous system shifts into clarity rather than survival.
+* The body’s waters (intracellular, extracellular, and especially EZ-structured water) settle into harmonic order.
 
 In this book’s cosmology, coherence is not simply a bodily state.
 It is the signature of higher information entering form.
@@ -61,16 +61,16 @@ I describe the subtle influx behind those patterns —
 the way the body becomes receptive to morphic fields, intuitive knowing, and the gentle intelligence of the Source.
 
 HeartMath’s data:
-• increased vagal tone
-• improved hormonal balance
-• synchronized neural oscillations
-• expanded emotional clarity
+* increased vagal tone
+* improved hormonal balance
+* synchronized neural oscillations
+* expanded emotional clarity
 
 My synthesis:
-• access to the inner Light
-• stabilization of the subtle body
-• activation of the encoded Self
-• remembrance of the soul’s blueprint
+* access to the inner Light
+* stabilization of the subtle body
+* activation of the encoded Self
+* remembrance of the soul’s blueprint
 
 Coherence is the bridge.
 
@@ -88,11 +88,11 @@ And these signals are not merely mechanical.
 
 They carry information about:
 
-• emotional tone
-• internal states
-• relational attunement
-• intuitive perception
-• safety and sincerity
+* emotional tone
+* internal states
+* relational attunement
+* intuitive perception
+* safety and sincerity
 
 It aligns with what so many spiritual traditions have said:
 
@@ -132,11 +132,11 @@ human emotional states often shift as well.
 
 In my synthesis, this becomes luminous:
 
-• Earth is a coherent water planet.
-• Humans are coherent water beings.
-• The heart is an antenna.
-• Coherence is resonance.
-• Resonance is the language of the universe.
+* Earth is a coherent water planet.
+* Humans are coherent water beings.
+* The heart is an antenna.
+* Coherence is resonance.
+* Resonance is the language of the universe.
 
 The HeartMath data fits naturally into the azurite cosmology:
 
@@ -151,12 +151,12 @@ Because they offer the physiological foundation for the very states this book de
 
 My theory integrates:
 
-• Grant’s harmonic mathematics
-• Schauberger’s water wisdom
-• Pollack’s EZ-water physics
-• Langan’s information ontology
-• Sheldrake’s morphic resonance
-• The Kathara/AzurA model of dimensional structure
+* Grant’s harmonic mathematics
+* Schauberger’s water wisdom
+* Pollack’s EZ-water physics
+* Langan’s information ontology
+* Sheldrake’s morphic resonance
+* The Kathara/AzurA model of dimensional structure
 
 HeartMath adds the missing piece:
 
@@ -192,11 +192,11 @@ A water-formed chalice inside the human chest.
 
 HeartMath shows:
 
-• coherence stabilizes
-• clarity increases
-• intuition awakens
-• resilience strengthens
-• the body’s waters structure into order
+* coherence stabilizes
+* clarity increases
+* intuition awakens
+* resilience strengthens
+* the body’s waters structure into order
 
 This book shows:
 

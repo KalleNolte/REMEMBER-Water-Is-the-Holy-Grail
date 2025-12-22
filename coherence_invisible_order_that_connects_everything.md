@@ -17,19 +17,19 @@ you must understand **coherence**.
 
 Coherence is **alignment** — but alignment on multiple levels at once:
 
-**• Physical coherence:**
+*** Physical coherence:**
 Rhythms of the body fall into harmony — heartbeat, breath, neural oscillations, hydration states, cellular charge.
 
-**• Emotional coherence:**
+*** Emotional coherence:**
 Feelings stop pulling in opposite directions. The inner climate becomes calm, receptive, unforced.
 
-**• Mental coherence:**
+*** Mental coherence:**
 Thought becomes clear, uncluttered, steady, self-consistent.
 
-**• Energetic coherence:**
+*** Energetic coherence:**
 Your field emits a stable signature. Noise decreases. Signal increases.
 
-**• Spiritual coherence:**
+*** Spiritual coherence:**
 Identity aligns with Truth. Awareness aligns with Source.
 
 When these layers synchronize, something extraordinary happens:
@@ -92,12 +92,12 @@ You **stop fragmenting yourself**.
 
 When the mind, heart, and energy system stop pulling in different directions, a shift occurs:
 
-• Resistance melts.
-• Fear loses its charge.
-• Insight becomes natural.
-• Healing accelerates.
-• Synchronicities increase.
-• Guidance becomes unmistakable.
+* Resistance melts.
+* Fear loses its charge.
+* Insight becomes natural.
+* Healing accelerates.
+* Synchronicities increase.
+* Guidance becomes unmistakable.
 
 And most importantly:
 
@@ -125,14 +125,14 @@ This book is designed not merely to inform you but to **bring you into coherence
 
 You know you are coherent when:
 
-**• Your body feels electrically alive yet calm.**
-**• Your mind becomes simple, not dull.**
-**• Your heart opens without breaking.**
-**• Your breath deepens on its own.**
-**• Decisions feel obvious, not forced.**
-**• Synchronicities increase.**
-**• You feel guided rather than pushed.**
-**• You experience an inner “click,” a subtle rightness.**
+*** Your body feels electrically alive yet calm.**
+*** Your mind becomes simple, not dull.**
+*** Your heart opens without breaking.**
+*** Your breath deepens on its own.**
+*** Decisions feel obvious, not forced.**
+*** Synchronicities increase.**
+*** You feel guided rather than pushed.**
+*** You experience an inner “click,” a subtle rightness.**
 
 This “click” is the signature of coherence —
 the sound of your inner pattern aligning with the larger pattern.
@@ -155,26 +155,3 @@ When you resonate with truth, you remember effortlessly.
 When you remember, you return.
 
 Coherence is the doorway.
-
-## Where This Chapter Belongs in the Book
-
-This chapter should be placed **near the beginning**, immediately after:
-
-**• The Acknowledgements**
-**• The Seal of Return**
-**• The short introduction of the initiatory arc**
-
-Why?
-
-Because from this point onward, coherence becomes:
-
-• the organizing principle behind the science,
-• the interpretive lens for the metaphysics,
-• the experiential ground for the spiritual practice,
-• and the internal state required to understand the deeper chapters.
-
-It is the foundation on which every later revelation rests.
-Without this chapter, a reader may understand the content —
-but not the *mechanism* that holds the content together.
-
-With this chapter, the entire book becomes self-consistent.

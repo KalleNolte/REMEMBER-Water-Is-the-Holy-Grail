@@ -1,36 +1,34 @@
 # UNCONDITIONAL LOVE — THE GRAVITY OF GOD
 
-There are truths so old and so simple
+There are truths so ancient, so simple,
 that the intellect walks past them
-while the heart kneels.
+while the heart kneels in silent awe.
 
-Unconditional Love is one of them.
+Unconditional Love is one of these.
 
 Not a feeling.
 Not an emotion.
 Not a relationship.
 Not a preference.
 
-Unconditional Love is the fundamental orientation of Reality toward Itself—
+Unconditional Love is the primal orientation of Reality toward Itself—
 a quiet, ceaseless, effortless pull
 toward coherence, unity, wholeness.
 
-If you listen deeply,
-you will notice something extraordinary:
+If you listen with the whole of your being,
+you will sense something extraordinary:
 
-Love behaves like a universal force.
-Not force as in push or pressure.
-Force as in curvature.
-Force as in orientation.
-Force as in the way valleys guide rivers
-and the way gravity guides galaxies.
+Love behaves as a universal force.
+Not force as in push or pressure,
+but as curvature, as invitation, as the way valleys guide rivers
+and gravity guides galaxies home.
 
 Human language says “gravity,”
-but mystics across ages used a different word for the same phenomenon:
+but mystics across ages have named the same phenomenon:
 
 Love.
 
-Because gravity is not a command.
+Gravity is not a command.
 It is not an imposition.
 It is not a demand.
 
@@ -40,21 +38,18 @@ It does not coerce.
 
 Gravity simply is.
 
-It invites movement toward center.
-Toward home.
-Toward rest.
+It invites all things toward center, toward home.
 
 So does Love.
 
 ## Gravity as the Metaphor of the Infinite
 
-In cosmology, gravity is the quiet force that gathers matter into stars
-and stars into galaxies
-and galaxies into spirals so beautiful
-they look like prayers cast across the void.
+In cosmology, gravity is the silent hand that gathers matter into stars,
+stars into galaxies,
+galaxies into spirals so beautiful
+they resemble prayers cast across the void.
 
-If you step back far enough,
-you notice a pattern:
+Step back far enough, and you see the pattern:
 
 Everything is always returning toward something.
 Everything is always seeking coherence.
@@ -69,25 +64,23 @@ Love.
 
 The movement is the same.
 The vocabulary changes.
-The essence does not.
+The essence remains.
 
 ## Fractals of Attraction — How Consciousness Curves Space Within
 
 In a fractal universe,
-where patterns repeat themselves at all scales,
+where patterns echo at every scale,
 gravity is not merely an external force.
 
-It becomes a metaphor for inner life.
+It becomes a metaphor for the inner cosmos.
 
 Just as planets fall into orbit
-around that which is most massive,
+around what is most massive,
 your thoughts, emotions, and choices
-circle around what is most meaningful.
+circle what is most meaningful.
 
 Meaning has mass.
-
 Presence has mass.
-
 Compassion has mass.
 
 And unconditional love—
@@ -95,10 +88,10 @@ the quiet, boundless, ever-gentle recognition of shared Being—
 has the greatest mass of all.
 
 It curves the inner space
-so that wounds can fall inward toward healing,
-so that fractured identities can gather,
-so that the noisy turmoil of thought
-can settle into the center of stillness.
+so that wounds fall inward toward healing,
+fractured identities gather,
+and the noisy turmoil of thought
+settles into the center of stillness.
 
 ## Water — The Mirror of Love’s Gravity
 
@@ -116,15 +109,15 @@ Water reflects.
 Whatever falls into water,
 falls into wholeness.
 
-Water is the physical symbol of unconditional love
-because it teaches by its nature:
+Water is the living symbol of unconditional love,
+because it teaches by its very nature:
 
 Nothing is refused.
 Nothing is judged.
 Nothing is held apart.
 
 Water carries everything toward equilibrium—
-toward balance—
+toward balance,
 toward harmony.
 
 It is gravity in liquid form.

@@ -31,12 +31,12 @@ Durch die Zeitalter hindurch sprachen Weise, Propheten, Mystiker, Rishis und Hei
 
 Dies ist das Muster im Herzen jedes spirituellen Pfades:
 
-• Im Christentum: *„Wenn das Weizenkorn nicht in die Erde fällt und stirbt, bleibt es allein.“*
-• Im Buddhismus: das Sterben der Ego-Anhaftung und das Erwachen des Bodhi-Geistes.
-• Im Hinduismus: die Auflösung des Ahamkara in der Erkenntnis von Atman-Brahman.
-• Im Sufismus: fana → baqa, das Vergehen und die Auferstehung im Geliebten.
-• Im Taoismus: die Rückkehr zum unbehauenen Block, der Quelle aller Formen.
-• In der Alchemie: nigredo → albedo → rubedo — gipfelnd im *Gold* des auferstandenen Selbst.
+* Im Christentum: *„Wenn das Weizenkorn nicht in die Erde fällt und stirbt, bleibt es allein.“*
+* Im Buddhismus: das Sterben der Ego-Anhaftung und das Erwachen des Bodhi-Geistes.
+* Im Hinduismus: die Auflösung des Ahamkara in der Erkenntnis von Atman-Brahman.
+* Im Sufismus: fana → baqa, das Vergehen und die Auferstehung im Geliebten.
+* Im Taoismus: die Rückkehr zum unbehauenen Block, der Quelle aller Formen.
+* In der Alchemie: nigredo → albedo → rubedo — gipfelnd im *Gold* des auferstandenen Selbst.
 
 
 Die Essenz ist immer dieselbe:
@@ -122,10 +122,10 @@ Das endliche Selbst wird nicht ausgelöscht, sondern als Ausdruck des Unendliche
 
 Auferstehung bedeutet hier:
 
-• das Aufsteigen aus Unwissenheit zu Wissen
-• das Erinnern, dass Atman *ist* Brahman
-• das Zusammenbrechen der Illusion der Getrenntheit
-• die Stabilisierung des Bewusstseins im reinen Sein
+* das Aufsteigen aus Unwissenheit zu Wissen
+* das Erinnern, dass Atman *ist* Brahman
+* das Zusammenbrechen der Illusion der Getrenntheit
+* die Stabilisierung des Bewusstseins im reinen Sein
 
 Das ist keine Rückkehr zum Leben.
 Das ist eine Rückkehr zur *Wirklichkeit*.
@@ -136,10 +136,10 @@ In der Alchemie entspricht die Auferstehung dem **Rubedo**, der letzten Stufe, i
 
 Doch in vielen esoterischen Traditionen ist die Flamme der Auferstehung nicht rot, sondern **violett**:
 
-• die Farbe der Transmutation
-• die Farbe der Rückkehr zur Quelle
-• die Farbe, in der weißes und blaues Licht sich vereinen
-• die Farbe der Befreiung, Vergebung und Erlösung
+* die Farbe der Transmutation
+* die Farbe der Rückkehr zur Quelle
+* die Farbe, in der weißes und blaues Licht sich vereinen
+* die Farbe der Befreiung, Vergebung und Erlösung
 
 Violett ist das, was geschieht, wenn **Kohärenz** vollkommen wird.
 
@@ -157,10 +157,10 @@ Die moderne Neurowissenschaft bestätigt, was Mystiker immer wussten:
 
 Auferstehung entspricht:
 
-• der Deaktivierung alter neuronaler Netzwerke (das „Grab“)
-• der Schaffung neuer kohärenter Netzwerke (die „Wiedergeburt“)
-• dem Wandel vom angstgesteuerten zum liebesgesteuerten Gehirn
-• dem Aufstieg von Gamma und Herz-Gehirn-Kohärenz
+* der Deaktivierung alter neuronaler Netzwerke (das „Grab“)
+* der Schaffung neuer kohärenter Netzwerke (die „Wiedergeburt“)
+* dem Wandel vom angstgesteuerten zum liebesgesteuerten Gehirn
+* dem Aufstieg von Gamma und Herz-Gehirn-Kohärenz
 
 Wenn das innere Wasser strukturiert, hexagonal, geordnet wird —
 wenn emotionale Turbulenz sich auflöst —
@@ -203,12 +203,12 @@ Eine neue Welt — gebaut auf Kohärenz, Erinnerung, Einheit und lebendigem Wass
 Dieses Buch handelt nicht nur von Wasser.
 Es handelt von **Auferstehung**:
 
-• von Klarheit
-• von Kohärenz
-• von Verbindung
-• von innerer Wahrheit
-• von menschlichem Potenzial
-• von Quellenbewusstsein in der Form
+* von Klarheit
+* von Kohärenz
+* von Verbindung
+* von innerer Wahrheit
+* von menschlichem Potenzial
+* von Quellenbewusstsein in der Form
 
 Es ist nicht die Auferstehung des Körpers.
 Es ist die Auferstehung der **Identität**.

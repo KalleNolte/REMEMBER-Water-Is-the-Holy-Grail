@@ -44,11 +44,11 @@ but a frequency we embody.
 
 A frequency in which:
 
-• Joy becomes guidance
-• Pleasure becomes a compass
-• Discipline becomes devotion
-• Purpose becomes flow
-• Service becomes an act of love
+* Joy becomes guidance
+* Pleasure becomes a compass
+* Discipline becomes devotion
+* Purpose becomes flow
+* Service becomes an act of love
 
 This is not about choosing “less” of either side,
 but choosing the alignment between them.
@@ -110,10 +110,10 @@ moving through different landscapes.
 
 When you align with this truth,
 
-• your desires become clean,
-• your joy becomes humble,
-• your purpose becomes effortless,
-• and your service becomes natural.
+* your desires become clean,
+* your joy becomes humble,
+* your purpose becomes effortless,
+* and your service becomes natural.
 
 Water holds the Middle Path
 not by choosing between extremes
@@ -150,11 +150,11 @@ its own forgotten beauty.
 
 ## How This Merges With Your Great Synthesis
 
-• Grant shows that the universe is built on harmony.
-• Pollack reveals that water organizes itself through coherence.
-• Langan explains that reality is self-reflective intelligence.
-• The mystic traditions teach the balance of the Middle Way.
-• Ikigai shows where this balance becomes lived purpose.
+* Grant shows that the universe is built on harmony.
+* Pollack reveals that water organizes itself through coherence.
+* Langan explains that reality is self-reflective intelligence.
+* The mystic traditions teach the balance of the Middle Way.
+* Ikigai shows where this balance becomes lived purpose.
 
 The Middle Path is the human embodiment
 of the same principle that structures the cosmos:

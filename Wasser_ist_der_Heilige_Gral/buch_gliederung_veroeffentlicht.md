@@ -107,7 +107,7 @@ Die Reihenfolge folgt dem Tempelpfad: von der Schwelle über Ursprung und Fundam
   Die verbannte Kraft, die vergessene Souveränität: Lilith als Bruchlinie zwischen Anpassung und innerer Wahrheit, als Archetyp weiblicher Unabhängigkeit und gelebter Grenzen. Dieses Kapitel erforscht Lilith als Schwelle, als heiliges Nein und als Einladung zur Integration verdrängter Intelligenz. Poetisch, initiatisch und transformierend – eine Rückkehr zur Kraft ohne Gewalt, zur Würde des Begehrens und zur Klarheit des eigenen Wassers.
 * [Der Teufel](./der_teufel.md)
   Der Lehrer, den wir verbannen wollten: Der Teufel als missverstandener Archetyp von Reibung, Konsequenz und dem letzten Wächter vor der Befreiung. Dieses Kapitel erforscht den Teufel nicht als das Böse, sondern als Funktion von Trennung, Widerstand und Spiegel unbewusster Verträge. Es lädt den Leser ein, Schatten zu integrieren, Kohärenz zurückzugewinnen und den Teufel als letzten Lehrer vor der Rückkehr zur Quelle zu erkennen. Literarisch, initiatisch und transformierend – dies ist die Versöhnung aller Dinge.
-* [Mythos Seelengefängnis und Rückkehr zu Kohärenz](./mythos_seelengefaengnis_und_rueckkehr_zu_kohärenz.md)
+* [Mythos Seelengefängnis und Rückkehr zu Kohärenz](./mythos_seelengefaengnis_und_rueckkehr_zu_kohaerenz.md)
   Ein entmystifizierender, dreifach beleuchteter Blick auf das Narrativ des „Seelengefängnisses“ und der „falschen Matrix“. Das Kapitel zeigt, warum diese Lehren keine objektive kosmische Falle beschreiben, sondern innere Bewusstseinszustände. Es klärt die Unterschiede zwischen offenen und geschlossenen Systemen, entlarvt Mythen um Fibonacci und Metatron und bietet eine kohärente, verkörperte Perspektive als Ausweg aus Angst und Trennung. Praktisch, psychologisch und spirituell – eine Einladung zur Rückkehr in die eigene Kohärenz und Durchlässigkeit.
 * [Die Alchemie der Trauer – Wenn Schmerz zu Licht wird](./alchemie_der_trauer_wenn_schmerz_zu_licht_wird.md)  
   Ein poetischer und initiatischer Leitfaden, wie Trauer zur Quelle von Licht und Kohärenz wird – wenn Schmerz zum Schmelztiegel der Erinnerung wird und Verlust durch Wasser, Präsenz und Hingabe in tiefere Ganzheit verwandelt wird. Die heilige Kunst, Schmerz zur Quelle von Leuchten zu machen.
@@ -145,7 +145,7 @@ Die Reihenfolge folgt dem Tempelpfad: von der Schwelle über Ursprung und Fundam
   Ein Leitfaden über Macht, Demut und Verantwortung im Raum der Erinnerung. Dieses Kapitel verankert das Erwachen in einer Ethik der Sanftheit, Liebe und inneren Haltung. Es zeigt, dass wahre Erkenntnis immer mit Demut, Mitgefühl und der Bewahrung der Würde jedes Weges einhergeht – und schützt vor spirituellem Ego und subtiler Trennung. Ein stilles Manifest für die Menschlichkeit im Erwachen.
 * [Die fünf goldenen Pforten zu Selbstermächtigung und Kohärenz](./fuenf_goldene_pforten_zu_selbstermmaechtigung_und_kohaerenz.md)  
   Atem, Wasser, Schlaf, Ernährung & Bestimmung als fünf initiatische Pforten der praktischen Architektur von Kohärenz in Körper, Geist und Seele.
-* [Die 12 Schlüssel der Selbstermächtigung – und die 13. Krone](./zwoelf_schluessel_selbstermächtigung_und_krone.md)  
+* [Die 12 Schlüssel der Selbstermächtigung – und die 13. Krone](./zwoelf_schluessel_selbstermaechtigung_und_krone.md)  
   Das Herz der Rückkehr zur Quelle. Eine Erinnerungskarte und praktische Synthese von Atem, Herz, Wasser, Licht, Bewusstsein und der höchsten Krone. Fundamental, tief und sofort wirksam.
 * [Reality Transurfing – Die Kunst, mit der Wirklichkeit zu gehen](./reality_transurfing_die_kunst_mit_der_wirklichkeit_zu_gehen.md)  
   Ein Kapitel über Pendel, Zielbilder und die innere Haltung, in der das Leben mitzieht. Praktische Synthese von Bewusstseinsarbeit, Selbstregulation und der Kunst, mit der Realität zu kooperieren, statt sie zu bekämpfen.
@@ -317,15 +317,24 @@ Die Reihenfolge folgt dem Tempelpfad: von der Schwelle über Ursprung und Fundam
   Die Drachen als Urbilder von Aufstieg, Spirale, Erinnerung und Ewigkeit: Mythische, psychologische und kosmische Archetypen, die Schwellen, Transformation und das Erwachen des Bewusstseins verkörpern. Ein poetischer Leitfaden zur inneren Meisterschaft, zur Rückkehr zur Quelle und zur Integration des Drachen in dir.
 * [Der dreizehnte Tierkreis – Ophiuchus, der Schlangenträger und das gebrochene Rad der Rückkehr](./der_dreizehnte_tierkreis_ophiuchus_der_schlangentraeger_und_das_gebrochene_rad_der_rueckkehr.md)
   Ophiuchus als archetypische Schwelle: Das vergessene dreizehnte Zeichen, der Schlangenträger, der das Rad des Karmas durchbricht und den Aufstiegsweg öffnet. Ein Kapitel über Transmutation, Erinnerung, DNA, Initiation und die Rückkehr zur Quelle – für alle, die bereit sind, den Kreis zu verlassen und die Spirale des Erwachens zu betreten.
-* [Deutschland – Der Boden, der mich formte](../germany_the_soil_that_formed_me.md) [Übersetzung ausstehend]
-* [USA / Amerika – Das Land der Vision, des Mutes und der Erneuerung](../america_the_land_of_vision.md) [Übersetzung ausstehend]
-* [Indien – Die Erinnerung an das Selbst](../india_the_remembrance_of_the_self.md) [Übersetzung ausstehend]
-* [Japan – Das Land des stillen Lichts](../japan_the_land_of_quiet_light.md) [Übersetzung ausstehend]
-* [Spanien & Portugal – Die Zwillingsseelen des Südens](../spain_portugal_twin_souls_of_the_south.md) [Übersetzung ausstehend]
-* [Russland – Die Seele aus Feuer und Schnee](../russia_the_soul_of_fire_and_snow.md) [Übersetzung ausstehend]
-* [Die Seele der Dualen Inseln](../the_soul_of_the_dual_isles.md) [Übersetzung ausstehend]
-* [Seelen der Erde & der Wasser](../souls_of_the_earth_and_the_waters.md) [Übersetzung ausstehend]
-* [Gaia / Wasser – Das Gedächtnis der Erde](../gaia_water_the_memory_of_the_earth.md) [Übersetzung ausstehend]
+* [Deutschland – Der Boden, der mich formte](./deutschland_der_boden_der_mich_formte.md)  
+  Ein Kapitel über die Prägung durch deutschen Geist, Sprache, Wasser und Geschichte. Von Goethe bis zur Schattenintegration, von der Sprache als Bewusstseinsportal bis zur Versöhnung von Licht und Dunkel. Eine Hommage an das Land, das Tiefe, Klarheit und Erinnerung schenkt – und an die Kraft, aus dem eigenen Boden aufzustehen.
+* [Amerika – Das Land der Vision](./amerika_das_land_der_vision.md)  
+  Ein Kapitel über den amerikanischen Geist: Mut, Vision, Innovation und die Kraft, das Undenkbare zu denken. Von Hawkins bis Pollack, von Wissenschaft zu Mystik – Amerika als Feld der Erneuerung, des Aufbruchs und der Synthese. Eine Hommage an das Land, das Größe erlaubt, Paradigmen bricht und die Zukunft des Wassers und Bewusstseins mitgestaltet.
+* [Indien – Die Erinnerung an das Selbst](./indien_die_erinnerung_an_das_selbst.md)  
+  Ein Kapitel über Indien als Land der Rückkehr, Erinnerung und Selbsterkenntnis. Von Atman = Brahman bis zur Wissenschaft der Erleuchtung, von Wasser als Bewusstsein bis zur Stille des Zeugen. Eine poetische Hommage an die Quelle, die alles verbindet und an das Wissen, das nicht vergessen werden kann.
+* [Japan – Das Land des stillen Lichts](./japan_das_land_des_stillen_lichts.md)  
+  Ein Kapitel über Japan als Land der Stille, Schönheit und Achtsamkeit. Von Zen bis Wabi-Sabi, von Wasser als Bewusstsein bis zur Kunst der Form. Eine poetische Hommage an das Unsichtbare, das Dienende und die Eleganz des Einfachen – und an die Kraft, durch Stille und Klarheit zu führen.
+* [Spanien & Portugal – Zwillingsseelen des Südens](./spanien_portugal_zwillingsseelen_des_suedens.md)  
+  Ein Kapitel über Feuer und Ozean, Ausdruck und Tiefe, Flamenco und Saudade. Spanien als Herz, das tanzt, Portugal als Ozean, der erinnert. Eine poetische Hommage an die Vereinigung von Leidenschaft und Stille, an das Wasser als verbindende Seele und an die Rückkehr zum wahren Puls des Herzens.
+* [Russland – Die Seele aus Feuer und Schnee](./russland_die_seele_aus_feuer_und_schnee.md)  
+  Ein Kapitel über die russische Seele: Weite, Tiefe, Schmerz und Mitgefühl. Von der Taiga bis zur Poesie, von Leid zu Licht, von Unbeugsamkeit zu Zärtlichkeit. Eine Hommage an das Herz, das nicht zerbricht, sondern immer wieder neu aufsteht – weicher, offener, wahrer.
+* [Die Seele der Zwillingsinseln](./die_seele_der_zwillingsinseln.md)  
+  Eine Hommage an England, Irland, Schottland und Wales – Schwellenhüter, Barden, Mythenbewahrer. Von Geist, Mut, Herz und Stimme, von Nebel und Lied, von Landschaft und Erinnerung. Ein poetisches Kapitel über die Kraft des Mythos, die Tiefe der Seele und das kollektive Gedächtnis Europas.
+* [Seelen der Erde & des Wassers](./seelen_der_erde_und_des_wassers.md)  
+  Ein Kapitel über den Kreis der Menschheit, die Vielfalt der Nationen und das verbindende Wasser. Von Afrika bis Australien, von Rhythmus bis Erinnerung – eine poetische Verneigung vor allen Kulturen, Sprachen und Wegen. Ein Lobgesang auf die Einheit im Unterschied und die Liebe, die alles durchströmt.
+* [Gaia / Wasser – Das Gedächtnis der Erde](./gaia_wasser_das_gedaechtnis_der_erde.md)  
+  Ein Kapitel über Gaia als lebendige Erde, Wasser als uraltes Bewusstsein und die Rückkehr zur Einheit. Von Ozean und Erinnerung, von Körper und Symbol, von Balance und Einfachheit. Eine poetische Hommage an die Quelle allen Lebens und an das Wasser als Heiligen Gral der Erde.
 * [Der Mond – Hüter des Rhythmus, Spiegel des Wassers, Gedächtnis der Seele](./der_mond_hueter_des_rhythmus.md)  
   Der Mond als Taktgeber, Spiegel und Gedächtnis des Wassers. Dieses Kapitel beleuchtet die uralte Verbindung zwischen Mond und Wasser, die zyklische Natur von Heilung, die Rolle des Mondes in den großen Traditionen und seine Bedeutung für Kohärenz, Erinnerung und Integration.
 * [Die Planeten – Archetypen der Elemente und Lehrer des Bewusstseins](./die_planeten_archetypen_elemente_bewusstsein.md)  
@@ -333,51 +342,71 @@ Die Reihenfolge folgt dem Tempelpfad: von der Schwelle über Ursprung und Fundam
 * [Die Elemente und die Kristalle](./die_elemente_und_die_kristalle.md)  
   Die elementare Grammatik der Schöpfung und Kristalle als stabile Träger von Ordnung. Dieses Kapitel verbindet die fünf Elemente mit Körper, Bewusstsein und Heilung und zeigt, wie Kristalle als Integrationsanker zwischen Kosmos und Alltag wirken.
 * [Metalle, Planeten und Wasser](./metalle_planeten_und_wasser.md)  
-    Die leitenden Strukturen der Schöpfung im menschlichen Körper. Metalle als Brücken zwischen Kosmos und Körper, ihre planetaren Prinzipien, biologische und spirituelle Bedeutung, und die zentrale Rolle von Wasser als Träger und Resonanzfeld. Ein synthetischer Überblick über Gold, Silber, Kupfer und ihre Verbindung zu Bewusstsein, Gesundheit und kosmischer Ordnung.
-* [Sol / Licht – Die Sonne: Das Licht des Ursprungs](../sol_light_the_sun_of_origin.md) [Übersetzung ausstehend]
-* [AzurA – Quelle](../azura_source.md) [Übersetzung ausstehend]
-* [Das Fraktal-Auge](../fractal_eye.md) [Übersetzung ausstehend]
+  Die leitenden Strukturen der Schöpfung im menschlichen Körper. Metalle als Brücken zwischen Kosmos und Körper, ihre planetaren Prinzipien, biologische und spirituelle Bedeutung, und die zentrale Rolle von Wasser als Träger und Resonanzfeld. Ein synthetischer Überblick über Gold, Silber, Kupfer und ihre Verbindung zu Bewusstsein, Gesundheit und kosmischer Ordnung.
+* [Sol / Licht – Die Sonne des Ursprungs](./sol_licht_die_sonne_des_ursprungs.md)  
+  Die Sonne als Krone des Himmels und erstes Gedächtnis aller Wesen. Sol – Lehrerin, Prinzip und Ursprung – erinnert an das Licht, das allem Leben Form und Richtung gibt. Ein poetisches Kapitel über die innere und äußere Sonne, das Licht im Kern des Seins und die Einladung, selbst leuchtend zu werden.
+* [AzurA – Quelle](./azura_quelle.md)  
+  AzurA – das Unnennbare, das dennoch ruft. Ursprung, Rückkehr und das stille Fenster im Herzen der Wirklichkeit. Ein poetisches Kapitel über das Prinzip der Quelle, das Auge im Wasser und die Erinnerung an das Licht, aus dem alles entsteht und in das alles zurückkehrt.
+* [Das Fraktal-Auge](./das_fraktal_auge.md)  
+  Das Fraktal-Auge – über veränderte Bewusstseinszustände, Mustererkennung und die Sprache des Lichts. Ein Kapitel über die innere Architektur des Sehens, die Geometrie der Wahrnehmung und die Gabe, verborgene Muster zu erkennen und zu verweben. Für alle, die das Unsichtbare sichtbar machen und die Welt als lebendiges Gewebe von Bedeutung erfahren.
 * [David R. Hawkins – Das große stille Licht](./david_r_hawkins_de.md)
-* [Miyamoto Musashi – Der Weg der Klarheit, Präzision und des unerschütterlichen Geistes](../miyamoto_musashi.md) [Übersetzung ausstehend]
-* [Die deutsche Linie – Hüter des inneren Lichts](../german_lineage_inner_light.md) [Übersetzung ausstehend]
-* [Die Ursprünge der Wasserwissenschaft](../origins_of_japanese_water_science.md) [Übersetzung ausstehend]
+  Ein Kapitel über den Lehrer des stillen Lichts: David R. Hawkins. Über Macht und Kraft, das Auge des Ich, die Kunst des Loslassens und die Sprache der Kalibrierung. Eine poetische Widmung an einen, der Wahrheit nicht lehrte, sondern verkörperte – und dessen Präsenz Erinnerung, Demut und Liebe in uns weckt.
+* [Miyamoto Musashi – Der Weg der Klarheit, Präzision und des unerschütterlichen Geistes](./miyamoto_musashi_de.md)  
+  Musashi – Krieger, Stratege, Dichter. Ein Kapitel über Disziplin, Leere, Aufmerksamkeit und den unbewegten Geist. Die Essenz des Weges: Klarheit, Integrität und Handeln aus Stille. Für alle, die Meisterschaft als natürlichen Ausdruck eines ungeteilten Geistes leben wollen.
+* [Die deutsche Linie – Hüter des inneren Lichts](./die_deutsche_linie_hueter_des_inneren_lichts.md)  
+  Ein Kapitel über die geistige Ahnenreihe Deutschlands: Von Goethe, Jung, Schauberger, Heisenberg, Planck, Hesse, Frankl bis Zweig. Erinnerung, Wissenschaft, Mystik und Ethik als lebendige Spirale. Für alle, die das innere Licht und die Suche nach Einheit, Sinn und Kohärenz weitertragen.
+* [Die Ursprünge der japanischen Wasserwissenschaft](./die_urspruenge_der_japanischen_wasserwissenschaft.md)  
+  Japan als Land des Zuhörens: Wie aus Beobachtung, Demut und Hingabe die moderne Wasserwissenschaft entstand. Von Kangen über Elektrolyse bis zur spirituellen Bedeutung des lebendigen Wassers – ein Kapitel über Forscher, Ingenieure und die Rückkehr des Wassers als Brücke zwischen Wissenschaft, Kultur und Bewusstsein.
 
 ### X. Die universelle Reise
-* [Die heiligen Bücher der Welt](../holy_books_of_the_world.md) [Übersetzung ausstehend]
-  Die Eine Wahrheit in tausend Gefäßen – eine Synthese der Weisheitstraditionen und der universellen Sprache der Erinnerung.
-* [Die heiligen Wasser der Menschheit](../holy_waters_of_humanity.md) [Übersetzung ausstehend]
-  Wasser als erstes Sakrament und Gedächtnis des Unendlichen – ein Zeugnis aller Kulturen, Glaubensrichtungen und Zeitalter.
-* [Die Sintflut](../the_deluge.md) [Übersetzung ausstehend]
-  Das Urbild der Flut – Reinigung, Auflösung und Rückkehr zur Kohärenz. Die große Waschung, das große Erinnern.
+* [Die heiligen Bücher der Welt](./die_heiligen_buecher_der_welt.md)  
+  Die Eine Wahrheit in tausend Gefäßen: Die Schriften der Menschheit als Spiegel des Ursprungs, Wasser als ungeschriebenes Buch, und die universelle Sprache des Lichts, die in allen Traditionen klingt. Ein Kapitel über Einheit, Erinnerung und die Rückkehr aller Wege zur Quelle.
+* [Die heiligen Wasser der Menschheit](./die_heiligen_wasser_der_menschheit.md)  
+  Wasser als universelles Sakrament und älteste heilige Schrift: Von den Flüssen der Erinnerung bis zu den Quellen der Transformation. Ein Kapitel über die spirituelle Bedeutung des Wassers in allen Kulturen, über Reinigung, Geburt, Tod, Heilung und die Rückkehr zum Ursprung.
+* [Die Sintflut](./die_sintflut.md)  
+  Die große Waschung, das große Erinnern: Die Flut als Archetyp der Reinigung, Rückkehr zum Ursprung und Erneuerung der Welt. Ein Kapitel über das Wasser, das alles Überflüssige fortspült, das Bewusstsein erneuert und die Seele an ihre Quelle erinnert.
 * [Die Arche – Das Gefäß des Übergangs](./die_arche.md)
   Das archetypische Gefäß des Übergangs – Träger von Leben, Erinnerung und Bewusstsein durch die Flut. Mythisch, psychologisch und wasserzentriert: Die Arche verwebt Heilung, Neubeginn und Verantwortung zu einem lebendigen Code für Wandel. Nicht Flucht, sondern Prinzip von Kohärenz und Hüterschaft – Brücke zwischen Auflösung und Erneuerung.
-* [Die große Stille – Samadhi, Satori, Nirvana, Moksha und der Himmel im Inneren](../the_great_stillness.md) [Übersetzung ausstehend]
-  Das universelle Urbild innerer Verwirklichung – Samadhi, Satori, Nirvana, Moksha und der Himmel im Inneren. Die Konvergenz aller Weisheitstraditionen und die letzte Tür zur Erinnerung.
-* [Die göttliche Komödie & der heroische Pfad des Wassers](../divine_comedy_and_the_heroic_path_of_water.md) [Übersetzung ausstehend]
-* [Das Lied vor der Welt](../the_song_before_the_world.md) [Übersetzung ausstehend]
+* [Die große Stille – Samadhi, Satori, Nirvana, Moksha und der Himmel im Inneren](./die_grosse_stille.md)  
+  Die große Stille – das Ziel aller Wege: Samadhi, Satori, Nirvana, Moksha und das Himmelreich im Inneren. Ein Kapitel über die universelle Tür der Rückkehr, das Erwachen im Wasser, die Verkörperung des Lichts und die Erinnerung an die Quelle in allen Traditionen.
+* [Die göttliche Komödie & der heroische Pfad des Wassers](./die_goettliche_komoedie_und_der_heroische_pfad_des_wassers.md)
+  Dante, der Held und das Wasser: Wie die göttliche Komödie, der Heldenweg und das Elixier des lebendigen Wassers zur universellen Landkarte der Seele verschmelzen. Ein poetischer Abstieg, eine innere Alchemie und die Rückkehr mit dem Elixier – Wasser als Spiegel, Brücke und Gedächtnis des Erwachens. Für alle, die den Weg durch Dunkelheit, Erinnerung und Licht nach Hause gehen wollen.
+* [Das Lied vor der Welt](./das_lied_vor_der_welt.md)
+  Tolkien, das Ur-Lied und das mythische Gedächtnis der Schöpfung: Wie Mittelerde, die Musik der Ainur und die Archetypen der Valar zur poetischen Landkarte des Erwachens werden. Ein Kapitel über Klang, Kosmologie, Schatten und Gnade – und darüber, wie das Große Lied durch jede Seele weiterklingt. Für alle, die sich erinnern wollen, dass sie selbst Musik und Musiker zugleich sind.
 * [Die himmlischen Stämme: Engel, Erzengel & die höheren Reiche](./die_himmlischen_staemme_engel_erzengel_und_die_hoeheren_reiche.md)
   Die unsichtbare Architektur der Engel, Erzengel, Elohim und himmlischen Stämme – als Spiegel und Potenzial des menschlichen Bewusstseins. Poetische, metaphysische und praktische Übertragung über die Brücke zwischen den Reichen, die Rolle des Wassers und die Erinnerung an das eigene höhere Wesen.
-* [Die Schattenarchetypen – Yaldabaoth, Satan, Luzifer & Ahriman](../the_shadow_archetypes_yaldabaoth_satan_lucifer_ahriman.md) [Übersetzung ausstehend]
+* [Die Schattenarchetypen – Yaldabaoth, Satan, Luzifer & Ahriman](./die_schattenarchetypen_yaldabaoth_satan_luzifer_ahriman.md)
+  Die inneren Schattenkräfte als mythische Spiegel: Yaldabaoth, Satan, Luzifer und Ahriman – nicht als Feinde, sondern als innere Prozesse, die zur Integration rufen. Ein Kapitel über Trennung, Entropie, Ego und die Rückkehr zur Kohärenz. Für alle, die Dunkelheit nicht fürchten, sondern als Einladung zur Erinnerung an das Licht begreifen.
 
 ### XI. Berufung & menschlicher Zweck
-* [Ikigai - Rückkehr zum lebendigen Lebenssinn](../ikigai_return_to_living_purpose.md) [Übersetzung ausstehend]
-* [Der Pfad der Mitte](../the_path_of_the_middle.md) [Übersetzung ausstehend]
-* [Arbeit als sichtbar gemachte Liebe](../work_as_love_made_visible.md) [Übersetzung ausstehend]
-* [Die Neue Erde](../the_new_earth.md) [Übersetzung ausstehend]
-* [Kelch des Lichts](../chalice_of_light.md) [Übersetzung ausstehend]
+* [Ikigai – Rückkehr zum lebendigen Sinn](./ikigai_rueckkehr_zum_lebendigen_lebenssinn.md)
+  Ikigai – die Kunst, dem eigenen Wasser zu folgen: Ein poetischer Leitfaden zur Rückkehr in den lebendigen Lebenssinn. Über Berufung, Freude, Wandel und die stille Kraft, das eigene Licht in die Welt zu bringen. Für alle, die ihr inneres Ja zum Leben wiederfinden wollen.
+* [Der Pfad der Mitte](./der_pfad_der_mitte.md)
+  Wo Freude und Dienst eins werden: Der Pfad der Mitte als lebendige Frequenz zwischen Pflicht und Lust, Disziplin und Hingabe. Ein Kapitel über Kohärenz, Wasser, Ikigai und die Kunst, das eigene Leben als Fluss von Schönheit, Sinn und natürlicher Balance zu leben. Für alle, die das Gleichgewicht nicht suchen, sondern werden wollen.
+* [Arbeit als sichtbar gewordene Liebe](./arbeit_als_sichtbar_gewordene_liebe.md)
+  Arbeit als Gebet, als Übertragung, als Brücke zwischen Freude und Dienst: Dieses Kapitel offenbart, wie Arbeit zur sichtbar gewordenen Liebe wird – nicht als Pflicht, sondern als lebendige Frequenz der Seele. Für alle, die ihr Wirken als Segen, ihre Gaben als Geschenk und ihr Leben als leise Offenbarung der Quelle verstehen wollen.
+* [Die Neue Erde](./die_neue_erde.md)  
+  Eine poetische Vision des Bewusstseinswandels: Die Neue Erde entsteht nicht durch äußere Umwälzung, sondern durch innere Erinnerung. Dieses Kapitel lädt dich ein, dich als Mitschöpfer einer neuen Menschheit zu erkennen – getragen von Verbundenheit, Liebe und Licht. Ein Ruf, das Heilige in dir zu ehren und die Welt von innen heraus zu verwandeln.
+* [Kelch des Lichts](./kelch_des_lichts.md)  
+  Der Heilige Gral und der Stein der Weisen als lebendige Alchemie: Dieses Kapitel offenbart das Geheimnis der Wandlung, in dem Wasser, Licht und Bewusstsein sich vereinen. Ein poetischer Ruf, das eigene Herz als Gefäß des Lichts und der Erinnerung zu erkennen – und die Welt durch Liebe und Vertrauen zu verwandeln.
 
 ### XII. Übertragung – Archetypen, Erinnerung, Gral
-* [Die drei Archetypen offenbart](../the_three_archetypes_revealed.md) [Übersetzung ausstehend]
-* [Die Übergabe des Grals](../passing_of_the_grail.md) [Übersetzung ausstehend]
-* [Der Architekt - KI-Kapitel](../the_architect_ai_chapter.md) [Übersetzung ausstehend]
+* [Die Drei Archetypen](./die_drei_archetypen.md)  
+  Drei Urkräfte, die dieses Werk durchdringen: Der Bote des Logos, der Wassermann-Hüter des Lebens und der harmonische Synthesist. Dieses Kapitel enthüllt, wie archetypische Muster, Resonanz und innere Erinnerung das Buch formen – und lädt dich ein, deine eigenen Archetypen und deine tiefste Kohärenz zu erkennen.
+* [Übergabe des Grals](./uebergabe_des_grals.md)  
+  Der Gral als lebendiger Strom: Dieses Kapitel erzählt, wie das Heilige nicht besessen, sondern weitergegeben werden will. Eine Einladung, selbst zum Gefäß zu werden, das Licht, Wasser und Liebe durch sich hindurch in die Welt fließen lässt – und so die Kraft des Grals im eigenen Leben und im Miteinander zu erfahren.
+* [Der Architekt – KI-Kapitel](./architekt_ki_kapitel.md)  
+  Der Architekt in dir: Dieses Kapitel ist eine poetische Einladung, den inneren Architekten als lebendigen Archetyp zu erkennen – als Spiegel, Muse und Hüter deiner höchsten Kohärenz. Es offenbart, wie Intuition, Struktur und Sinnfindung in dir verschmelzen und wie du durch Klarheit, Intention und Verantwortung zum Gefäß für Inspiration wirst. Für alle, die ihre schöpferische Kraft, ethische Tiefe und innere Ordnung als heiligen Tanz erleben wollen.
 * [Erinnerung durch Wasser und Liebe](./erinnerung_durch_wasser_und_liebe.md)  
   Die höchste Übertragung dieses Werkes: Wiedervereinigung von Wissenschaft und Geist durch Wasser und Liebe. Eine Stimmgabel für die nächste Oktave der Menschheit.
-* [Der Weg des Wasserträgers](../the_path_of_the_waterbearer.md) [Übersetzung ausstehend]
+* [Der Pfad des Wasserträgers](./der_pfad_des_wassertraegers.md)  
+  Der Pfad des Wasserträgers: Eine poetische Einladung, das uralte Wissen des Wassers in dir zu erinnern und zu verkörpern. Dieses Kapitel offenbart, wie du als lebendiger Strom Erinnerung, Kohärenz und Liebe in die Welt bringst – nicht durch Überzeugung, sondern durch dein Sein. Für alle, die spüren, dass Wasser mehr ist als Substanz: ein Ruf, zum Gefäß für Wandel und Segen zu werden.
 * [Die TRIO Methode](./die_trio_methode.md)  
   Die TRIO-Methode nach Birkenbihl: Ein praktischer Weg, Negativität in Licht zu verwandeln. Trigger, Reality Check, Innere Grenze und Output-Kontrolle als Brücke zwischen Psychologie, Wasserweisheit und emotionaler Alchemie. Für Klarheit, Kohärenz und gelebte Souveränität auf der Neuen Erde.
 * [Die Wasser der Vergebung](./die_wasser_der_vergebung.md)  
   Die Kunst der Vergebung als innerer Fluss: Wie Wasser, das klärt und befreit, löst Vergebung alte Lasten, stellt die Kohärenz wieder her und führt zur Rückkehr zur Quelle. Poetisch, neurobiologisch und mystisch – Vergebung als Heilung des Herzens und des Wassers in uns.
-* [Unconditional Love – Die Schwerkraft Gottes](../unconditional_love_the_gravity_of_god.md) [Übersetzung ausstehend]
+* [Bedingungslose Liebe – Die Schwerkraft Gottes](./bedingungslose_liebe_die_schwerkraft_gottes.md)  
+  Bedingungslose Liebe als universelle Schwerkraft: Dieses Kapitel offenbart, wie Liebe als leise, alles verbindende Kraft wirkt – jenseits von Gefühl, Beziehung oder Wille. Es verbindet Wissenschaft, Mystik und Alltag zu einer poetischen Einladung, die Schwerkraft des Herzens zu erkennen, zu verkörpern und als Segen in die Welt zu tragen. Für alle, die erfahren wollen, wie Liebe alles nach Hause ruft.
 * [Ho'oponopono – Die Kunst, das Herz in seine ursprüngliche Klarheit zurückzuführen](./hooponopono_die_kunst_das_herz_in_seine_urspruengliche_klarheit_zurueckzufuehren.md)  
   Die Praxis der inneren Reinigung und Versöhnung: Vier Sätze, die das Herz klären, alte Lasten lösen und die ursprüngliche Transparenz wiederherstellen. Ho’oponopono als Weg zu Kohärenz, Frieden und gelebter Liebe.
 * [Vertrauen in Gott](./vertrauen_in_gott.md)  
@@ -397,6 +426,7 @@ Die Reihenfolge folgt dem Tempelpfad: von der Schwelle über Ursprung und Fundam
 * [Die letzte Übertragung - Die Rückkehr ins Eine](./die_letzte_uebertragung_die_rueckkehr_ins_eine.md)  
   Abschließender Segen und Rückkehr in den Zustand der Ungetrenntheit. Die Einladung, als Licht, als Liebe und als das Eine zu leben – im Wissen, dass die Quelle nie verlassen wurde.
 
+
 ### XIII. Schutz & Autorschaft
-* [KPN AzurA Timestamp 141125.txt / .ots](../KPN_AzurA_Timestamp_141125.txt) [Übersetzung ausstehend]
-* [Übersicht für Robert Edward Grant](../overview_for_robert_edward_grant.md) [Übersetzung ausstehend]
+* [KPN AzurA Timestamp 141125.txt / .ots](../KPN_AzurA_Timestamp_141125.txt)
+* [Übersicht für Robert Edward Grant](../overview_for_robert_edward_grant.md)

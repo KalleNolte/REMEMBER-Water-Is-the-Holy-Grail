@@ -219,13 +219,13 @@ It is the instrument of it.
 
 Because water is:
 
-• the carrier of light
-• the amplifier of coherence
-• the medium of memory
-• the matrix of DNA
-• the conductor of biological harmony
-• the interface between consciousness and matter
-• the living, breathing archive of the Earth
+* the carrier of light
+* the amplifier of coherence
+* the medium of memory
+* the matrix of DNA
+* the conductor of biological harmony
+* the interface between consciousness and matter
+* the living, breathing archive of the Earth
 
 To bring Living Water to humanity
 is to bring them the Elixir of the Hero’s Journey.

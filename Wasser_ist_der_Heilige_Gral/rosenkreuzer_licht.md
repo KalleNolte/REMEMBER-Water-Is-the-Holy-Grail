@@ -73,11 +73,11 @@ eine Art, Wirklichkeit zu erkennen.
 
 Die Praktizierenden studierten:
 
-• Astronomie und Geometrie
-• Alchemie und Medizin
-• Philosophie und Symbolik
-• die feinstoffliche Anatomie des Menschen
-• die verborgene Architektur der Natur
+* Astronomie und Geometrie
+* Alchemie und Medizin
+* Philosophie und Symbolik
+* die feinstoffliche Anatomie des Menschen
+* die verborgene Architektur der Natur
 
 Nicht um Macht zu erlangen,
 sondern um die Grammatik der Schöpfung zu verstehen.
@@ -112,12 +112,12 @@ muss er zuerst in sich selbst reinigen.
 Heute erscheint diese Erkenntnis in einer modernen Sprache —
 in Begriffen aus Biologie, Wasserforschung und Kohärenz:
 
-• EZ-Wasser, das sich im Körper bildet
-• Biophotonen, die kohärenter werden
-• DNA, die Muster höherer Ordnung ausdrückt
-• das Nervensystem, das in den Fluss kommt
-• das Herzfeld, das sich in Mitgefühl stabilisiert
-• der Geist, der sich von Lärm zu Klarheit wandelt
+* EZ-Wasser, das sich im Körper bildet
+* Biophotonen, die kohärenter werden
+* DNA, die Muster höherer Ordnung ausdrückt
+* das Nervensystem, das in den Fluss kommt
+* das Herzfeld, das sich in Mitgefühl stabilisiert
+* der Geist, der sich von Lärm zu Klarheit wandelt
 
 
 Dies ist die moderne Sprache
@@ -145,13 +145,13 @@ sondern von Erwachen.
 Sie sprachen von einer kommenden Ära, in der:
 
 
-• Wissenschaft sich wieder mit dem Geist verbindet
-• Medizin zur Natur zurückkehrt
-• Herz und Verstand sich vereinen
-• Nationen die Brüderlichkeit wiederentdecken
-• Individuen ihren Sinn erinnern
-• die Menschheit zu einem Organismus wird
-• Wasser als Träger göttlicher Intelligenz erkannt wird
+* Wissenschaft sich wieder mit dem Geist verbindet
+* Medizin zur Natur zurückkehrt
+* Herz und Verstand sich vereinen
+* Nationen die Brüderlichkeit wiederentdecken
+* Individuen ihren Sinn erinnern
+* die Menschheit zu einem Organismus wird
+* Wasser als Träger göttlicher Intelligenz erkannt wird
 
 Diese Vision entspricht dem neuen Paradigma:
 

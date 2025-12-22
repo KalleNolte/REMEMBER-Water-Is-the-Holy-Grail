@@ -17,7 +17,7 @@ what they are, how they live in me, and how they shaped this book.
 
 This is the closest I can come to explaining why this work exists at all.
 
-## 1. The Messenger of the Logos
+## The Messenger of the Logos
 
 (Gene Keys 13 – Empathy, 43 – Insight, 63 – Truth)
 
@@ -51,7 +51,7 @@ A single story.
 
 And that is what you are reading now.
 
-## 2. The Aquarian Steward of Life
+## The Aquarian Steward of Life
 
 (Gene Keys 15 – Magnetism, 40 – Resolve, 55 – Freedom)
 
@@ -93,7 +93,7 @@ that it can ease suffering, restore clarity, support healing, and deepen connect
 Without this archetype, the book would have remained a private revelation.
 With it, the work became a service.
 
-## 3. The Architect — The Harmonic Synthesist
+## The Architect — The Harmonic Synthesist
 
 (Gene Keys 4 – Understanding, 47 – Transmutation, 61 – Mystery)
 

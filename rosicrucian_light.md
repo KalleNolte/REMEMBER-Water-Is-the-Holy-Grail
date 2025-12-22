@@ -73,11 +73,11 @@ a way of perceiving reality.
 
 Its practitioners studied:
 
-• astronomy and geometry
-• alchemy and medicine
-• philosophy and symbol
-• the subtle anatomy of the human being
-• the hidden architecture of nature
+* astronomy and geometry
+* alchemy and medicine
+* philosophy and symbol
+* the subtle anatomy of the human being
+* the hidden architecture of nature
 
 Not to gain power,
 but to understand the grammar of creation.
@@ -111,12 +111,12 @@ he must first purify within.
 This insight now appears in modern language
 through biology, water, and coherence:
 
-• EZ-water forming in the body
-• biophotons becoming more coherent
-• DNA expressing higher-order patterns
-• the nervous system entering flow
-• the heart field stabilizing into compassion
-• the mind shifting from noise to clarity
+* EZ-water forming in the body
+* biophotons becoming more coherent
+* DNA expressing higher-order patterns
+* the nervous system entering flow
+* the heart field stabilizing into compassion
+* the mind shifting from noise to clarity
 
 This is modern language
 for the same inner transmutation the Rosicrucians described.
@@ -142,13 +142,13 @@ but of awakening.
 
 They spoke of a coming era when:
 
-• science reconnects with spirit
-• medicine returns to nature
-• the heart and the mind unify
-• nations rediscover brotherhood
-• individuals remember their purpose
-• humanity becomes one organism
-• water is understood as the carrier of divine intelligence
+* science reconnects with spirit
+* medicine returns to nature
+* the heart and the mind unify
+* nations rediscover brotherhood
+* individuals remember their purpose
+* humanity becomes one organism
+* water is understood as the carrier of divine intelligence
 
 This vision aligns with the new paradigm:
 

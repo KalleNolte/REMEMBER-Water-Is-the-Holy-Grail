@@ -1,4 +1,3 @@
-
 # **Der Mond – Hüter des Rhythmus, Spiegel des Wassers, Gedächtnis der Seele**
 
 Es gibt Kräfte, die nicht durch Lautstärke wirken, sondern durch Rhythmus.

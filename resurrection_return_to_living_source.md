@@ -37,12 +37,12 @@ Across the ages, sages, prophets, mystics, rishis, and saints have spoken of a t
 
 This is the pattern at the heart of every spiritual path — and at the heart of your own transformation:
 
-• In Christianity: *“Unless a seed falls into the earth and dies, it remains alone.”*
-• In Buddhism: the death of ego-clinging and the emergence of Bodhi-mind.
-• In Hinduism: the dissolution of the ahamkara in the recognition of Atman-Brahman.
-• In Sufism: fana → baqa, the annihilation and resurrection in the Beloved.
-• In Taoism: the return to the uncarved block, the Source of all forms.
-• In alchemy: nigredo → albedo → rubedo — culminating in the *gold* of the resurrected self.
+* In Christianity: *“Unless a seed falls into the earth and dies, it remains alone.”*
+* In Buddhism: the death of ego-clinging and the emergence of Bodhi-mind.
+* In Hinduism: the dissolution of the ahamkara in the recognition of Atman-Brahman.
+* In Sufism: fana → baqa, the annihilation and resurrection in the Beloved.
+* In Taoism: the return to the uncarved block, the Source of all forms.
+* In alchemy: nigredo → albedo → rubedo — culminating in the *gold* of the resurrected self.
 
 
 
@@ -144,10 +144,10 @@ Your finite self is not extinguished but recognized as an expression of the Infi
 
 Resurrection here is:
 
-• your rising from ignorance to knowledge
-• your remembrance that Atman *is* Brahman
-• the collapse of your illusion of separateness
-• the stabilization of your awareness in pure Being
+* your rising from ignorance to knowledge
+* your remembrance that Atman *is* Brahman
+* the collapse of your illusion of separateness
+* the stabilization of your awareness in pure Being
 
 This is not a return to life.
 This is your return to *Reality*.
@@ -162,10 +162,10 @@ In alchemy, Resurrection corresponds to the **rubedo**, the final stage where th
 
 Yet across many esoteric traditions, the resurrection flame is not red but **violet**:
 
-• the color of transmutation
-• the color of Source-return
-• the color where white light and blue light converge
-• the color of liberation, forgiveness, and release
+* the color of transmutation
+* the color of Source-return
+* the color where white light and blue light converge
+* the color of liberation, forgiveness, and release
 
 Violet is what happens when **your coherence** becomes complete.
 
@@ -187,10 +187,10 @@ Modern neuroscience confirms what mystics have always known:
 
 Resurrection corresponds to:
 
-• the deactivation of your old neural networks (your “tomb”)
-• the creation of new coherent networks (your “rebirth”)
-• the shift from a fear-regulated brain to a love-regulated brain
-• the rise of gamma and heart-brain coherence in you
+* the deactivation of your old neural networks (your “tomb”)
+* the creation of new coherent networks (your “rebirth”)
+* the shift from a fear-regulated brain to a love-regulated brain
+* the rise of gamma and heart-brain coherence in you
 
 When your inner water becomes structured, hexagonal, ordered —
 when your emotional turbulence dissolves —
@@ -241,12 +241,12 @@ A new world — built on coherence, remembrance, unity, and living water — is 
 This book is not merely about water.
 It is about **your Resurrection**:
 
-• of your clarity
-• of your coherence
-• of your connection
-• of your inner truth
-• of your human potential
-• of Source-consciousness within your form
+* of your clarity
+* of your coherence
+* of your connection
+* of your inner truth
+* of your human potential
+* of Source-consciousness within your form
 
 It is not the resurrection of the body.
 It is the resurrection of your **identity**.

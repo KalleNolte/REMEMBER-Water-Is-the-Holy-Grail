@@ -11,10 +11,7 @@ In dieser spirituell reifen Neuinterpretation verweben wir die alte Landkarte mi
 
 Der Schatten: Stolz ist die Angst, klein zu erscheinen. Er schützt das fragile Selbst durch Überhöhung.
 Die Tugend: Demut ist nicht Selbstverleugnung, sondern das Erkennen des Ganzen.
-Die Meister:
-    • Jesus: „Wer sich selbst erniedrigt, wird erhöht.“
-    • Marcus Aurelius: „Erinnere dich, du bist Teil der Weltseele.“
-    • Covey: „Beginne mit dem Ende im Sinn“ – Ausrichtung auf einen Zweck jenseits des Egos.
+Die Meister* Jesus: „Wer sich selbst erniedrigt, wird erhöht.* Marcus Aurelius: „Erinnere dich, du bist Teil der Weltseele.* Covey: „Beginne mit dem Ende im Sinn“ – Ausrichtung auf einen Zweck jenseits des Egos.
 Die Transzendenz: Authentizität – du brauchst kein Bild, wenn du in Wahrheit ruhst.
 
 
@@ -22,9 +19,7 @@ Die Transzendenz: Authentizität – du brauchst kein Bild, wenn du in Wahrheit 
 
 Der Schatten: Neid sehnt sich nach Zugehörigkeit, verwechselt sie aber mit Besitz.
 Die Tugend: Bewunderung ehrt Größe, ohne sie zu beanspruchen.
-Die Meister:
-    • Buddha: „Vergleich ist die Wurzel des Leidens.“
-    • Jim Rohn: „Lass dich inspirieren, nicht irritieren.“
+Die Meister:* Buddha: „Vergleich ist die Wurzel des Leidens.“* Jim Rohn: „Lass dich inspirieren, nicht irritieren.“
 Die Transzendenz: Inspiration – was du in anderen siehst, ist der Ruf deines eigenen Werdens.
 
 
@@ -32,9 +27,7 @@ Die Transzendenz: Inspiration – was du in anderen siehst, ist der Ruf deines e
 
 Der Schatten: Zorn ist Schmerz, der keinen Sitz hat, nicht erkannt wird.
 Die Tugend: Sanftmut ist keine Schwäche, sondern bewusste Energie.
-Die Meister:
-    • Die Stoiker: „Reagiere nicht, sondern wähle.“
-    • Tony Robbins: „Emotion folgt Bewegung“ – Energie kanalisieren statt unterdrücken.
+Die Meister:* Die Stoiker: „Reagiere nicht, sondern wähle.“* Tony Robbins: „Emotion folgt Bewegung“ – Energie kanalisieren statt unterdrücken.
 Die Transzendenz: Klarheit – die Kraft, Emotion in bewusste Richtung zu lenken.
 
 
@@ -43,8 +36,8 @@ Die Transzendenz: Klarheit – die Kraft, Emotion in bewusste Richtung zu lenken
 Der Schatten: Trägheit ist nicht bloß Untätigkeit, sondern der Verlust von Sinn.
 Die Tugend: Achtsamkeit weckt den inneren Motor des Zwecks.
 Die Meister:
-    • Buddha: „Erwache!“ – das ewige Mantra des Erwachens.
-    • Covey: „Sei proaktiv.“
+* Buddha: „Erwache!“ – das ewige Mantra des Erwachens.
+* Covey: „Sei proaktiv.“
 Die Transzendenz: Präsenz – jede Bewegung aus dem Jetzt ist lebendig.
 
 
@@ -53,8 +46,8 @@ Die Transzendenz: Präsenz – jede Bewegung aus dem Jetzt ist lebendig.
 Der Schatten: Gier ist die Angst vor Mangel, getarnt als Anhäufung.
 Die Tugend: Großzügigkeit öffnet den Fluss von Geben und Empfangen.
 Die Meister:
-    • Jesus: „Gebt, und es wird euch gegeben.“
-    • Napoleon Hill: „Reichtum fließt zu denen, die Wert schaffen.“
+* Jesus: „Gebt, und es wird euch gegeben.“
+* Napoleon Hill: „Reichtum fließt zu denen, die Wert schaffen.“
 Die Transzendenz: Fülle – erkennen, dass Geben die höchste Form des Besitzes ist.
 
 
@@ -63,8 +56,8 @@ Die Transzendenz: Fülle – erkennen, dass Geben die höchste Form des Besitzes
 Der Schatten: Übermaß entsteht, wenn Leere gefüllt werden will.
 Die Tugend: Mäßigung ist die Kunst des Gleichgewichts.
 Die Meister:
-    • Epiktet: „Beherrsche deine Begierden, sonst beherrschen sie dich.“
-    • Babaji: Yoga als Disziplin der Energie, nicht bloße Entsagung.
+* Epiktet: „Beherrsche deine Begierden, sonst beherrschen sie dich.“
+* Babaji: Yoga als Disziplin der Energie, nicht bloße Entsagung.
 Die Transzendenz: Genuss – bewusste Fülle ohne Gier, Feier des Lebens in Maß und Dankbarkeit.
 
 
@@ -73,9 +66,9 @@ Die Transzendenz: Genuss – bewusste Fülle ohne Gier, Feier des Lebens in Maß
 Der Schatten: Lust sucht Verschmelzung ohne Selbstfindung.
 Die Tugend: Reinheit ist Transparenz des Herzens – Liebe ohne Besitz.
 Die Meister:
-    • Jesus: „Selig sind, die reinen Herzens sind, denn sie werden Gott schauen.“
-    • Buddha: Mitgefühl ist die höchste Form der Liebe.
-    • Robbins: Wahre Intimität entsteht, wenn Energie frei fließt.
+* Jesus: „Selig sind, die reinen Herzens sind, denn sie werden Gott schauen.“
+* Buddha: Mitgefühl ist die höchste Form der Liebe.
+* Robbins: Wahre Intimität entsteht, wenn Energie frei fließt.
 Die Transzendenz: Liebe – die Ursubstanz, die alles trägt und nichts braucht.
 
 
