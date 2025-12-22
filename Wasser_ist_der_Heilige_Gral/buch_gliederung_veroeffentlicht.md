@@ -1,6 +1,6 @@
 # OFFIZIELLE BUCHGLIEDERUNG (DEUTSCH)
 * [Vorwort](./vorwort.md)
-  Ein Innehalten vor dem ersten Schritt: Einladung, Erinnerung und Dankbarkeit als Grundton. Kein System, keine Lehre – sondern eine Öffnung für das, was immer schon da war. Das Geschenk des Lebens aus der einen Quelle.
+Ein Innehalten vor dem ersten Schritt: Einladung, Erinnerung und Dankbarkeit als Grundton. Kein System, keine Lehre – sondern eine Öffnung für das, was immer schon da war. Das Geschenk des Lebens aus der einen Quelle.
 
 Willkommen zur offiziellen, veröffentlichten Gliederung dieses Werkes. Sie führt dich – Leser, Mitwirkender, Suchender – durch die energetisch abgestimmte, initiatische Reihenfolge aller Kapitel.
 

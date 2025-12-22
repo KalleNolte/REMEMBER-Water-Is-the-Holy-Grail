@@ -1,6 +1,6 @@
 # OFFICIAL BOOK OUTLINE (ENGLISH)
 * [Foreword](./foreword.md)
-	A pause before the first step: invitation, remembrance, and gratitude as the ground note. Not a system, not a doctrine—an opening to what has always been here. The inexhaustible gift of life flowing from the one Source.
+A pause before the first step: invitation, remembrance, and gratitude as the ground note. Not a system, not a doctrine—an opening to what has always been here. The inexhaustible gift of life flowing from the one Source.
 
 Welcome to the official, published outline of this work. It guides you—reader, collaborator, seeker—through the energetically attuned, initiatic order of all chapters.
 
