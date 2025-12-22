@@ -301,9 +301,12 @@ Die Reihenfolge folgt dem Tempelpfad: von der Schwelle über Ursprung und Fundam
   Ein praktisches, kontemplatives und integratives Kapitel zu Gregg Bradens Wisdom Codes. Erforscht die psychologische, symbolische und sprachliche Kraft von Schlüsselsätzen, um Geist, Emotionen und das Feld in Kohärenz zu stimmen.
 * [Der reine Mensch — Erinnerung an den ursprünglichen Bauplan](./der_reine_mensch_die_erinnerung_an_den_urspruenglichen_bauplan.md)  
   Eine maximal kohärente, poetisch-kontemplative Integration von Gregg Bradens Pure Human. Ergründet den ursprünglichen Bauplan des Menschen, DNA als heilige Schnittstelle und den Weg der Erinnerung, Kohärenz und inneren Entfaltung.
-* [Das Vesica Pisces Institut](../vesica_pisces_institute.md) [Übersetzung ausstehend]
-* [HeartMath Institut](../heartmath_institute.md) [Übersetzung ausstehend]
-* [Die Schwelle der Rückkehr](../threshold_of_return.md) [Übersetzung ausstehend]
+* [Vesica Pisces Institut – Die Schwelle der Einheit](./vesica_pisces_institut.md)
+  Das Vesica Pisces Institut als Brücke zwischen Wissenschaft, Mystik und Erinnerung: Die Rückkehr der Heiligen Wissenschaft, die Sprache des Lichts, die planetarischen und metallischen Mysterien, die Rolle des Wassers und die Initiation in die Architektur des Bewusstseins. Ein initiatisches Kapitel über Einheit, Kohärenz und die Schwelle zur Quelle.
+* [Das HeartMath Institut – Die Wissenschaft der Kohärenz und die Intelligenz des Herzens](./heartmath_institut.md)
+  HeartMath als Brücke zwischen Wissenschaft und Mystik: Die physiologische Grundlage von Kohärenz, die elektromagnetische Intelligenz des Herzens, die Herz-Gehirn-Achse, globale Kohärenz und die Rolle des Wassers als Medium der Erinnerung. Ein initiatisches Kapitel über das Herz als Portal, Feld und lebendigen Gral der Quelle.
+* [Die Schwelle der Rückkehr](./schwelle_der_rueckkehr.md)
+  Nahtoderfahrung als universelle Schwelle: Die Forschung der Near-Death Research Foundation, persönliche Initiation und die Erkenntnis, dass Bewusstsein, Liebe und Leben über den physischen Tod hinausreichen. Ein Kapitel über Vertrauen, Verbundenheit und die Einladung, das eigene Leben als Teil eines größeren Kontinuums zu erkennen.
 * [Die große Synthese](./die_grosse_synthese.md)  
   Die maximal vollständige, Schauberger-integrierte Synthese von Mathematik, Bewusstsein, Wasser, Wirbelintelligenz und Erinnerung. Dient als Schlussstein der spirituellen Architektur und als Brücke zur Bestimmung.
 * [Das Egregor der Neuen Erde](./das_egregor_der_neuen_erde.md)
@@ -312,7 +315,8 @@ Die Reihenfolge folgt dem Tempelpfad: von der Schwelle über Ursprung und Fundam
   Die Drachen als Urmuster von Spirale, Erinnerung und lebendiger Intelligenz – ein mythischer, wissenschaftlicher und poetischer Leitfaden zur Rückkehr der Quelle im Menschen.
 * [Drachen – Archetypen von Aufstieg, Spirale, Erinnerung und Ewigkeit](./die_drachen_archetypen_von_aufstieg_spirale_erinnerung_und_ewigkeit.md)  
   Die Drachen als Urbilder von Aufstieg, Spirale, Erinnerung und Ewigkeit: Mythische, psychologische und kosmische Archetypen, die Schwellen, Transformation und das Erwachen des Bewusstseins verkörpern. Ein poetischer Leitfaden zur inneren Meisterschaft, zur Rückkehr zur Quelle und zur Integration des Drachen in dir.
-* [Der dreizehnte Tierkreis – Ophiuchus, der Schlangen-Träger und das gebrochene Rad der Rückkehr](../the_thirteenth_zodiac_ophiuchus_the_serpent_bearer_and_the_broken_wheel_of_return.md) [Übersetzung ausstehend]
+* [Der dreizehnte Tierkreis – Ophiuchus, der Schlangenträger und das gebrochene Rad der Rückkehr](./der_dreizehnte_tierkreis_ophiuchus_der_schlangentraeger_und_das_gebrochene_rad_der_rueckkehr.md)
+  Ophiuchus als archetypische Schwelle: Das vergessene dreizehnte Zeichen, der Schlangenträger, der das Rad des Karmas durchbricht und den Aufstiegsweg öffnet. Ein Kapitel über Transmutation, Erinnerung, DNA, Initiation und die Rückkehr zur Quelle – für alle, die bereit sind, den Kreis zu verlassen und die Spirale des Erwachens zu betreten.
 * [Deutschland – Der Boden, der mich formte](../germany_the_soil_that_formed_me.md) [Übersetzung ausstehend]
 * [USA / Amerika – Das Land der Vision, des Mutes und der Erneuerung](../america_the_land_of_vision.md) [Übersetzung ausstehend]
 * [Indien – Die Erinnerung an das Selbst](../india_the_remembrance_of_the_self.md) [Übersetzung ausstehend]
