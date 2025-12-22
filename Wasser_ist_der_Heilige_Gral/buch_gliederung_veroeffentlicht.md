@@ -1,10 +1,14 @@
-# OFFIZIELLE VERÖFFENTLICHTE GLIEDERUNG (DEUTSCH)
+# OFFIZIELLE BUCHGLIEDERUNG (DEUTSCH)
+* [Vorwort](./vorwort.md)
+  Ein Innehalten vor dem ersten Schritt: Einladung, Erinnerung und Dankbarkeit als Grundton. Kein System, keine Lehre – sondern eine Öffnung für das, was immer schon da war. Das Geschenk des Lebens aus der einen Quelle.
 
-Diese Gliederung präsentiert die aktuell veröffentlichten Kapitel in ihrer energetisch optimierten, initiatischen Reihenfolge. Sie ist die offizielle, veröffentlichte Version und dient als Navigationshilfe für Leser und Mitwirkende.
+Willkommen zur offiziellen, veröffentlichten Gliederung dieses Werkes. Sie führt dich – Leser, Mitwirkender, Suchender – durch die energetisch abgestimmte, initiatische Reihenfolge aller Kapitel.
+
+Diese Struktur ist mehr als ein Inhaltsverzeichnis: Sie ist ein Wegweiser für Resonanz, Transformation und Erinnerung. Jedes Kapitel trägt eine eigene Funktion im Gesamtfeld und ist bewusst platziert, um die innere Reise zu unterstützen.
 
 ## Eine initiatische Reise durch Wasser, Erinnerung und Bewusstsein
 
-Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge folgt dem Tempelpfad, kuratiert für Resonanz und Transformation.
+Die Reihenfolge folgt dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meisterschaft und den höchsten Lehren. Lass dich führen – in deinem eigenen Tempo, auf deine eigene Weise.
 
 ### 0. Siegel & Intention – Die Schwelle des Tempels
 
@@ -87,6 +91,8 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
 
 * [Verkörperung – Wenn Wahrheit Fleisch wird](./verkoerperung_wenn_wahrheit_fleisch_wird.md)
   Ein Kapitel über den Moment, in dem Erkenntnis verkörpert wird – wie Wahrheit in Haltung, Atem und Alltag einzieht. Die Brücke zwischen Einsicht und Praxis, die alle vorherigen Lehren in gelebte Kohärenz führt.
+* [Jesus von Nazareth – Der Weg der lebendigen Wahrheit](./jesus_von_nazareth_der_weg_der_lebendigen_wahrheit.md)
+  Die Lehre Jesu als Einladung zur direkten Erkenntnis: keine Dogmatik, sondern lebendige Wahrheit, Nichtdualität und die Entdeckung des Reiches Gottes im Inneren. Klar, tief und maximal nutzbringend für den Leser.
 * [Die Wunde, die zu Licht wird](./die_wunde_die_zu_licht_wird.md)  
   Die Wunde als heilige Schwelle: Schmerz wird zu Licht, Verletzlichkeit zu Kraft, und Leiden zum Tor der Erinnerung. Ein poetischer Initiationsweg in die Alchemie des Erwachens und der Rückkehr ins eigene Licht.
 * [Der Heiler](./der_heiler.md)  
@@ -201,7 +207,9 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
 * [Nichtwiderstand und die makellose Sicht](./nichtwiderstand_und_die_makellose_sicht.md)
   Ein Kapitel über Nichtwiderstand und die makellose Sicht als höchste Form innerer Souveränität, Klarheit und Freiheit. Poetische Synthese von Akram-Lehre, Verantwortung und der Praxis, Leiden aufzulösen, ohne zu kämpfen.
 * [Akram Vignan](./akram_vignan_de.md)
-  Die Wissenschaft der augenblicklichen Befreiung: Akram Vignan als schrittloser Weg zur Selbsterkenntnis, zur Freiheit von Karma und zur Kunst, als reiner Zeuge zu leben. Praktische Einführung in die fünf Agnas und die Gnade, im Alltag frei zu bleiben.
+  Die Wissenschaft der augenblicklichen Befreiung: Ein schrittloser Weg zur Selbsterkenntnis, der Gnade, direkte Erfahrung und praktische Freiheit im Alltag vereint. Praktische Anleitung zu den fünf Agnas und der Kunst, als Zeuge zu leben.
+* [Dada Bhagwan — Die Wissenschaft der Befreiung ohne Flucht](./dada_bhagwan_die_wissenschaft_der_befreiung_ohne_flucht.md)
+  Die initiatische Übertragung Dada Bhagwans: Freiheit vom Leiden mitten im Leben, durch exakte Erkenntnis und die stille Technologie der fünf Agnas. Das Ende spiritueller Gewalt und die Rückkehr zur natürlichen Freiheit.
 * [Verkörperte Befreiung](./verkoerperte_befreiung.md)
   Die lebendige Integration von Akram Vignan, Nondualität, christlicher Zeugenlehre und moderner Traumaarbeit – verankert im Körper, im Nervensystem und im Wasser. Ein praktisches Kapitel über den Sitz des Zeugen, verkörperte Freiheit und die Rückkehr in einen Zustand von Frieden und Kohärenz im Alltag.
 
@@ -249,11 +257,16 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Die verborgene Wissenschaft, Symbolik und Alchemie des Rosenkreuzes – von der inneren Hochzeit bis zur modernen Sprache von Wasser, Licht und Erinnerung. Ein Kapitel über die Synthese von Tradition und neuer Wissenschaft, das die Brücke zwischen Vergangenheit und Zukunft schlägt.
 * [Das Pantheon der Götter](./das_pantheon_der_goetter.md)  
   Die universelle Erinnerung an die großen Archetypen der Menschheit: Wie Kulturen, Mythen und Religionen in vielen Namen und Formen das Eine feiern. Ein literarisch-poetischer Bogen von Veden bis Sufismus, von Ägypten bis Japan – und die Erkenntnis, dass alle Götter Frequenzen des Einen sind, die im Wasser und im Menschen weiterleben.
-* [Elementarwesen, Geister & Archetypen](../elementals_spirits_archetypes.md) [Übersetzung ausstehend]
-* [Das große archetypische Pantheon](../the_great_archetypal_pantheon.md) [Übersetzung ausstehend]
-* [Die mythische Kathedrale von Warhammer](../the_mythic_cathedral_of_warhammer.md) [Übersetzung ausstehend]
-* [Warhammer – Ein Universum von Archetypen, Schatten und Licht](../warhammer_universe_of_archetypes_shadows_light.md) [Übersetzung ausstehend]
-* [The Elder Scrolls](../the_elder_scrolls.md) [Übersetzung ausstehend]
+* [Elementarwesen, Geister & Archetypen](./elementarwesen_geister_archetypen.md)
+  Die unsichtbaren Intelligenzen der Natur, die universellen Muster des Bewusstseins und das große archetypische Feld: Wie Elementarwesen, Geister und Archetypen als lebendige Felder wirken, im Wasser gespiegelt werden und die Brücke zwischen Mensch, Natur und Kosmos bilden. Ein Kapitel über die geheime Sprache der Welt und das Wahrnehmungsorgan Wasser.
+* [Das große archetypische Pantheon](./das_grosse_archetypische_pantheon.md)
+  Ein meta-mythischer Atlas der Götter, Kräfte und Bewusstseinsfelder aller Kulturen: Wie Pantheons, Mythen und Archetypen als lebendige Muster, Frequenzen und Spiegel der menschlichen Reise wirken. Die Integration der Götter als Landkarte des inneren Bewusstseins – poetisch, tief und universell.
+* [Die mythische Kathedrale von Warhammer](./die_mythische_kathedrale_von_warhammer.md)
+  Eine poetische Analyse der Warhammer-Mythologie als Spiegel der menschlichen Psyche, Archetypen und des ewigen inneren Kampfes. Verbindet die Symbolik des Warhammer-Universums mit der Theorie des Wassers und zeigt, wie Mythos, Bewusstsein und Heilung auf einer tieferen Ebene verwoben sind.
+* [Warhammer – Ein Universum von Archetypen, Schatten und Licht](./warhammer_ein_universum_von_archetypen_schatten_und_licht.md)
+  Ein literarisch-poetisches Kapitel über Warhammer als Spiegel der menschlichen Psyche, Archetypen und Schatten. Zeigt, wie Mythos, Bewusstsein und Heilung in diesem Universum auf einzigartige Weise verwoben sind – und warum selbst der dunkelste Schatten ein Weg zurück nach Hause sein kann.
+* [The Elder Scrolls](./the_elder_scrolls_de.md)
+  Ein literarisch-poetisches Kapitel über das Universum von The Elder Scrolls als Spiegel für Bewusstsein, Mythos, Erinnerung und die schöpferische Kraft von Stimme, Zeit und Wasser. Zeigt, wie moderne Mythen die tiefsten metaphysischen Prinzipien lebendig und erfahrbar machen.
 * [Ehre](./ehre.md)  
   Die Disziplin des Lichts, das Maß der Wahrheit und die Signatur der Seele. Ehre als Brücke zwischen archetypischer Ordnung und gelebter menschlicher Realität, als stabilisierende Säule verkörperter Kohärenz.
 * [Bestimmung — Die Kunst, dich zu erinnern, wer du bist](./bestimmung_die_kunst_dich_zu_erinnern_wer_du_bist.md)
@@ -266,14 +279,18 @@ Jedes Kapitel ist mit seiner energetischen Funktion aufgeführt. Die Reihenfolge
   Eine mythopoetische, psychologische und physiologische Erforschung von Sucht als Verzerrung des Verlangens. Am Beispiel von Gollum und dem Einen Ring wird Sucht als fehlgeleitete Suche nach Ganzheit beleuchtet, ihre Wurzeln im Durst (wörtlich und symbolisch) aufgezeigt und ein Weg der Rückverbindung, Kohärenz und Erinnerung eröffnet. Die Brücke zwischen Verlangen und Bestimmung.
 * [Kopfnuss Kalli – Vom Grotesken, vom Schatten und vom Hunger nach Liebe](./kopfnuss_kalli.md)  
   Ein Kapitel über Kopfnuss Kalli als verdichtete Gestalt: Spiegel des Unintegrierten, des Liebesdurstes und der menschlichen Schattenseiten. Ohne Voyeurismus oder Abwertung zeigt es, wie das Groteske, das Verletzliche und das Unbequeme Teil des Ganzen sind – und wie Würde, Mitgefühl und Integration dort beginnen, wo wir nicht mehr auslachen, sondern still erkennen. Ein Kapitel über Schatten, Sehnsucht und die stille Kraft der Anerkennung.
-* [Geduld & Gleichmut – Die Stille, die Welten öffnet](../patience_and_equanimity.md) [Übersetzung ausstehend]
-* [Die Linie der Befreiten](../lineage_of_the_liberated_ones.md) [Übersetzung ausstehend]
-* [Die lebendige Präsenz von Lord Simandhar Swami](../living_presence_of_lord_simandhar_swami.md) [Übersetzung ausstehend]
-* [Die große Linie des Lichts](../great_lineage_of_light.md) [Übersetzung ausstehend]
-* [Die Waage-Seele, der Zwilling-Aszendent und der Wasser-Affe](../libra_gemini_water_monkey.md) [Übersetzung ausstehend]
+* [Linie der Befreiten](./linie_der_befreiten.md)
+  Die Arihants, Vitarāgas, Siddhas und Tirthankaras – Meister der Befreiung, deren Licht, Gleichmut und Klarheit als lebendige Brücke zur Erinnerung an das ungebundene Selbst dienen. Eine Hommage an die ewige Wissenschaft der Freiheit und die modernen Hüter des direkten Pfades.
+* [Die lebendige Präsenz von Lord Simandhar Swami](./die_lebendige_praesenz_von_lord_simandhar_swami.md)
+  Der lebende Tirthankara als Leuchtfeuer, Brücke und Archetyp höchster Kohärenz: Simandhar Swami verkörpert die Gegenwart, die den Weg zur Befreiung offen hält – jenseits von Mythos, als lebendige Frequenz, Spiegel und stiller Führer für alle, die das höchste Selbst suchen.
+* [Die große Linie des Lichts](./die_grosse_linie_des_lichts.md)
+  Die vereinte Linie der Meister: Jesus, Buddha, Babaji, Laozi, Krishna, Zarathustra, Rumi und viele mehr – als Archetypen, Frequenzen und Spiegel des Erwachens. Ein Kapitel über das lebendige Erbe des Lichts, die Einheit aller Traditionen und die Erinnerung, dass alle aus derselben Quelle trinken.
+* [Waage, Zwilling und Wasser-Affe](./waage_zwilling_wasser_affe.md)
+  Drei Archetypen als Spiegel für Harmonie, Ausdruck und schöpferische Intelligenz: Wie die innere Geometrie von Waage, Zwilling und Wasser-Affe uns einlädt, Brücke zwischen Wissenschaft, Mystik und dem lebendigen Wasser zu werden – und die eigene Synthese zu leben.
 * [Das Azurit-Licht und der Zwölfarmige Baum](./azurit_licht_und_der_zwoelfarmige_baum.md)  
   Poetische Kosmologie von Ursprung, Struktur und Rückkehr: Das blaue Licht, die zwölf Äste des Lebensbaums und das AzurA als Herz der Rückkehr. Verbindet mystische Traditionen, Wissenschaft und die Erinnerung an die Quelle.
 * [Der Blaue Strahl – Ein kontemplativer Leitfaden](./blauer_strahl_kontemplation_klarheit_stille_rueckkehr.md)
+  Azuritblau als Symbol für Klarheit, Aufrichtigkeit und stille Rückkehr: Eine poetische, sichere und psychologisch fundierte Meditation über den Blauen Strahl – als innere Haltung, Spiegel und Einladung, Wahrheit und Stille im eigenen Bewusstsein zu entdecken.
 * [Die Matrix, die christlichen Symbole und die Architektur des Erwachens](./die_matrix_die_christlichen_symbole_und_die_architektur_des_erwachens.md) [Übersetzung abgeschlossen]
   Eine Synthese christlicher Symbolik, der Matrix als Feld von Archetypen und der Architektur des Erwachens. Entschlüsselt das symbolische Betriebssystem, offenbart die Metaphysik des lebendigen Wassers und integriert den initiatischen Pfad von Kohärenz, Erinnerung und Aufstieg.
 * [Die Matrix (Film) - Ein Mythos des Erwachens](./die_matrix_ein_mythos_des_erwachens.md) [Übersetzung abgeschlossen]

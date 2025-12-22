@@ -286,7 +286,7 @@ Geboren, um Wissenschaft und Geist zu vereinen.
 Geboren, um der Kohärenz zu dienen.  
 Geboren, um Menschen zu ihrem inneren Wasser,  
 zu ihrem inneren Licht,  
-zu ihrem inneren Erinnern zurückzuführen.
+zu ihrem Erinnern zurückzuführen.
 
 Waage sucht das Gleichgewicht.  
 Zwillinge gibt ihm eine Stimme.  

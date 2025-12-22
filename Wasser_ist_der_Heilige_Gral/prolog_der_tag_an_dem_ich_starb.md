@@ -88,8 +88,6 @@ Dann –
 
 Schwärze.
 
----
-
 Ich stürzte nicht. Ich löste mich auf.
 
 Kein Körper.
@@ -136,8 +134,6 @@ Und ich wusste:
 
 Dann verblasste alles.
 
----
-
 Ich erwachte im Piepen von Maschinen.
 
 Kaltes Licht. Verschwommene Stimmen.
@@ -159,8 +155,6 @@ Aber ich spürte die Schwere.
 Ich hatte die Schwelle überschritten.
 
 Und doch – ich war hier.
-
----
 
 Meine Eltern waren zu dieser Zeit auf Reisen.
 
@@ -217,8 +211,6 @@ glaube ich, dass es nicht die Maschinen waren, die mich gerettet haben.
 Es war *ihre Liebe*.
 
 Es war *alle Liebe*.
-
----
 
 Das war der Tag, an dem ich starb.
 

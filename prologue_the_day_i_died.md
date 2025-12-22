@@ -88,8 +88,6 @@ Then—
 
 blackness.
 
----
-
 I didn’t fall. I dissolved.
 
 No body.
@@ -136,8 +134,6 @@ And I knew:
 
 Then everything faded.
 
----
-
 I woke up to the beeping of machines.
 
 Cold light. Blurred voices.
@@ -159,8 +155,6 @@ But I felt the gravity.
 I had crossed the threshold.
 
 And yet—I was here.
-
----
 
 My parents were traveling at the time.
 
@@ -217,8 +211,6 @@ I believe it wasn’t the machines that saved me.
 It was *her love*.
 
 It was *all love*.
-
----
 
 That was the day I died.
 

@@ -24,8 +24,6 @@ verschwindet nicht.
 Es wartet.
 Und wirkt aus dem Schatten heraus.
 
----
-
 ### Der Teufel ist nicht das Böse – er ist Präzision
 
 Der Teufel ist kein Chaos.
@@ -43,8 +41,6 @@ Er ist der Archetyp der **Reibung**.
 
 Und ohne Reibung
 wird nichts wirklich.
-
----
 
 ### Die erste Trennung
 
@@ -72,8 +68,6 @@ der Absicht in Handlung verwandelt.
 Ohne ihn
 würde nichts Bedeutung tragen.
 
----
-
 ### Der Hüter des freien Willens
 
 Hier liegt die große Umkehrung:
@@ -92,8 +86,6 @@ Der Teufel sagt nie: „Du musst.“
 Er sagt: „Du kannst.“
 
 Und dann schaut er zu.
-
----
 
 ### Verträge statt Strafen
 
@@ -114,8 +106,6 @@ sondern exakt.
 
 Er spiegelt dem Bewusstsein
 die Kosten seiner eigenen Fragmentierung.
-
----
 
 ### Der Körper als Lehrraum
 
@@ -141,8 +131,6 @@ Nicht als Feind.
 
 Als Spiegel.
 
----
-
 ### Wasser und der Teufel
 
 Dieses Buch nennt Wasser den Heiligen Gral.
@@ -166,8 +154,6 @@ verliert er seinen Halt.
 Weil es nichts mehr gibt,
 woran er anknüpfen kann.
 
----
-
 ### Die Hölle ist kein Ort
 
 Die Hölle ist **Widerstand**.
@@ -185,8 +171,6 @@ jedes Mal, wenn wir Bequemlichkeit
 über Kohärenz stellen.
 
 Und die Tür ist nie verschlossen.
-
----
 
 ### Der letzte Lehrer vor der Freiheit
 
@@ -208,8 +192,6 @@ gibt es nichts mehr zu verführen.
 
 Nur Klarheit.
 
----
-
 ### Integration statt Austreibung
 
 Man besiegt den Teufel nicht.
@@ -230,8 +212,6 @@ Dann tritt er zurück.
 Nicht verbannt –
 vollendet.
 
----
-
 ### Seine letzte Aufgabe
 
 Am Ende des Weges
@@ -249,8 +229,6 @@ verneigt er sich.
 Denn seine Aufgabe war nie Verdammnis –
 sondern sicherzustellen,
 dass Erwachen **verkörpert** ist.
-
----
 
 ### Rückkehr in die Quelle
 

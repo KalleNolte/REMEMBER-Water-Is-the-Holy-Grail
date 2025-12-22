@@ -1,32 +1,28 @@
 # Akram Vignan
 
-**Die spirituelle Wissenschaft der augenblicklichen Befreiung und die Kunst, frei zu leben**
+**Die Wissenschaft der augenblicklichen Befreiung und die Kunst, frei zu leben**
+
+Akram Vignan ist eine moderne spirituelle Wissenschaft aus Indien, begründet von Dada Bhagwan. Sie bietet einen schrittlosen Weg zur Selbsterkenntnis – eine direkte, erfahrbare Befreiung des ewigen Selbst, ermöglicht durch Gnade statt jahrelanger Askese oder Anstrengung. Anders als traditionelle Wege, die Entsagung, Rituale oder schrittweise Reinigung verlangen, ist Akram Vignan eine Abkürzung: Befreiung durch eine einzige, katalytische Übertragung. Diese Lehre wird weltweit von Gemeinschaften getragen, die inneres Glück und praktische Freiheit leben.
 
 
-Akram Vignan ist eine moderne spirituelle Wissenschaft aus Indien, begründet in den 1960er Jahren von Dada Bhagwan. Sie verspricht einen „schrittlosen Weg zur Selbsterkenntnis“ – eine direkte, erfahrbare Befreiung des ewigen Selbst, ermöglicht durch Gnade statt jahrelanger Askese oder Anstrengung. Anders als traditionelle Wege, die Entsagung, Rituale oder schrittweise Reinigung verlangen, bietet Akram Vignan eine Abkürzung: Befreiung durch eine einzige, katalytische Übertragung. Diese Lehre hat sich weltweit verbreitet und wird von Gemeinschaften getragen, die inneres Glück und praktische Freiheit leben.
+Im Kern ist Akram Vignan keine Philosophie, keine Religion, kein Glaubenssystem. Es ist eine direkte Wissenschaft der Befreiung – eine praktische Methode, die nicht auf Verbesserung des Vorübergehenden zielt, sondern auf die Erkenntnis des Ewigen. Das Wissen wird in einer einzigen Zeremonie übertragen und ermöglicht die direkte Erfahrung des Selbst, wodurch der Kreislauf von Geburt und Wiedergeburt endet. Ziel ist es, sich als unsterbliche Seele (Atma) zu erkennen und inneren Frieden und dauerhafte Freiheit zu finden.
 
 
-Im Kern ist Akram Vignan keine Philosophie, keine Religion, kein Glaubenssystem. Es ist eine **direkte Wissenschaft der Befreiung** – eine praktische, angewandte Methode, die nicht auf Verbesserung des Vorübergehenden zielt, sondern auf die Erkenntnis des Ewigen (des Selbst). Das Wissen wird in einer einzigen Zeremonie übertragen und ermöglicht die direkte Erfahrung des Selbst, wodurch der Kreislauf von Geburt und Wiedergeburt endet. Ziel ist es, sich als unsterbliche Seele (Atma) zu erkennen und inneren Frieden und dauerhafte Freiheit zu finden.
+„Akram“ bedeutet schrittlos. „Vignan“ bedeutet exaktes Wissen – Wissen, das durch Sehen befreit, nicht durch Tun.
 
 
-„Akram“ bedeutet *schrittlos*.
-„Vignan“ bedeutet *exaktes Wissen* – Wissen, das durch Sehen befreit, nicht durch Tun.
-
-
-Akram Vignan fordert den Menschen nicht auf, besser zu werden. Es enthüllt, was niemals gebunden war.
+Akram Vignan fordert dich nicht auf, besser zu werden. Es enthüllt, was niemals gebunden war.
 
 ## Die zentrale Erkenntnis: Du bist nicht der Handelnde
 
 
-Im Zentrum von Akram Vignan steht eine Einsicht von radikaler Einfachheit:
+Im Zentrum von Akram Vignan steht eine radikal einfache Einsicht:
 
 **Das Selbst ist nicht der Handelnde.**
 
 
 Alles Leiden entspringt dem inneren Satz: *„Ich tue.“*
 Gebundensein lebt von der Identifikation mit Gedanken, Emotionen, Entscheidungen und Handlungen.
-
-vom Körper-Geist-System hin zum **reinen Zeugen** – dem Wissenden, dem Sehenden.
 
 Akram Vignan vollzieht eine stille, aber vollständige Verschiebung der Identität:
 vom Körper-Geist-System hin zum **reinen Zeugen** – dem Wissenden, dem Sehenden.
@@ -76,8 +72,6 @@ Du musst nichts aufgeben:
 * keinen Beruf
 * keine Freude
 * keine Menschlichkeit
-
-doch nicht mehr als Identität, sondern als **Zeuge des Geschehens**.
 
 Du bleibst, wo du bist –
 doch nicht mehr als Identität, sondern als **Zeuge des Geschehens**.
@@ -151,6 +145,8 @@ Fehler sind unvermeidlich. Der Prozess ist einfach: Sieh den Fehler, erkenne ihn
 
 Gleichmut ist keine Gefühllosigkeit, sondern das Fehlen von innerem Widerstand, Vergeltung oder Identifikation mit der Reaktion. Das Leben fließt, der Zeuge bleibt. Wenn du in Reaktivität gerätst, bemerke es, mache Pratikraman und kehre zu deiner Entscheidung zurück, in Gleichmut zu bleiben.
 
+Diese fünf Agnas sind die praktische Technologie der Freiheit im Alltag. Für die initiatische Übertragung und das ontologische Fundament siehe das Kapitel "Dada Bhagwan — Die Wissenschaft der Befreiung ohne Flucht".
+
 ## Nicht zurückfallen – und warum Herausforderungen Gnade sind
 
 
@@ -213,7 +209,7 @@ In einer Zeit permanenter Selbstoptimierung, spiritueller Leistungsansprüche un
 **Freiheit ohne Selbstvergewaltigung.**
 
 
-Es erinnert den Menschen daran, dass er kein Projekt ist –
+Es erinnert dich daran, dass du kein Projekt bist –
 sondern Bewusstsein, das gelernt hat, sich selbst wieder zu erkennen.
 
 

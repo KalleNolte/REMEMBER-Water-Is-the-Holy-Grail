@@ -23,8 +23,6 @@ does not disappear.
 It waits—
 and governs us from the shadows.
 
----
-
 ### The Devil Is Not Evil — He Is Precision
 
 The Devil is not chaos.
@@ -42,8 +40,6 @@ He is the archetype of **friction**.
 
 And without friction,
 nothing incarnates.
-
----
 
 ### The First Separation
 
@@ -65,8 +61,6 @@ The resistance that turns intention into action.
 
 Without him, nothing would *matter*.
 
----
-
 ### The Devil as the Guardian of Free Will
 
 Here is the great reversal:
@@ -84,8 +78,6 @@ The Devil never says, “You must.”
 He says, “You may.”
 
 And then he watches.
-
----
 
 ### Contracts, Not Punishments
 
@@ -106,8 +98,6 @@ He is exact.
 
 He reflects back to consciousness
 the cost of its own fragmentation.
-
----
 
 ### The Body Is Where the Devil Teaches
 
@@ -133,8 +123,6 @@ Not as enemy.
 
 As mirror.
 
----
-
 ### Water and the Devil
 
 This book names water as the Holy Grail.
@@ -157,8 +145,6 @@ the Devil loses ground.
 
 Because there is nothing to hook into.
 
----
-
 ### Hell Is Not a Place — It Is a State
 
 Hell is not fire.
@@ -178,8 +164,6 @@ each time we choose comfort over coherence.
 
 And the door is never locked.
 
----
-
 ### The Devil as the Final Teacher Before Liberation
 
 Every tradition that reaches maturity
@@ -196,8 +180,6 @@ When he has done his work,
 there is nothing left to tempt.
 
 Only clarity.
-
----
 
 ### Integration, Not Exorcism
 
@@ -219,8 +201,6 @@ Then he steps aside.
 Not banished—
 completed.
 
----
-
 ### The Devil’s Final Role
 
 At the end of the path,
@@ -237,8 +217,6 @@ he bows.
 
 Because his work was never to damn—
 but to ensure that awakening was *earned*.
-
----
 
 ### The Return to Source
 

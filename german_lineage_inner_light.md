@@ -155,7 +155,7 @@ His insights:
 *	the human being is more than psychology
 *	the human spirit is unbreakable
 
-Mys vision of Ikigai,
+My vision of Ikigai,
 of water as life’s coherence medium,
 of purpose aligning physiology and consciousness—
 all of this stands on Frankl’s foundational truth:

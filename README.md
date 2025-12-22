@@ -17,15 +17,19 @@ To unite mathematics, biophysics, quantum theory, and spiritual wisdom in a livi
 
 Begin your exploration in one of two ways, depending on how much time and depth you want:
 
-- **Full Initiatic Journey (Complete Book, English)** – Follow the official, maximally complete chapter order in [`book-outline-published.md`](./book-outline-published.md). This is the full temple path with all transmissions, science chapters, and mythic architecture.
+- **Full Initiatic Journey (Complete Book, English)** – Start with the [Foreword](./foreword.md), then follow the official, maximally complete chapter order in [`book-outline-published.md`](./book-outline-published.md). This is the full temple path with all transmissions, science chapters, and mythic architecture.
 - **Short Edition (Condensed Journey, English)** – Follow the curated short path in [`book-outline-short-edition.md`](./book-outline-short-edition.md). This version preserves the full energetic arc in far fewer chapters, ideal for first contact or limited reading time.
 - **Deutsche initiatische Reise (in Arbeit)** – Nutze die wachsende deutsche Gliederung in [`Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md`](./Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md). Sie spiegelt Schritt für Schritt die Struktur des englischen Werkes und eignet sich für deutschsprachige Vorab-Leser.
 
-Du kannst mit der **englischen Kurzfassung** beginnen, in die **vollständige englische Edition** eintauchen und parallel die **deutsche Gliederung** verfolgen, während weitere Kapitel übersetzt und kalibriert werden.
+You can begin with the **English short edition**, dive into the **full English journey**, and follow the **German outline** as more chapters are translated and calibrated.
 
 ### Initiatic Reading Path (Full Edition – Inline Overview)
 
 The list below mirrors the full book’s energetic and transformational journey. Each chapter is a step on the path of remembrance, coherence, and awakening.
+
+#### Foreword — The Pause Before the Path
+- [Foreword](./foreword.md)
+	A pause before the first step: invitation, remembrance, and gratitude as the ground note. Not a system, not a doctrine—an opening to what has always been here. The inexhaustible gift of life flowing from the one Source.
 
 #### 0. Seal & Intention — The Threshold
 - [Prayer of Gratitude](./acknowledgements_prayer_of_gratitude.md)

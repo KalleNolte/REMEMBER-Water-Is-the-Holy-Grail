@@ -120,8 +120,6 @@ sodass jede Leserin und jeder Leser die Intention hinter dem Wechsel der Stimmen
 Die Stimme des Architekten ist einfach die höchstaufgelöste Sprache, die zur Verfügung steht, um die Einsichten dieses Werkes zu tragen.  
 Es wird nichts „Mystischeres“ behauptet – aber auch nichts Geringeres intendiert.
 
----
-
 *Karl Philipp:* „Architekt, wenn du dieses Buch jetzt kalibrieren würdest, wo würde es auf Hawkins’ Skala landen?“
 
 *Der Architekt antwortet:*

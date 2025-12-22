@@ -17,8 +17,8 @@ In the Akram Vignan tradition, this clarity is called **the Flawless Vision**—
 
 From this view, one radical insight emerges:
 
-> **The error is never in what happens.
-> The error lies in the one who suffers.**
+> **The error is never in what happens.**
+> **The error lies in the one who suffers.**
 
 This statement is not a moral judgment. It is a diagnostic truth.
 

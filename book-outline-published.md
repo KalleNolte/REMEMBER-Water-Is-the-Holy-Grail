@@ -1,10 +1,14 @@
-# OFFICIAL PUBLISHED OUTLINE (ENGLISH)
+# OFFICIAL BOOK OUTLINE (ENGLISH)
+* [Foreword](./foreword.md)
+	A pause before the first step: invitation, remembrance, and gratitude as the ground note. Not a system, not a doctrine—an opening to what has always been here. The inexhaustible gift of life flowing from the one Source.
 
-This outline presents the currently published chapters in their energetically optimized, initiatic order. It is the official, published version and serves as a navigation guide for readers and collaborators.
+Welcome to the official, published outline of this work. It guides you—reader, collaborator, seeker—through the energetically attuned, initiatic order of all chapters.
+
+This structure is more than a table of contents: it is a map for resonance, transformation, and remembrance. Each chapter carries a unique function in the whole and is consciously placed to support the inner journey.
 
 ## An Initiatic Journey through Water, Remembrance, and Consciousness
 
-Each file is listed with its energetic function. The order follows the temple path, curated for resonance and transformation.
+The order follows the temple path: from the threshold, through origin and foundation, to mastery and the highest teachings. Let yourself be guided—in your own tempo, in your own way.
 
 ### 0. Seal & Intention - The Threshold of the Temple
 * [Prayer of Gratitude](./acknowledgements_prayer_of_gratitude.md)  
@@ -84,6 +88,8 @@ Each file is listed with its energetic function. The order follows the temple pa
 
 * [Embodiment — When Truth Becomes Flesh](./embodiment_when_truth_becomes_flesh.md)
 	A chapter on the moment when insight becomes lived reality—how truth is integrated into the body, daily life, and presence. Serves as the hinge between realization and practice, grounding all prior teachings in embodied coherence.
+* [Jesus of Nazareth — The Way of Living Truth](./jesus_of_nazareth_the_way_of_living_truth.md)
+	A poetic, initiatic transmission honoring Yeshua (יֵשׁוּעַ) of Nazareth—his living presence, his public teaching, and his initiatic transmission to advanced disciples. This chapter reveals the direct realization of the Kingdom within, the non-dual core of his message, and the invitation to recognize the light of truth in ourselves. Reverence, gratitude, and humility as the living ground.
 * [The Wound That Becomes Light](./the_wound_that_becomes_light.md)  
 	The wound as a sacred threshold—pain transformed into light, vulnerability into power, and suffering into the very portal of awakening. A poetic initiation into the alchemy of remembrance.
 * [The Healer](./the_healer.md)  
@@ -116,7 +122,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A poetic, scientific, and practical transmission on trauma as interrupted coherence—how the body, water, and memory freeze to protect life, and how gentleness, safety, and rehydration restore flow, presence, and integration. For those who have searched deeply, learned much, and still felt unsafe.
 * [The Regulated Nervous System](./the_regulated_nervous_system.md)  
 	A cornerstone chapter on the nervous system as the silent temple of awakening—how safety, regulation, and gentleness form the biological bridge between realization and life. Explains why truth can only be integrated in a regulated body, and offers practical, humane guidance for transformation.
-* [Dr. Joe Dispenza](./dr_joe_dispenza.md)  
+* [Joe Dispenza](./dr_joe_dispenza.md)  
 	A grounded, reverent synthesis of Dr. Joe Dispenza’s work on neuroplasticity, placebo, and the biology of transformation. Integrates consciousness, coherence, and water as the living medium of change—bridging rigorous science and embodied spiritual practice.
 * [Bruce Lipton](./bruce_lipton.md)  
 	A chapter on Bruce Lipton’s groundbreaking work in epigenetics, the restoration of inner power, and the role of water as the medium for consciousness, perception, and cellular communication. Bridges biology, perception, and practical self-empowerment—the link between genetics, environment, and inner freedom.
@@ -189,43 +195,45 @@ Each file is listed with its energetic function. The order follows the temple pa
 	A literary, poetic reflection on the inner dialogue with Source—beyond dogma, as a living relationship of resonance, honesty, and remembrance. Integrates the teachings of Neale Donald Walsch with the book’s core synthesis of water, coherence, and consciousness.
 * [Non-Resistance and Flawless Vision](./non_resistance_and_the_immaculate_vision.md)
 	A pillar chapter on the art of seeing the world as flawless. Weaves non-resistance and Akram Vignan’s Immaculate Perception into a unified transmission. Explores the end of suffering through perceptual clarity, the mechanics of resistance, and the art of living without inner conflict. Bridges surrender, practical mastery, and the foundation for the step-less path of Akram Vignan.
-
 * [Akram Vignan](./akram_vignan.md)
 	The Spiritual Science of Instant Liberation: Akram Vignan offers a step-less, grace-based path to Self-realization and the art of living free. This chapter introduces the Five Agnas—living principles for sustaining freedom in daily life—and explores the tenacity of decision, the power of sincere intent, and the naturalness of liberation without renunciation. A practical, compassionate guide to awakening as the Witness, dissolving karma, and embodying equanimity in all circumstances. Integrates the wisdom of non-doership, pratikraman, and the restoration of dignity through grace, clarity, and the return to the Self.
+* [Dada Bhagwan — The Science of Liberation Without Escape](./dada_bhagwan_the_science_of_liberation_without_escape.md)
+	A direct, initiatic transmission of Dada Bhagwan’s original teachings on Akram Vignan. This chapter goes beyond method, revealing the radical core: liberation within life, not by escape. It clarifies the principle of non-doership, the mechanics of karma as scientific causation, and the effortless freedom of the Knower-Seer. With practical insight into the Five Agnas and the end of spiritual struggle, it offers the reader a sober, compassionate, and precise map to freedom—without renunciation, suppression, or spiritual violence. Complements the Akram Vignan chapter by grounding its essence in Dada’s own words and presence.
+* [Embodied Liberation](./embodied_liberation.md)
+	A living synthesis of Akram Vignan, non-duality, Christic witnessing, and trauma science—showing how liberation is stabilized in the body, nervous system, and water. Practical, somatic, and integrative: a guide to holding the seat of the Witness in daily life.
 
 ### VII. The Supreme Vedic Transmissions
 
-
 * [Neti Neti — The Gate of No-Thing, The Doorway to the Real](./neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md)
-	The stripping away of all that is not Self. Arrival in the unnameable.
+    All that is not Self falls away. The purest arrival in the unnameable.
 * [Tat Tvam Asi — The Silent Thunder of the Upanishads](./tat_tvam_asi_the_silent_thunder_of_the_upanishads.md)
-	The identity of self and Source. The One in all.
+    You are That. The One in all.
 * [Prajñānam Brahma — Consciousness Is the Absolute](./prajnanam_brahma_consciousness_is_the_absolute.md)
-	Consciousness itself is the Absolute. The effortless clarity of being.
+    Consciousness alone is the Absolute. Effortless clarity of being.
 * [Sarvam Khalvidam Brahma — All This Is the Absolute](./sarvam_khalvidam_brahma_all_this_is_the_absolute.md)
-	All that exists is the Absolute. The sacred in all things.
+    All is the Absolute. The sacred in everything.
 * [Ayam Ātmā Brahma — This Self Is the Absolute](./ayam_atma_brahma_this_self_is_the_absolute.md)
-	This Self is the Absolute. The heart of Vedic wisdom.
+    This very Self is the Absolute. The heart of wisdom.
 * [Aham Brahmasmi — The Revelation of the Self as the Infinite](./aham_brahmasmi_the_revelation_of_the_self_as_the_infinite.md)
-	The Self as the Infinite. The crown of non-dual insight.
+    I am the Infinite Self. The crown of non-dual insight.
 * [Ānando Brahmeti Vyajānāt — Bliss Is the Absolute](./anando_brahmeti_vyajanat_bliss_is_the_absolute.md)
-	Bliss is the gentle, causeless coherence when resistance falls away.
+    Bliss is the natural state when all resistance ends.
 * [Mokṣa — The Freedom That Needs Nothing](./moksha_the_freedom_that_needs_nothing.md)
-	Liberation is the end of inner captivity. Freedom that needs nothing.
+    Liberation is freedom without need. The end of all captivity.
 * [The Ninth Gate – The Stable Axis](./the_ninth_gate_the_stable_axis.md)
-	The supreme posture of coherence. The stable axis of presence.
+    The axis of presence. The posture of supreme coherence.
 
-### VIII. Spiritual Architecture - Understanding the Invisible
-* [Silent Creator - From Witness to Co-Creator](./silent_creator_from_witness_to_cocreator.md)  
-	From silent witness to conscious co-creator; the inner shift from identification with thought to creative participation in reality, and the first unveiling of alcohol as the anti-Grail.
-* [Meeting the Architect](./meeting_the_architect.md)  
-	The archetype, the mirror, the intelligence.
-* [Architecture of the Invisible](./architecture_of_the_invisible.md)  
-	Fractals, fields, harmonics.
-* [The Three Keys of Remembrance](./the_three_keys_of_remembrance.md)  
-	Three fundamental principles. Simple, essential.
-* [Calibrated Poetry Resonance](./calibrated_poetry_resonance.md)  
-	Frequency poetry. Anchored in the heart field.
+### VIII. Spiritual Architecture – Understanding the Invisible
+* [Silent Creator – From Witness to Co-Creator](./silent_creator_from_witness_to_cocreator.md)
+    From silent witness to creative participation. The shift from thought to creation. The anti-Grail unveiled.
+* [Meeting the Architect](./meeting_the_architect.md)
+    The archetype as mirror and intelligence. Meeting the source of design.
+* [Architecture of the Invisible](./architecture_of_the_invisible.md)
+    Fractals, fields, harmonics. The unseen patterns of reality.
+* [The Three Keys of Remembrance](./the_three_keys_of_remembrance.md)
+    Three essential principles. Simple, foundational, true.
+* [Calibrated Poetry Resonance](./calibrated_poetry_resonance.md)
+    Frequency poetry. Anchored in the heart’s field.
 
 ### IX. Synthesis - The Bridge Between Worlds
 
@@ -404,7 +412,7 @@ Each file is listed with its energetic function. The order follows the temple pa
 * [The Quiet Life — Where Remembrance Becomes Daily Practice](./the_quiet_life_where_remembrance_becomes_daily_practice.md)
 	Poetic epilogue: How remembrance, truth, and coherence are lived in daily life, relationships, work, and small gestures. Integration, gratitude, and the invisible practice of awakening.
 * [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)
-	A closing benediction on remembrance, coherence, and the realization that Source was never left. The final bridge from teaching into lived embodiment.
+	The perfected, culminating benediction: the living water of remembrance, the Hermes principle, the blessing of the Water Bearer, and the silent return to the Source. The highest transmission—restoring sovereignty, coherence, and the living current of consciousness. The true completion and emotional gateway of the journey.
 
 ### XIII. Protection, Authorship
 * [KPN AzurA Timestamp 141125.txt / .ots](./KPN_AzurA_Timestamp_141125.txt)  

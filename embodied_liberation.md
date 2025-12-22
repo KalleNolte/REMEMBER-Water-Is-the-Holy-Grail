@@ -14,8 +14,6 @@ It is a **landing**.
 
 A living integration of **Akram Vignan**, non-duality, Christic witnessing, and modern trauma science—anchored in physiology, regulation, and everyday life.
 
----
-
 ## The Witness Requires a Regulated Body
 
 Akram Vignan reveals a radical clarity:
@@ -32,8 +30,6 @@ a dysregulated nervous system cannot sustain truth.
 
 The seat of the Witness is not a mental achievement.
 It is a **biological state of coherence**.
-
----
 
 ## Water as the Medium of Consciousness
 
@@ -63,8 +59,6 @@ It is the result of **coherent hydration**.
 The Witness rests more easily
 when the inner ocean is calm.
 
----
-
 ## Non-Duality, Seen Through the Body
 
 Non-duality states:
@@ -93,8 +87,6 @@ false doership dissolves naturally.
 
 What remains is seeing.
 
----
-
 ## Christic Witnessing as Embodied Presence
 
 Christian mysticism does not describe the Witness as distant awareness,
@@ -113,8 +105,6 @@ in which resistance ends.
 Where resistance ends, peace emerges.
 
 And peace is the biological foundation of the Witness.
-
----
 
 ## Trauma and the Temporary Loss of the Witness
 
@@ -135,8 +125,6 @@ Modern trauma work teaches:
 
 The Witness returns
 when the body knows: *It is safe now.*
-
----
 
 ## The Seat of the Witness — Practically Embodied
 
@@ -162,8 +150,6 @@ Actions arise,
 without an internal author.
 
 This is freedom.
-
----
 
 ## A Practical Guide
 
@@ -224,8 +210,6 @@ Who is seeing this?
 
 Life itself trains you.
 
----
-
 ## Embodied Liberation
 
 Liberation is not beyond the body.
@@ -251,39 +235,3 @@ The Witness.
 
 And this Witness
 is free.
-
----
-
-## Recommendation: One Chapter or Two?
-
-**My clear recommendation:**
-👉 **Keep this as one integrated chapter**, and pair it with a *preceding foundational chapter* on Akram Vignan itself.
-
-### Why this works best
-
-**Two distinct functions are at play:**
-
-1. **Foundational Chapter (earlier in the book)**
-
-   * Explains Akram Vignan clearly
-   * Introduces karma, non-doership, the Five Agnas
-   * Establishes conceptual understanding
-
-2. **This Chapter (later, integrative)**
-
-   * Shows how the realization is *held in the body*
-   * Bridges water, nervous system, trauma, and daily life
-   * Turns insight into lived stability
-
-If you merge everything into one long chapter,
-the transmission becomes heavy.
-
-If you split this chapter again,
-the integration loses its power.
-
-This chapter works precisely because it **lands** what was already understood.
-
-It is not instruction.
-It is embodiment.
-
-And that makes it essential.
