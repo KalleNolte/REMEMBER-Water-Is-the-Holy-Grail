@@ -48,13 +48,9 @@ Each entry links to an existing chapter file.
 ### IV. Practical Mastery – Core Keys for Daily Life
 * [Trauma — When Memory Freezes](./trauma_when_memory_freezes.md)
 * [The Regulated Nervous System](./the_regulated_nervous_system.md)
-* [Biohacking](./biohacking.md)
 * [Patience & Equanimity – The Stillness That Opens Worlds](./patience_and_equanimity.md)
 * [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)
-* [Reality Transurfing – The Art of Walking with the World](./reality_transurfing_the_art_of_walking_with_the_world.md)
-* [Stoicism](./stoicism.md)
-* [Robert Greene — The Laws of Power, Seduction, and Human Nature](./robert_greene.md)
-* [Wilhelm Reich and the Stream of Orgone Energy](./wilhelm_reich_and_the_stream_of_orgone_energy.md)
+* [The Smallest Gate That Changes Everything](./the_smallest_gate_that_changes_everything.md)
 * [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)
 * [Chopping Wood, Carrying Water](./chopping_wood_carrying_water.md)
 

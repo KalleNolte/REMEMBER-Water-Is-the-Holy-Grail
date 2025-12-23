@@ -80,6 +80,9 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [Shinrin-yoku — Remembering Ourselves Through the Forest](./shinrin_yoku_remembering_ourselves_through_the_forest.md)
 * [Wabi-Sabi](./wabi_sabi.md)
 * [Chopping Wood, Carrying Water](./chopping_wood_carrying_water.md)
+* [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)
+* [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)
+* [Sacred Sleep — Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
 
 ### V. Forgiveness, Inner Alchemy & Advanced Integration
 * [The TRIO Method — Transmuting Negativity into Light](./the_trio_method.md)

@@ -80,6 +80,9 @@ Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfä
 * [Shinrin-yoku – Die stille Medizin des Waldes](./shinrin_yoku_die_stille_medizin_des_waldes.md)
 * [Wabi-Sabi](./wabi_sabi.md)
 * [Holz hacken, Wasser tragen](./holz_hacken_wasser_tragen.md)
+* [Die zwölf Schlüssel zur Selbstermächtigung und die dreizehnte Krone](./zwoelf_schluessel_zu_selbstermmaechtigung_und_die_dreizehnte_krone.md)
+* [Die vier Reiter und die Wasser des Lebens](./vier_reiter_und_die_wasser_des_lebens.md)
+* [Heiliger Schlaf – Rückkehr zur Quelle des Lebens](./heiliger_schlaf_rueckkehr_zur_quelle_des_lebens.md)
 
 ### V. Vergebung, Innere Alchemie & Vertiefung
 * [TRIO-Methode – Negativität in Licht verwandeln](./trio_methode_negativitaet_in_licht_verwandeln.md)

@@ -35,13 +35,9 @@ Diese Kurzgliederung bietet die essenzielle, hochwirksame Version des Buches. Si
 ### IV. Praktische Meisterschaft – Schlüssel für den Alltag
 * [Trauma – wenn Erinnerung eingefroren ist](./trauma_wenn_erinnerung_eingefroren_ist.md)
 * [Das regulierte Nervensystem – der stille Tempel des Erwachens](./das_regulierte_nervensystem_tempel_des_erwachens.md)
-* [Biohacking](./biohacking.md)
 * [Geduld & Gelassenheit – Die Stille, die Welten öffnet](./geduld_und_gelassenheit.md)
 * [Die fünf goldenen Pforten zu Selbstermächtigung und Kohärenz](./fuenf_goldene_pforten_zu_selbstermmaechtigung_und_kohaerenz.md)
-* [Reality Transurfing – Die Kunst, mit der Wirklichkeit zu gehen](./reality_transurfing_die_kunst_mit_der_wirklichkeit_zu_gehen.md)
-* [Stoizismus](./stoizismus.md)
-* [Robert Greene – Macht, Meisterschaft und die verborgene Grammatik der menschlichen Natur](./robert_greene_de.md)
-* [Wilhelm Reich und die Strömung der Orgonenenergie](./wilhelm_reich_und_die_stroemung_der_orgonenenergie.md)
+* [Das kleinste Tor, das alles verändert](./das_kleinste_tor_das_alles_veraendert.md)
 * [Alchemie des lebendigen Wassers – Praktischer Leitfaden](./alchemie_des_lebendigen_wassers_praktischer_leitfaden.md)
 * [Holz hacken, Wasser tragen](./holz_hacken_wasser_tragen.md)
 
