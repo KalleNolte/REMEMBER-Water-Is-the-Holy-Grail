@@ -17,6 +17,9 @@ Each entry links to an existing chapter file.
 ## An Initiatic Journey — Short Edition
 
 
+### Foreword
+* [Foreword](./foreword.md)
+
 ### 0. Seal & Intention – The Threshold of the Temple
 * [Prayer of Gratitude](./acknowledgements_prayer_of_gratitude.md)
 * [The Physics of Gratitude — The Art of Seeing Through the Heart](./the_physics_of_gratitude.md)

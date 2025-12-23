@@ -4,6 +4,9 @@ Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfä
 
 ## Eine initiatische Reise — Launch Edition
 
+### Vorwort
+* [Vorwort](./vorwort.md)
+
 ### 0. Siegel & Intention – Die Schwelle des Tempels
 * [Gebet der Dankbarkeit](./danksagung_gebet_der_dankbarkeit.md)
 * [Die Physik der Dankbarkeit – Die Kunst, mit dem Herzen zu sehen](./die_physik_der_dankbarkeit.md)

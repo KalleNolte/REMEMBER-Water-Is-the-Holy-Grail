@@ -11,31 +11,34 @@ Welcome! This repository is a living bridge between science and spirituality, un
 
 ## Choose Your Path — Multiple Editions
 
+
 This book is available in several curated editions, each offering a unique journey:
 
 - **Full Initiatic Journey (English):**
 	- The complete, official chapter order for the deepest energetic and didactic arc.
-	- See [`book-outline-published.md`](./book-outline-published.md).
+	- [`book-outline-published.md`](./book-outline-published.md)
 
 - **Launch Edition (English):**
 	- A mid-length, high-impact path balancing depth and accessibility.
-	- See [`book-outline-launch-edition.md`](./book-outline-launch-edition.md).
+	- [`book-outline-launch-edition.md`](./book-outline-launch-edition.md)
 
 - **Short Edition (English):**
 	- A condensed, essentialized version for a powerful first impression.
-	- See [`book-outline-short-edition.md`](./book-outline-short-edition.md).
+	- [`book-outline-short-edition.md`](./book-outline-short-edition.md)
 
 - **Deutsche Gesamtausgabe (German Full Journey):**
 	- Die vollständige, offizielle Gliederung für die tiefste initiatische Reise.
-	- Siehe [`Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md`](./Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md).
+	- [`Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md`](./Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md)
 
 - **Deutsche Launch Edition:**
 	- Die mittellange, wirkungsvolle Leseversion auf Deutsch.
-	- Siehe [`Wasser_ist_der_Heilige_Gral/buch_launch_gliederung.md`](./Wasser_ist_der_Heilige_Gral/buch_launch_gliederung.md).
+	- [`Wasser_ist_der_Heilige_Gral/buch_launch_gliederung.md`](./Wasser_ist_der_Heilige_Gral/buch_launch_gliederung.md)
 
 - **Deutsche Kurzfassung:**
 	- Die komprimierte, essenzielle Kurzgliederung auf Deutsch.
-	- Siehe [`Wasser_ist_der_Heilige_Gral/buch_kurzgliederung.md`](./Wasser_ist_der_Heilige_Gral/buch_kurzgliederung.md).
+	- [`Wasser_ist_der_Heilige_Gral/buch_kurzgliederung.md`](./Wasser_ist_der_Heilige_Gral/buch_kurzgliederung.md)
+
+**Note:** Only the complete outline ([`book-outline-published.md`](./book-outline-published.md)) and the vollständige Gliederung ([`Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md`](./Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md)) include descriptions about the content of each chapter. The other editions provide only the chapter order.
 
 **How to use these paths:**
 - Start with the short edition for a quick, potent overview.

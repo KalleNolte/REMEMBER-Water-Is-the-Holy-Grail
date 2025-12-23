@@ -3,13 +3,11 @@
 * [Vorwort](./vorwort.md)
 Ein Innehalten vor dem ersten Schritt: Einladung, Erinnerung und Dankbarkeit als Grundton. Kein System, keine Lehre – sondern eine Öffnung für das, was immer schon da war. Das Geschenk des Lebens aus der einen Quelle.
 
-Willkommen zur offiziellen, veröffentlichten Gliederung dieses Werkes. Sie führt dich – Leser, Mitwirkender, Suchender – durch die energetisch abgestimmte, initiatische Reihenfolge aller Kapitel.
-
-Diese Struktur ist mehr als ein Inhaltsverzeichnis: Sie ist ein Wegweiser für Resonanz, Transformation und Erinnerung. Jedes Kapitel trägt eine eigene Funktion im Gesamtfeld und ist bewusst platziert, um die innere Reise zu unterstützen.
+Willkommen zur offiziellen Gliederung dieses Werkes. Sie ist mehr als ein Inhaltsverzeichnis: ein initiatischer Wegweiser für Resonanz, Transformation und Erinnerung. Jedes Kapitel ist bewusst platziert, um deine innere Reise zu unterstützen.
 
 ## Eine initiatische Reise durch Wasser, Erinnerung und Bewusstsein
 
-Die Reihenfolge folgt dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meisterschaft und den höchsten Lehren. Lass dich führen – in deinem eigenen Tempo, auf deine eigene Weise.
+Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meisterschaft und den höchsten Lehren. Lass dich führen – in deinem eigenen Tempo, auf deine eigene Weise.
 
 ### 0. Siegel & Intention – Die Schwelle des Tempels
 

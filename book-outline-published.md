@@ -3,13 +3,11 @@
 * [Foreword](./foreword.md)
 A pause before the first step: invitation, remembrance, and gratitude as the ground note. Not a system, not a doctrine—an opening to what has always been here. The inexhaustible gift of life flowing from the one Source.
 
-Welcome to the official, published outline of this work. It guides you—reader, collaborator, seeker—through the energetically attuned, initiatic order of all chapters.
-
-This structure is more than a table of contents: it is a map for resonance, transformation, and remembrance. Each chapter carries a unique function in the whole and is consciously placed to support the inner journey.
+Welcome to the official outline of this work. More than a table of contents, it is an initiatic map for resonance, transformation, and remembrance. Each chapter is consciously placed to support your inner journey.
 
 ## An Initiatic Journey through Water, Remembrance, and Consciousness
 
-The order follows the temple path: from the threshold, through origin and foundation, to mastery and the highest teachings. Let yourself be guided—in your own tempo, in your own way.
+Follow the temple path: from the threshold, through origin and foundation, to mastery and the highest teachings. Let yourself be guided—in your own tempo, in your own way.
 
 ### 0. Seal & Intention - The Threshold of the Temple
 * [Prayer of Gratitude](./acknowledgements_prayer_of_gratitude.md)  

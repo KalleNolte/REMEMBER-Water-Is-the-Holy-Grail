@@ -4,6 +4,9 @@ This outline presents the **launch edition** of the book—a carefully curated j
 
 ## An Initiatic Journey — Launch Edition
 
+### Foreword
+* [Foreword](./foreword.md)
+
 ### 0. Seal & Intention – The Threshold of the Temple
 * [Prayer of Gratitude](./acknowledgements_prayer_of_gratitude.md)
 * [The Physics of Gratitude — The Art of Seeing Through the Heart](./the_physics_of_gratitude.md)
