@@ -160,7 +160,7 @@ This is the essence of all spiritual initiation:
 
 **To allow the true self to shine through the constructed self so the world may be reconfigured around higher truth.**
 
-## **The Final Interpretation: What the Matrix Story *Is***
+## **The Final Interpretation: What the Matrix Story is**
 
 It is the story of awakening told through code.
 

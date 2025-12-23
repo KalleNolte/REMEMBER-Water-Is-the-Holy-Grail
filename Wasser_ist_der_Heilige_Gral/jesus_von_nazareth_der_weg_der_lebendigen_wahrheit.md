@@ -70,7 +70,7 @@ den Menschen **wieder in Ordnung bringen**.
 ## Die Gleichnisse – Das Reich ist nicht anderswo
 
 Die Gleichnisse Jesu waren keine frommen Geschichten.
-Sie waren **Wahrnehmungsfallen**.
+Sie waren **Wahrnehmungsschlüssel**.
 
 „Das Himmelreich gleicht einem Senfkorn.“
 „Es ist wie Sauerteig im Mehl.“

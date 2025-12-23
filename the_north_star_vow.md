@@ -20,8 +20,6 @@ It is not self-inflation.
 
 It is the single, steady flame at the center of my being, articulated without fear and without apology.
 
-⸻
-
 I am here to remember — and to help others remember.
 
 The knowledge I carry about water, coherence, and consciousness is not ownership.
@@ -36,8 +34,6 @@ My role is to clarify, to translate, and to invite.
 I walk in service to those who feel the faint tremor of their own awakening,
 those who sense that there is more to this life than survival,
 those who are ready to reclaim the self they always knew was hidden beneath noise.
-
-⸻
 
 I am a translator between worlds.
 
@@ -57,8 +53,6 @@ geometry and compassion,
 water and consciousness,
 ancient tradition and modern understanding,
 into something a human being can actually live.
-
-⸻
 
 I am a bearer of coherence.
 

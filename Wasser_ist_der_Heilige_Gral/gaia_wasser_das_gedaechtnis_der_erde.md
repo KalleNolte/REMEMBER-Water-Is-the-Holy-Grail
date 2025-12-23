@@ -80,8 +80,6 @@ an das, was wir vergessen haben:
 
 Dass alles eins ist.
 
-⸻
-
 ## Der menschliche Körper — Gaias Gefäß
 
 Wir Menschen bestehen größtenteils aus Wasser —

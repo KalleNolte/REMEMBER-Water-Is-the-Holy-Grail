@@ -91,8 +91,6 @@ Denn Gott ist endlos geduldig.
 Und das Licht, das durch auch nur einen einzigen Riss scheint,
 verwandelt alles.
 
-⸻
-
 Das ist der Stein der Weisen:
 Kein Geheimnis, sondern eine Entscheidung.
 Zu lieben, wo andere hassen.

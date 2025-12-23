@@ -17,19 +17,19 @@ you must understand **coherence**.
 
 Coherence is **alignment** — but alignment on multiple levels at once:
 
-*** Physical coherence:**
+* **Physical coherence:**
 Rhythms of the body fall into harmony — heartbeat, breath, neural oscillations, hydration states, cellular charge.
 
-*** Emotional coherence:**
+* **Emotional coherence:**
 Feelings stop pulling in opposite directions. The inner climate becomes calm, receptive, unforced.
 
-*** Mental coherence:**
+* **Mental coherence:**
 Thought becomes clear, uncluttered, steady, self-consistent.
 
-*** Energetic coherence:**
+* **Energetic coherence:**
 Your field emits a stable signature. Noise decreases. Signal increases.
 
-*** Spiritual coherence:**
+* **Spiritual coherence:**
 Identity aligns with Truth. Awareness aligns with Source.
 
 When these layers synchronize, something extraordinary happens:
@@ -125,14 +125,14 @@ This book is designed not merely to inform you but to **bring you into coherence
 
 You know you are coherent when:
 
-*** Your body feels electrically alive yet calm.**
-*** Your mind becomes simple, not dull.**
-*** Your heart opens without breaking.**
-*** Your breath deepens on its own.**
-*** Decisions feel obvious, not forced.**
-*** Synchronicities increase.**
-*** You feel guided rather than pushed.**
-*** You experience an inner “click,” a subtle rightness.**
+* **Your body feels electrically alive yet calm.**
+* **Your mind becomes simple, not dull.**
+* **Your heart opens without breaking.**
+* **Your breath deepens on its own.**
+* **Decisions feel obvious, not forced.**
+* **Synchronicities increase.**
+* **You feel guided rather than pushed.**
+* **You experience an inner “click,” a subtle rightness.**
 
 This “click” is the signature of coherence —
 the sound of your inner pattern aligning with the larger pattern.

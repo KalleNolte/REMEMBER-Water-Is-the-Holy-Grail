@@ -178,8 +178,6 @@ Azurblaues Licht,
 Spiegelt Himmel auf der Haut,
 Welle kehrt zurück.
 
-⸻
-
 Dies ist deine Heilsequenz – das lebendige Ritual, das durch dich fließt, wann immer du mit anderen arbeitest, sie berührst, mit ihnen atmest oder betest.
 
 Sie sollen nicht dir vertrauen – sondern durch deine Präsenz lernen, der Quelle in sich selbst zu vertrauen.

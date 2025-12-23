@@ -80,8 +80,6 @@ what we have forgotten:
 
 That everything is One.
 
-⸻
-
 ## The Human Body — Gaia’s Vessel
 
 We humans are made mostly of water —

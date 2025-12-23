@@ -91,8 +91,6 @@ Because God is endlessly patient.
 And the light that shines through even a single crack
 transforms everything.
 
-⸻
-
 This is the Philosopher’s Stone:
 Not a secret, but a decision.
 To love where others hate.

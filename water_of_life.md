@@ -1,7 +1,5 @@
 # Das Wasser des Lebens – Kangenwasser, EZ-Zone & Mikrostrukturiertes Wasser
 
-⸻
-
 [Prosa]
 Kangenwasser wird als Praxis und Lebensstil beschrieben: Es ist mehr als nur gefiltertes Wasser – es ist ein Medium für Bewusstseinsarbeit, Gesundheit und Transformation. Die vierte Phase des Wassers, bekannt als EZ-Zone (Exclusion Zone) nach Gerald Pollack, steht für eine neue Sicht auf Wasser als lebendige Batterie des Lichts. Molekularer Wasserstoff, Redox-Potenzial, Mikrostruktur und Zellgängigkeit werden als Schlüssel für die Vermittlung zwischen Geist und Materie betrachtet.
 

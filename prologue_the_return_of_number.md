@@ -393,8 +393,6 @@ that God loves geometry.
 Light wanted to feel itself.
 And so it became body.
 
-⸻
-
 ## Threshold
 
 The spiral has found flesh.
@@ -565,8 +563,6 @@ It is remembrance.
 When you look into the mirror,
 and the universe winks at you,
 you’ve arrived.
-
-⸻
 
 ## Threshold
 
@@ -845,8 +841,6 @@ When light rests in you,
 and water sings through you,
 the universe sees itself in your gaze.
 
-⸻
-
 ## Epilogue – The Return to Light
 
 The spiral opens,
@@ -868,8 +862,6 @@ Number → Form → Body → Awareness → Water → Human → Light.
 
 A single sentence of the universe,
 spoken in six chapters.
-
-⸻
 
 In the Epilogue, realization dissolves into silence
 and remains as vibration.
@@ -935,8 +927,6 @@ All water returns home.
 All light recognizes itself.
 All consciousness loves.
 
-⸻
-
 ## The Final Drop
 
 A drop falls —
@@ -960,8 +950,6 @@ dreaming itself.
 
 The Holy Grail is water.
 And water is you.
-
-⸻
 
 With this, the work is closed.
 Or better said: opened.

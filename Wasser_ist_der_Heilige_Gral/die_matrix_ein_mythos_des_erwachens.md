@@ -160,7 +160,7 @@ Das ist das Wesen jeder spirituellen Initiation:
 
 **Das wahre Selbst durch das konstruierte Selbst scheinen zu lassen, damit die Welt um höhere Wahrheit neu konfiguriert werden kann.**
 
-## **Die finale Interpretation: Was die Matrix-Geschichte *ist***
+## **Die finale Interpretation: Was die Matrix-Geschichte ist**
 
 Es ist die Geschichte des Erwachens, erzählt durch Code.
 

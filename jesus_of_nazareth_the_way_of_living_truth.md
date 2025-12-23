@@ -72,7 +72,7 @@ but about **alignment with reality**.
 ## The Teaching in Parables: The Kingdom Is Not Where You Think
 
 The parables were not moral stories.
-They were **perceptual riddles**.
+They were **keys of perception**.
 
 “The Kingdom of God is like a mustard seed.”
 “The Kingdom is like leaven hidden in dough.”
