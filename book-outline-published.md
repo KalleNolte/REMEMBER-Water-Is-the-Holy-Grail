@@ -1,4 +1,5 @@
 # OFFICIAL BOOK OUTLINE (ENGLISH)
+
 * [Foreword](./foreword.md)
 A pause before the first step: invitation, remembrance, and gratitude as the ground note. Not a system, not a doctrine—an opening to what has always been here. The inexhaustible gift of life flowing from the one Source.
 
@@ -58,11 +59,13 @@ The order follows the temple path: from the threshold, through origin and founda
 * [Dossier of Plausibility - Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)  
 	A comprehensive dossier presenting the scientific, philosophical, and experiential evidence for the book’s core claims. Interprets findings and extends an open invitation to inquiry and transformation.
 * [When Light Meets Water](./when_light_meets_water.md)  
-	Biophysical and metaphysical synthesis: sunlight, color, structured water, and practices for "living water." Bridge to AzurA and light-body chapters.
+	A luminous synthesis of biophysics and metaphysics: explores how sunlight, color, and structured water interact to create living water. Offers practical rituals and scientific insights for activating water’s full potential, bridging the worlds of light, consciousness, and daily practice. Prepares the reader for the AzurA and light-body teachings.
 * [Implications for Modern Science](./implications_for_modern_science.md)  
-	Paradigm shift. For skeptics and seekers.
+	A paradigm-shifting chapter for skeptics and seekers alike. Examines the limitations of current scientific models, introduces new evidence and perspectives, and invites the reader to reconsider the foundations of health, consciousness, and reality through the lens of water and coherence.
 * [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)  
-	The science, structure, and healing power of hexagonal water. Prof. Jhon’s research, cellular coherence, and the geometry of life.
+	A clear and integrative exploration of hexagonal water: reveals the science, structure, and healing properties of this unique form. Highlights Prof. Jhon’s pioneering research, the role of cellular coherence, and the geometric patterns that underlie vitality, regeneration, and the architecture of life itself.
+* [Ionisation, Electrons, and the Secret of Living Water](./ionisation_electrons_and_the_secret_of_living_water.md)  
+	A clear, didactic, and motivational chapter on ionised water, electrons, ORP, and alternatives. Explains the science, practical benefits, and the path to coherence, addressing skepticism and offering actionable guidance for health and transformation.
 * [Oxidation-Reduction Potential (ORP)](./oxidation_reduction_potential_orp.md)  
 	What ORP really measures, why electrons determine order, aging, and regeneration, and how water acts as a transport medium for electrons—scientifically accurate, clear, and accessible.
 * [Antioxidants — The Art of Giving Electrons Back to Life](./antioxidants_the_art_of_giving_electrons_back_to_life.md)  
@@ -105,7 +108,7 @@ The order follows the temple path: from the threshold, through origin and founda
 * [The Devil](./the_devil.md)
 	The Teacher We Tried to Banish: The Devil as the misunderstood archetype of friction, consequence, and the final gatekeeper before liberation. This chapter explores the Devil not as evil, but as the function of separation, resistance, and the mirror of unconscious contracts. It invites the reader to integrate shadow, reclaim coherence, and recognize the Devil as the last teacher before return to Source. Literary, initiatic, and transformative—this is the reconciliation of all things.
 * [The Myth of the Prison and the Return to Coherence](./the_myth_of_the_prison_and_the_return_to_coherence.md)
-	A calm, clarifying, and integrative teaching on the "false matrix," sacred geometry, and the nature of Source. This chapter dispels fear-based narratives, reframes the "soul prison" as a state of perception, and restores the primacy of coherence, embodiment, and relationship. It bridges mystical inquiry with grounded practice, showing that liberation is not escape but the return to wholeness through water, body, and breath. Essential for readers navigating modern myth and seeking a non-sensational, unifying perspective.
+	A calm, clarifying, and integrative teaching on the "false matrix", sacred geometry, and the nature of Source. This chapter dispels fear-based narratives, reframes the "soul prison" as a state of perception, and restores the primacy of coherence, embodiment, and relationship. It bridges mystical inquiry with grounded practice, showing that liberation is not escape but the return to wholeness through water, body, and breath. Essential for readers navigating modern myth and seeking a non-sensational, unifying perspective.
 * [The Alchemy of Grief – When Pain Becomes Light](.alchemy_of_grief_when_pain_becomes_light.md)  
 	A poetic and initiatic guide to transmuting grief into radiant coherence—where sorrow becomes the crucible for light, and loss is alchemized through water, presence, and remembrance into a deeper wholeness. A chapter on the sacred art of letting pain become the very source of illumination.
 * [Surrender: The Art of Letting Go](./surrender_the_art_of_letting_go.md)  
@@ -118,7 +121,7 @@ The order follows the temple path: from the threshold, through origin and founda
 	An integrative chapter on chakras, archons, and states of consciousness—how spiritual, psychological, and somatic perspectives interweave, how blockages arise, and how they can be met and released through witnessing, embodiment, and Christic presence. Practical, clear, and psychologically precise—a guide to returning to the seat of the Witness and living coherence.
 
 ### IV. Practical Mastery - Body, Water, Light
-* [Trauma — When Memory Freezes](./Water_is_the_Holy_Grail/trauma_when_memory_freezes.md)  
+* [Trauma — When Memory Freezes](./trauma_when_memory_freezes.md)  
 	A poetic, scientific, and practical transmission on trauma as interrupted coherence—how the body, water, and memory freeze to protect life, and how gentleness, safety, and rehydration restore flow, presence, and integration. For those who have searched deeply, learned much, and still felt unsafe.
 * [The Regulated Nervous System](./the_regulated_nervous_system.md)  
 	A cornerstone chapter on the nervous system as the silent temple of awakening—how safety, regulation, and gentleness form the biological bridge between realization and life. Explains why truth can only be integrated in a regulated body, and offers practical, humane guidance for transformation.
@@ -126,6 +129,10 @@ The order follows the temple path: from the threshold, through origin and founda
 	A grounded, reverent synthesis of Dr. Joe Dispenza’s work on neuroplasticity, placebo, and the biology of transformation. Integrates consciousness, coherence, and water as the living medium of change—bridging rigorous science and embodied spiritual practice.
 * [Bruce Lipton](./bruce_lipton.md)  
 	A chapter on Bruce Lipton’s groundbreaking work in epigenetics, the restoration of inner power, and the role of water as the medium for consciousness, perception, and cellular communication. Bridges biology, perception, and practical self-empowerment—the link between genetics, environment, and inner freedom.
+* [Thoughts Form Reality](./thoughts_form_reality.md)  
+	A clear, practical, and poetic exploration of how thoughts shape reality. Reveals the science and art of conscious creation, the power of belief, and the living relationship between mind, water, and the world. Integrates ancient wisdom and modern research, offering actionable steps for transforming perception into experience and intention into manifestation.
+* [What You Say When You Talk to Yourself](./what_you_say_when_you_talk_to_yourself.md)  
+	The inner voice as the hidden scriptwriter: how self-talk programs the body, water, and reality. This chapter reveals why repetition becomes truth, how language shapes biology, and how gentle, orienting statements transform the nervous system, cellular communication, and daily experience. Practical, precise, and liberating—the key to new self-leadership and coherence.
 * [Biohacking](./biohacking.md)  
 	Ein praxisnahes Kapitel über Biohacking als moderne und zugleich uralte Kunst, die menschliche Biologie zu verstehen, zu unterstützen und zu erinnern. Verbindet mitochondriale Energie, Wasser, Licht, Ernährung und Bewusstsein zu einer kohärenten Praxis der Selbstermächtigung und Heilung.
 * [Patience & Equanimity - The Stillness That Opens Worlds](./patience_and_equanimity.md)  
@@ -134,10 +141,16 @@ The order follows the temple path: from the threshold, through origin and founda
 	A poetic, psychologically liberating chapter on Chronos, Kairos, and the Eternal Now. Dissolves the pressure of time, reframes healing and growth beyond deadlines, and invites the reader into the freedom of coherence, presence, and the living rhythm of water.
 * [Death — The Teacher We Spend a Lifetime Avoiding](./death_the_teacher_not_the_end.md)  
 	A mythic, poetic, and existential initiation into the mystery of death—not as an end, but as the ultimate teacher. Explores psychological, spiritual, and biological death as thresholds of transformation, revealing what is lost, what remains, and how befriending death unveils the fullness of life. This chapter dissolves the final illusion of separation and invites the reader into reverence, humility, and the freedom beyond fear.
+* [The Tibetan Book of the Dead — A Manual for Coherence at the Threshold of Reality](./the_tibetan_book_of_the_dead.md)  
+	A revelatory synthesis of ancient wisdom and modern science, this chapter reframes the Tibetan Book of the Dead as a manual for maintaining coherence during radical transitions. It reveals the bardo as a lived psychological and physiological state, explores the nervous system’s role in transformation, and shows how water, regulation, and recognition enable clarity and liberation—not just at death, but in every moment of dissolution and rebirth.
 * [The Ethics of Awakening](./the_ethics_of_awakening.md)  
 	A poetic, existential, and initiatic meditation on the ethical dimension of awakening. Explores the responsibilities of insight, the dangers of spiritual certainty, the necessity of humility, and the vow to keep power clean, gentle, and rooted in love. This chapter serves as an ethical anchor for the entire journey, ensuring that remembrance remains human, compassionate, and true.
 * [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)  
 	Breath, water, sleep, nourishment, and purpose as five initiatic gates framing the practical architecture of coherence in body, mind, and spirit.
+* [The Smallest Gate That Changes Everything](./the_smallest_gate_that_changes_everything.md)  
+	A synthesis of Tiny Habits and Atomic Habits: how the smallest, most coherent actions create lasting change. This chapter reveals why transformation begins with alignment, not force, and how tiny, foundational habits—trusted by the nervous system—become the architecture of sustainable growth. Practical, precise, and kind: the end of self-violence and the beginning of true coherence.
+* [Sādhana — The Art of Returning, Again and Again](./sadhana_the_art_of_returning.md)  
+	A poetic and practical chapter on sādhana as the gentle, uncompromising art of returning—again and again—to truth and presence. Shows how spiritual realization is embodied through body, water, breath, and daily life—not as discipline, but as living alignment. For all who wish to unite practice, grace, and everyday life.
 * [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)  
 	A comprehensive set of practices for coherence, remembrance, and the return to Source-consciousness. Integrates breath, heart, intention, gratitude, and embodiment into a unified path.
 * [Reality Transurfing – The Art of Walking with the World](./reality_transurfing_the_art_of_walking_with_the_world.md)  
@@ -146,6 +159,10 @@ The order follows the temple path: from the threshold, through origin and founda
 	A literary, practical, and psychologically precise synthesis of Dale Carnegie’s teachings. Explores the law of resonance, influence without force, and the biological mechanics of kindness, acceptance, and alignment. Bridges human relationship, nervous system, and the science of coherence.
 * [Think and Grow Rich — Napoleon Hill and the Inner Architecture of Abundance](./think_and_grow_rich_napoleon_hill_and_the_inner_architecture_of_abundance.md)  
 	A clear, literary, and practical synthesis of Napoleon Hill’s core insights. Reveals abundance as the result of inner coherence, definiteness of purpose, faith, and the alignment of thought, feeling, and action. Bridges the psychology of success, the law of resonance, and the architecture of self-mastery.
+* [Robert Greene — The Laws of Power, Seduction, and Human Nature](./robert_greene.md)  
+	A synthesis of Robert Greene’s teachings on power, strategy, seduction, and the dynamics of human nature. This chapter explores the psychological laws that govern influence, the art of reading people, and the ethical use of power. Integrates Greene’s core principles with the book’s themes of coherence, self-mastery, and conscious leadership—offering practical insights for navigating complexity with wisdom and integrity.
+* [Stoicism](./stoicism.md)  
+	A clear, practical, and compassionate synthesis of Stoic philosophy. This chapter explores the art of inner sovereignty, emotional clarity, and the mastery of response over circumstance. Integrates the teachings of Epictetus, Marcus Aurelius, Seneca, and modern voices like Ryan Holiday, showing how Stoicism supports nervous system regulation, resilience, and a life of dignity and coherence. Offers actionable insights for meeting life fully, without losing oneself.
 * [Wilhelm Reich and the Stream of Orgone Energy](./wilhelm_reich_and_the_stream_of_orgone_energy.md)  
 	The forgotten science of the living, the role of orgone energy, breath, field, and coherence as a bridge between science and living experience.
 * [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)  

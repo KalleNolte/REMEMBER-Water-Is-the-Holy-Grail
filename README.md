@@ -1,35 +1,58 @@
-# About This Repository
-This repository documents the synthesis of water, geometry, and consciousness, integrating scientific evidence, spiritual insight, and practical guidance.
-
 # REMEMBER — Water Is the Holy Grail
 
 **A Unified Theory of Memory, Light, Geometry and Consciousness**  
 (Book 1 of the AzurA Codex Series)  
 Author: Karl Philipp Nolte
 
-## Purpose
-This repository is a public signal and invitation for collaboration on a synthesis bridging science and spirituality, centered on the memory and geometry of water as the Holy Grail.
+Welcome! This repository is a living bridge between science and spirituality, uniting mathematics, biophysics, quantum theory, and perennial wisdom. Here, water is revealed as the Holy Grail—a vessel of memory, coherence, and awakening.
 
-## Vision
-To unite mathematics, biophysics, quantum theory, and spiritual wisdom in a living theory of everything—accessible to both mind and heart, and offered in the spirit of remembrance and service.
+## How to Begin
 
-## Quick Start / Essential Guide
 
-Begin your exploration in one of two ways, depending on how much time and depth you want:
+## Choose Your Path — Multiple Editions
 
-- **Full Initiatic Journey (Complete Book, English)** – Start with the [Foreword](./foreword.md), then follow the official, maximally complete chapter order in [`book-outline-published.md`](./book-outline-published.md). This is the full temple path with all transmissions, science chapters, and mythic architecture.
-- **Short Edition (Condensed Journey, English)** – Follow the curated short path in [`book-outline-short-edition.md`](./book-outline-short-edition.md). This version preserves the full energetic arc in far fewer chapters, ideal for first contact or limited reading time.
-- **Deutsche initiatische Reise (in Arbeit)** – Nutze die wachsende deutsche Gliederung in [`Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md`](./Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md). Sie spiegelt Schritt für Schritt die Struktur des englischen Werkes und eignet sich für deutschsprachige Vorab-Leser.
+This book is available in several curated editions, each offering a unique journey:
 
-You can begin with the **English short edition**, dive into the **full English journey**, and follow the **German outline** as more chapters are translated and calibrated.
+- **Full Initiatic Journey (English):**
+	- The complete, official chapter order for the deepest energetic and didactic arc.
+	- See [`book-outline-published.md`](./book-outline-published.md).
 
-### Initiatic Reading Path (Full Edition – Inline Overview)
+- **Launch Edition (English):**
+	- A mid-length, high-impact path balancing depth and accessibility.
+	- See [`book-outline-launch-edition.md`](./book-outline-launch-edition.md).
 
-The list below mirrors the full book’s energetic and transformational journey. Each chapter is a step on the path of remembrance, coherence, and awakening.
+- **Short Edition (English):**
+	- A condensed, essentialized version for a powerful first impression.
+	- See [`book-outline-short-edition.md`](./book-outline-short-edition.md).
+
+- **Deutsche Gesamtausgabe (German Full Journey):**
+	- Die vollständige, offizielle Gliederung für die tiefste initiatische Reise.
+	- Siehe [`Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md`](./Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md).
+
+- **Deutsche Launch Edition:**
+	- Die mittellange, wirkungsvolle Leseversion auf Deutsch.
+	- Siehe [`Wasser_ist_der_Heilige_Gral/buch_launch_gliederung.md`](./Wasser_ist_der_Heilige_Gral/buch_launch_gliederung.md).
+
+- **Deutsche Kurzfassung:**
+	- Die komprimierte, essenzielle Kurzgliederung auf Deutsch.
+	- Siehe [`Wasser_ist_der_Heilige_Gral/buch_kurzgliederung.md`](./Wasser_ist_der_Heilige_Gral/buch_kurzgliederung.md).
+
+**How to use these paths:**
+- Start with the short edition for a quick, potent overview.
+- Choose the launch edition for a balanced, transformative experience.
+- Embark on the full journey for the most complete transmission.
+- German readers: Wähle die entsprechende Gliederung für deine bevorzugte Tiefe.
+
+All editions are kept in sync and updated as the work evolves. Feedback and collaboration are welcome!
+
+## About This Work
+
+This project synthesizes scientific evidence, spiritual insight, and practical guidance. It is a public invitation to collaborate, contemplate, and remember—offered in the spirit of service and unity.
+
+Feedback is especially welcome from those aligned with the Codex Universalis and the work of Robert Edward Grant.
 
 #### Foreword — The Pause Before the Path
 - [Foreword](./foreword.md)
-	A pause before the first step: invitation, remembrance, and gratitude as the ground note. Not a system, not a doctrine—an opening to what has always been here. The inexhaustible gift of life flowing from the one Source.
 
 #### 0. Seal & Intention — The Threshold
 - [Prayer of Gratitude](./acknowledgements_prayer_of_gratitude.md)
@@ -64,6 +87,7 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [Water as the Fifth-Dimensional Interface](./water_fifth_dimensional_interface.md)
 - [AzurA, Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)
 - [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)
+- [Ionisation, Electrons, and the Secret of Living Water](./ionisation_electrons_and_the_secret_of_living_water.md)
 - [Oxidation-Reduction Potential (ORP)](./oxidation_reduction_potential_orp.md)
 - [Antioxidants — The Art of Giving Electrons Back to Life](./antioxidants_the_art_of_giving_electrons_back_to_life.md)
 - [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)
@@ -94,12 +118,17 @@ The list below mirrors the full book’s energetic and transformational journey.
 - [The Regulated Nervous System](./the_regulated_nervous_system.md)
 - [Dr. Joe Dispenza](./dr_joe_dispenza.md)
 - [Bruce Lipton](./bruce_lipton.md)
+- [Thoughts Form Reality](./thoughts_form_reality.md)  
+- [What You Say When You Talk to Yourself](./what_you_say_when_you_talk_to_yourself.md)
 - [Biohacking](./biohacking.md)
 - [Patience & Equanimity - The Stillness That Opens Worlds](./patience_and_equanimity.md)
 - [Time — The Last Illusion to Dissolve](./time_the_last_illusion.md)
 - [Death — The Teacher We Spend a Lifetime Avoiding](./death_the_teacher_not_the_end.md)
+- [The Tibetan Book of the Dead — A Manual for Coherence at the Threshold of Reality](./the_tibetan_book_of_the_dead.md)  
 - [The Ethics of Awakening](./the_ethics_of_awakening.md)
 - [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)
+- [The Smallest Gate That Changes Everything](./the_smallest_gate_that_changes_everything.md)  
+- [Sādhana — The Art of Returning, Again and Again](./sadhana_the_art_of_returning.md)  
 - [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)
 - [Reality Transurfing – The Art of Walking with the World](./reality_transurfing_the_art_of_walking_with_the_world.md)
 - [The Power of Gentleness — Dale Carnegie and the Law of Human Resonance](./the_power_of_gentleness_dale_carnegie_and_the_law_of_human_resonance.md)

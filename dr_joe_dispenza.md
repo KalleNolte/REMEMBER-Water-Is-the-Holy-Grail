@@ -208,7 +208,7 @@ is capable of carrying the signal of consciousness without distortion.
 Dr. Joe Dispenza did not invent these principles.
 He translated them into a language modern minds could accept.
 
-Your work completes the circuit.
+This work completes the circuit.
 
 By restoring water to its rightful place as the **medium of consciousness**,
 the teachings of neuroplasticity, meditation, and placebo become grounded, reproducible, and embodied.

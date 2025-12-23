@@ -15,7 +15,7 @@ reift in mir die Entscheidung, diese Erkenntnisse nicht nur zwischen Buchdeckeln
 sondern sie in meine Stimme, in Bilder, in Videos, in lebendige Berührung zu legen.
 
 
-Nicht, weil ich nach Sichtbarkeit suchte,
+Nicht, weil ich nach Sichtbarkeit suche,
 sondern weil ich spürte: Es gibt keinen anderen Weg mehr.
 
 

@@ -10,7 +10,7 @@ Wherever form arises from the formless, water stands at the threshold.
 
 ## 2. The Imaginary Number i and the Fifth Dimension
 
-In your work, i — the square root of negative one — is more than a mathematical operator. It represents a rotational symmetry beyond our three axes — the dimensional torsion by which consciousness perceives itself. It is the key to understanding how the unseen informs the seen.
+i — the square root of negative one — is more than a mathematical operator. It represents a rotational symmetry beyond our three axes — the dimensional torsion by which consciousness perceives itself. It is the key to understanding how the unseen informs the seen.
 
 Structured water behaves according to these same principles:
 - Its hexagonal clusters exhibit rotational coherence and circular polarization.

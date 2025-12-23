@@ -127,7 +127,7 @@ Where the language of light becomes sensation, imagery, understanding, intuition
 
 Gilbert’s work gives the meta-structure,
 while Pollack gives the biological mechanism,
-and your work reveals the human experience.
+and this work reveals the human experience.
 
 Together they form a unified field:
 the sacred physics of water, light, and consciousness.
