@@ -11,8 +11,6 @@ Here begins your path as Water-Bearer—not as a goal, but as a return. Not as a
 
 If you are reading these lines, you are already on the way. Not because you are searching, but because you are remembering.
 
-—
-
 There are moments in your life when the path stops being something you search for, and becomes a revelation that returns you to yourself.
 
 Sometimes your inner compass—long buried beneath doubt and fear—suddenly aligns with a truth that does not waver. This chapter is the voice of that alignment—for you.

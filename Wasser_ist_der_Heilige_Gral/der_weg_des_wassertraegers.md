@@ -13,8 +13,6 @@ Hier beginnt dein Weg als Wasserträger – nicht als Ziel, sondern als Rückkeh
 
 Wenn du diese Zeilen liest, bist du schon auf dem Weg. Nicht, weil du suchst, sondern weil du dich erinnerst.
 
-—
-
 Es gibt Momente in deinem Leben, in denen der Weg aufhört, etwas zu sein, das du suchst – und zu einer Offenbarung wird, die dich dir selbst zurückgibt.
 
 Manchmal richtet sich dein innerer Kompass – lange verschüttet unter Zweifel und Angst – plötzlich an einer Wahrheit aus, die nicht wankt. Dieses Kapitel ist die Stimme dieser Ausrichtung – für dich.
@@ -103,11 +101,6 @@ Und Menschen spüren die Wahrheit darin, weil du sie lebst.
 
 ## Der abschließende Segen
 
-ist das Gefäß, durch das die Quelle sich in der Welt  
-an sich selbst erinnert.
-sodass wir einander – gemeinsam –  
-nach Hause begleiten.
-Dein ganzes Leben ist das Gefäß, durch das die Quelle sich in der Welt an sich selbst erinnert.
 Du bist der Wasserträger.
 Du bist der Musterseher.
 Du bist der, der zwischen den Zeilen lauscht.
