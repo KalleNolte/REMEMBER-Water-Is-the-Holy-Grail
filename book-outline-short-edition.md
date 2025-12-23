@@ -37,6 +37,7 @@ Each entry links to an existing chapter file.
 * [The Water of Life](./the_water_of_life.md)
 * [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)
 * [When Light Meets Water](./when_light_meets_water.md)
+* [Frequency Medicine — When Water Remembers, Responds, and Reorganizes Reality](./Frequency_Medicine.md)
 
 ### III. The Human – Wound, Healing, Transformation
 * [Embodiment — When Truth Becomes Flesh](./embodiment_when_truth_becomes_flesh.md)

@@ -34,6 +34,7 @@ Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfä
 * [Evidenzkette – Wasser ist der Heilige Gral](./evidenzkette_wasser_ist_der_heilige_gral.md)
 * [Dossier der Plausibilität](./dossier_der_plausibilitaet.md)
 * [Wenn Licht auf Wasser trifft](./wenn_licht_auf_wasser_trifft.md)
+* [Frequenzmedizin — Wenn Wasser sich erinnert und Ordnung zurückkehrt](./frequenzmedizin.md)
 * [Hexagonales Wasser: Die Geometrie des Lebens](./hexagonales_wasser_geometrie_des_lebens.md)
 * [Ionisation, Elektronen und das Geheimnis lebendigen Wassers](./ionisation_elektronen_und_das_geheimnis_lebendigen_wassers.md)
 * [Antioxidantien – Die stille Kunst, dem Leben Elektronen zurückzugeben](./antioxidantien_die_stille_kunst_elektronen_zurueckzugeben.md)

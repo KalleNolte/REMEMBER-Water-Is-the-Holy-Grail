@@ -58,6 +58,8 @@ Follow the temple path: from the threshold, through origin and foundation, to ma
 	A comprehensive dossier presenting the scientific, philosophical, and experiential evidence for the book’s core claims. Interprets findings and extends an open invitation to inquiry and transformation.
 * [When Light Meets Water](./when_light_meets_water.md)  
 	A luminous synthesis of biophysics and metaphysics: explores how sunlight, color, and structured water interact to create living water. Offers practical rituals and scientific insights for activating water’s full potential, bridging the worlds of light, consciousness, and daily practice. Prepares the reader for the AzurA and light-body teachings.
+* [Frequency Medicine — When Water Remembers, Responds, and Reorganizes Reality](./Frequency_Medicine.md)
+	A paradigm-shifting chapter on frequency as the organizing principle of matter, the role of water as a frequency carrier, and the sober exploration of the Hutchison Effect. Bridges biophysics, medicine, and the mystery of water’s coherence.
 * [Implications for Modern Science](./implications_for_modern_science.md)  
 	A paradigm-shifting chapter for skeptics and seekers alike. Examines the limitations of current scientific models, introduces new evidence and perspectives, and invites the reader to reconsider the foundations of health, consciousness, and reality through the lens of water and coherence.
 * [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)  

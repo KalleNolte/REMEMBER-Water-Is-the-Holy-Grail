@@ -24,6 +24,7 @@ Diese Kurzgliederung bietet die essenzielle, hochwirksame Version des Buches. Si
 * [Das Wasser des Lebens](./das_wasser_des_lebens.md)
 * [Evidenzkette – Wasser ist der Heilige Gral](./evidenzkette_wasser_ist_der_heilige_gral.md)
 * [Wenn Licht auf Wasser trifft](./wenn_licht_auf_wasser_trifft.md)
+* [Frequenzmedizin — Wenn Wasser sich erinnert und Ordnung zurückkehrt](./frequenzmedizin.md)
 
 ### III. Der Mensch – Wunde, Heilung, Transformation
 * [Verkörperung – Wenn Wahrheit Fleisch wird](./verkoerperung_wenn_wahrheit_fleisch_wird.md)

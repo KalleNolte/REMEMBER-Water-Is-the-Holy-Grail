@@ -61,6 +61,8 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Wissenschaftliche Evidenz, Interpretation und Einladung zur Erforschung von lebendigem Wasser, HRW und strukturierten Hydrationsformen.
 * [Wenn Licht auf Wasser trifft](./wenn_licht_auf_wasser_trifft.md)  
   Die Begegnung von Licht und Wasser als Brücke zwischen Information, Struktur und Bewusstsein. Wie Sonnenlicht, Farbe und Frequenz das Wasser vitalisieren und die Sprache der Quelle übersetzen.
+* [Frequenzmedizin — Wenn Wasser sich erinnert und Ordnung zurückkehrt](./frequenzmedizin.md)
+  Die stille Revolution der Frequenzmedizin: Wie Schwingung, Information und Wasser als Träger von Ordnung und Heilung wirken. Mit einer nüchternen Betrachtung des Hutchinson-Effekts und der Rolle von Wasser als Resonanzmedium.
 * [Implikationen für die moderne Wissenschaft](./implikationen_fuer_die_moderne_wissenschaft.md)  
   Die wissenschaftlichen, philosophischen und spirituellen Konsequenzen der Entdeckung von Wasser als lebendiger Brücke zwischen Kosmologie, Biologie und Bewusstsein.
 * [Hexagonales Wasser: Die Geometrie des Lebens](./hexagonales_wasser_geometrie_des_lebens.md)  
