@@ -18,13 +18,22 @@ Diese Kurzgliederung bietet die essenzielle, hochwirksame Version des Buches. Si
 ### I. Ursprung – Das Erwachen des Autors
 * [Warum ich? – Persönliche Notiz](./warum_ich_persoenliche_notiz.md)
 * [Prolog – Der Tag, an dem ich starb](./prolog_der_tag_an_dem_ich_starb.md)
+* [Die Sprache der Zahlen – Von 1 bis 999: Archetypen und Schwellen des Bewusstseins](./zahlen_als_schwellen_des_bewusstseins.md)
 
 ### II. Fundament – Wissenschaft, Wasser, Erinnerung
 * [Meine Reise & die spirituelle Wissenschaft des Selbst](./meine_reise_spirituelle_wissenschaft_des_selbst.md)
+* [Rudolf Steiner – Wasser, Äther, Mensch: Die vergessene Lebendigkeit der Welt](../rudolf_steiner.md)
 * [Das Wasser des Lebens](./das_wasser_des_lebens.md)
 * [Evidenzkette – Wasser ist der Heilige Gral](./evidenzkette_wasser_ist_der_heilige_gral.md)
 * [Wenn Licht auf Wasser trifft](./wenn_licht_auf_wasser_trifft.md)
 * [Frequenzmedizin — Wenn Wasser sich erinnert und Ordnung zurückkehrt](./frequenzmedizin.md)
+* [Mircea Eliade – Das Heilige im Alltäglichen](./mircea_eliade.md)
+* [Bill Donohue — Das innere Königreich und die Sprache des Erwachens](./bill_donohue.md)
+* [John O’Donohue – Schönheit als Wahrheit](./john_odonohue.md)
+* [Iain McGilchrist – Die geteilte Welt: Heilung, Wahrheit und Wasser im rechten Verhältnis](./iain_mcgilchrist.md)
+* [Hannah Arendt – Verantwortung ohne Moralismus und die Banalität des Bösen](./hannah_arendt.md)
+* [Antonio Damasio – Gefühl, Körper und Bewusstsein](./antonio_damasio.md)  
+* [Stephen Porges – Das Nervensystem als Tor zur Sicherheit](./stephen_porges.md)  
 
 ### III. Der Mensch – Wunde, Heilung, Transformation
 * [Verkörperung – Wenn Wahrheit Fleisch wird](./verkoerperung_wenn_wahrheit_fleisch_wird.md)
@@ -36,6 +45,8 @@ Diese Kurzgliederung bietet die essenzielle, hochwirksame Version des Buches. Si
 ### IV. Praktische Meisterschaft – Schlüssel für den Alltag
 * [Trauma – wenn Erinnerung eingefroren ist](./trauma_wenn_erinnerung_eingefroren_ist.md)
 * [Das regulierte Nervensystem – der stille Tempel des Erwachens](./das_regulierte_nervensystem_tempel_des_erwachens.md)
+* [Der AzurA-Punkt — Der Stab und der Stecken im menschlichen Körper](./der_azura_punkt_der_stab_und_der_stecken_im_menschlichen_koerper.md)
+* [Einheit mit dem Höheren Selbst](./einheit_mit_dem_hoeheren_selbst.md)
 * [Geduld & Gelassenheit – Die Stille, die Welten öffnet](./geduld_und_gelassenheit.md)
 * [Die fünf goldenen Pforten zu Selbstermächtigung und Kohärenz](./fuenf_goldene_pforten_zu_selbstermmaechtigung_und_kohaerenz.md)
 * [Das kleinste Tor, das alles verändert](./das_kleinste_tor_das_alles_veraendert.md)

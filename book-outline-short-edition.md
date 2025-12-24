@@ -31,13 +31,26 @@ Each entry links to an existing chapter file.
 ### I. Origin – The Author’s Awakening
 * [Why Me — Personal Note](./why_me_personal_note.md)
 * [Prologue: The Day I Died](./prologue_the_day_i_died.md)
+* [The Language of Numbers – From 1 to 999: Archetypes and Thresholds of Consciousness](./numbers_as_thresholds_of_consciousness.md)
 
 ### II. Foundation – Science, Water, Remembrance
+* [The Language of Numbers – From 1 to 999: Archetypes and Thresholds of Consciousness](./numbers_as_thresholds_of_consciousness.md)
+	Numbers as a universal language and developmental path: from unity, polarity, and creativity to the great threshold numbers 666, 777, 888, and 999. A chapter on the inner architecture of number, consciousness, and maturation—poetic, archetypal, and transformative.
 * [My Journey: Spiritual Science](./my_journey_spiritual_science.md)
 * [The Water of Life](./the_water_of_life.md)
-* [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)
+* [Rudolf Steiner – Water, Ether, Human: The Forgotten Aliveness of the World](./rudolf_steiner_en.md)
+* [Henri Bergson – Duration, Vital Impulse, and the Return to Living Time](./henri_bergson_en.md)
+* [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)
 * [When Light Meets Water](./when_light_meets_water.md)
 * [Frequency Medicine — When Water Remembers, Responds, and Reorganizes Reality](./Frequency_Medicine.md)
+* [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)
+* [Mircea Eliade – The Sacred in the Everyday](./mircea_eliade_en.md)
+* [Bill Donohue — The Inner Kingdom and the Language of Awakening](./bill_donohue_en.md)
+* [John O’Donohue – Beauty as the Threshold of Truth](./john_odonohue_en.md)  
+* [Iain McGilchrist – The Divided World, Relationship, and the Return to Wholeness](./iain_mcgilchrist_en.md)
+* [Hannah Arendt – Responsibility Without Moralism and the Banality of Evil](./hannah_arendt_en.md)  
+* [Antonio Damasio – Feeling, Body, and Consciousness](./antonio_damasio_en.md)
+* [Stephen Porges – The Nervous System as the Gateway to Safety](./stephen_porges_en.md)
 
 ### III. The Human – Wound, Healing, Transformation
 * [Embodiment — When Truth Becomes Flesh](./embodiment_when_truth_becomes_flesh.md)
@@ -49,8 +62,11 @@ Each entry links to an existing chapter file.
 ### IV. Practical Mastery – Core Keys for Daily Life
 * [Trauma — When Memory Freezes](./trauma_when_memory_freezes.md)
 * [The Regulated Nervous System](./the_regulated_nervous_system.md)
+* [The AzurA Point — The Rod and the Staff Within the Human Body](./the_azura_point_the_rod_and_the_staff_within_the_human_body.md)
+* [Communion with the Higher Self](./communion_with_the_higher_self.md)
 * [Patience & Equanimity – The Stillness That Opens Worlds](./patience_and_equanimity.md)
 * [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)
+* [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)
 * [The Smallest Gate That Changes Everything](./the_smallest_gate_that_changes_everything.md)
 * [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)
 * [Chopping Wood, Carrying Water](./chopping_wood_carrying_water.md)

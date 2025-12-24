@@ -38,12 +38,18 @@ Follow the temple path: from the threshold, through origin and foundation, to ma
 	A near-death experience dissolves the old self and awakens the witness. The threshold where life, death, and meaning converge.
 * [Prologue: The Return of Number](./prologue_the_return_of_number.md)  
 	Number as the original language of light and order—revealing the hidden geometry behind reality and the soul’s journey.
+* [The Language of Numbers – From 1 to 999: Archetypes and Thresholds of Consciousness](./numbers_as_thresholds_of_consciousness.md)
+  Numbers as a universal language and developmental path: from unity, polarity, and creativity to the great threshold numbers 666, 777, 888, and 999. A chapter on the inner architecture of number, consciousness, and maturation—poetic, archetypal, and transformative.
 
 ### II. Foundation - Science, Water, Remembrance
 * [My Journey: Spiritual Science](./my_journey_spiritual_science.md)  
 	A deeply personal and initiatic account of awakening after a near-death experience—tracing the path from self-doubt and disconnection through science, health, and spiritual inquiry, to the living synthesis of remembrance. This chapter weaves together the search for meaning, the healing of body and mind, and the realization that true science and spirituality are not opposites, but partners in the art of becoming whole. It invites the reader to witness how coherence emerges when insight is embodied, and how the journey of the self becomes a living bridge between knowledge, love, and the memory of Source.
 * [The Forgotten Foundation](./the_forgotten_foundation.md)  
 	Why even the best measures fail without coherent water. A calm, clarifying chapter on water as the central medium of order and transport in the body—and why healing, fasting, and nutrients often fall short without the right water quality.
+* [Rudolf Steiner – Water, Ether, Human: The Forgotten Aliveness of the World](./rudolf_steiner_en.md)
+	This chapter distills Rudolf Steiner’s vision of water and ether as living, creative forces. It bridges spiritual science and modern biophysics, showing water as a medium of consciousness and transformation. Steiner’s insights invite us to rediscover the world’s aliveness and our role as a bridge between nature and spirit.
+* [Henri Bergson – Duration, Vital Impulse, and the Return to Living Time](./henri_bergson_en.md)
+	How Henri Bergson reveals time, consciousness, and life as a living flow—not a line. This chapter bridges philosophy, intuition, and water as carriers of duration, creativity, and healing. It connects science, lived experience, and the return to inner movement.
 * [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)  
 	A poetic, scientific, and practical synthesis of Flow as the state where life moves without inner resistance—revealing water as the substrate of optimal human experience, and integrating Csikszentmihalyi’s insights with the biophysics of coherence, hydration, and the Holy Grail.
 * [Salt and Covenant](./salt_and_covenant.md)  
@@ -86,6 +92,20 @@ Follow the temple path: from the threshold, through origin and foundation, to ma
 	A mythic, initiatic chapter exploring Egypt as the cradle of the ascending mind, the Serpent of Light as the living current of remembrance, and the memory of forgotten civilizations. Integrates ancient wisdom, sacred geometry, and the alchemy of consciousness, bridging the mysteries of water, light, and the evolution of human awareness. Serves as a pivotal synthesis between the science of water and the spiritual architecture of awakening.
 * [The Philosopher’s Stone](./the_philosophers_stone.md)  
 	The keystone synthesis: the Stone as coherence made flesh, uniting myth, science, water, and embodiment. Reveals the Grail and Stone as one principle—coherence—bridging all prior teachings and preparing the reader for embodied transformation.
+* [Mircea Eliade – The Sacred in the Everyday](./mircea_eliade_en.md)  
+	How Mircea Eliade reveals the sacred as a living dimension of daily life, not an abstract idea. This chapter bridges myth, ritual, water, and the longing for meaning, preparing the transition from mythic-symbolic to neuroscientific perspectives. It is a key to remembering the sacred in modern life.
+* [Bill Donohue — The Inner Kingdom and the Language of Awakening](./bill_donohue_en.md)
+  How Bill Donohue reveals scripture as an inner map, the Christ as a state of consciousness, and the Kingdom as an embodied realization. This chapter bridges tradition, non-duality, and the science of consciousness—dissolving the boundary between spirituality and understanding, and integrating the wisdom of water, word, and awakening.
+* [John O’Donohue – Beauty as the Threshold of Truth](./john_odonohue_en.md)  
+	How John O’Donohue reveals beauty as a living threshold between worlds, not a luxury but a sign of truth and coherence. This chapter bridges Celtic wisdom, vulnerability, and the gentle order of water, inviting the reader to recognize beauty as the seal of presence and the antidote to the soul’s impoverishment. It prepares the transition from scientific and philosophical perspectives to the lived experience of beauty, presence, and gentle transformation.
+* [Iain McGilchrist – The Divided World, Relationship, and the Return to Wholeness](./iain_mcgilchrist_en.md)  
+	How Iain McGilchrist reveals the crisis of our time as a loss of balance between two ways of seeing—analysis and relationship. This chapter bridges neuroscience, consciousness, and the living metaphor of water, showing why healing, truth, and presence arise only in right relationship. It is a key synthesis for understanding the book’s core message: coherence, wholeness, and the sacredness of water and life.
+* [Hannah Arendt – Responsibility Without Moralism and the Banality of Evil](./hannah_arendt_en.md)  
+	How Hannah Arendt reveals that true responsibility is not moralistic, but a quiet, inner presence. This chapter bridges the philosophical and ethical dimension between wholeness (McGilchrist) and embodied feeling (Damasio), showing why thinking, presence, and accountability are essential for real transformation.
+* [Antonio Damasio – Feeling, Body, and Consciousness](./antonio_damasio_en.md)  
+	How Antonio Damasio reveals that consciousness arises from feeling and the body—not from abstract thought. A bridge chapter between modern neuroscience, embodiment, and the role of water as the medium for feeling, ethics, and self-awareness.
+* [Stephen Porges – The Nervous System as the Gateway to Safety](./stephen_porges_en.md)  
+	How Stephen Porges' Polyvagal Theory reveals the nervous system as the foundation for safety, connection, and healing—bridging the science of water, feeling, and embodiment. This chapter serves as a narrative bridge from the science of water to the human experience of safety, trauma, and transformation.
 
 ### III. The Human - Healing, Remembrance, Transformation
 
@@ -123,8 +143,12 @@ Follow the temple path: from the threshold, through origin and foundation, to ma
 ### IV. Practical Mastery - Body, Water, Light
 * [Trauma — When Memory Freezes](./trauma_when_memory_freezes.md)  
 	A poetic, scientific, and practical transmission on trauma as interrupted coherence—how the body, water, and memory freeze to protect life, and how gentleness, safety, and rehydration restore flow, presence, and integration. For those who have searched deeply, learned much, and still felt unsafe.
-* [The Regulated Nervous System](./the_regulated_nervous_system.md)  
+* [The Regulated Nervous System](./the_regulated_nervous_system.md)
 	A cornerstone chapter on the nervous system as the silent temple of awakening—how safety, regulation, and gentleness form the biological bridge between realization and life. Explains why truth can only be integrated in a regulated body, and offers practical, humane guidance for transformation.
+* [The AzurA Point — The Rod and the Staff Within the Human Body](./the_azura_point_the_rod_and_the_staff_within_the_human_body.md)
+	A practical, initiatic chapter on the convergence of vertical and horizontal orientation in the human body. Reveals the AzurA Point at the sternum as the axis where breath, posture, intention, and embodiment meet. Offers direct guidance for activating coherence, dignity, and wholeness—bridging ancient symbols with modern somatic practice for daily life.
+* [Communion with the Higher Self](./communion_with_the_higher_self.md)
+	A practical, non-sensational chapter on the Higher Self as the most coherent layer of awareness. Grounds spiritual experience in embodiment, coherence, and daily alignment—bridging mystical language with practical, lived wisdom.
 * [Joe Dispenza](./dr_joe_dispenza.md)  
 	A grounded, reverent synthesis of Dr. Joe Dispenza’s work on neuroplasticity, placebo, and the biology of transformation. Integrates consciousness, coherence, and water as the living medium of change—bridging rigorous science and embodied spiritual practice.
 * [Bruce Lipton](./bruce_lipton.md)  
@@ -147,12 +171,12 @@ Follow the temple path: from the threshold, through origin and foundation, to ma
 	A poetic, existential, and initiatic meditation on the ethical dimension of awakening. Explores the responsibilities of insight, the dangers of spiritual certainty, the necessity of humility, and the vow to keep power clean, gentle, and rooted in love. This chapter serves as an ethical anchor for the entire journey, ensuring that remembrance remains human, compassionate, and true.
 * [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)  
 	Breath, water, sleep, nourishment, and purpose as five initiatic gates framing the practical architecture of coherence in body, mind, and spirit.
+* [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)  
+	A comprehensive set of practices for coherence, remembrance, and the return to Source-consciousness. Integrates breath, heart, intention, gratitude, and embodiment into a unified path.
 * [The Smallest Gate That Changes Everything](./the_smallest_gate_that_changes_everything.md)  
 	A synthesis of Tiny Habits and Atomic Habits: how the smallest, most coherent actions create lasting change. This chapter reveals why transformation begins with alignment, not force, and how tiny, foundational habits—trusted by the nervous system—become the architecture of sustainable growth. Practical, precise, and kind: the end of self-violence and the beginning of true coherence.
 * [Sādhana — The Art of Returning, Again and Again](./sadhana_the_art_of_returning.md)  
 	A poetic and practical chapter on sādhana as the gentle, uncompromising art of returning—again and again—to truth and presence. Shows how spiritual realization is embodied through body, water, breath, and daily life—not as discipline, but as living alignment. For all who wish to unite practice, grace, and everyday life.
-* [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)  
-	A comprehensive set of practices for coherence, remembrance, and the return to Source-consciousness. Integrates breath, heart, intention, gratitude, and embodiment into a unified path.
 * [Reality Transurfing – The Art of Walking with the World](./reality_transurfing_the_art_of_walking_with_the_world.md)  
 	A clear, practical, and poetic synthesis of Vadim Zeland's Reality Transurfing. Explains pendulums, importance, intention, and the art of moving with reality rather than against it. Offers actionable steps and a new paradigm for self-regulation, alignment, and flow.
 * [The Power of Gentleness — Dale Carnegie and the Law of Human Resonance](./the_power_of_gentleness_dale_carnegie_and_the_law_of_human_resonance.md)  

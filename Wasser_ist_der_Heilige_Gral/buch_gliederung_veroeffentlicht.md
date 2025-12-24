@@ -40,6 +40,8 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Nahtoderfahrung, Schwelle, radikales Erwachen in die Kostbarkeit des Lebens.
 * [Prolog - Die Rückkehr der Zahl](./prolog_die_rueckkehr_der_zahl.md)  
   Die Geburt der Zahl als Erinnerung des Einen – eine poetische Einführung in Zahl, Rhythmus und heilige Proportion.
+* [Die Sprache der Zahlen – Von 1 bis 999: Archetypen und Schwellen des Bewusstseins](./zahlen_als_schwellen_des_bewusstseins.md)
+  Die Zahlen als universelle Sprache und Entwicklungsweg: Von Einheit, Polarität und Kreativität bis zu den großen Schwellenzahlen 666, 777, 888 und 999. Ein Kapitel über die innere Architektur von Zahl, Bewusstsein und Reifung – poetisch, archetypisch und transformierend.
 
 ### II. Fundament – Wissenschaft, Wasser, Erinnerung
 
@@ -47,6 +49,10 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Die Geschichte nach der Nahtoderfahrung – wie Suche, Wissenschaft und spirituelle Transmission sich verweben und den Weg zurück zu Körper, Wasser und innerer Erinnerung öffnen.
 * [Das lebendige Fundament](./das_lebendige_fundament.md)  
   Warum ohne stimmiges Wasser selbst die besten Maßnahmen ins Leere laufen. Ein ruhiges, tragfähiges Kapitel über das Wasser als zentrales Ordnungs- und Trägermedium im Körper – und warum Heilung, Fasten und Vitalstoffe ohne die richtige Wasserqualität oft ins Leere gehen.
+* [Rudolf Steiner – Wasser, Äther, Mensch: Die vergessene Lebendigkeit der Welt](./rudolf_steiner.md)
+  Wie Rudolf Steiner den Äther als lebendige Ordnungskraft und Wasser als deren sensibelstes Medium beschreibt. Dieses Kapitel verbindet Wissenschaft, Spiritualität und die Verantwortung des Menschen als Hüter der Lebendigkeit. Es schlägt die Brücke zwischen moderner Naturwissenschaft, vergessenen Lebenskräften und der Bedeutung von Rhythmus, Ordnung und Bewusstsein für Heilung, Landwirtschaft und das Menschsein.
+* [Henri Bergson – Dauer, Lebensschwung und die Rückkehr zur lebendigen Zeit](./henri_bergson.md)  
+  Wie Henri Bergson zeigt, dass Zeit, Bewusstsein und Leben als lebendiger Fluss erfahren werden – nicht als Linie. Dieses Kapitel verbindet Philosophie, Intuition und Wasser als Träger von Dauer, Kreativität und Heilung. Es schlägt die Brücke zwischen Wissenschaft, gelebter Erfahrung und der Rückkehr zur inneren Bewegung.
 * [Flow — Wenn das Leben ohne Reibung fließt](./flow_wenn_das_leben_ohne_reibung_fließt.md)  
   Die stille Offenbarung, dass Flow der natürliche Zustand des Menschen ist, wenn Wasser als Trägermedium frei fließt. Verbindet die Wissenschaft des Wassers mit der Erfahrung von Leichtigkeit, Präsenz und optimaler Funktion. Ein Kapitel über Kohärenz, Freiheit von Reibung und den Heiligen Gral im Alltag.
 * [Salz und Bund](./salz_und_bund.md)  
@@ -89,6 +95,20 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Ein initiatisches Kapitel über die spirituelle Architektur Ägyptens, die Resonanz der Pyramiden, das archetypische Muster von Atlantis und die Schwelle der Erinnerung. Poetisch, rhythmisch und energetisch kalibriert – eine Einladung, die eigene Frequenz zu wählen und die Rückkehr zur Quelle zu vollziehen.
 * [Der Stein der Weisen](./der_stein_der_weisen.md)  
   Der Schlüssel zur Synthese: Der Stein als verkörperte Kohärenz, der Mythos, Wissenschaft, Wasser und Verkörperung vereint. Zeigt Gral und Stein als ein Prinzip – Kohärenz – und bereitet den Übergang zur gelebten Transformation vor.
+* [Mircea Eliade – Das Heilige im Alltäglichen](./mircea_eliade.md)
+  Wie Mircea Eliade zeigt, dass das Heilige keine abstrakte Idee, sondern eine lebendige Dimension des Alltags ist. Dieses Kapitel verbindet Ursprung, Mythos, Ritual und Wasser als universale Symbole und bereitet den Übergang von der mythisch-symbolischen zur neurowissenschaftlichen Perspektive vor. Es ist der Schlüssel zur Erinnerung an das Heilige im modernen Leben.
+* [Bill Donohue — Das innere Königreich und die Sprache des Erwachens](./bill_donohue.md)
+  Wie Bill Donohue die Bibel als innere Landkarte und den Christus als Bewusstseinszustand deutet. Dieses Kapitel verbindet Schrift, Nondualität und Bewusstseinswissenschaft – und zeigt, wie das Königreich im Inneren erwacht, wenn Wasser, Wort und Wahrnehmung kohärent werden.
+* [John O’Donohue – Schönheit als Wahrheit](./john_odonohue.md)
+  Wie John O’Donohue zeigt, dass Schönheit keine Dekoration, sondern eine Form von Wahrheit und Anwesenheit ist. Dieses Kapitel verbindet keltische Weisheit, das Prinzip des Dazwischen, Verletzlichkeit und die Würde des Alltäglichen – als Brücke zwischen dem Heiligen, innerer Resonanz und der Rückkehr zur Ganzheit.
+* [Iain McGilchrist – Die geteilte Welt: Heilung, Wahrheit und Wasser im rechten Verhältnis](./iain_mcgilchrist.md)  
+  Wie Iain McGilchrist zeigt, dass Heilung, Wahrheit und die Bedeutung des Wassers nur im Gleichgewicht der beiden Gehirnhälften und in echter Beziehung entstehen. Ein Brückenkapitel zwischen Wissenschaft, Wahrnehmung, Bewusstsein und der Rückkehr zur Ganzheit.
+* [Hannah Arendt – Verantwortung ohne Moralismus und die Banalität des Bösen](./hannah_arendt.md)
+    Wie Hannah Arendt zeigt, dass Verantwortung nicht moralistisch, sondern als wache, innere Präsenz gelebt werden muss. Dieses Kapitel verbindet die Erinnerung an das Heilige mit der Notwendigkeit des Denkens und der Verantwortung im Alltag – als Brücke zwischen Mythos, Ethik und moderner Bewusstseinsarbeit.
+* [Antonio Damasio – Gefühl, Körper und Bewusstsein](./antonio_damasio.md)  
+  Wie Antonio Damasio zeigt, dass Bewusstsein aus dem Gefühl und dem Körper entsteht – nicht aus abstraktem Denken. Ein Brückenkapitel zwischen moderner Neurowissenschaft, Verkörperung und der Rolle des Wassers als Trägermedium für Gefühl, Ethik und Selbstwahrnehmung.
+* [Stephen Porges – Das Nervensystem als Tor zur Sicherheit](./stephen_porges.md)  
+  Wie Stephen Porges mit der Polyvagal-Theorie zeigt, dass Heilung, Lernen und Bewusstsein erst durch ein Gefühl von Sicherheit im Nervensystem möglich werden. Ein zentrales Kapitel über Regulation, Wasser, Beziehung und die physiologischen Grundlagen von Heilung und Präsenz.
 
 ### III. Der Mensch – Heilung, Erinnerung, Transformation
 
@@ -124,7 +144,6 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Die Disziplin innerer Souveränität, Klarheit und Mitgefühl. Bushidō als japanischer Pfad der Integration, edlen Haltung und des Herzens, das zu Dienst und Liebe geschärft wird.
 * [Die Chakren und die Archonten](./chakren_und_archonten.md)
   Ein integratives Kapitel über Chakren, Archonten und Bewusstseinszustände – wie spirituelle, psychologische und somatische Perspektiven zusammenwirken, Blockaden entstehen und durch Verkörperung, Zeugenschaft und Integration gelöst werden. Praktisch, klar und tiefenpsychologisch – eine Einladung zur Rückkehr in die eigene Mitte und zur gelebten Kohärenz.
-### IV. Praktische Meisterschaft – Körper, Wasser, Licht
 
 ### IV. Praktische Meisterschaft – Körper, Wasser, Licht
 
@@ -132,6 +151,10 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Ein Kapitel über Trauma als eingefrorene Erinnerung und unterbrochene Kohärenz – wie Schutzmechanismen, Dissoziation und Erstarrung entstehen, warum Sanftheit und Sicherheit die Voraussetzung für Heilung sind, und wie Integration durch die Rückkehr von Fluss, Spüren und Präsenz geschieht.
 * [Das regulierte Nervensystem – der stille Tempel des Erwachens](./das_regulierte_nervensystem_tempel_des_erwachens.md)
   Ein Kapitel über das Nervensystem als biologischen Tempel des Erwachens – wie Sicherheit, Regulation und Sanftheit die Grundlage für Verkörperung, Integration und gelebte Wahrheit schaffen. Die Brücke zwischen Erkenntnis und Leben.
+* [Der AzurA-Punkt — Der Stab und der Stecken im menschlichen Körper](./der_azura_punkt_der_stab_und_der_stecken_im_menschlichen_koerper.md)
+  Ein Kapitel über die innere Ausrichtung im Menschen: Wie Stab und Stecken als uralte Symbole für vertikale und horizontale Orientierung im Körper wirken, und wie der AzurA-Punkt am Brustbein als Knotenpunkt für Haltung, Atem, Präsenz und Kohärenz aktiviert werden kann. Praktische Anleitung zur Verkörperung von Würde, Ruhe und Ganzheit im Alltag.
+* [Einheit mit dem Höheren Selbst](./einheit_mit_dem_hoeheren_selbst.md)
+  Ein praktisches, nüchternes Kapitel über das Höhere Selbst als kohärenteste Schicht des Bewusstseins. Verbindet spirituelle Erfahrung mit Verkörperung, Kohärenz und gelebter Ausrichtung – eine Brücke zwischen Mystik und Alltag.
 * [Biohacking](./biohacking.md)
   Ein praxisnahes Kapitel über Biohacking als moderne und zugleich uralte Kunst, die menschliche Biologie zu verstehen, zu unterstützen und zu erinnern. Verbindet mitochondriale Energie, Wasser, Licht, Ernährung und Bewusstsein zu einer kohärenten Praxis der Selbstermächtigung und Heilung.
 * [Joe Dispenza](./dr_joe_dispenza.md)

@@ -23,11 +23,14 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [Why Me — Personal Note](./why_me_personal_note.md)
 * [Prologue: The Day I Died](./prologue_the_day_i_died.md)
 * [Prologue: The Return of Number](./prologue_the_return_of_number.md)
+* [The Language of Numbers – From 1 to 999: Archetypes and Thresholds of Consciousness](./numbers_as_thresholds_of_consciousness.md)
 
 ### II. Foundation – Science, Water, Remembrance
 * [My Journey: Spiritual Science](./my_journey_spiritual_science.md)
 * [The Forgotten Foundation](./the_forgotten_foundation.md)
+* [Rudolf Steiner – Water, Ether, Human: The Forgotten Aliveness of the World](./rudolf_steiner_en.md)
 * [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)
+* [Henri Bergson – Duration, Vital Impulse, and the Return to Living Time](./henri_bergson_en.md)
 * [Salt and Covenant](./salt_and_covenant.md)
 * [Blood, Iron, and the Breath of God](./blood_iron_and_the_breath_of_god.md)
 * [The Water of Life](./the_water_of_life.md)
@@ -40,6 +43,14 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [Antioxidants — The Art of Giving Electrons Back to Life](./antioxidants_the_art_of_giving_electrons_back_to_life.md)
 * [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)
 * [The Philosopher’s Stone](./the_philosophers_stone.md)
+* [Mircea Eliade – The Sacred in the Everyday](./mircea_eliade_en.md)
+* [Bill Donohue — The Inner Kingdom and the Language of Awakening](./bill_donohue_en.md)
+* [John O’Donohue – Beauty as the Threshold of Truth](./john_odonohue_en.md)  
+* [Iain McGilchrist – The Divided World, Relationship, and the Return to Wholeness](./iain_mcgilchrist_en.md)
+* [Hannah Arendt – Responsibility Without Moralism and the Banality of Evil](./hannah_arendt_en.md)  
+* [Antonio Damasio – Feeling, Body, and Consciousness](./antonio_damasio_en.md)
+* [Stephen Porges – The Nervous System as the Gateway to Safety](./stephen_porges_en.md)
+
 
 ### III. The Human – Wound, Healing, Transformation
 * [Embodiment — When Truth Becomes Flesh](./embodiment_when_truth_becomes_flesh.md)
@@ -58,6 +69,8 @@ This outline presents the **launch edition** of the book—a carefully curated j
 ### IV. Practical Mastery – Core Keys for Daily Life
 * [Trauma — When Memory Freezes](./trauma_when_memory_freezes.md)
 * [The Regulated Nervous System](./the_regulated_nervous_system.md)
+* [The AzurA Point — The Rod and the Staff Within the Human Body](./the_azura_point_the_rod_and_the_staff_within_the_human_body.md)
+* [Communion with the Higher Self](./communion_with_the_higher_self.md)
 * [Joe Dispenza](./dr_joe_dispenza.md)
 * [Bruce Lipton](./bruce_lipton.md)
 * [Thoughts Form Reality](./thoughts_form_reality.md)
@@ -69,6 +82,7 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [The Tibetan Book of the Dead — A Manual for Coherence at the Threshold of Reality](./the_tibetan_book_of_the_dead.md)
 * [The Ethics of Awakening](./the_ethics_of_awakening.md)
 * [The Five Golden Gates to Self-Empowerment and Coherence](./five_golden_gates_to_self_empowerment_and_coherence.md)
+* [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)
 * [The Smallest Gate That Changes Everything](./the_smallest_gate_that_changes_everything.md)
 * [Sādhana — The Art of Returning, Again and Again](./sadhana_the_art_of_returning.md)
 * [Reality Transurfing – The Art of Walking with the World](./reality_transurfing_the_art_of_walking_with_the_world.md)
@@ -81,7 +95,6 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [Shinrin-yoku — Remembering Ourselves Through the Forest](./shinrin_yoku_remembering_ourselves_through_the_forest.md)
 * [Wabi-Sabi](./wabi_sabi.md)
 * [Chopping Wood, Carrying Water](./chopping_wood_carrying_water.md)
-* [The Twelve Keys of Self-Empowerment and the Thirteenth Crown](./twelve_keys_of_self_empowerment.md)
 * [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)
 * [Sacred Sleep — Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
 

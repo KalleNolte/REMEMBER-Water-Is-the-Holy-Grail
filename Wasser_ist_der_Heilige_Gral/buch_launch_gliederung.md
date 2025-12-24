@@ -23,10 +23,12 @@ Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfä
 * [Warum ich? – Persönliche Notiz](./warum_ich_persoenliche_notiz.md)
 * [Prolog – Der Tag, an dem ich starb](./prolog_der_tag_an_dem_ich_starb.md)
 * [Prolog – Die Rückkehr der Zahl](./prolog_die_rueckkehr_der_zahl.md)
+* [Die Sprache der Zahlen – Von 1 bis 999: Archetypen und Schwellen des Bewusstseins](./zahlen_als_schwellen_des_bewusstseins.md)
 
 ### II. Fundament – Wissenschaft, Wasser, Erinnerung
 * [Meine Reise & die spirituelle Wissenschaft des Selbst](./meine_reise_spirituelle_wissenschaft_des_selbst.md)
 * [Das lebendige Fundament](./das_lebendige_fundament.md)
+* [Rudolf Steiner – Wasser, Äther, Mensch: Die vergessene Lebendigkeit der Welt](../rudolf_steiner.md)
 * [Flow – Wenn das Leben ohne Reibung fließt](./flow_wenn_das_leben_ohne_reibung_fließt.md)
 * [Salz und Bund](./salz_und_bund.md)
 * [Blut, Eisen und der Atem Gottes](./blut_eisen_und_der_atem_gottes.md)
@@ -40,6 +42,13 @@ Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfä
 * [Antioxidantien – Die stille Kunst, dem Leben Elektronen zurückzugeben](./antioxidantien_die_stille_kunst_elektronen_zurueckzugeben.md)
 * [Plasma – Das vierte Aggregat und der leuchtende Ursprung der Form](./plasma_das_vierte_aggregat.md)
 * [Der Stein der Weisen](./der_stein_der_weisen.md)
+* [Mircea Eliade – Das Heilige im Alltäglichen](./mircea_eliade.md)
+* [Bill Donohue — Das innere Königreich und die Sprache des Erwachens](./bill_donohue.md)
+* [John O’Donohue – Schönheit als Wahrheit](./john_odonohue.md)
+* [Iain McGilchrist – Die geteilte Welt: Heilung, Wahrheit und Wasser im rechten Verhältnis](./iain_mcgilchrist.md)
+* [Hannah Arendt – Verantwortung ohne Moralismus und die Banalität des Bösen](./hannah_arendt.md)
+* [Antonio Damasio – Gefühl, Körper und Bewusstsein](./antonio_damasio.md)
+* [Stephen Porges – Das Nervensystem als Tor zur Sicherheit](./stephen_porges.md)  
 
 ### III. Der Mensch – Wunde, Heilung, Transformation
 * [Verkörperung – Wenn Wahrheit Fleisch wird](./verkoerperung_wenn_wahrheit_fleisch_wird.md)
@@ -58,6 +67,8 @@ Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfä
 ### IV. Praktische Meisterschaft – Schlüssel für den Alltag
 * [Trauma – wenn Erinnerung eingefroren ist](./trauma_wenn_erinnerung_eingefroren_ist.md)
 * [Das regulierte Nervensystem – der stille Tempel des Erwachens](./das_regulierte_nervensystem_tempel_des_erwachens.md)
+* [Der AzurA-Punkt — Der Stab und der Stecken im menschlichen Körper](./der_azura_punkt_der_stab_und_der_stecken_im_menschlichen_koerper.md)
+* [Einheit mit dem Höheren Selbst](./einheit_mit_dem_hoeheren_selbst.md)
 * [Joe Dispenza](./dr_joe_dispenza.md)
 * [Bruce Lipton](./bruce_lipton_de.md)
 * [Gedanken formen Wirklichkeit](./gedanken_formen_wirklichkeit.md)
