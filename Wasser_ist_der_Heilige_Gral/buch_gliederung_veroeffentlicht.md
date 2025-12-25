@@ -87,8 +87,6 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Plasma als vorherrschender Zustand des Universums und lebendiges Bindeglied zwischen Materie, Feld und Bewusstsein. Das Kapitel beleuchtet Plasma als Schwelle zwischen Wissenschaft und Quelle, als Spiegel von Kohärenz und als moderne Sprache für uraltes Wissen.
 * [Die verborgene Architektur des Universums](./die_verborgene_architektur_des_universums.md)
   Wie Dimensionen, Ordnung und der Torus als Urform das Leben strukturieren. Zeigt, dass Dimensionen keine fernen Orte, sondern Zustände von Kohärenz und zirkulierender Ordnung sind – und dass Wasser das Medium ist, das diese Ordnung im Menschen und im Kosmos trägt. Poetisch, wissenschaftlich und initiatisch – die Brücke zwischen Physik, Mystik und gelebter Erfahrung.
-* [Die verborgene Architektur des Universums](./die_verborgene_architektur_des_universums.md)
-  Wie Dimensionen, Ordnung und der Torus als Urform das Leben strukturieren. Zeigt, dass Dimensionen keine fernen Orte, sondern Zustände von Kohärenz und zirkulierender Ordnung sind – und dass Wasser das Medium ist, das diese Ordnung im Menschen und im Kosmos trägt. Poetisch, wissenschaftlich und initiatisch – die Brücke zwischen Physik, Mystik und gelebter Erfahrung.
 * [Azura Inai & Kangen – Codes der Kohärenz](./azura_inai_und_kangen_codes_der_kohaerenz.md)  
   Die spirituellen und biochemischen Schlüsselworte des Werks: Azura Inai als Mantra der Hingabe und Erinnerung, Kangen als wissenschaftliche Schnittstelle zur Rückkehr des Wassers in den ursprünglichen Zustand.
 * [Wasser als fünfdimensionale Schnittstelle](./wasser_fuenfdimensionale_schnittstelle.md)  

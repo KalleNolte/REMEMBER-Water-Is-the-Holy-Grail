@@ -82,6 +82,8 @@ Follow the temple path: from the threshold, through origin and foundation, to ma
 	A clear, practical, and integrative chapter on antioxidants as the art of restoring electrical order to life. Explains the true context of antioxidants, the primacy of water as an electron carrier, the role of molecular hydrogen, negative ions, and key nutrients. Shows why antioxidants support, but cannot substitute for, coherent water and integration. Practical, accessible, and foundational for understanding health as an electrical phenomenon.
 * [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)  
 	Plasma as the most abundant, yet least understood, state of matter. Explores plasma as the living threshold between matter and field, the bridge between water and consciousness, and the medium of cosmic intelligence. Integrates modern physics, ancient wisdom, and the science of coherence.
+* [The Hidden Architecture of the Universe](./the_hidden_architecture_of_the_universe.md)
+	A paradigm-shifting chapter revealing dimensions not as distant places, but as living orders of organization and coherence. Explores the torus as the universal pattern of circulation, the role of water as the medium of order, and how true transformation arises from restoring inner circulation—not escape. Bridges physics, music, biology, and daily experience, inviting the reader to see reality through the lens of living structure and coherence.
 * [AzurA Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)  
 	Energetic key. Frequencies. AzurA-point.
 * [Water as the Fifth-Dimensional Interface](./water_fifth_dimensional_interface.md)  

@@ -76,11 +76,11 @@ Feedback is especially welcome from those aligned with the Codex Universalis and
 - [Prologue: The Return of Number](./prologue_the_return_of_number.md)
 - [The Language of Numbers – From 1 to 999: Archetypes and Thresholds of Consciousness](./numbers_as_thresholds_of_consciousness.md)
 
-#### II. Foundation — Science, Water, Remembrance
 - [My Journey: Spiritual Science](./my_journey_spiritual_science.md)
 - [The Forgotten Foundation](./the_forgotten_foundation.md)
 - [Rudolf Steiner – Water, Ether, Human: The Forgotten Aliveness of the World](./rudolf_steiner_en.md)
 - [Henri Bergson – Duration, Vital Impulse, and the Return to Living Time](./henri_bergson_en.md)
+- [Marcel Proust](./marcel_proust.md)
 - [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)
 - [Salt and Covenant](./salt_and_covenant.md)
 - [Blood, Iron, and the Breath of God](./blood_iron_and_the_breath_of_god.md)
@@ -96,6 +96,7 @@ Feedback is especially welcome from those aligned with the Codex Universalis and
 - [Oxidation-Reduction Potential (ORP)](./oxidation_reduction_potential_orp.md)
 - [Antioxidants — The Art of Giving Electrons Back to Life](./antioxidants_the_art_of_giving_electrons_back_to_life.md)
 - [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)
+- [The Hidden Architecture of the Universe](./the_hidden_architecture_of_the_universe.md)
 - [AzurA Inai, and Kangen: Codes of Coherence](./azura_inai_and_kangen_codes_of_coherence.md)
 - [Water as the Fifth-Dimensional Interface](./water_fifth_dimensional_interface.md)
 - [Water: Dimensional Bridge](./water_dimensional_bridge.md)
