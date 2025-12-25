@@ -89,6 +89,7 @@ Feedback is especially welcome from those aligned with the Codex Universalis and
 - [Dossier of Plausibility — Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)
 - [When Light Meets Water](./when_light_meets_water.md)
 - [Frequency Medicine — When Water Remembers, Responds, and Reorganizes Reality](./Frequency_Medicine.md)
+- [Sound as Medicine](./sound_as_medicine.md)
 - [Implications for Modern Science](./implications_for_modern_science.md)
 - [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)
 - [Ionisation, Electrons, and the Secret of Living Water](./ionisation_electrons_and_the_secret_of_living_water.md)

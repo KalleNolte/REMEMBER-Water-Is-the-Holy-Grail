@@ -50,6 +50,8 @@ Follow the temple path: from the threshold, through origin and foundation, to ma
 	This chapter distills Rudolf Steiner’s vision of water and ether as living, creative forces. It bridges spiritual science and modern biophysics, showing water as a medium of consciousness and transformation. Steiner’s insights invite us to rediscover the world’s aliveness and our role as a bridge between nature and spirit.
 * [Henri Bergson – Duration, Vital Impulse, and the Return to Living Time](./henri_bergson_en.md)
 	How Henri Bergson reveals time, consciousness, and life as a living flow—not a line. This chapter bridges philosophy, intuition, and water as carriers of duration, creativity, and healing. It connects science, lived experience, and the return to inner movement.
+* [Marcel Proust](./marcel_proust.md)
+	A literary, initiatic exploration of time, memory, and the body: how Proust reveals that lost time is not gone, but awaits recovery through sensation, presence, and coherence. This chapter bridges literature, neuroscience, and the water of consciousness—showing that memory is a state of the body, and that healing and depth arise when perception softens and the self becomes fluid. Integrates Proust’s insights with the book’s core themes of water, remembrance, and embodied awakening.
 * [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)  
 	A poetic, scientific, and practical synthesis of Flow as the state where life moves without inner resistance—revealing water as the substrate of optimal human experience, and integrating Csikszentmihalyi’s insights with the biophysics of coherence, hydration, and the Holy Grail.
 * [Salt and Covenant](./salt_and_covenant.md)  
@@ -66,6 +68,8 @@ Follow the temple path: from the threshold, through origin and foundation, to ma
 	A luminous synthesis of biophysics and metaphysics: explores how sunlight, color, and structured water interact to create living water. Offers practical rituals and scientific insights for activating water’s full potential, bridging the worlds of light, consciousness, and daily practice. Prepares the reader for the AzurA and light-body teachings.
 * [Frequency Medicine — When Water Remembers, Responds, and Reorganizes Reality](./Frequency_Medicine.md)
 	A paradigm-shifting chapter on frequency as the organizing principle of matter, the role of water as a frequency carrier, and the sober exploration of the Hutchison Effect. Bridges biophysics, medicine, and the mystery of water’s coherence.
+* [Sound as Medicine](./sound_as_medicine.md)
+	A pillar chapter on the science and art of sound, rhythm, and frequency as medicine: how acoustic order, entrainment, and somatic precision regulate the nervous system, structure water, and harmonize states of consciousness. Practical, scientifically grounded, and poetically distilled—a bridge between modern neurobiology, ancient wisdom, and the lived mastery of coherence in daily life.
 * [Implications for Modern Science](./implications_for_modern_science.md)  
 	A paradigm-shifting chapter for skeptics and seekers alike. Examines the limitations of current scientific models, introduces new evidence and perspectives, and invites the reader to reconsider the foundations of health, consciousness, and reality through the lens of water and coherence.
 * [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)  

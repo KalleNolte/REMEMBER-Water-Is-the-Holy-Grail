@@ -22,11 +22,16 @@ Diese Kurzgliederung bietet die essenzielle, hochwirksame Version des Buches. Si
 
 ### II. Fundament – Wissenschaft, Wasser, Erinnerung
 * [Meine Reise & die spirituelle Wissenschaft des Selbst](./meine_reise_spirituelle_wissenschaft_des_selbst.md)
+* [Henri Bergson – Dauer, Lebensimpuls und die Rückkehr zur lebendigen Zeit](./henri_bergson.md)
+	Wie Henri Bergson das Verständnis von Zeit, Bewusstsein und Lebendigkeit revolutionierte – ein Schlüsselkapitel für die Rückkehr zur lebendigen Gegenwart und das Verständnis von Erinnerung als schöpferische Kraft.
 * [Rudolf Steiner – Wasser, Äther, Mensch: Die vergessene Lebendigkeit der Welt](../rudolf_steiner.md)
 * [Das Wasser des Lebens](./das_wasser_des_lebens.md)
 * [Evidenzkette – Wasser ist der Heilige Gral](./evidenzkette_wasser_ist_der_heilige_gral.md)
 * [Wenn Licht auf Wasser trifft](./wenn_licht_auf_wasser_trifft.md)
 * [Frequenzmedizin — Wenn Wasser sich erinnert und Ordnung zurückkehrt](./frequenzmedizin.md)
+* [Die verborgene Architektur des Universums](./die_verborgene_architektur_des_universums.md)
+* [Klang als Medizin](./klang_als_medizin.md)
+	Wie Klang, Rhythmus und Frequenz als Medizin wirken: Ein Kapitel über akustische Ordnung, Regulation des Nervensystems und die Kunst, Kohärenz im Alltag zu verkörpern. Wissenschaftlich fundiert, literarisch verdichtet und praktisch nutzbar.
 * [Mircea Eliade – Das Heilige im Alltäglichen](./mircea_eliade.md)
 * [Bill Donohue — Das innere Königreich und die Sprache des Erwachens](./bill_donohue.md)
 * [John O’Donohue – Schönheit als Wahrheit](./john_odonohue.md)

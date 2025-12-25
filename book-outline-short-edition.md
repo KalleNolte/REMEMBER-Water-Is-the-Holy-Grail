@@ -41,6 +41,7 @@ Each entry links to an existing chapter file.
 * [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)
 * [When Light Meets Water](./when_light_meets_water.md)
 * [Frequency Medicine — When Water Remembers, Responds, and Reorganizes Reality](./Frequency_Medicine.md)
+* [Sound as Medicine](./sound_as_medicine.md)
 * [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)
 * [Mircea Eliade – The Sacred in the Everyday](./mircea_eliade_en.md)
 * [Bill Donohue — The Inner Kingdom and the Language of Awakening](./bill_donohue_en.md)
