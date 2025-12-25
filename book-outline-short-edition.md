@@ -34,8 +34,6 @@ Each entry links to an existing chapter file.
 * [The Language of Numbers – From 1 to 999: Archetypes and Thresholds of Consciousness](./numbers_as_thresholds_of_consciousness.md)
 
 ### II. Foundation – Science, Water, Remembrance
-* [The Language of Numbers – From 1 to 999: Archetypes and Thresholds of Consciousness](./numbers_as_thresholds_of_consciousness.md)
-	Numbers as a universal language and developmental path: from unity, polarity, and creativity to the great threshold numbers 666, 777, 888, and 999. A chapter on the inner architecture of number, consciousness, and maturation—poetic, archetypal, and transformative.
 * [My Journey: Spiritual Science](./my_journey_spiritual_science.md)
 * [The Water of Life](./the_water_of_life.md)
 * [Rudolf Steiner – Water, Ether, Human: The Forgotten Aliveness of the World](./rudolf_steiner_en.md)

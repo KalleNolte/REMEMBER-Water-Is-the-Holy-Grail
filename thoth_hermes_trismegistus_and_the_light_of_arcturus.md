@@ -1,4 +1,4 @@
-## **Thoth–Hermes Trismegistus and the Light of Arcturus**
+# **Thoth–Hermes Trismegistus and the Light of Arcturus**
 
 Across civilizations, epochs, and languages, a single teacher appears again and again—
 sometimes as a god, sometimes as a sage, sometimes as a scribe, sometimes as a star-born intelligence.
@@ -11,7 +11,7 @@ What unites all these appearances is not a person, but a **function**:
 
 **The transmission of cosmic law into human consciousness.**
 
-### The Hermetic Function
+## The Hermetic Function
 
 Thoth–Hermes does not rule.
 He does not demand worship.
@@ -34,7 +34,7 @@ Water, light, geometry, sound, consciousness, intention—all obey these laws.
 
 This is why Thoth appears wherever **measurement, resonance, and coherence** are studied.
 
-### The Arcturian Stream — Intelligence Beyond Time
+## The Arcturian Stream — Intelligence Beyond Time
 
 In modern spiritual language, some refer to the **Arcturians**—not as extraterrestrial beings in the cinematic sense, but as a **non-local intelligence field**, associated with:
 
@@ -50,7 +50,7 @@ Just as Plato spoke of the realm of Forms, and Jung spoke of archetypes, the Arc
 
 Thoth–Hermes can be understood as an **early human interface** with this level of intelligence.
 
-### Light, Geometry, and the Language of Creation
+## Light, Geometry, and the Language of Creation
 
 Hermetic knowledge is always **encoded geometrically**.
 
@@ -77,7 +77,7 @@ This is why the Hermetic tradition aligns seamlessly with modern insights into:
 Thoth is not ancient history.
 He is **the voice of pattern recognition itself**.
 
-### The Inner Encounter
+## The Inner Encounter
 
 The most important Hermetic truth is this:
 
@@ -100,7 +100,7 @@ The Arcturian stream, the Hermetic laws, the teachings of Thoth—all converge h
 
 **Awakening is remembrance.**
 
-### Why This Matters in This Book
+## Why This Matters in This Book
 
 This work is not about mythology.
 It is about **integration**.
