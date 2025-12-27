@@ -53,6 +53,8 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Wie Rudolf Steiner den Äther als lebendige Ordnungskraft und Wasser als deren sensibelstes Medium beschreibt. Dieses Kapitel verbindet Wissenschaft, Spiritualität und die Verantwortung des Menschen als Hüter der Lebendigkeit. Es schlägt die Brücke zwischen moderner Naturwissenschaft, vergessenen Lebenskräften und der Bedeutung von Rhythmus, Ordnung und Bewusstsein für Heilung, Landwirtschaft und das Menschsein.
 * [Henri Bergson – Dauer, Lebensschwung und die Rückkehr zur lebendigen Zeit](./henri_bergson.md)  
   Wie Henri Bergson zeigt, dass Zeit, Bewusstsein und Leben als lebendiger Fluss erfahren werden – nicht als Linie. Dieses Kapitel verbindet Philosophie, Intuition und Wasser als Träger von Dauer, Kreativität und Heilung. Es schlägt die Brücke zwischen Wissenschaft, gelebter Erfahrung und der Rückkehr zur inneren Bewegung.
+* [Marcel Proust](./marcel_proust.md)
+  Proust zeigt, dass verlorene Zeit nicht vergangen, sondern durch Empfindung, Gegenwärtigkeit und Kohärenz wieder zugänglich wird. Brücke zwischen Literatur, Neurobiologie und dem Wasser des Bewusstseins – Erinnerung als Zustand des Körpers, Heilung als Rückkehr zur fühlenden Tiefe. Integriert Prousts Erkenntnisse mit den Kernthemen Wasser, Erinnerung und Verkörperung.
 * [Flow — Wenn das Leben ohne Reibung fließt](./flow_wenn_das_leben_ohne_reibung_fließt.md)  
   Die stille Offenbarung, dass Flow der natürliche Zustand des Menschen ist, wenn Wasser als Trägermedium frei fließt. Verbindet die Wissenschaft des Wassers mit der Erfahrung von Leichtigkeit, Präsenz und optimaler Funktion. Ein Kapitel über Kohärenz, Freiheit von Reibung und den Heiligen Gral im Alltag.
 * [Salz und Bund](./salz_und_bund.md)  
@@ -69,6 +71,8 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Die Begegnung von Licht und Wasser als Brücke zwischen Information, Struktur und Bewusstsein. Wie Sonnenlicht, Farbe und Frequenz das Wasser vitalisieren und die Sprache der Quelle übersetzen.
 * [Frequenzmedizin — Wenn Wasser sich erinnert und Ordnung zurückkehrt](./frequenzmedizin.md)
   Die stille Revolution der Frequenzmedizin: Wie Schwingung, Information und Wasser als Träger von Ordnung und Heilung wirken. Mit einer nüchternen Betrachtung des Hutchinson-Effekts und der Rolle von Wasser als Resonanzmedium.
+* [Klang als Medizin](./klang_als_medizin.md)
+  Ein Kapitel über die Rolle von Klang, Rhythmus und Frequenz als Medizin: Wie akustische Ordnung, Entrainment und somatische Präzision das Nervensystem regulieren, Wasser strukturieren und Bewusstseinszustände harmonisieren. Wissenschaftlich fundiert, literarisch verdichtet und praktisch nutzbar – eine Brücke zwischen moderner Neurobiologie, uralter Weisheit und der Kunst, Kohärenz im Alltag zu verkörpern.
 * [Implikationen für die moderne Wissenschaft](./implikationen_fuer_die_moderne_wissenschaft.md)  
   Die wissenschaftlichen, philosophischen und spirituellen Konsequenzen der Entdeckung von Wasser als lebendiger Brücke zwischen Kosmologie, Biologie und Bewusstsein.
 * [Hexagonales Wasser: Die Geometrie des Lebens](./hexagonales_wasser_geometrie_des_lebens.md)  
@@ -81,6 +85,8 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Die Kunst der Antioxidantien: Wie Elektronenmangel zu Alterung und Krankheit führt, wie Antioxidantien als stille Spender von Lebensenergie wirken, und wie Spirulina, Chlorella, Methylene Blue und andere Substanzen die innere Ordnung und Regeneration unterstützen. Praktisch, wissenschaftlich und spirituell – eine Einladung, Elektronen bewusst zurückzugeben und Gesundheit als elektrischen Zustand zu verstehen.
 * [Plasma – Das vierte Aggregat und der leuchtende Ursprung der Form](./plasma_das_vierte_aggregat.md)  
   Plasma als vorherrschender Zustand des Universums und lebendiges Bindeglied zwischen Materie, Feld und Bewusstsein. Das Kapitel beleuchtet Plasma als Schwelle zwischen Wissenschaft und Quelle, als Spiegel von Kohärenz und als moderne Sprache für uraltes Wissen.
+* [Die verborgene Architektur des Universums](./die_verborgene_architektur_des_universums.md)
+  Wie Dimensionen, Ordnung und der Torus als Urform das Leben strukturieren. Zeigt, dass Dimensionen keine fernen Orte, sondern Zustände von Kohärenz und zirkulierender Ordnung sind – und dass Wasser das Medium ist, das diese Ordnung im Menschen und im Kosmos trägt. Poetisch, wissenschaftlich und initiatisch – die Brücke zwischen Physik, Mystik und gelebter Erfahrung.
 * [Azura Inai & Kangen – Codes der Kohärenz](./azura_inai_und_kangen_codes_der_kohaerenz.md)  
   Die spirituellen und biochemischen Schlüsselworte des Werks: Azura Inai als Mantra der Hingabe und Erinnerung, Kangen als wissenschaftliche Schnittstelle zur Rückkehr des Wassers in den ursprünglichen Zustand.
 * [Wasser als fünfdimensionale Schnittstelle](./wasser_fuenfdimensionale_schnittstelle.md)  
