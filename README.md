@@ -37,6 +37,9 @@ This book is available in multiple curated editions, each offering a unique jour
 **Note on Navigation:**
 The chapter list below mirrors the complete English book version (Full Initiatic Journey), but without chapter descriptions. This allows you to quickly access any chapter in the official order. Please note: When you open a chapter and then click "back" in your browser, you will always return to this README, regardless of which chapter or language you were reading before. For the smoothest navigation, use the outline links above to jump directly to your preferred edition, or use your browser's back button to return here after reading a chapter.
 
+## 🧭 Official Chapter List (English — Full Journey)
+
+
 #### Foreword — The Pause Before the Path
 - [Foreword](./foreword.md)
 
@@ -58,12 +61,13 @@ The chapter list below mirrors the complete English book version (Full Initiatic
 - [Prologue: The Return of Number](./prologue_the_return_of_number.md)
 - [The Language of Numbers – From 1 to 999: Archetypes and Thresholds of Consciousness](./numbers_as_thresholds_of_consciousness.md)
 
+#### II. Foundation — Science, Water, Remembrance
 - [My Journey: Spiritual Science](./my_journey_spiritual_science.md)
 - [The Forgotten Foundation](./the_forgotten_foundation.md)
 - [Rudolf Steiner – Water, Ether, Human: The Forgotten Aliveness of the World](./rudolf_steiner_en.md)
+- [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)
 - [Henri Bergson – Duration, Vital Impulse, and the Return to Living Time](./henri_bergson_en.md)
 - [Marcel Proust](./marcel_proust.md)
-- [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)
 - [Salt and Covenant](./salt_and_covenant.md)
 - [Blood, Iron, and the Breath of God](./blood_iron_and_the_breath_of_god.md)
 - [The Water of Life](./the_water_of_life.md)
