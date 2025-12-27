@@ -43,6 +43,8 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [Antioxidants — The Art of Giving Electrons Back to Life](./antioxidants_the_art_of_giving_electrons_back_to_life.md)
 * [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)
 * [The Philosopher’s Stone](./the_philosophers_stone.md)
+* [Causality Without Arrows: How Reality Chooses Itself](./causality_without_arrows_how_reality_chooses_itself.md)
+* [Information Is Being: The Grammar of Reality](./information_is_being_the_grammar_of_reality.md)
 * [Mircea Eliade – The Sacred in the Everyday](./mircea_eliade_en.md)
 * [Bill Donohue — The Inner Kingdom and the Language of Awakening](./bill_donohue_en.md)
 * [John O’Donohue – Beauty as the Threshold of Truth](./john_odonohue_en.md)  

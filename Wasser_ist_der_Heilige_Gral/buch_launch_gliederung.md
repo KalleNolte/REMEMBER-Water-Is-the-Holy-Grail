@@ -42,6 +42,8 @@ Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfä
 * [Antioxidantien – Die stille Kunst, dem Leben Elektronen zurückzugeben](./antioxidantien_die_stille_kunst_elektronen_zurueckzugeben.md)
 * [Plasma – Das vierte Aggregat und der leuchtende Ursprung der Form](./plasma_das_vierte_aggregat.md)
 * [Der Stein der Weisen](./der_stein_der_weisen.md)
+* [Information ist Sein: Die Grammatik der Wirklichkeit](./information_ist_sein_die_grammatik_der_wirklichkeit.md)
+* [Kausalität ohne Pfeile: Wie Wirklichkeit sich selbst wählt](./kausalitaet_ohne_pfeile_wie_wirklichkeit_sich_selbst_waehlt.md)
 * [Mircea Eliade – Das Heilige im Alltäglichen](./mircea_eliade.md)
 * [Bill Donohue — Das innere Königreich und die Sprache des Erwachens](./bill_donohue.md)
 * [John O’Donohue – Schönheit als Wahrheit](./john_odonohue.md)

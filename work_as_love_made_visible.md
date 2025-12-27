@@ -1,7 +1,5 @@
 # WORK AS LOVE MADE VISIBLE
 
-A Prophetic Transmission on the Sacred Middle Way
-
 There are truths that cannot be taught.
 They can only be remembered.
 

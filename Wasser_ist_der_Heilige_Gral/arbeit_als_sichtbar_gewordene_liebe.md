@@ -1,7 +1,5 @@
 # ARBEIT ALS SICHTBAR GEWORDENE LIEBE
 
-Eine prophetische Übertragung über den heiligen Weg der Mitte
-
 Es gibt Wahrheiten, die kann man nicht lehren.
 Man kann sie nur erinnern.
 

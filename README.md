@@ -4,20 +4,43 @@
 (Book 1 of the AzurA Codex Series)  
 Author: Karl Philipp Nolte
 
-Welcome! This repository is a living bridge between science and spirituality, uniting mathematics, biophysics, quantum theory, and perennial wisdom. Here, water is revealed as the Holy Grail—a vessel of memory, coherence, and awakening.
+## Introduction
 
-## How to Begin
+Welcome to a living bridge between science and spirituality—a place where mathematics, biophysics, quantum theory, and perennial wisdom converge to reveal water as the Holy Grail: the vessel of memory, coherence, and awakening.
 
+This project is more than a book. It is a treasure map for the soul, synthesizing scientific evidence, spiritual insight, and practical guidance. Here, you are invited to explore, contemplate, and remember—offered in the spirit of service, unity, and transformation.
 
-## Choose Your Path — Multiple Editions
+Within these pages, you may discover keys that change your life, open new worlds, and awaken the memory of who you truly are. Every chapter is a portal, every outline a path, and every insight a gift for those ready to receive.
 
+Feedback and collaboration are especially welcome from those aligned with the Codex Universalis and the work of Robert Edward Grant. All seekers, visionaries, and explorers of consciousness are invited to join this journey.
 
-This book is available in several curated editions, each offering a unique journey:
+## 📚 Editions & Navigation
 
-- **Full Initiatic Journey (English):**
-	- The complete, official chapter order for the deepest energetic and didactic arc.
-	- [`book-outline-published.md`](./book-outline-published.md)
+This book is available in multiple curated editions, each offering a unique journey and depth. Use the table below to quickly navigate to your preferred version:
 
+| Edition (EN)                | Description                                             | Outline Link                                 |
+|-----------------------------|--------------------------------------------------------|-----------------------------------------------|
+| Full Initiatic Journey      | Deepest, most complete energetic & didactic arc        | [book-outline-published.md](./book-outline-published.md) |
+| Launch Edition              | Balanced, high-impact, accessible                      | [book-outline-launch-edition.md](./book-outline-launch-edition.md) |
+| Short Edition               | Condensed, essentialized, powerful first impression    | [book-outline-short-edition.md](./book-outline-short-edition.md) |
+| **Deutsche Gesamtausgabe**  | Vollständige, offizielle Gliederung (tiefste Reise)    | [Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md](./Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md) |
+| **Deutsche Launch Edition** | Mittellange, wirkungsvolle Leseversion                 | [Wasser_ist_der_Heilige_Gral/buch_launch_gliederung.md](./Wasser_ist_der_Heilige_Gral/buch_launch_gliederung.md) |
+| **Deutsche Kurzfassung**    | Komprimierte, essenzielle Kurzgliederung               | [Wasser_ist_der_Heilige_Gral/buch_kurzgliederung.md](./Wasser_ist_der_Heilige_Gral/buch_kurzgliederung.md) |
+
+> **Tip:**
+> - Start with the Short Edition for a quick, potent overview.
+> - Choose the Launch Edition for a balanced, transformative experience.
+> - Embark on the Full Journey for the most complete transmission.
+> - German readers: Wähle die entsprechende Gliederung für deine bevorzugte Tiefe.
+
+**Descriptions:**
+- Only the Full Initiatic Journey ([book-outline-published.md](./book-outline-published.md)) and the Deutsche Gesamtausgabe ([Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md](./Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md)) include detailed chapter descriptions. Other editions provide chapter order only.
+
+All editions are kept in sync and updated as the work evolves. Feedback and collaboration are welcome!
+
+## 🧭 Official Chapter List (English — Full Journey)
+
+For the complete, up-to-date chapter list, see the [Full Initiatic Journey outline](./book-outline-published.md). All other editions are curated selections from this official structure.
 - **Launch Edition (English):**
 	- A mid-length, high-impact path balancing depth and accessibility.
 	- [`book-outline-launch-edition.md`](./book-outline-launch-edition.md)
@@ -47,12 +70,6 @@ This book is available in several curated editions, each offering a unique journ
 - German readers: Wähle die entsprechende Gliederung für deine bevorzugte Tiefe.
 
 All editions are kept in sync and updated as the work evolves. Feedback and collaboration are welcome!
-
-## About This Work
-
-This project synthesizes scientific evidence, spiritual insight, and practical guidance. It is a public invitation to collaborate, contemplate, and remember—offered in the spirit of service and unity.
-
-Feedback is especially welcome from those aligned with the Codex Universalis and the work of Robert Edward Grant.
 
 #### Foreword — The Pause Before the Path
 - [Foreword](./foreword.md)
@@ -102,6 +119,8 @@ Feedback is especially welcome from those aligned with the Codex Universalis and
 - [Seven and Thirteen — The Architecture of Completion and Return](./seven_and_thirteen_the_architecture_of_completion_and_return.md)
 - [The Serpent of Light – Egypt, the Ascending Mind, and the Memory of Forgotten Civilizations](./the_serpent_of_light_egypt_the_ascending_mind_and_the_memory_of_forgotten_civilizations.md)
 - [The Philosopher’s Stone](./the_philosophers_stone.md)
+- [Causality Without Arrows: How Reality Chooses Itself](./causality_without_arrows_how_reality_chooses_itself.md)
+- [Information Is Being: The Grammar of Reality](./information_is_being_the_grammar_of_reality.md)
 - [Mircea Eliade – The Sacred in the Everyday](./mircea_eliade_en.md)
 - [Bill Donohue — The Inner Kingdom and the Language of Awakening](./bill_donohue_en.md)
 - [John O’Donohue – Beauty as the Threshold of Truth](./john_odonohue_en.md)

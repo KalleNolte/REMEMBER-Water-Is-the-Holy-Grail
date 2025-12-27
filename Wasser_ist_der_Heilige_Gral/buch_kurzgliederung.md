@@ -27,6 +27,8 @@ Diese Kurzgliederung bietet die essenzielle, hochwirksame Version des Buches. Si
 * [Evidenzkette – Wasser ist der Heilige Gral](./evidenzkette_wasser_ist_der_heilige_gral.md)
 * [Wenn Licht auf Wasser trifft](./wenn_licht_auf_wasser_trifft.md)
 * [Frequenzmedizin — Wenn Wasser sich erinnert und Ordnung zurückkehrt](./frequenzmedizin.md)
+* [Kausalität ohne Pfeile: Wie Wirklichkeit sich selbst wählt](./kausalitaet_ohne_pfeile_wie_wirklichkeit_sich_selbst_waehlt.md)
+* [Information ist Sein: Die Grammatik der Wirklichkeit](./information_ist_sein_die_grammatik_der_wirklichkeit.md)
 * [Mircea Eliade – Das Heilige im Alltäglichen](./mircea_eliade.md)
 * [Bill Donohue — Das innere Königreich und die Sprache des Erwachens](./bill_donohue.md)
 * [John O’Donohue – Schönheit als Wahrheit](./john_odonohue.md)
