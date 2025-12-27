@@ -33,43 +33,9 @@ This book is available in multiple curated editions, each offering a unique jour
 > - Embark on the Full Journey for the most complete transmission.
 > - German readers: Wähle die entsprechende Gliederung für deine bevorzugte Tiefe.
 
-**Descriptions:**
-- Only the Full Initiatic Journey ([book-outline-published.md](./book-outline-published.md)) and the Deutsche Gesamtausgabe ([Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md](./Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md)) include detailed chapter descriptions. Other editions provide chapter order only.
 
-All editions are kept in sync and updated as the work evolves. Feedback and collaboration are welcome!
-
-## 🧭 Official Chapter List (English — Full Journey)
-
-For the complete, up-to-date chapter list, see the [Full Initiatic Journey outline](./book-outline-published.md). All other editions are curated selections from this official structure.
-- **Launch Edition (English):**
-	- A mid-length, high-impact path balancing depth and accessibility.
-	- [`book-outline-launch-edition.md`](./book-outline-launch-edition.md)
-
-- **Short Edition (English):**
-	- A condensed, essentialized version for a powerful first impression.
-	- [`book-outline-short-edition.md`](./book-outline-short-edition.md)
-
-- **Deutsche Gesamtausgabe (German Full Journey):**
-	- Die vollständige, offizielle Gliederung für die tiefste initiatische Reise.
-	- [`Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md`](./Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md)
-
-- **Deutsche Launch Edition:**
-	- Die mittellange, wirkungsvolle Leseversion auf Deutsch.
-	- [`Wasser_ist_der_Heilige_Gral/buch_launch_gliederung.md`](./Wasser_ist_der_Heilige_Gral/buch_launch_gliederung.md)
-
-- **Deutsche Kurzfassung:**
-	- Die komprimierte, essenzielle Kurzgliederung auf Deutsch.
-	- [`Wasser_ist_der_Heilige_Gral/buch_kurzgliederung.md`](./Wasser_ist_der_Heilige_Gral/buch_kurzgliederung.md)
-
-**Note:** Only the complete outline ([`book-outline-published.md`](./book-outline-published.md)) and the vollständige Gliederung ([`Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md`](./Wasser_ist_der_Heilige_Gral/buch_gliederung_veroeffentlicht.md)) include descriptions about the content of each chapter. The other editions provide only the chapter order.
-
-**How to use these paths:**
-- Start with the short edition for a quick, potent overview.
-- Choose the launch edition for a balanced, transformative experience.
-- Embark on the full journey for the most complete transmission.
-- German readers: Wähle die entsprechende Gliederung für deine bevorzugte Tiefe.
-
-All editions are kept in sync and updated as the work evolves. Feedback and collaboration are welcome!
+**Note on Navigation:**
+The chapter list below mirrors the complete English book version (Full Initiatic Journey), but without chapter descriptions. This allows you to quickly access any chapter in the official order. Please note: When you open a chapter and then click "back" in your browser, you will always return to this README, regardless of which chapter or language you were reading before. For the smoothest navigation, use the outline links above to jump directly to your preferred edition, or use your browser's back button to return here after reading a chapter.
 
 #### Foreword — The Pause Before the Path
 - [Foreword](./foreword.md)
@@ -85,7 +51,6 @@ All editions are kept in sync and updated as the work evolves. Feedback and coll
 - [Language Calibration](./language-calibration.md)
 - [The Three Colors That Carry This Book](./the_three_colors_that_carry_this_book.md)
 - [Path of the Water-Bearer](./path_of_the_water_bearer.md)
-
 
 #### I. Origin — The Author’s Awakening
 - [Why Me — Personal Note](./why_me_personal_note.md)
@@ -215,9 +180,7 @@ All editions are kept in sync and updated as the work evolves. Feedback and coll
 - [Mokṣa — The Freedom That Needs Nothing](./moksha_the_freedom_that_needs_nothing.md)
 - [The Ninth Gate – The Stable Axis](./the_ninth_gate_the_stable_axis.md)
 
-
 #### VIII. Spiritual Architecture — Understanding the Invisible
-
 - [The Waters of Forgiveness](./the_waters_of_forgiveness.md)
 - [Unconditional Love — The Gravity of God](./unconditional_love_the_gravity_of_god.md)
 - [Silent Creator – From Witness to Co-Creator](./silent_creator_from_witness_to_cocreator.md)
