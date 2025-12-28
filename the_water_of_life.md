@@ -54,7 +54,7 @@ then I had to understand water.
 The real shift began when my parents offered my sister and her partner  
 a water-structuring device as a wedding gift.
 
-Her parents-in-law began drinking the water as my parents had.
+Both of them and her parents-in-law began drinking the water as my parents had.
 And slowly—without hype or expectation—changes began to unfold.
 
 Skin cleared.

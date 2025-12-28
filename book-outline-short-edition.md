@@ -34,15 +34,23 @@ Each entry links to an existing chapter file.
 * [The Language of Numbers – From 1 to 999: Archetypes and Thresholds of Consciousness](./numbers_as_thresholds_of_consciousness.md)
 
 ### II. Foundation – Science, Water, Remembrance
-* [My Journey: Spiritual Science](./my_journey_spiritual_science.md)
-* [The Water of Life](./the_water_of_life.md)
+* [The Three Pillars of the Western Mind](./the_three_pillars_of_the_western_mind.md)
+* [Relativity, Time, and the Living Fabric of Space](./relativity_time_and_the_living_fabric_of_space.md)
+* [My Journey & the Spiritual Science of the Self](./my_journey_spiritual_science.md)
+* [The Forgotten Foundation](./the_forgotten_foundation.md)
 * [Rudolf Steiner – Water, Ether, Human: The Forgotten Aliveness of the World](./rudolf_steiner_en.md)
 * [Henri Bergson – Duration, Vital Impulse, and the Return to Living Time](./henri_bergson_en.md)
+* [The Time We Are](./the_time_we_are.md)
 * [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)
+* [The Water of Life](./the_water_of_life.md)
+* [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_tinhaltsverzeichnishe_holy_grail.md)
+* [The Observer Is Not Neutral: How Reality Responds to Presence](./the_observer_is_not_neutral_how_reality_responds_to_presence.md)
+* [Entropy as Teacher: Why Disorder Exists](./entropy_as_teacher_why_disorder_exists.md)
+* [As Within, So Without: The Law of Scales](./as_within_so_without_the_law_of_scales.md)  
 * [When Light Meets Water](./when_light_meets_water.md)
 * [Frequency Medicine — When Water Remembers, Responds, and Reorganizes Reality](./Frequency_Medicine.md)
 * [Sound as Medicine](./sound_as_medicine.md)
-* [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)
+* [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)
 * [The Philosopher’s Stone](./the_philosophers_stone.md)
 * [Causality Without Arrows: How Reality Chooses Itself](./causality_without_arrows_how_reality_chooses_itself.md)
 * [Information Is Being: The Grammar of Reality](./information_is_being_the_grammar_of_reality.md)
@@ -52,7 +60,11 @@ Each entry links to an existing chapter file.
 * [Iain McGilchrist – The Divided World, Relationship, and the Return to Wholeness](./iain_mcgilchrist_en.md)
 * [Hannah Arendt – Responsibility Without Moralism and the Banality of Evil](./hannah_arendt_en.md)  
 * [Antonio Damasio – Feeling, Body, and Consciousness](./antonio_damasio_en.md)
+* [Michel de Montaigne — The Art of Being Human](./michel_de_montaigne_the_art_of_being_human.md)
+* [Immanuel Kant, Arthur Schopenhauer](./immanuel_kant_arthur_schopenhauer_en.md)
 * [Stephen Porges – The Nervous System as the Gateway to Safety](./stephen_porges_en.md)
+* [Martin Heidegger and Karl Jaspers – Existential Honesty, Responsibility, and the Courage to Become Real](./martin_heidegger_and_karl_jaspers.md)
+* [Friedrich Nietzsche](./friedrich_nietzsche.md)
 
 ### III. The Human – Wound, Healing, Transformation
 * [Embodiment — When Truth Becomes Flesh](./embodiment_when_truth_becomes_flesh.md)
@@ -83,5 +95,6 @@ Each entry links to an existing chapter file.
 * [Trust in God](./trust_in_god.md)
 * [The Gift of Pure Awareness](./the_gift_of_pure_awareness.md)
 * [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)
+* [The Irreducible Silence](./the_irreducible_silence.md)  
 
 *This short edition outline is a curated, high-impact arc of the full published structure in `book-outline-published.md`. It is designed for readers who want the full energetic journey in a more compact form, and can be expanded into science-focused, practice-focused, or mythic/lineage-focused extended editions.*

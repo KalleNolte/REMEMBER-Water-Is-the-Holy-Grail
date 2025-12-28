@@ -15,7 +15,6 @@ Dieses Kapitel ist kein Versprechen.
 Es ist eine Klärung.
 
 
-
 ## Der Körper ist kein Behälter – sondern ein Flusssystem
 
 Der menschliche Körper ist kein Gefäß, in das man „Stoffe hineinfüllt“.
@@ -33,7 +32,6 @@ Wasser ist nicht bloße Kulisse.
 Es ist **das Medium, in dem alles stattfindet**.
 
 Wenn dieses Medium nicht trägt, beginnt der Körper zu kompensieren.
-
 
 
 ## Chronische Entzündung – kein Stoffproblem, sondern ein Ordnungsproblem
@@ -166,6 +164,6 @@ Aber es ist sehr oft die **vergessene Voraussetzung**.
 
 Oder in einem Satz:
 
-> **Heilung ist selten ein Mehr an Maßnahmen.
-> Sie ist fast immer ein Zurück zur richtigen Ordnung.
-> Und Ordnung im Körper beginnt mit Wasser.**
+> **Heilung ist selten ein Mehr an Maßnahmen.**
+> **Sie ist fast immer ein Zurück zur richtigen Ordnung.**
+> **Und Ordnung im Körper beginnt mit Wasser.**

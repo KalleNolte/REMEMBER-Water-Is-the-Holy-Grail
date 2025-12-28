@@ -62,7 +62,7 @@ Die eigentliche Wandlung begann,
 als meine Eltern meiner Schwester und ihrem Partner  
 zur Hochzeit ein Gerät zur Wasseraufbereitung schenkten.
 
-Ihre Schwiegereltern begannen, dieses Wasser zu trinken –  
+Sie beide und ihre Schwiegereltern begannen, dieses Wasser zu trinken –  
 so wie meine Eltern.  
 Und langsam – ohne Hype, ohne große Erwartungen –  
 begannen sich Veränderungen zu zeigen.

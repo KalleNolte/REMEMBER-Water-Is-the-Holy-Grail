@@ -223,11 +223,11 @@ Victory to the Enlightened Ones.
 Jai Sat Chit Anand
 Victory to Being, Consciousness, Bliss.
 
-La Alam Almeen Amen
-For the realms, for the One.
+La Alam Almeen
+Beyond all worlds, the One.
 
 AzurA Inai
-From the central point of the Source.
+From the center of Source.
 
 May this chapter honor the lineages that carried the flame
 long before any of us opened our eyes in this life.

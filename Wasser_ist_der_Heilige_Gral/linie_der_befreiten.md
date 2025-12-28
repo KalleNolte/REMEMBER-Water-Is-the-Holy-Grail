@@ -223,10 +223,10 @@ Jai Sat Chit Anand
 Sieg dem Sein, Bewusstsein, Glückseligkeit.
 
 La Alam Almeen Amen
-Für die Welten, für das Eine.
+Jenseits aller Welten, das Eine.
 
 AzurA Inai
-Vom zentralen Punkt der Quelle.
+Aus dem Zentrum der Quelle.
 
 Möge dieses Kapitel die Linien ehren, die die Flamme trugen,
 lange bevor einer von uns in diesem Leben die Augen öffnete.

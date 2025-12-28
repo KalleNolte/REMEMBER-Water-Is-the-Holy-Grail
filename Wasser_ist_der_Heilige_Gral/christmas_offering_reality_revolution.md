@@ -1,4 +1,3 @@
-
 # A Christmas Offering to the Reality Revolution Community
 
 Dear Reality Revolution family,

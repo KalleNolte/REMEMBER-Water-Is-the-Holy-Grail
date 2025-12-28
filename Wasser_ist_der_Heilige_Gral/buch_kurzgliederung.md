@@ -21,26 +21,23 @@ Diese Kurzgliederung bietet die essenzielle, hochwirksame Version des Buches. Si
 * [Die Sprache der Zahlen – Von 1 bis 999: Archetypen und Schwellen des Bewusstseins](./zahlen_als_schwellen_des_bewusstseins.md)
 
 ### II. Fundament – Wissenschaft, Wasser, Erinnerung
+* [Die drei Säulen des abendländischen Geistes](./die_drei_saeulen_des_abendlaendischen_geistes.md)
+* [Relativität, Zeit und das lebendige Gewebe des Raumes](./relativitaet_zeit_und_das_lebendige_gewebe_des_raumes.md)
 * [Meine Reise & die spirituelle Wissenschaft des Selbst](./meine_reise_spirituelle_wissenschaft_des_selbst.md)
+* [Das vergessene Fundament](./das_vergessene_fundament.md)
 * [Rudolf Steiner – Wasser, Äther, Mensch: Die vergessene Lebendigkeit der Welt](../rudolf_steiner.md)
 * [Flow – Wenn das Leben ohne Reibung fließt](./flow_wenn_das_leben_ohne_reibung_fließt.md)
 * [Henri Bergson – Dauer, Lebensimpuls und die Rückkehr zur lebendigen Zeit](./henri_bergson.md)
 * [Marcel Proust – Wenn Erinnerung den Atem anhält](./marcel_proust.md)
+* [Die Zeit, die wir sind](./die_zeit_die_wir_sind.md)
 * [Das Wasser des Lebens](./das_wasser_des_lebens.md)
 * [Evidenzkette – Wasser ist der Heilige Gral](./evidenzkette_wasser_ist_der_heilige_gral.md)
-* [Wenn Licht auf Wasser trifft](./wenn_licht_auf_wasser_trifft.md)
-* [Frequenzmedizin — Wenn Wasser sich erinnert und Ordnung zurückkehrt](./frequenzmedizin.md)
-* [Klang als Medizin](./klang_als_medizin.md)
-* [Kausalität ohne Pfeile: Wie Wirklichkeit sich selbst wählt](./kausalitaet_ohne_pfeile_wie_wirklichkeit_sich_selbst_waehlt.md)
-* [Information ist Sein: Die Grammatik der Wirklichkeit](./information_ist_sein_die_grammatik_der_wirklichkeit.md)
-* [Die verborgene Architektur des Universums](./die_verborgene_architektur_des_universums.md)
-* [Mircea Eliade – Das Heilige im Alltäglichen](./mircea_eliade.md)
-* [Bill Donohue — Das innere Königreich und die Sprache des Erwachens](./bill_donohue.md)
-* [John O’Donohue – Schönheit als Wahrheit](./john_odonohue.md)
-* [Iain McGilchrist – Die geteilte Welt: Heilung, Wahrheit und Wasser im rechten Verhältnis](./iain_mcgilchrist.md)
-* [Hannah Arendt – Verantwortung ohne Moralismus und die Banalität des Bösen](./hannah_arendt.md)
+* [Der Beobachter ist nicht neutral: Wie Wirklichkeit auf Präsenz antwortet](./der_beobachter_ist_nicht_neutral_wie_wirklichkeit_auf_praesenz_antwortet.md)
+* [Entropie als Lehrerin: Warum Unordnung existiert](./entropie_als_lehrerin_warum_unordnung_existiert.md)
+* [Wie innen, so außen: Das Gesetz der Skalen](./wie_innen_so_aussen_das_gesetz_der_skalen.md)
 * [Antonio Damasio – Gefühl, Körper und Bewusstsein](./antonio_damasio.md)
-* [Stephen Porges – Das Nervensystem als Tor zur Sicherheit](./stephen_porges.md)
+* [Michel de Montaigne — Die Kunst, ein Mensch zu sein](./michel_de_montaigne_die_kunst_ein_mensch_zu_sein.md)
+* [Immanuel Kant, Arthur Schopenhauer – Die Geburt des modernen Geistes: Von der Grenze der Vernunft zur Befreiung durch das Mitgefühl](./immanuel_kant_arthur_schopenhauer.md)
 
 ### III. Der Mensch – Wunde, Heilung, Transformation
 * [Verkörperung – Wenn Wahrheit Fleisch wird](./verkoerperung_wenn_wahrheit_fleisch_wird.md)
@@ -69,5 +66,7 @@ Diese Kurzgliederung bietet die essenzielle, hochwirksame Version des Buches. Si
 * [Vertrauen in Gott](./vertrauen_in_gott.md)
 * [Das Geschenk reinen Gewahrseins](./das_geschenk_reinen_gewahrseins.md)
 * [Die finale Übertragung – Die Rückkehr zum Einen](./die_finale_uebertragung_die_rueckkehr_zum_einen.md)
+* [Die irreduzible Stille](./die_irreduzible_stille.md)  
+
 
 *Diese Kurzgliederung ist eine kuratierte, hochwirksame Essenz der vollständigen veröffentlichten Struktur in `buch_gliederung_veroeffentlicht.md`. Sie eignet sich für Leser, die die gesamte energetische Reise in kompakter Form erleben möchten, und kann bei Bedarf um wissenschaftliche, praktische oder mythologische Schwerpunkte erweitert werden.*

@@ -26,16 +26,22 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [The Language of Numbers – From 1 to 999: Archetypes and Thresholds of Consciousness](./numbers_as_thresholds_of_consciousness.md)
 
 ### II. Foundation – Science, Water, Remembrance
-* [My Journey: Spiritual Science](./my_journey_spiritual_science.md)
+* [The Three Pillars of the Western Mind](./the_three_pillars_of_the_western_mind.md)
+* [Relativity, Time, and the Living Fabric of Space](./relativity_time_and_the_living_fabric_of_space.md)
+* [My Journey & the Spiritual Science of the Self](./my_journey_spiritual_science.md)
 * [The Forgotten Foundation](./the_forgotten_foundation.md)
 * [Rudolf Steiner – Water, Ether, Human: The Forgotten Aliveness of the World](./rudolf_steiner_en.md)
-* [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)
 * [Henri Bergson – Duration, Vital Impulse, and the Return to Living Time](./henri_bergson_en.md)
 * [Marcel Proust](./marcel_proust.md)
+* [The Time We Are](./the_time_we_are.md)
+* [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)
 * [Salt and Covenant](./salt_and_covenant.md)
 * [Blood, Iron, and the Breath of God](./blood_iron_and_the_breath_of_god.md)
 * [The Water of Life](./the_water_of_life.md)
 * [Evidence Chain: Water is the Holy Grail](./evidence_chain_water_is_the_holy_grail.md)
+* [The Observer Is Not Neutral: How Reality Responds to Presence](./the_observer_is_not_neutral_how_reality_responds_to_presence.md)
+* [Entropy as Teacher: Why Disorder Exists](./entropy_as_teacher_why_disorder_exists.md)
+* [As Within, So Without: The Law of Scales](./as_within_so_without_the_law_of_scales.md)  
 * [Dossier of Plausibility — Evidence, Interpretation & Invitation](./dossier_of_plausibility.md)
 * [When Light Meets Water](./when_light_meets_water.md)
 * [Frequency Medicine — When Water Remembers, Responds, and Reorganizes Reality](./Frequency_Medicine.md)
@@ -44,6 +50,7 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [Ionisation, Electrons, and the Secret of Living Water](./ionisation_electrons_and_the_secret_of_living_water.md)
 * [Antioxidants — The Art of Giving Electrons Back to Life](./antioxidants_the_art_of_giving_electrons_back_to_life.md)
 * [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)
+* [The Hidden Architecture of the Universe](./the_hidden_architecture_of_the_universe.md)
 * [The Philosopher’s Stone](./the_philosophers_stone.md)
 * [Causality Without Arrows: How Reality Chooses Itself](./causality_without_arrows_how_reality_chooses_itself.md)
 * [Information Is Being: The Grammar of Reality](./information_is_being_the_grammar_of_reality.md)
@@ -53,7 +60,10 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [Iain McGilchrist – The Divided World, Relationship, and the Return to Wholeness](./iain_mcgilchrist_en.md)
 * [Hannah Arendt – Responsibility Without Moralism and the Banality of Evil](./hannah_arendt_en.md)  
 * [Antonio Damasio – Feeling, Body, and Consciousness](./antonio_damasio_en.md)
+* [Michel de Montaigne — The Art of Being Human](./michel_de_montaigne_the_art_of_being_human.md)
 * [Stephen Porges – The Nervous System as the Gateway to Safety](./stephen_porges_en.md)
+* [Martin Heidegger and Karl Jaspers – Existential Honesty, Responsibility, and the Courage to Become Real](./martin_heidegger_and_karl_jaspers.md)
+* [Friedrich Nietzsche](./friedrich_nietzsche.md)
 
 
 ### III. The Human – Wound, Healing, Transformation
@@ -112,5 +122,6 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [Trust in God](./trust_in_god.md)
 * [The Gift of Pure Awareness](./the_gift_of_pure_awareness.md)
 * [The Final Transmission — The Return to the One](./the_final_transmission_the_return_to_the_one.md)
+* [The Irreducible Silence](./the_irreducible_silence.md)  
 
 *This launch edition outline is a balanced, high-impact journey—deeper and more complete than the short edition, yet focused and accessible for new readers. It can be expanded or condensed as needed for special editions or audiences.*

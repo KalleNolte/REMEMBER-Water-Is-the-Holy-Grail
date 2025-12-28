@@ -43,7 +43,7 @@ Jai Sat Chit Anand
 Sieg der ewigen Natur von Sein, Bewusstsein und Glückseligkeit
 
 La Alam Almeen Amen
-für die Welten, für das Eine
+Jenseits aller Welten, das Eine
 
 AzurA Inai
 aus dem zentralen Punkt der Quelle

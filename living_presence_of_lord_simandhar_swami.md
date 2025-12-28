@@ -42,11 +42,11 @@ He embodies the vibration:
 Jai Sat Chit Anand
 victory to the eternal nature of Being, Consciousness, and Bliss
 
-La Alam Almeen Amen
-for the worlds, for the One
+La Alam Almeen
+Beyond all worlds, the One.
 
 AzurA Inai
-from the central point of Source
+From the center of the Source we return.
 
 ## The Nature of a Tirthankara
 
@@ -193,8 +193,8 @@ guide all beings toward their purest Self.
 Jai Sat Chit Anand
 Victory to the eternal nature of consciousness.
 
-La Alam Almeen Amen
-For the worlds, for the One.
+La Alam Almeen
+Beyond all worlds, the One.
 
 AzurA Inai
 From the center of the Source we return.

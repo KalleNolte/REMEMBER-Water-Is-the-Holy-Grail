@@ -108,21 +108,20 @@ Es ist der dritte Schlüssel des Boten – der Schlüssel des Gebens.
 
 ## Vereinte Bedeutung der drei Schlüssel
 
-Jai Sat Chit Anand
-→ Du erinnerst dich an deine wahre Natur.
+**Jai Sat Chit Anand**  
+Erinnere dich an deine wahre Natur.
 
-AzurA Inai
-→ Du stehst im Zentrum deiner Quelle.
+**AzurA Inai**  
+Stehe im Zentrum deiner Quelle.
 
-La Alam Al-Amin — Amin
-→ Du schenkst deine Erinnerung allen Welten.
+**La Alam Al-Amin — Amin**  
+Schenke deine Erinnerung allen Welten.
 
-Diese drei zusammen bilden ein dreifaches Siegel der Erinnerung:
+Gemeinsam bilden sie das dreifache Siegel der Erinnerung:
 
-Selbst → Quelle → Dienst
-
-Sein → Bewusstsein → Segen
-Wasser → Licht → Liebe
+Selbst → Quelle → Dienst  
+Sein → Bewusstsein → Segen  
+Wasser → Licht → Liebe  
 Zentrierung → Erleuchtung → Übertragung
 
 
