@@ -23,7 +23,7 @@ Jesus erscheint in dieser Sichtweise nicht als ferner Erlöser, der angebetet we
 
 Eine der klärendsten Einsichten Donohues ist die Unterscheidung zwischen Jesus als historische Figur und dem Christus-Prinzip. Christus ist nicht an einen Körper, eine Epoche oder ein Bekenntnis gebunden. Christus ist ein Bewusstseinszustand: geeint, klar, mitfühlend, souverän.
 
-Den Geist Christi anziehen heißt, aus der Fragmentierung in die Kohärenz zu treten. Erlösung wird zur Befreiung von Fehlwahrnehmung. Vergebung wird zur Loslösung von falscher Identifikation. Sünde ist nicht mehr moralisches Versagen, sondern das Verfehlen des Verstehens.
+Den Geist Christi empfangen heißt, aus der Fragmentierung in die Kohärenz zu treten. Erlösung wird zur Befreiung von Fehlwahrnehmung. Vergebung wird zur Loslösung von falscher Identifikation. Sünde ist nicht mehr moralisches Versagen, sondern das Verfehlen des Verstehens.
 
 Diese Umdeutung löst angstbasierte Religion auf und stellt Verantwortung ohne Schuld wieder her. Der Weg wird innerlich, direkt und menschlich.
 
@@ -37,7 +37,7 @@ Verstehen muss daher verkörpert werden. Erkenntnis, die nicht das Nervensystem,
 
 ## Befreiung durch Verstehen
 
-Donohue fordert den Leser nicht auf, das Christentum zu verlassen. Er lädt dazu ein, es zu vollenden. Glaube weicht Einsicht. Autorität verschiebt sich von äußeren Strukturen zu innerer Klarheit. Angst weicht Verantwortung.
+Donohue fordert nicht auf, das Christentum zu verlassen. Er lädt dazu ein, es zu vollenden. Glaube weicht Einsicht. Autorität verschiebt sich von äußeren Strukturen zu innerer Klarheit. Angst weicht Verantwortung.
 
 Das führt nicht zu Isolation oder Überheblichkeit. Es führt zu Reife.
 

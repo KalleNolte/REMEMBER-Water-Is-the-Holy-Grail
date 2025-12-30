@@ -23,7 +23,7 @@ Jesus, in this view, is not presented as a distant savior to be worshipped, but 
 
 One of Donohue’s most clarifying insights is the distinction between Jesus the historical figure and the Christ principle. Christ is not confined to one body, one era, or one creed. Christ is a state of consciousness: unified, lucid, compassionate, sovereign.
 
-To put on the mind of Christ is to move out of fragmentation and into coherence. Salvation becomes liberation from misperception. Forgiveness becomes the release of false identification. Sin is no longer moral failure, but missing the mark of understanding.
+To realize the Christ-mind is to move from fragmentation into coherence. Salvation becomes liberation from misperception. Forgiveness becomes the release of false identification. Sin is no longer moral failure, but missing the mark of understanding.
 
 This reframing dissolves fear-based religion and restores responsibility without guilt. The path becomes inward, direct, and humane.
 
@@ -37,7 +37,7 @@ Understanding must therefore be embodied. Insight that does not reach the nervou
 
 ## Liberation Through Understanding
 
-Donohue does not ask the reader to abandon Christianity. He invites them to complete it. Belief gives way to insight. Authority shifts from external structures to inner clarity. Fear yields to responsibility.
+Donohue does not ask to abandon Christianity. He invites us to complete it. Belief gives way to insight. Authority shifts from external structures to inner clarity. Fear yields to responsibility.
 
 This does not lead to isolation or superiority. It leads to maturity.
 

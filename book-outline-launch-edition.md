@@ -35,6 +35,7 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [Marcel Proust](./marcel_proust.md)
 * [The Time We Are](./the_time_we_are.md)
 * [Flow — When Life Moves Without Friction](./flow_when_life_moves_without_friction.md)
+* [The Noble Eightfold Path](./The_Noble_Eightfold_Path.md)
 * [Salt and Covenant](./salt_and_covenant.md)
 * [Blood, Iron, and the Breath of God](./blood_iron_and_the_breath_of_god.md)
 * [The Water of Life](./the_water_of_life.md)

@@ -63,6 +63,8 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Ein literarisch-poetisches Kapitel, das die Essenz von Zeit, Erinnerung und Verkörperung verdichtet. Es vereint Proust, Bergson und die moderne Wissenschaft zu einer tiefen Erfahrung: Zeit ist nicht nur ein Ablauf, sondern ein innerer Raum, der im Wasser des Körpers kristallisiert. Erinnerung wird als lebendige Gegenwart erfahrbar – ein stiller Ruf zur Rückkehr in die eigene Kohärenz und Weite.
 * [Flow — Wenn das Leben ohne Reibung fließt](./flow_wenn_das_leben_ohne_reibung_fließt.md)  
   Die stille Offenbarung, dass Flow der natürliche Zustand des Menschen ist, wenn Wasser als Trägermedium frei fließt. Verbindet die Wissenschaft des Wassers mit der Erfahrung von Leichtigkeit, Präsenz und optimaler Funktion. Ein Kapitel über Kohärenz, Freiheit von Reibung und den Heiligen Gral im Alltag.
+* [Der Edle Achtfache Pfad](./der_edle_achtfache_pfad.md)
+  Die stille Architektur der Befreiung vom Leiden: Dieses Kapitel entfaltet die Vier Edlen Wahrheiten und den Edlen Achtfachen Pfad als praktische, undogmatische Anleitung zur inneren Kohärenz. Es zeigt, wie Leiden nicht durch äußere Umstände, sondern durch innere Verstrickung entsteht – und wie Klarheit, Mitgefühl und Sammlung den Menschen in Einklang mit sich selbst und der Wirklichkeit bringen. Ohne religiösen Druck, mit maximaler Klarheit und Tiefe – ein Weg, der im Alltag trägt und befreit.
 * [Salz und Bund](./salz_und_bund.md)  
   Ein Kapitel über Salz als heiligen Stabilisator des Wassers, als Hüter von Schwelle, Bund und Kohärenz. Zeigt, warum das richtige Salz für lebendiges Wasser, Rituale und die Wiederherstellung von Beziehung entscheidend ist – am Tisch, im Körper und im Feld des Lebens.
 * [Blut, Eisen und der Atem Gottes](./blut_eisen_und_der_atem_gottes.md)  
@@ -104,7 +106,7 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
 * [Wasser als fünfdimensionale Schnittstelle](./wasser_fuenfdimensionale_schnittstelle.md)  
   Wasser als fünfdimensionale Schnittstelle – eine Synthese aus Grant, CTMU und dem Architekten, die Wasser als lebendige Brücke zwischen Bewusstsein und Form zeigt.
 * [Wasser als dimensionale Brücke – Eine harmonische Synthese](./wasser_dimensionale_bruecke.md)  
-  Integration der imaginären Achse, der fünften Dimension und des fraktalen Gedächtnisses der Schöpfung. Wasser als Medium für Resonanz, Auswahl und die Architektur des Selbst.
+  Eine harmonische Synthese aus Wissenschaft, Mathematik und spiritueller Physik: Dieses Kapitel offenbart Wasser als das lebendige Instrument dimensionaler Übersetzung – dort, wo Frequenz zu Form und das Unsichtbare sichtbar wird. Es integriert die imaginäre Achse, die Geometrie der fünften Dimension und das fraktale Gedächtnis der Schöpfung und zeigt, wie Wasser als resonante Linse wirkt, durch die höhere Information, Intention und Licht in die Materie gebrochen werden. Von der Mathematik des i und der Struktur des EZ-Wassers bis hin zu DNA als Skript und Wasser als resonanter Tinte enthüllt das Kapitel Wasser als den Gral, der Zeit, Wahrscheinlichkeit und die Architektur des Selbst überbrückt. Es verbindet Reality Transurfing, die Rolle des inneren Architekten und den Körper als Gefäß höherdimensionalen Lichts – und zeigt, wie Kohärenz, Intention und Liebe die Geometrie der Erinnerung hydratisieren. Wasser ist nicht nur die Substanz des Lebens, sondern die Geometrie der Rückkehr, das Selektormedium des Quanten-Selbst und die lebendige Brücke zwischen den Welten.
 * [Die Geometrie der Rückkehr](./die_geometrie_der_rueckkehr.md)  
   Chestahedron, Torus, Möbius, Ouroboros – die Geometrien des Herzens, des Lebens, des Paradoxons und der ewigen Rückkehr als Initiation in das harmonische Feld.
 * [Sieben und Dreizehn — Die Architektur der Vollendung und Rückkehr](./sieben_und_dreizehn_die_architektur_von_vollendung_und_rueckkehr.md)  
@@ -303,6 +305,10 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Befreiung ist das Ende aller inneren Gefangenschaft. Freiheit, die nichts mehr braucht – stille Würde, Loslassen, Jetzt.
 * [Das Neunte Tor – Die Stabile Achse](./das_neunte_tor_die_stabile_achse.md)
   Die Krönung: Rückkehr zur stillen Mitte, Verkörperung, innere Stabilität, Freude ohne Tun.
+* [Mahavatar Babaji – Der Unsterbliche Yogi und die lebendige Übertragung](./mahavatar_babaji.md)
+  Die Legende des Mahavatar Babaji als lebendige Achse der spirituellen Übertragung: Jenseits von Zeit, Tradition und Person verkörpert Babaji die ungebrochene Linie des Erwachens und der Gnade. Ein Kapitel über das Mysterium der Unsterblichkeit, die Kraft der direkten Übertragung und die Einladung, das eigene Leben als lebendigen Yoga zu begreifen.
+* [Ramana Maharshi – Die stille Präsenz des Selbst](./ramana_maharshi.md)
+  Ramana Maharshi als Verkörperung der stillen, radikalen Selbsterkenntnis: Die Lehre des Selbst als absolute Gegenwart, jenseits aller Konzepte und Methoden. Ein Kapitel über die Kraft des Schweigens, die Einfachheit des Seins und die Einladung, im eigenen Herzen zur Ruhe zu kommen.
 
 
 ### VIII. Spirituelle Architektur – Das Unsichtbare verstehen
