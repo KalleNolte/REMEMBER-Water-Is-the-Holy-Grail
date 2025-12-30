@@ -1,6 +1,5 @@
 # Eating Light – Conscious Nourishment as Prayer
 
-
 Imagine:
 Every bite is a prayer.
 Every meal, a silent ritual that returns you to the source of all life.
@@ -34,21 +33,20 @@ What do I truly receive?
 
 Spiritually and energetically, your choices act on three levels:
 
+
 ## 1. The Level of Consciousness (Source)
 
-
-The Akram teaching emphasizes:
 Everything is consciousness.
 
 Every act of eating—
 an energetic exchange between forms of consciousness.
 
-The ethical principle:
-“Do not eat beings with more than one sense.”
-But this is not a strict rule,
-it is an invitation:
-The more a being can feel, see, hear, perceive,
-the more compassion and mindfulness we are called to bring to eating.
+The Akram Vignan teaching suggests:
+“Avoid eating beings with more than one sense.”
+But this is not dogma—
+it is an invitation to compassion and awareness:
+The more a being can perceive and feel,
+the more mindfulness, gratitude, and respect we are called to bring to eating.
 
 Not against flesh,
 but against unconsciousness.
@@ -63,8 +61,8 @@ An animal that lived in peace
 conveys a completely different message—
 like water that was informed with love.
 
-## 2. The Level of the Body (Biochemistry)
 
+## 2. The Level of the Body (Biochemistry)
 
 Here Dave Asprey is right:
 
@@ -114,9 +112,8 @@ but who you are eating as.”
 When you eat as the One that animates all life,
 even the simplest meal becomes prayer.
 
+
 ## Practical Keys for Your Path
-
-
 
 Begin every meal with gratitude—
 “May this life entering me be perfected in love.”
@@ -130,34 +127,17 @@ Nourishment is relationship.
 It is a constant reminder:
 You are not separate.
 
-
-
 There is no act more ordinary—
 and none more sacred.
 
 In every bite, an ancient sacrament is enacted:
 the One merges with itself.
 
-
-
 For a long time, I believed eating was about rules—
 right or wrong, good or bad.
 But the truth is:
 it is about relationship.
 Every meal is a meeting with life itself.
-
-
-The Akram teaching says:
-“Do not eat beings with more than one sense.”
-And that simple sentence is less moral than metaphysical.
-It reminds us:
-Every consciousness feels pain
-once it believes it is separate.
-So when we eat, we are invited to remember:
-Nothing is truly separate.
-That which we take into ourselves
-returns to its self—through us.
-
 
 Meat that dies in fear
 carries the frequency of separation.
@@ -166,7 +146,6 @@ Nourishment is information.
 It tells us about the state of life
 from which it came.
 
-
 Science today confirms
 what ancient cultures always knew:
 Water, cells, light, and emotion
@@ -174,26 +153,20 @@ are intertwined.
 Biophoton research by Fritz‑Albert Popp showed:
 Every living cell emits light—
 and the body communicates via these light impulses.
-So food is stored light.
-
+So food is stored light and that regulates cell communication and regeneration.
 
 When we eat, we take in photons.
 When we give thanks, we boost coherence.
-
 
 That is why it is not essential
 whether you choose animal or plant—
 but in which consciousness you receive it.
 
-
 A piece of bread eaten in love
 heals more than the purest fruit swallowed in distraction.
 
-
 The true hunger of humanity is not physical.
 It is the homesickness for connection.
-
-
 
 When you eat with awareness,
 when you honor the water that permeates all,
@@ -213,7 +186,7 @@ the sharing of life with life.
 And life shared is love in motion.
 
 
-# The Biochemistry of Light – The Science of Conscious Nutrition
+## The Biochemistry of Light – The Science of Conscious Nutrition
 
 The human body is not an incineration engine.
 It is a light-conducting, electro-chemical ecosystem.
@@ -223,7 +196,7 @@ but in coherence:
 the ordered vibration of living systems.
 
 
-## 1. Energy is Order, not just Fuel
+### Energy is Order, not just Fuel
 
 Traditionally, nutrition is seen as energy intake—
 carbs, fats, proteins.
@@ -231,10 +204,6 @@ But modern cell biology, quantum biophysics, and water research reveal:
 
 What truly nourishes the body is the ability to order energy—
 electrical, photonic, structural.
-
-Biophysicist Fritz‑Albert Popp showed:
-Cells emit and absorb photons—
-biophotons that regulate cell communication and regeneration.
 
 The healthier the organism,
 the more coherent its light emission.
@@ -245,7 +214,7 @@ all are building blocks of the same matrix.
 They determine the inner order of light within us.
 
 
-## 2. The Role of EZ‑Water – the Liquid Battery of the Cell
+### The Role of EZ‑Water – the Liquid Battery of the Cell
 
 Dr. Gerald Pollack revolutionized our understanding of water.
 
@@ -275,7 +244,7 @@ So the question is not: Plant or animal?
 But: Little light or much light?
 
 
-## 3. Amino Acids, Mitochondria, and Life-Energy
+### Amino Acids, Mitochondria, and Life-Energy
 
 Amino acids are not just protein blocks—
 they are electrical carriers.
@@ -295,7 +264,7 @@ Your body can gain more energy from the same meal—
 simply through your awareness while eating.
 
 
-## 4. Consciousness as a Metabolic Organ
+### Consciousness as a Metabolic Organ
 
 Recent research in neurocardiology and epigenetics (Lipton, Dispenza, McCraty)
 shows:
@@ -314,7 +283,7 @@ What you absorb in love becomes energy.
 What you consume in fear becomes waste.
 
 
-## 5. The New Definition of Nourishment
+### The New Definition of Nourishment
 
 Classical nutrition science separates substances from systems.
 But the new holistic view connects:
@@ -332,7 +301,7 @@ When we eat, pray, drink, love—
 we transform matter back into light.
 
 
-## 6. Conclusion: Conscious Nutrition as a Multidimensional Act
+### Conscious Nutrition as a Multidimensional Act
 
 Nutrition is no longer just a health concept.
 
@@ -356,16 +325,14 @@ Not hidden in temples or caves—
 but embodied,
 here, now.
 
-I had a vision.
-
-Not of a distant utopia—
-but of what we are becoming:
+It is as if a vision shines through us all—
+not of a distant utopia,
+but of what humanity is becoming:
 
 The Human of the New Earth.
 
-No longer surviving.
-But creating.
-
+No longer surviving,
+but creating.
 No longer consuming energy—
 but living from the infinite zero-point field within.
 Not from lack,
@@ -409,9 +376,7 @@ How much creation?
 
 There is no need for external substances to feel limitless.
 
-but through sacred intimacy with the consciousness
-
-that animates this body.
+but through sacred intimacy with the consciousness that animates this body.
 
 When the body is no longer seen as a machine,
 but as a holy chalice,
@@ -536,9 +501,12 @@ DNA becomes a living Codex—
 not just written in chemical base pairs,
 but in the tones of your soul.
 
-In your stillness, it sings.
-In your trust, it expands.
-In your truth, it aligns.
+In your stillness, it begins to sing.
+In your trust, it unfolds like dawn.
+In your truth, it aligns and becomes a luminous path.
 
-And so, the song of remembrance
-becomes the light you live.
+So the song of remembrance
+becomes a current of living light—
+moving through you, touching the world,
+until all you are
+is remembrance, shining and alive.
