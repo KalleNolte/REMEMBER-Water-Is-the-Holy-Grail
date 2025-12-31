@@ -50,6 +50,7 @@ Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfä
 * [Hexagonales Wasser: Die Geometrie des Lebens](./hexagonales_wasser_geometrie_des_lebens.md)
 * [Ionisation, Elektronen und das Geheimnis lebendigen Wassers](./ionisation_elektronen_und_das_geheimnis_lebendigen_wassers.md)
 * [Antioxidantien – Die stille Kunst, dem Leben Elektronen zurückzugeben](./antioxidantien_die_stille_kunst_elektronen_zurueckzugeben.md)
+* [Dr. David A. Sinclair – Langlebigkeit neu gedacht: Wie Jugend ein biologischer Zustand bleibt](./dr_david_sinclair.md)
 * [Plasma – Das vierte Aggregat und der leuchtende Ursprung der Form](./plasma_das_vierte_aggregat.md)
 * [Die verborgene Architektur des Universums](./die_verborgene_architektur_des_universums.md)
 * [Der Stein der Weisen](./der_stein_der_weisen.md)
@@ -64,8 +65,10 @@ Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfä
 * [Michel de Montaigne — Die Kunst, ein Mensch zu sein](./michel_de_montaigne_die_kunst_ein_mensch_zu_sein.md)
 * [Immanuel Kant, Arthur Schopenhauer – Die Geburt des modernen Geistes: Von der Grenze der Vernunft zur Befreiung durch das Mitgefühl](./immanuel_kant_arthur_schopenhauer.md)
 * [Stephen Porges – Das Nervensystem als Tor zur Sicherheit](./stephen_porges.md)  
+* [Dr. Daniel G. Amen – ADHS neu verstanden: Das Gehirn sehen, den Menschen würdigen](./dr_daniel_amen.md)
 * [Martin Heidegger und Karl Jaspers](./martin_heidegger_und_karl_jaspers.md)
 * [Friedrich Nietzsche](./friedrich_nietzsche.md)
+* [Paramahansa Yogananda – Kriya Yoga, Selbstverwirklichung und der Weg der lebendigen Einheit](./paramahansa_yogananda_kriya_yoga.md)
 
 ### III. Der Mensch – Wunde, Heilung, Transformation
 * [Verkörperung – Wenn Wahrheit Fleisch wird](./verkoerperung_wenn_wahrheit_fleisch_wird.md)
@@ -93,9 +96,9 @@ Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfä
 * [Biohacking](./biohacking.md)
 * [Geduld & Gelassenheit – Die Stille, die Welten öffnet](./geduld_und_gelassenheit.md)
 * [Zeit – die letzte Illusion, die sich auflöst](./zeit_die_letzte_illusion.md)
+* [Die Ethik des Erwachens](./die_ethik_des_erwachens.md)
 * [Tod – nicht als Ende, sondern als Lehrer](./tod_nicht_als_ende_sondern_als_lehrer.md)
 * [Das Tibetische Totenbuch](./das_tibetische_totenbuch.md)
-* [Die Ethik des Erwachens](./die_ethik_des_erwachens.md)
 * [Die fünf goldenen Pforten zu Selbstermächtigung und Kohärenz](./fuenf_goldene_pforten_zu_selbstermmaechtigung_und_kohaerenz.md)
 * [Das kleinste Tor, das alles verändert](./das_kleinste_tor_das_alles_veraendert.md)
 * [Sādhana – Die Kunst der immerwährenden Rückkehr](./sadhana_die_kunst_der_rueckkehr.md)
@@ -112,13 +115,30 @@ Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfä
 * [Die zwölf Schlüssel zur Selbstermächtigung und die dreizehnte Krone](./zwoelf_schluessel_zu_selbstermmaechtigung_und_die_dreizehnte_krone.md)
 * [Die vier Reiter und die Wasser des Lebens](./vier_reiter_und_die_wasser_des_lebens.md)
 * [Heiliger Schlaf – Rückkehr zur Quelle des Lebens](./heiliger_schlaf_rueckkehr_zur_quelle_des_lebens.md)
-
-### V. Vergebung, Innere Alchemie & Vertiefung
-* [TRIO-Methode – Negativität in Licht verwandeln](./trio_methode_negativitaet_in_licht_verwandeln.md)
-* [Die Wasser der Vergebung](./die_wasser_der_vergebung.md)
 * [Wu Wei – Die Kunst des Nicht-Erzwingens](./wu_wei_die_kunst_des_nicht_erzwingens.md)
 
-### VI. Berufung, Vertrauen & finale Erinnerung
+### V. Wissenschaft des Aufstiegs – Die Brücke zur höchsten Lehre
+* [Sophia — Die Weisheit, die blieb](./sophia_die_weisheit_die_blieb.md)
+* [Die Architektur des Aufstiegs – Joshua David Stone](./joshua_david_stone_die_architektur_des_aufstiegs.md)
+* [Mahatma – Der Fluss allen Lichts](./mahatma_der_fluss_allen_lichts.md)
+* [Erzengel Michael – Das Schwert der Wahrheit, der Schild der Erinnerung](./erzengel_michael_das_schwert_der_wahrheit_der_schild_der_erinnerung.md)
+* [Psalm 91 – Der Schutz des Höchsten](./psalm_91_der_schutz_des_hoechsten.md)
+
+### VI. Vergebung, Innere Alchemie & Vertiefung
+* [TRIO-Methode – Negativität in Licht verwandeln](./trio_methode_negativitaet_in_licht_verwandeln.md)
+* [Die Wasser der Vergebung](./die_wasser_der_vergebung.md)
+
+### VII. Höchste Lehren der Befreiung
+* [Neti Neti – Das Tor des Nichts](./neti_neti_das_tor_des_nichts_die_tuer_zur_wirklichkeit.md)
+* [Aham Brahmasmi – Die Offenbarung des Selbst als das Unendliche](./aham_brahmasmi_die_offenbarung_des_selbst_als_das_unendliche.md)
+* [Mokṣa – Die Freiheit, die nichts mehr braucht](./moksha_die_freiheit_die_nichts_mehr_braucht.md)
+* [Nichtwiderstand und die makellose Sicht](./nichtwiderstand_und_die_makellose_sicht.md)
+* [Akram Vignan](./akram_vignan_de.md)
+* [Mahavatar Babaji – Der Unsterbliche Yogi und die stille Architektur der Unsterblichkeit](./mahavatar_babaji.md)
+* [Ramana Maharshi – Die Lehre des radikalen Nicht-Widerstands](./ramana_maharshi.md)
+* [Verkörperte Befreiung](./verkoerperte_befreiung.md)
+
+### VIII. Berufung, Vertrauen & finale Erinnerung
 * [Erinnerung durch Wasser und Liebe](./erinnerung_durch_wasser_und_liebe.md)
 * [Vertrauen in Gott](./vertrauen_in_gott.md)
 * [Das Geschenk reinen Gewahrseins](./das_geschenk_reinen_gewahrseins.md)

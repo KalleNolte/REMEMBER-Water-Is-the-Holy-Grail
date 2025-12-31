@@ -50,6 +50,7 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)
 * [Ionisation, Electrons, and the Secret of Living Water](./ionisation_electrons_and_the_secret_of_living_water.md)
 * [Antioxidants — The Art of Giving Electrons Back to Life](./antioxidants_the_art_of_giving_electrons_back_to_life.md)
+* [Dr. David A. Sinclair – Rethinking Longevity: Why Aging Is a Biological Process, Not a Fate](./dr_david_sinclair_en.md)
 * [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)
 * [The Hidden Architecture of the Universe](./the_hidden_architecture_of_the_universe.md)
 * [The Philosopher’s Stone](./the_philosophers_stone.md)
@@ -63,9 +64,10 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [Antonio Damasio – Feeling, Body, and Consciousness](./antonio_damasio_en.md)
 * [Michel de Montaigne — The Art of Being Human](./michel_de_montaigne_the_art_of_being_human.md)
 * [Stephen Porges – The Nervous System as the Gateway to Safety](./stephen_porges_en.md)
+* [Dr. Daniel G. Amen – ADHD Reimagined: Seeing the Brain, Honoring the Human](./dr_daniel_amen_en.md)
 * [Martin Heidegger and Karl Jaspers – Existential Honesty, Responsibility, and the Courage to Become Real](./martin_heidegger_and_karl_jaspers.md)
 * [Friedrich Nietzsche](./friedrich_nietzsche.md)
-
+* [Paramahansa Yogananda – Kriya Yoga, Self-Realization, and the Path of Living Unity](./paramahansa_yogananda_kriya_yoga_en.md)
 
 ### III. The Human – Wound, Healing, Transformation
 * [Embodiment — When Truth Becomes Flesh](./embodiment_when_truth_becomes_flesh.md)
@@ -81,7 +83,6 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [Chakras and Archons](./chakras_and_archons.md)
 * [The Alchemy of Grief – When Pain Becomes Light](./alchemy_of_grief_when_pain_becomes_light.md)
 
-### IV. Practical Mastery – Core Keys for Daily Life
 * [Trauma — When Memory Freezes](./trauma_when_memory_freezes.md)
 * [The Regulated Nervous System](./the_regulated_nervous_system.md)
 * [The AzurA Point — The Rod and the Staff Within the Human Body](./the_azura_point_the_rod_and_the_staff_within_the_human_body.md)
@@ -112,13 +113,30 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [Chopping Wood, Carrying Water](./chopping_wood_carrying_water.md)
 * [The Four Riders and the Waters of Life](./the_four_riders_and_the_waters_of_life.md)
 * [Sacred Sleep — Return to Source of Life](./sacred_sleep_return_to_source_of_life.md)
-
-### V. Forgiveness, Inner Alchemy & Advanced Integration
-* [The TRIO Method — Transmuting Negativity into Light](./the_trio_method.md)
-* [The Waters of Forgiveness](./the_waters_of_forgiveness.md)
 * [Wu Wei — The Art of Not Forcing](./wu_wei_the_art_of_not_forcing.md)
 
-### VI. Calling, Trust & Final Remembrance
+### V. Science of Ascension – The Bridge to Supreme Teaching
+* [Sophia — The Wisdom That Chose to Stay](./Sophia_The_Wisdom_That_Chose_to_Stay.md)
+* [The Architecture of Ascension – Joshua David Stone](./joshua_david_stone_the_architecture_of_ascension.md)
+* [Mahatma – The River of All Light](./mahatma_the_river_of_all_light.md)
+* [Archangel Michael – The Sword of Truth, the Shield of Remembrance](./archangel_michael_the_sword_of_truth_the_shield_of_remembrance.md)
+* [Psalm 91 – The Protection of the Most High](./psalm_91_the_protection_of_the_most_high.md)
+
+### VI. Forgiveness, Inner Alchemy & Advanced Integration
+* [The TRIO Method — Transmuting Negativity into Light](./the_trio_method.md)
+* [The Waters of Forgiveness](./the_waters_of_forgiveness.md)
+
+### VII. Supreme Teachings of Liberation
+* [Neti Neti — The Gate of No-Thing, The Doorway to the Real](./neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md)
+* [Aham Brahmasmi — The Revelation of the Self as the Infinite](./aham_brahmasmi_the_revelation_of_the_self_as_the_infinite.md)
+* [Mokṣa — The Freedom That Needs Nothing](./moksha_the_freedom_that_needs_nothing.md)
+* [Non-Resistance and Flawless Vision](./non_resistance_and_flawless_vision.md)
+* [Akram Vignan](./akram_vignan.md)
+* [Mahavatar Babaji – The Eternal Yogi and the Silent Architecture of Immortality](./mahavatar_babaji_en.md)
+* [Ramana Maharshi – The Teaching of Radical Non-Resistance](./ramana_maharshi_en.md)
+* [Embodied Liberation](./embodied_liberation.md)
+
+### VIII. Calling, Trust & Final Remembrance
 * [Remembrance Through Water and Love](./remembrance_through_water_and_love.md)
 * [Trust in God](./trust_in_god.md)
 * [The Gift of Pure Awareness](./the_gift_of_pure_awareness.md)

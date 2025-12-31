@@ -94,6 +94,8 @@ Follow the temple path: from the threshold, through origin and foundation, to ma
 	What ORP really measures, why electrons determine order, aging, and regeneration, and how water acts as a transport medium for electrons—scientifically accurate, clear, and accessible.
 * [Antioxidants — The Art of Giving Electrons Back to Life](./antioxidants_the_art_of_giving_electrons_back_to_life.md)  
 	A clear, practical, and integrative chapter on antioxidants as the art of restoring electrical order to life. Explains the true context of antioxidants, the primacy of water as an electron carrier, the role of molecular hydrogen, negative ions, and key nutrients. Shows why antioxidants support, but cannot substitute for, coherent water and integration. Practical, accessible, and foundational for understanding health as an electrical phenomenon.
+* [Dr. David A. Sinclair – Rethinking Longevity: Why Aging Is a Biological Process, Not a Fate](./dr_david_sinclair_en.md)  
+	How Dr. David Sinclair reframes aging as a modifiable biological process. This chapter synthesizes cutting-edge genetics, epigenetics, and molecular biology with practical levers for extending healthspan. It reveals how sirtuins, fasting, movement, and conscious lifestyle choices can preserve cellular youth—and why aging is not destiny, but a question of information and self-stewardship.
 * [Plasma — The Fourth State, the Living Threshold of Creation](./plasma_the_fourth_state.md)  
 	Plasma as the most abundant, yet least understood, state of matter. Explores plasma as the living threshold between matter and field, the bridge between water and consciousness, and the medium of cosmic intelligence. Integrates modern physics, ancient wisdom, and the science of coherence.
 * [The Hidden Architecture of the Universe](./the_hidden_architecture_of_the_universe.md)
@@ -134,10 +136,14 @@ Follow the temple path: from the threshold, through origin and foundation, to ma
 	Kant and Schopenhauer stand as the architects of philosophical maturity: Kant reveals that reality is always mediated by the mind’s structures, while Schopenhauer uncovers the restless Will behind all appearances. Together, they mark the threshold from naïve realism to a deeper, more honest encounter with experience—where meaning, suffering, and freedom are inseparable from perception itself. This chapter traces their lineage, from Hume and Spinoza to Nietzsche and Husserl, showing how each dared to look behind the world and pay the price of honesty. Their insights prepare the ground for everything that follows: the understanding of coherence, water as medium, the body as interface, and liberation as a transformation in how the world is inhabited. Between Kant’s precision and Schopenhauer’s honesty, wisdom begins.
 * [Stephen Porges – The Nervous System as the Gateway to Safety](./stephen_porges_en.md)  
 	How Stephen Porges' Polyvagal Theory reveals the nervous system as the foundation for safety, connection, and healing—bridging the science of water, feeling, and embodiment. This chapter serves as a narrative bridge from the science of water to the human experience of safety, trauma, and transformation.
+* [Dr. Daniel G. Amen – ADHD Reimagined: Seeing the Brain, Honoring the Human](./dr_daniel_amen_en.md)
+	A groundbreaking chapter on the work of Dr. Daniel Amen, who made the human brain visible and redefined ADHD as a family of diverse brain profiles. This chapter invites the reader to shed old judgments, recognize the brain as a wonder, and experience self-empowerment through understanding, individualization, and dignity. A key text for anyone seeking to understand themselves or others more deeply—at the intersection of neuroscience, psychology, and lived humanity.
 * [Martin Heidegger and Karl Jaspers](./martin_heidegger_and_karl_jaspers.md)  
 	Existential honesty and the courage to become real: This chapter explores the philosophical depth of Heidegger and Jaspers, showing how their work provides the existential backbone for coherence, embodiment, and awakening. It invites the reader to move beyond abstraction and self-deception, integrating responsibility, freedom, and truthfulness as the living ground for all transformation. The path becomes real where existence is no longer outsourced, but lived.
 * [Friedrich Nietzsche](./friedrich_nietzsche.md)
 	Radical honesty, the trial of truth, and the courage to stand at one’s own height: Nietzsche breaks systems open, challenges borrowed meaning, and demands responsibility. He provides the backbone for coherence, dignity, and the integration of shadow—ensuring that liberation is not comfort, but the birth of true freedom and wholeness.
+* [Paramahansa Yogananda – Kriya Yoga, Self-Realization, and the Path of Living Unity](./paramahansa_yogananda_kriya_yoga_en.md)
+	A living portrait of Paramahansa Yogananda as a bridge between East and West, science and mysticism, body and consciousness. This chapter unfolds Kriya Yoga as a precise practice of self-realization, where breath, nervous system, and love merge into a coherent experience. It invites the reader to experience spirituality as living unity—beyond dogma, in quiet, human depth.
 
 ### III. The Human - Healing, Remembrance, Transformation
 
@@ -295,6 +301,11 @@ Follow the temple path: from the threshold, through origin and foundation, to ma
     Liberation is freedom without need. The end of all captivity.
 * [The Ninth Gate – The Stable Axis](./the_ninth_gate_the_stable_axis.md)
     The axis of presence. The posture of supreme coherence.
+* [Mahavatar Babaji – The Eternal Yogi and the Silent Architecture of Immortality](./mahavatar_babaji_en.md)
+	The legend of Mahavatar Babaji as the living axis of spiritual transmission: beyond time, tradition, and person, Babaji embodies the unbroken lineage of awakening and grace. A chapter on the mystery of immortality, the power of direct transmission, and the invitation to recognize one’s own life as living yoga.
+* [Ramana Maharshi – The Teaching of Radical Non-Resistance](./ramana_maharshi_en.md)
+	Ramana Maharshi embodies the purest teaching of non-resistance, love, and gratitude—without method, effort, or ideal. Through the simple question “Who am I?”, he dissolves all striving and points to the effortless presence that remains when identification ends. This chapter reveals the ultimate synthesis: nothing needs to be healed or improved when the true self is recognized. A living antidote for our age of spiritual seeking, inviting the reader to rest in what is already whole.
+	
 
 ### VIII. Spiritual Architecture – Understanding the Invisible
 * [Silent Creator – From Witness to Co-Creator](./silent_creator_from_witness_to_cocreator.md)

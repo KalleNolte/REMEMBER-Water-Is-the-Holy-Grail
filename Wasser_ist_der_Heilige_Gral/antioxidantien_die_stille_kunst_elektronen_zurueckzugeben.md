@@ -194,7 +194,6 @@ Spirulina ist eine blaugrüne Mikroalge, die seit Milliarden Jahren Leben auf de
 **Warum das zählt:**
 Die antioxidative Kraft von Spirulina beruht nicht nur auf Vitaminen und Mineralien, sondern vor allem auf einzigartigen Pigmenten und Enzymen, die freie Radikale neutralisieren und die Mitochondrien schützen. Die hohe Bioverfügbarkeit macht Spirulina zu einem echten Energie- und Regenerations-Booster.
 
-
 ## Chlorella — Die grüne Entgifterin und Zellregeneratorin
 
 Chlorella ist eine einzellige Grünalge, die für ihre Fähigkeit bekannt ist, Schwermetalle, Toxine und Umweltgifte zu binden und auszuscheiden. Sie ist reich an Chlorophyll, Antioxidantien und Wachstumsfaktoren, die die Zellerneuerung fördern.
@@ -209,6 +208,33 @@ Chlorella ist eine einzellige Grünalge, die für ihre Fähigkeit bekannt ist, S
 **Warum das zählt:**
 Chlorella unterstützt die Entgiftung und Zellerneuerung besonders in einer Welt voller Umweltbelastungen. Ihre antioxidativen und entzündungshemmenden Eigenschaften schützen die Zellen und fördern nachhaltige Gesundheit.
 
+
+## MSM — Methylsulfonylmethan: Die organische Schwefelquelle
+
+MSM ist eine natürliche Schwefelverbindung, die für viele Prozesse im Körper essenziell ist. Sie unterstützt nicht nur die Gelenkgesundheit, sondern wirkt auch als Antioxidans und Entzündungshemmer.
+MSM ist kein klassisches Antioxidans, das direkt freie Radikale neutralisiert. Vielmehr liefert es organischen Schwefel, der für den Aufbau und die Reparatur von Bindegewebe, die Entgiftung und die Zellstruktur essenziell ist. MSM fördert die körpereigene Regeneration und Entgiftung, unterstützt die Bildung von Glutathion (einem der wichtigsten körpereigenen Antioxidantien) und verbessert die Durchlässigkeit der Zellmembranen, sodass Nährstoffe und Antioxidantien effektiver wirken können. So stärkt MSM die Grundlage für antioxidative Aktivität, Regeneration und Widerstandskraft – und macht andere Antioxidantien wirksamer. Es ist ein Synergist, kein direkter Elektronenspender.
+
+**Wichtige Vorteile:**
+* Fördert die Bildung von Kollagen und Bindegewebe
+* Unterstützt die Entgiftung und Regeneration
+* Reduziert oxidativen Stress und Entzündungen
+* Kann Schmerzen lindern und die Beweglichkeit verbessern
+
+**Warum das zählt:**
+MSM trägt dazu bei, die Zellstruktur zu stabilisieren und die antioxidative Kapazität des Körpers zu erhöhen. Besonders in Kombination mit anderen Antioxidantien kann MSM die Regeneration und Widerstandskraft des Körpers stärken.
+
+## Coenzym Q10 — Der Zellenergie-Booster (Ubiquinol)
+
+Coenzym Q10, insbesondere in der aktiven Form Ubiquinol, ist ein zentrales Antioxidans und Energielieferant für die Zellen. Es spielt eine Schlüsselrolle in der mitochondrialen Energieproduktion und schützt vor oxidativem Stress.
+
+**Wichtige Vorteile:**
+* Fördert die ATP-Bildung und Zellenergie
+* Schützt Herz, Gefäße und Nervensystem
+* Stärkt die antioxidative Kapazität der Zellen
+* Unterstützt Regeneration, Leistungsfähigkeit und Langlebigkeit
+
+**Warum das zählt:**
+Ubiquinol ist die bioaktive Form von Coenzym Q10 und wird vom Körper besonders gut aufgenommen. Es schützt die Mitochondrien, fördert die Energieproduktion und kann Alterungsprozesse verlangsamen. Gerade bei erhöhtem Stress, körperlicher Belastung oder im Alter ist Ubiquinol ein wertvoller Unterstützer für Vitalität und Zellschutz.
 
 ## Methylenblau — Der mitochondriale Katalysator
 

@@ -193,6 +193,33 @@ Chlorella is a single-celled green alga renowned for its ability to bind and rem
 **Why It Matters:**
 Chlorella’s ability to support detoxification and cellular renewal makes it especially valuable in modern environments where exposure to pollutants is common. Its antioxidant and anti-inflammatory properties further protect cells from oxidative damage and support long-term health.
 
+## MSM — Methylsulfonylmethane: The Organic Sulfur Source
+
+MSM is a natural sulfur compound essential for many processes in the body. It supports joint health, acts as an antioxidant, and helps reduce inflammation.
+While MSM is not a classic antioxidant (it does not directly neutralize free radicals), it provides organic sulfur that is essential for building and repairing connective tissue, supporting detoxification, and maintaining cellular structure. MSM helps reduce inflammation and oxidative stress indirectly by enabling the body’s natural repair and detox pathways, and by supporting the synthesis of glutathione—one of the body’s most important endogenous antioxidants. MSM improves cell membrane permeability, helping nutrients and antioxidants work more effectively. In this way, MSM strengthens the foundation for antioxidant activity, regeneration, and resilience—making all other antioxidants more effective. It’s a synergist, not a direct electron donor.
+
+**Key Benefits:**
+* Promotes collagen and connective tissue formation
+* Supports detoxification and regeneration
+* Reduces oxidative stress and inflammation
+* May help relieve pain and improve mobility
+
+**Why It Matters:**
+MSM helps stabilize cell structure and increases the body’s antioxidant capacity. Especially in combination with other antioxidants, MSM can enhance regeneration and resilience.
+
+## Coenzyme Q10 — The Cellular Energy Booster (Ubiquinol)
+
+Coenzyme Q10, especially in its active form Ubiquinol, is a central antioxidant and energy supplier for cells. It plays a key role in mitochondrial energy production and protects against oxidative stress.
+
+**Key Benefits:**
+* Promotes ATP production and cellular energy
+* Protects heart, blood vessels, and nervous system
+* Strengthens the cell’s antioxidant capacity
+* Supports regeneration, performance, and longevity
+
+**Why It Matters:**
+Ubiquinol is the bioactive form of Coenzyme Q10 and is especially well absorbed by the body. It protects mitochondria, boosts energy production, and may slow aging processes. Particularly under stress, physical exertion, or with age, Ubiquinol is a valuable supporter for vitality and cell protection.
+
 ## **Methylene Blue — The Mitochondrial Catalyst**
 
 Methylene blue is a synthetic compound with a long history of medical use, now gaining renewed attention for its profound effects on mitochondrial function, cellular energy, and neuroprotection.

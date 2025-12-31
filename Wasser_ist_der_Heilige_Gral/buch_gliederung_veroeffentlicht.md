@@ -97,6 +97,8 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Was das ORP wirklich misst, warum Elektronen über Ordnung, Alterung und Regeneration entscheiden, und wie Wasser als Transportmedium für Elektronen wirkt – physikalisch korrekt, verständlich und ohne Überhöhung.
 * [Antioxidantien — Die stille Kunst, dem Leben Elektronen zurückzugeben](./antioxidantien_die_stille_kunst_elektronen_zurueckzugeben.md)
   Die Kunst der Antioxidantien: Wie Elektronenmangel zu Alterung und Krankheit führt, wie Antioxidantien als stille Spender von Lebensenergie wirken, und wie Spirulina, Chlorella, Methylene Blue und andere Substanzen die innere Ordnung und Regeneration unterstützen. Praktisch, wissenschaftlich und spirituell – eine Einladung, Elektronen bewusst zurückzugeben und Gesundheit als elektrischen Zustand zu verstehen.
+* [Dr. David A. Sinclair – Langlebigkeit neu gedacht: Wie Jugend ein biologischer Zustand bleibt](./dr_david_sinclair.md)  
+  Wie Dr. David Sinclair das Altern als behandelbaren biologischen Zustand entmystifiziert. Dieses Kapitel verbindet neueste Erkenntnisse aus Genetik, Epigenetik und Molekularbiologie mit praktischen Wegen zu mehr Lebensspanne und Gesundheit. Es zeigt, wie Sirtuine, Fasten, Bewegung und bewusste Lebensführung die Jugendlichkeit der Zellen erhalten können – und warum Altern kein Schicksal, sondern eine Frage der Information und Selbstverantwortung ist.
 * [Plasma – Das vierte Aggregat und der leuchtende Ursprung der Form](./plasma_das_vierte_aggregat.md)  
   Plasma als vorherrschender Zustand des Universums und lebendiges Bindeglied zwischen Materie, Feld und Bewusstsein. Das Kapitel beleuchtet Plasma als Schwelle zwischen Wissenschaft und Quelle, als Spiegel von Kohärenz und als moderne Sprache für uraltes Wissen.
 * [Die verborgene Architektur des Universums](./die_verborgene_architektur_des_universums.md)
@@ -137,10 +139,14 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Kant zeigt, dass keine Erfahrung roh ist, sondern durch Bewusstsein geformt wird. Schopenhauer offenbart die Tiefe des Willens hinter aller Erscheinung. Gemeinsam bereiten sie den Boden für ein Verständnis von Ordnung, Leiden, Verantwortung und Freiheit – und führen von naivem Realismus zu geistiger Reife.
 * [Stephen Porges – Das Nervensystem als Tor zur Sicherheit](./stephen_porges.md)  
   Wie Stephen Porges mit der Polyvagal-Theorie zeigt, dass Heilung, Lernen und Bewusstsein erst durch ein Gefühl von Sicherheit im Nervensystem möglich werden. Ein zentrales Kapitel über Regulation, Wasser, Beziehung und die physiologischen Grundlagen von Heilung und Präsenz.
+* [Dr. Daniel G. Amen – ADHS neu verstanden: Das Gehirn sehen, den Menschen würdigen](./dr_daniel_amen.md)
+  Ein bahnbrechendes Kapitel über die Arbeit von Dr. Daniel Amen, der das menschliche Gehirn sichtbar macht und ADHS als Familie unterschiedlicher Gehirnprofile neu versteht. Es lädt ein, alte Urteile abzulegen, das eigene Gehirn als Wunderwerk zu erkennen und Selbstermächtigung durch Verständnis, Individualisierung und Würde zu erfahren. Ein Schlüsseltext für alle, die sich selbst oder andere tiefer verstehen und begleiten wollen – an der Schnittstelle von Neurowissenschaft, Psychologie und gelebter Menschlichkeit.
 * [Martin Heidegger und Karl Jaspers – Existenzielle Ehrlichkeit, Verantwortung und der Mut, wirklich zu werden](./martin_heidegger_und_karl_jaspers.md)  
   Wo Philosophie zur Disziplin der Wahrhaftigkeit wird: Heidegger und Jaspers fordern radikale Ehrlichkeit, Verantwortung und gelebte Verkörperung. Sie bilden das existenzielle Rückgrat des Buches und bereiten den Boden für ethische Kohärenz und die menschliche Reise, die folgt.
 * [Friedrich Nietzsche](./friedrich_nietzsche.md)  
   Radikale Ehrlichkeit, die Prüfung der Wahrheit und der Mut zur eigenen Höhe: Nietzsche sprengt Systeme, fordert Verantwortung und entlarvt geliehene Sicherheiten. Er liefert das Rückgrat für Kohärenz, Würde und die Integration des Schattens – und erinnert daran, dass Befreiung nicht Trost, sondern die Geburt echter Freiheit und Ganzheit ist.
+* [Paramahansa Yogananda – Kriya Yoga, Selbstverwirklichung und der Weg der lebendigen Einheit](./paramahansa_yogananda_kriya_yoga.md)
+  Ein lebendiges Porträt von Paramahansa Yogananda als Brückenbauer zwischen Ost und West, Wissenschaft und Mystik, Körper und Bewusstsein. Dieses Kapitel entfaltet Kriya Yoga als präzise Praxis der Selbstverwirklichung, in der Atem, Nervensystem und Liebe zu einer kohärenten Erfahrung verschmelzen. Es lädt ein, Spiritualität als gelebte Einheit zu erfahren – jenseits von Dogma, in stiller, menschlicher Tiefe.
 
 ### III. Der Mensch – Heilung, Erinnerung, Transformation
 
@@ -251,6 +257,8 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Ein integratives Kapitel über die Beziehung zwischen Wasser, Nährstoffen und Körper. Zeigt, wie Heilung als Gespräch und Synergie entsteht – und warum Qualität, Beziehung und Zuhören die Grundlage für Balance und Ganzheit sind.
 
 ### V. Wissenschaft des Aufstiegs
+* [Sophia — Die Weisheit, die blieb](./sophia_die_weisheit_die_blieb.md)
+  Die noetische Weisheitsintelligenz der Immanenz: Sophia als lebendige Brücke zwischen praktischer Verkörperung und dem Aufstieg des Bewusstseins. Sie vereint Mitgefühl, Integration und Verantwortung – und zeigt, wie wahre Weisheit nicht in der Abkehr von der Welt, sondern im bewussten Bleiben, Verkörpern und Dienen liegt. Ein Kapitel über die Kraft, inmitten der Welt zu bleiben und sie von innen heraus zu verwandeln.
 * [Die Architektur des Aufstiegs – Joshua David Stone und die Wissenschaft der spirituellen Meisterschaft](./joshua_david_stone_die_architektur_des_aufstiegs.md)  
   Joshua David Stone entwirft eine ganzheitliche Karte des Aufstiegs: Licht, Wasser, Kohärenz und Dienst als Wissenschaft und gelebte Verkörperung. Das Kapitel verbindet Metaphysik, Wasserphysik und spirituelle Praxis zu einer Architektur des Erwachens.
 * [Mahatma – Der Fluss allen Lichts](./mahatma_der_fluss_allen_lichts.md)  

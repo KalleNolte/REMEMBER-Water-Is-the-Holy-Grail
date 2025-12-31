@@ -16,7 +16,6 @@ Each entry links to an existing chapter file.
 
 ## An Initiatic Journey — Short Edition
 
-
 ### Foreword
 * [Foreword](./foreword.md)
 
@@ -51,6 +50,9 @@ Each entry links to an existing chapter file.
 * [Frequency Medicine — When Water Remembers, Responds, and Reorganizes Reality](./Frequency_Medicine.md)
 * [Sound as Medicine](./sound_as_medicine.md)
 * [Hexagonal Water: The Geometry of Life](./hexagonal_water_geometry_of_life.md)
+* [Ionisation, Electrons, and the Secret of Living Water](./ionisation_electrons_and_the_secret_of_living_water.md)
+* [Antioxidants — The Art of Giving Electrons Back to Life](./antioxidants_the_art_of_giving_electrons_back_to_life.md)
+* [Dr. David A. Sinclair – Rethinking Longevity: Why Aging Is a Biological Process, Not a Fate](./dr_david_sinclair_en.md)
 * [The Philosopher’s Stone](./the_philosophers_stone.md)
 * [Causality Without Arrows: How Reality Chooses Itself](./causality_without_arrows_how_reality_chooses_itself.md)
 * [Information Is Being: The Grammar of Reality](./information_is_being_the_grammar_of_reality.md)
@@ -63,6 +65,7 @@ Each entry links to an existing chapter file.
 * [Michel de Montaigne — The Art of Being Human](./michel_de_montaigne_the_art_of_being_human.md)
 * [Immanuel Kant, Arthur Schopenhauer](./immanuel_kant_arthur_schopenhauer_en.md)
 * [Stephen Porges – The Nervous System as the Gateway to Safety](./stephen_porges_en.md)
+* [Dr. Daniel G. Amen – ADHD Reimagined: Seeing the Brain, Honoring the Human](./dr_daniel_amen_en.md)
 * [Martin Heidegger and Karl Jaspers – Existential Honesty, Responsibility, and the Courage to Become Real](./martin_heidegger_and_karl_jaspers.md)
 * [Friedrich Nietzsche](./friedrich_nietzsche.md)
 
@@ -85,12 +88,22 @@ Each entry links to an existing chapter file.
 * [Alchemy of Living Water: Practical Guide](./alchemy_of_living_water_practical_guide.md)
 * [Chopping Wood, Carrying Water](./chopping_wood_carrying_water.md)
 
-### V. Forgiveness & Inner Alchemy
+### V. Science of Ascension – The Bridge to Supreme Teaching
+* [Sophia — The Wisdom That Chose to Stay](./Sophia_The_Wisdom_That_Chose_to_Stay.md)
+* [The Architecture of Ascension – Joshua David Stone](./joshua_david_stone_the_architecture_of_ascension.md)
+
+### VI. Forgiveness & Inner Alchemy
 * [The TRIO Method — Transmuting Negativity into Light](./the_trio_method.md)
 * [The Waters of Forgiveness](./the_waters_of_forgiveness.md)
 
+### VII. Supreme Teachings of Liberation
+* [Neti Neti — The Gate of No-Thing, The Doorway to the Real](./neti_neti_the_gate_of_no_thing_the_doorway_to_the_real.md)
+* [Mokṣa — The Freedom That Needs Nothing](./moksha_the_freedom_that_needs_nothing.md)
+* [Non-Resistance and Flawless Vision](./non_resistance_and_the_immaculate_vision.md)
+* [Mahavatar Babaji – The Eternal Yogi and the Silent Architecture of Immortality](./mahavatar_babaji_en.md)
+* [Ramana Maharshi – The Teaching of Radical Non-Resistance](./ramana_maharshi_en.md)
 
-### VI. Calling, Trust & Final Remembrance
+### VIII. Calling, Trust & Final Remembrance
 * [Remembrance Through Water and Love](./remembrance_through_water_and_love.md)
 * [Trust in God](./trust_in_god.md)
 * [The Gift of Pure Awareness](./the_gift_of_pure_awareness.md)
