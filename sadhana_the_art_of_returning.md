@@ -1,5 +1,7 @@
 # Sādhana — The Art of Returning, Again and Again
 
+The word **Sādhana** (साधना) comes from the ancient Sanskrit root *sādh*, meaning "to accomplish, to bring to completion, to realize." In the living tradition of yoga and inner science, sādhana is not merely a practice, but the path by which the heart returns—again and again—to what is essential, real, and already whole.
+
 Sādhana is often misunderstood.
 
 It is not discipline imposed upon life.

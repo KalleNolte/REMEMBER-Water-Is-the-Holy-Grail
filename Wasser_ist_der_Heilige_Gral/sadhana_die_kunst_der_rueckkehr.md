@@ -1,5 +1,6 @@
-
 # Sādhana — Die Kunst der immerwährenden Rückkehr
+
+Das Wort **Sādhana** (साधना) stammt aus dem altindischen Sanskrit und wurzelt im Verb *sādh* – „vollbringen, zur Vollendung bringen, verwirklichen“. In der lebendigen Tradition des Yoga und der inneren Wissenschaft ist Sādhana nicht bloß eine Praxis, sondern der Weg, auf dem das Herz immer wieder zurückkehrt – zu dem, was wesentlich, wirklich und längst schon ganz ist.
 
 Sādhana wird häufig missverstanden.
 

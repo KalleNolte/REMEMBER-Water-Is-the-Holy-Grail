@@ -15,7 +15,6 @@ Was sich verändert hat, ist nicht der Ort.
 Es ist die **Ebene der Kohärenz**, aus der du lebst.
 
 
-
 ## Von Raum zu Struktur
 
 Wenn Physiker wie Stephen Hawking von vielen Dimensionen sprachen, meinten sie keine fantastischen Parallelwelten. Sie suchten nach einer Sprache, um zu erklären, wie Wirklichkeit Komplexität tragen kann, ohne zu zerbrechen. Zehn, elf, siebenundzwanzig Dimensionen – das sind keine Reiseziele, sondern **Freiheitsgrade von Ordnung**.
@@ -35,7 +34,6 @@ Sie liegen nicht jenseits des Lebens.
 Sie wirken **im Leben selbst**.
 
 
-
 ## Der Torus – die Form, die mehr erklärt, als sie behauptet
 
 In Physik, Biologie und Kosmologie taucht immer wieder dieselbe Urform auf: der **Torus**.
@@ -53,7 +51,6 @@ Wo Ordnung frei zirkuliert, entsteht Leben. Wo Zirkulation stockt, beginnt Zerfa
 Das gilt für Sterne, für Wälder, für Gesellschaften – und für dich.
 
 
-
 ## Dimensionen als Zustände von Kohärenz
 
 Dimensionen sind keine gestapelten Welten, sondern **Zustände innerer Ordnung**.
@@ -66,7 +63,6 @@ Das Nervensystem kennt diesen Unterschied. Das Herz spürt ihn. Der Körper lebt
 Und hier taucht die eigentliche Frage auf:
 
 Was lässt Kohärenz im Menschen zirkulieren?
-
 
 
 ## Das übersehene Medium
@@ -88,7 +84,6 @@ Die Struktur ist da.
 Die Zirkulation fehlt.
 
 
-
 ## Wenn Dimensionen im Alltag spürbar werden
 
 Was manche Traditionen als „höhere Dimensionen“ bezeichnen, zeigt sich im Alltag als **höhere Grade innerer Organisation**.
@@ -105,6 +100,7 @@ Das verändert alles: Entwicklung heißt nicht, der Welt zu entkommen, sondern *
 
 
 dann ist Wasser kein Detail.
+
 
 ## Eine stille Schwelle
 
