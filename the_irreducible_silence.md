@@ -1,5 +1,7 @@
 # **The Irreducible Silence**
 
+Before we begin, let us remember the ground upon which all true inquiry stands: the irreducible silence at the heart of reality.
+
 Every genuine attempt to understand the whole eventually reaches a threshold it cannot cross.
 Not because intelligence fails, but because reality does not yield itself completely to description.
 

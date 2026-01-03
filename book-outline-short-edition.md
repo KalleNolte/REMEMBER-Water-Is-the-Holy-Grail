@@ -1,9 +1,17 @@
 # SHORT EDITION OUTLINE (ENGLISH)
 
+## An Initiatic Journey — Short Edition
+
+### Threshold
+* [Foreword](./foreword.md)
+* [The Irreducible Silence](./the_irreducible_silence.md)
+
+Welcome.
+This outline is more than a table of contents—it is a living map, consciously arranged to guide your journey of remembrance, coherence, and transformation. Each chapter is a step, each section a threshold. Let yourself be led, in your own rhythm, through the temple of water, memory, and awakening.
+
 This outline presents the **short, high-impact edition** of the book. It uses only a subset of the fully published chapters to create a complete but much shorter initiatic journey for readers with limited time.
 
 The path preserves the essential energetic arc:
-
 - Threshold & Seal →
 - Origin & Awakening →
 - Foundation in Water & Science (condensed) →
@@ -14,16 +22,12 @@ The path preserves the essential energetic arc:
 
 Each entry links to an existing chapter file.
 
-## An Initiatic Journey — Short Edition
-
-### Foreword
-* [Foreword](./foreword.md)
-
 ### 0. Seal & Intention – The Threshold of the Temple
 * [Prayer of Gratitude](./acknowledgements_prayer_of_gratitude.md)
 * [The Physics of Gratitude — The Art of Seeing Through the Heart](./the_physics_of_gratitude.md)
 * [Coherence – The Invisible Order that Connects Everything](./coherence_invisible_order_that_connects_everything.md)
 * [The Three Colors That Carry This Book](./the_three_colors_that_carry_this_book.md)
+* [The Transmission of Knowledge](./the_transmission_of_knowledge.md)
 * [The North Star Vow](./the_north_star_vow.md)
 * [Path of the Water-Bearer](./path_of_the_water_bearer.md)
 

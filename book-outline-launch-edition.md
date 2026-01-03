@@ -1,11 +1,15 @@
 # LAUNCH EDITION OUTLINE (ENGLISH)
 
-This outline presents the **launch edition** of the book—a carefully curated journey that sits between the short and the complete version. It preserves the full energetic arc, includes all essential transmissions, and adds select advanced chapters for depth, while remaining accessible and focused for new readers.
-
 ## An Initiatic Journey — Launch Edition
 
-### Foreword
+### Threshold
 * [Foreword](./foreword.md)
+* [The Irreducible Silence](./the_irreducible_silence.md)
+
+Welcome.
+This outline is more than a table of contents—it is a living map, consciously arranged to guide your journey of remembrance, coherence, and transformation. Each chapter is a step, each section a threshold. Let yourself be led, in your own rhythm, through the temple of water, memory, and awakening.
+
+This outline presents the **launch edition** of the book—a carefully curated journey that sits between the short and the complete version. It preserves the full energetic arc, includes all essential transmissions, and adds select advanced chapters for depth, while remaining accessible and focused for new readers.
 
 ### 0. Seal & Intention – The Threshold of the Temple
 * [Prayer of Gratitude](./acknowledgements_prayer_of_gratitude.md)
@@ -13,6 +17,7 @@ This outline presents the **launch edition** of the book—a carefully curated j
 * [The Seal of Return](./the_seal_of_return.md)
 * [Coherence – The Invisible Order that Connects Everything](./coherence_invisible_order_that_connects_everything.md)
 * [The Three Colors That Carry This Book](./the_three_colors_that_carry_this_book.md)
+* [The Transmission of Knowledge](./the_transmission_of_knowledge.md)
 * [The North Star Vow](./the_north_star_vow.md)
 * [Consciousness Anchoring Invitation](./consciousness_anchoring_invitation.md)
 * [Encoded Self](./encoded_self.md)

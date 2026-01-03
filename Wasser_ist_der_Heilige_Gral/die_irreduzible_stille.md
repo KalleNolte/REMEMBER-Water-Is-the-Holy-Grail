@@ -1,5 +1,7 @@
 # **Die irreduzible Stille**
 
+Bevor wir beginnen, erinnern wir uns an den Grund, auf dem jede echte Suche ruht: die irreduzible Stille im Herzen der Wirklichkeit.
+
 Jeder ernsthafte Versuch, das Ganze zu verstehen, gelangt früher oder später an eine Grenze.
 Nicht, weil das Denken versagt, sondern weil sich Wirklichkeit nicht vollständig in Begriffe auflösen lässt.
 

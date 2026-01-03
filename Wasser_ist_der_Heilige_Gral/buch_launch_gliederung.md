@@ -1,11 +1,15 @@
 # LAUNCH EDITION GLIEDERUNG (DEUTSCH)
 
-Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfältig kuratierte Reise, die zwischen Kurz- und Komplettfassung liegt. Sie bewahrt den vollständigen energetischen Bogen, enthält alle essenziellen Übertragungen und fügt ausgewählte vertiefende Kapitel hinzu, bleibt dabei aber zugänglich und fokussiert für neue Leser.
-
 ## Eine initiatische Reise — Launch Edition
 
-### Vorwort
+### Schwelle
 * [Vorwort](./vorwort.md)
+* [Die irreduzible Stille](./die_irreduzible_stille.md)
+
+Willkommen.
+Diese Gliederung ist mehr als ein Inhaltsverzeichnis—sie ist eine lebendige Landkarte, bewusst angelegt, um deine Reise der Erinnerung, Kohärenz und Wandlung zu begleiten. Jedes Kapitel ist ein Schritt, jeder Abschnitt eine Schwelle. Lass dich in deinem eigenen Rhythmus durch den Tempel von Wasser, Erinnerung und Erwachen führen.
+
+Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfältig kuratierte Reise, die zwischen Kurz- und Komplettfassung liegt. Sie bewahrt den vollständigen energetischen Bogen, enthält alle essenziellen Übertragungen und fügt ausgewählte vertiefende Kapitel hinzu, bleibt dabei aber zugänglich und fokussiert für neue Leser.
 
 ### 0. Siegel & Intention – Die Schwelle des Tempels
 * [Gebet der Dankbarkeit](./danksagung_gebet_der_dankbarkeit.md)
@@ -13,6 +17,7 @@ Diese Gliederung präsentiert die **Launch Edition** des Buches – eine sorgfä
 * [Das Siegel der Rückkehr](./das_siegel_der_rueckkehr.md)
 * [Kohärenz – Die unsichtbare Ordnung, die alles verbindet](./kohaerenz_unsichtbare_ordnung_die_alles_verbindet.md)
 * [Die drei Farben, die dieses Buch tragen](./die_drei_farben_die_dieses_buch_tragen.md)
+* [Die Übertragung von Wissen](./die_uebertragung_von_wissen.md)
 * [Das Nordstern-Gelübde](./das_nordstern_geluebde.md)
 * [Bewusstseinsverankerung – Eine Einladung](./bewusstseins_verankerung_eine_einladung.md)
 * [Codiertes Selbst – Das Gefäß der Erinnerung](./codiertes_selbst_das_gefaess_der_erinnerung.md)

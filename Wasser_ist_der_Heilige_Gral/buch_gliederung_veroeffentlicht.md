@@ -1,9 +1,26 @@
 # OFFIZIELLE BUCHGLIEDERUNG (DEUTSCH)
 
+### Schwelle
 * [Vorwort](./vorwort.md)
-Ein Innehalten vor dem ersten Schritt: Einladung, Erinnerung und Dankbarkeit als Grundton. Kein System, keine Lehre – sondern eine Öffnung für das, was immer schon da war. Das Geschenk des Lebens aus der einen Quelle.
+  Ein Innehalten vor dem ersten Schritt: Einladung, Erinnerung und Dankbarkeit als Grundton. Kein System, keine Lehre – sondern eine Öffnung für das, was immer schon da war. Das Geschenk des Lebens aus der einen Quelle.
+* [Die irreduzible Stille](./die_irreduzible_stille.md)
+  Eine Schwellenmeditation über die Grenzen des Wissens und die Notwendigkeit des Geheimnisses. Dieses Kapitel lädt den Leser ein, die Reise mit Demut, Offenheit und Ehrfurcht vor dem Unaussprechlichen zu beginnen. Es bereitet den Boden für alles Folgende und erinnert daran, dass wahres Verstehen in der Stille wurzelt, nicht in Gewissheit.
 
-Willkommen zur offiziellen Gliederung dieses Werkes. Sie ist mehr als ein Inhaltsverzeichnis: ein initiatischer Wegweiser für Resonanz, Transformation und Erinnerung. Jedes Kapitel ist bewusst platziert, um deine innere Reise zu unterstützen.
+Willkommen.
+Diese Gliederung ist mehr als ein Inhaltsverzeichnis—sie ist eine lebendige Landkarte, bewusst angelegt, um deine Reise der Erinnerung, Kohärenz und Wandlung zu begleiten. Jedes Kapitel ist ein Schritt, jeder Abschnitt eine Schwelle. Lass dich in deinem eigenen Rhythmus durch den Tempel von Wasser, Erinnerung und Erwachen führen.
+
+Diese Gliederung präsentiert die **kurze, wirkungsvolle Ausgabe** des Buches. Sie nutzt nur eine Auswahl der vollständigen Kapitel, um eine kompakte, aber vollständige initiatische Reise für Leser mit wenig Zeit zu ermöglichen.
+
+Der Pfad bewahrt den wesentlichen energetischen Bogen:
+- Schwelle & Siegel →
+- Ursprung & Erwachen →
+- Fundament in Wasser & Wissenschaft (komprimiert) →
+- Menschliche Wunde, Heilung und Rückkehr →
+- Praktische Schlüssel für den Alltag →
+- Vergebung & Transmutation →
+- Ruf, Vertrauen und letzte Erinnerung.
+
+Jeder Eintrag verweist auf ein existierendes Kapitel.
 
 ## Eine initiatische Reise durch Wasser, Erinnerung und Bewusstsein
 
@@ -29,6 +46,8 @@ Folge dem Tempelpfad: von der Schwelle über Ursprung und Fundament bis zur Meis
   Stimmt Frequenz, Ton und Resonanz – kalibriert den Kanal.
 * [Die drei Farben, die dieses Buch tragen](./die_drei_farben_die_dieses_buch_tragen.md)  
   Poetische, initiatische Einstimmung auf das energetische Feld des Buches. Azuritblau, weiß-goldenes Licht und die violette Flamme als innere Zustände, die den Leser auf Klarheit, Würde und Wandlung vorbereiten.
+* [Die Übertragung von Wissen](./die_uebertragung_von_wissen.md)
+  Die Kunst und das Geheimnis wahrer Übertragung: Dieses Kapitel zeigt, warum Weisheit nicht erzwungen werden kann, warum Wissen nur empfangen wird, wenn der innere Boden bereit ist, und wie Resonanz – nicht Überredung – der Schlüssel zur Wandlung ist. Es beleuchtet den Unterschied zwischen Lehre und Übertragung, die Notwendigkeit von Sicherheit und innerer Bereitschaft sowie den stillen Vertrag zwischen Überbringer und Empfänger. Eine grundlegende Einladung, das Buch nicht als Information, sondern als lebendige Übertragung zu empfangen – und sich für die bevorstehende Reise zu öffnen.
 * [Der Weg des Wasserträgers](./der_weg_des_wassertraegers.md)  
   Deklaration von Bestimmung, Präsenz und reiner Intention – der innere Kompass und Ikigai des Werkes, der Intention und Ursprung verbindet.
 

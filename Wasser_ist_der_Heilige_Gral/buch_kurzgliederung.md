@@ -1,17 +1,22 @@
 # KURZGLIEDERUNG (DEUTSCH)
 
-Diese Kurzgliederung bietet die essenzielle, hochwirksame Version des Buches. Sie führt durch alle entscheidenden Stationen der initiatischen Reise – von der Schwelle über Ursprung, Fundament, Heilung und praktische Meisterschaft bis zur finalen Erinnerung. Jede Station ist bewusst gewählt, um die energetische und thematische Ganzheit zu wahren.
-
 ## Eine initiatische Reise — Kurzfassung
 
-### Vorwort
+### Schwelle
 * [Vorwort](./vorwort.md)
+* [Die irreduzible Stille](./die_irreduzible_stille.md)
+
+Willkommen.
+Diese Gliederung ist mehr als ein Inhaltsverzeichnis—sie ist eine lebendige Landkarte, bewusst angelegt, um deine Reise der Erinnerung, Kohärenz und Wandlung zu begleiten. Jedes Kapitel ist ein Schritt, jeder Abschnitt eine Schwelle. Lass dich in deinem eigenen Rhythmus durch den Tempel von Wasser, Erinnerung und Erwachen führen.
+
+Diese Kurzgliederung bietet die essenzielle, hochwirksame Version des Buches. Sie führt durch alle entscheidenden Stationen der initiatischen Reise – von der Schwelle über Ursprung, Fundament, Heilung und praktische Meisterschaft bis zur finalen Erinnerung. Jede Station ist bewusst gewählt, um die energetische und thematische Ganzheit zu wahren.
 
 ### 0. Siegel & Intention – Die Schwelle des Tempels
 * [Gebet der Dankbarkeit](./danksagung_gebet_der_dankbarkeit.md)
 * [Die Physik der Dankbarkeit – Die Kunst, mit dem Herzen zu sehen](./die_physik_der_dankbarkeit.md)
 * [Kohärenz – Die unsichtbare Ordnung, die alles verbindet](./kohaerenz_unsichtbare_ordnung_die_alles_verbindet.md)
 * [Die drei Farben, die dieses Buch tragen](./die_drei_farben_die_dieses_buch_tragen.md)
+* [Die Übertragung von Wissen](./die_uebertragung_von_wissen.md)
 * [Das Nordstern-Gelübde](./das_nordstern_geluebde.md)
 * [Der Weg des Wasserträgers](./der_weg_des_wassertraegers.md)
 

@@ -1,9 +1,12 @@
 # OFFICIAL BOOK OUTLINE (ENGLISH)
 
 * [Foreword](./foreword.md)
-A pause before the first step: invitation, remembrance, and gratitude as the ground note. Not a system, not a doctrine—an opening to what has always been here. The inexhaustible gift of life flowing from the one Source.
+	A pause before the first step: invitation, remembrance, and gratitude as the ground note. Not a system, not a doctrine—an opening to what has always been here. The inexhaustible gift of life flowing from the one Source.
+* [The Irreducible Silence](./the_irreducible_silence.md)
+	A threshold meditation on the limits of knowledge and the necessity of mystery. This chapter invites the reader to begin the journey with humility, openness, and reverence for what cannot be reduced to words or concepts. It prepares the ground for all that follows, reminding us that true understanding is rooted in silence, not certainty.
 
-Welcome to the official outline of this work. More than a table of contents, it is an initiatic map for resonance, transformation, and remembrance. Each chapter is consciously placed to support your inner journey.
+Welcome.
+This outline is more than a table of contents—it is a living map, consciously arranged to guide your journey of remembrance, coherence, and transformation. Each chapter is a step, each section a threshold. Let yourself be led, in your own rhythm, through the temple of water, memory, and awakening.
 
 ## An Initiatic Journey through Water, Remembrance, and Consciousness
 
@@ -28,6 +31,8 @@ Follow the temple path: from the threshold, through origin and foundation, to ma
 	Attunes the book’s language and field for clarity, resonance, and gentle entry.
 * [The Three Colors That Carry This Book](./the_three_colors_that_carry_this_book.md)  
 	A poetic, initiatic calibration of the book’s energetic field, introducing Azurite Blue, White-Golden Light, and the Violet Flame as living frequencies. This chapter attunes the reader’s inner climate, setting the tone for clarity, dignity, and transformation before the journey begins.
+* [The Transmission of Knowledge](./the_transmission_of_knowledge.md)  
+	The art and mystery of true transmission: this chapter reveals why wisdom cannot be forced, why knowledge is received only when the inner ground is ready, and how resonance, not persuasion, is the key to transformation. It explores the difference between teaching and transmission, the necessity of safety and readiness, and the silent contract between messenger and receiver. A foundational invitation to receive the book not as information, but as living transmission—preparing the reader for the journey ahead.
 * [Path of the Water-Bearer](./path_of_the_water_bearer.md)  
 	Declaration of purpose, presence, and pure intention. The guiding compass and Ikigai for the work, bridging intention and origin.
 
